@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2072674733095620858",
+    "created_at": "2026-07-02T14:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T15:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072682000126001601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1894353617945059328",
+          "start": 0,
+          "username": "SDGVA23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072682000126001601",
+    "in_reply_to_user_id": "1894353617945059328",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072674733095620858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SDGVA23 OMG this pic is so sexy😭😭😭i need more characterstories of S plsssszzz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072674726619602944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOerq8XYAAU5Yt.jpg",
+        "width": 1643
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2072674733095620858",
+        "created_at": "2026-07-02T14:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072682000126001601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894353617945059328",
+              "start": 0,
+              "username": "SDGVA23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072682000126001601",
+        "in_reply_to_user_id": "1894353617945059328",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072674733095620858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SDGVA23 OMG this pic is so sexy😭😭😭i need more characterstories of S plsssszzz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072674726619602944"
+          ]
+        },
+        "author_id": "1894353617945059328",
+        "conversation_id": "2072674733095620858",
+        "created_at": "2026-07-02T13:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072674733095620858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jmyINVFwuN",
+              "end": 297,
+              "expanded_url": "https://x.com/SDGVA23/status/2072674733095620858/photo/1",
+              "media_key": "3_2072674726619602944",
+              "start": 274,
+              "url": "https://t.co/jmyINVFwuN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072674733095620858",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 816,
+                "start": 809,
+                "tag": "Vergil"
+              },
+              {
+                "end": 829,
+                "start": 817,
+                "tag": "DevilMayCry"
+              },
+              {
+                "end": 834,
+                "start": 830,
+                "tag": "DMC"
+              },
+              {
+                "end": 840,
+                "start": 835,
+                "tag": "NSFW"
+              }
+            ]
+          },
+          "text": "[The Paradise Regained]\n\nS: - Don’t look at my scars… They remind me of all those decades of suffering. All those lost years without you.\n\nVergil:\n- Do not be ashamed of them. Never.\nThose marks are the testament of the woman you have become: tempered by absence, forged in silence. The very woman I cherished even as a boy, when the world was still innocent and you were already my only light in the darkness.\n\nI wish to memorize every line, every ridge and shadow. I will trace them with my fingers like a cartographer charting sacred, forbidden lands: until I know them better than my own blade knows the taste of blood.\n\nYou are strong, S. Stronger than I ever was. Far stronger than this fool who once thought power could fill the void you left behind.​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​\n\n#Vergil #DevilMayCry #DMC #NSFW"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 78,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "[The Paradise Regained]\n\nS: - Don’t look at my scars… They remind me of all those decades of suffering. All those lost years without you.\n\nVergil:\n- Do not be ashamed of them. Never.\nThose marks are the testament of the woman you have become: tempered by absence, forged in https://t.co/jmyINVFwuN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 79,
+          "like_count": 4732,
+          "listed_count": 2,
+          "media_count": 293,
+          "tweet_count": 2425
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T11:48:16.000Z",
+        "description": "🕹️ Advocate of Vergil/Dragunov/M.Bison for 20+ years| I wrote a crossover (DMC x Tekken x SF)|My words cut like Yamato. Vergil x OC since 2005 (not a selfship)",
+        "id": "1894353617945059328",
+        "location": "Siberia, Shadaloo & DMC Agency",
+        "name": "DragunovArt 🫡 S.Dragunov player since 2006",
+        "pinned_tweet_id": "2055968278384619739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070026530260922368/KRBxlXyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 740,
+          "like_count": 80476,
+          "listed_count": 3,
+          "media_count": 3358,
+          "tweet_count": 15730
+        },
+        "url": "",
+        "username": "SDGVA23",
+        "verified": true
+      }
+    ]
+  }
+}

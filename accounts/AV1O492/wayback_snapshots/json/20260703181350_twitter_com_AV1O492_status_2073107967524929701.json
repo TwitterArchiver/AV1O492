@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2072711075183861903",
+    "created_at": "2026-07-03T18:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T19:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073107967524929701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2009773968891469824",
+          "start": 0,
+          "username": "420bbnnkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073107967524929701",
+    "in_reply_to_user_id": "2009773968891469824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073102184246595927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@420bbnnkk 咳…咳…Police！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 731,
+        "media_key": "3_2073102104357650432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUjYVFaQAA4l2s.png",
+        "width": 559
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2072711075183861903",
+        "created_at": "2026-07-03T18:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T19:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073107967524929701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2009773968891469824",
+              "start": 0,
+              "username": "420bbnnkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073107967524929701",
+        "in_reply_to_user_id": "2009773968891469824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073102184246595927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@420bbnnkk 咳…咳…Police！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073102104357650432"
+          ]
+        },
+        "author_id": "2009773968891469824",
+        "conversation_id": "2072711075183861903",
+        "created_at": "2026-07-03T17:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T18:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073102184246595927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9jX2jy0WQW",
+              "end": 41,
+              "expanded_url": "https://x.com/420bbnnkk/status/2073102184246595927/photo/1",
+              "media_key": "3_2073102104357650432",
+              "start": 18,
+              "url": "https://t.co/9jX2jy0WQW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073102184246595927",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072711075183861903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 我们抽100元的 https://t.co/9jX2jy0WQW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Temen-ni-gru Tower",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1357,
+          "following_count": 82,
+          "like_count": 4894,
+          "listed_count": 2,
+          "media_count": 300,
+          "tweet_count": 2491
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T23:47:23.000Z",
+        "description": "广州市吸毒局吸毒支队官方推特号，私信常开，接受投稿，不出售任何产品，谨防骗子，反诈安全宣传一刻不容停息，关注局长 防范骗局",
+        "id": "2009773968891469824",
+        "location": " Australia",
+        "name": "广州吸毒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023055132632702976/i-G8Lq9g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 51,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 126
+        },
+        "url": "",
+        "username": "420bbnnkk",
+        "verified": false
+      }
+    ]
+  }
+}

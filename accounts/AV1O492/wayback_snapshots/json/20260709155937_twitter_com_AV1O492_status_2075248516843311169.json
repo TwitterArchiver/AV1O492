@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075247748815921152"
+      ],
+      "media_source_tweet_id": [
+        "2075247757217210645"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2075248516843311169",
+    "created_at": "2026-07-09T15:59:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T16:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075248516843311169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2058988352054218752",
+          "start": 3,
+          "username": "Ta1z19"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ak2nf4imac",
+          "end": 66,
+          "expanded_url": "https://x.com/Ta1z19/status/2075247757217210645/photo/1",
+          "media_key": "3_2075247748815921152",
+          "start": 43,
+          "url": "https://t.co/ak2nf4imac"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075248516843311169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075247757217210645",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ta1z19: 呃呃呃啊啊健胃消食片+乳果糖+开塞露+山楂汁 四位一体开窜！ https://t.co/ak2nf4imac"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075247748815921152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzC1RkaIAAmHSn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075247748815921152"
+          ],
+          "media_source_tweet_id": [
+            "2075247757217210645"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2075248516843311169",
+        "created_at": "2026-07-09T15:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075248516843311169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2058988352054218752",
+              "start": 3,
+              "username": "Ta1z19"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ak2nf4imac",
+              "end": 66,
+              "expanded_url": "https://x.com/Ta1z19/status/2075247757217210645/photo/1",
+              "media_key": "3_2075247748815921152",
+              "start": 43,
+              "url": "https://t.co/ak2nf4imac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075248516843311169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075247757217210645",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ta1z19: 呃呃呃啊啊健胃消食片+乳果糖+开塞露+山楂汁 四位一体开窜！ https://t.co/ak2nf4imac"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075247748815921152"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "conversation_id": "2075247757217210645",
+        "created_at": "2026-07-09T15:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075247757217210645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ak2nf4imac",
+              "end": 54,
+              "expanded_url": "https://x.com/Ta1z19/status/2075247757217210645/photo/1",
+              "media_key": "3_2075247748815921152",
+              "start": 31,
+              "url": "https://t.co/ak2nf4imac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075247757217210645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "呃呃呃啊啊健胃消食片+乳果糖+开塞露+山楂汁 四位一体开窜！ https://t.co/ak2nf4imac"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 86,
+          "like_count": 5468,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 2769
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 双相 不涉政不吸毒喜欢会回fo 正常合理用药 叫我太子。药理学爱好者/化学爱好者/中西部情绪与华丽金属/我只存在於我 睡在清醒梦",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 70,
+          "like_count": 1800,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 858
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

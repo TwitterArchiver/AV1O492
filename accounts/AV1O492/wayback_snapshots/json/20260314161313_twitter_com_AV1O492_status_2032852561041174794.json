@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2032173036733137183",
+    "created_at": "2026-03-14T16:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T17:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032852561041174794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1590939682568736769",
+          "start": 0,
+          "username": "ColesPerson"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032852561041174794",
+    "in_reply_to_user_id": "1590939682568736769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032851903185564106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ColesPerson 闺蜜我想死你了我跟你说我被南方警🐵针对了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2032173036733137183",
+        "created_at": "2026-03-14T16:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T17:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032852561041174794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1590939682568736769",
+              "start": 0,
+              "username": "ColesPerson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032852561041174794",
+        "in_reply_to_user_id": "1590939682568736769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032851903185564106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ColesPerson 闺蜜我想死你了我跟你说我被南方警🐵针对了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590939682568736769",
+        "conversation_id": "2032173036733137183",
+        "created_at": "2026-03-14T16:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T17:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032851903185564106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032851903185564106",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032812438471778481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 啊啊啊啊啊啊啊，闺蜜好久不见你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032797382296166400/85J_f9jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 33,
+          "like_count": 1848,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 990
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T05:29:24.000Z",
+        "description": "🚪8964，用来给南方大山里的孩子买姨妈巾/姨父巾用",
+        "id": "1590939682568736769",
+        "location": "Manhattan, NY",
+        "name": "汉命贵0975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983668137922064384/aKdXx6yC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2185,
+          "following_count": 1400,
+          "like_count": 27732,
+          "listed_count": 5,
+          "media_count": 913,
+          "tweet_count": 10123
+        },
+        "username": "ColesPerson",
+        "verified": false
+      }
+    ]
+  }
+}

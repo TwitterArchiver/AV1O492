@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2078927211047137478",
+    "created_at": "2026-07-19T19:37:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T20:37:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078927211047137478"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《Turbo Lover》，由 Judas Priest 演唱，收录于《Turbo》专辑中，《Turbo Lover》下载，《Turbo Lover》在线试听，更多Turbo Lover相关歌曲推荐，尽在网易云音乐",
+          "display_url": "y.music.163.com/m/song?id=1869…",
+          "end": 37,
+          "expanded_url": "https://y.music.163.com/m/song?id=18697962&userid=3223459289&dlt=0846",
+          "images": [
+            {
+              "height": 1487,
+              "url": "https://pbs.twimg.com/news_img/2072376379249950720/3GvQkjFU?format=jpg&name=orig",
+              "width": 1500
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2072376379249950720/3GvQkjFU?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 14,
+          "status": 200,
+          "title": "Turbo Lover - Judas Priest - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?id=18697962&userid=3223459289&dlt=0846",
+          "url": "https://t.co/RzOykl2mzZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078927211047137478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妈的还是听这歌写产品带劲\n\nhttps://t.co/RzOykl2mzZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2078927211047137478",
+        "created_at": "2026-07-19T19:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T20:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078927211047137478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《Turbo Lover》，由 Judas Priest 演唱，收录于《Turbo》专辑中，《Turbo Lover》下载，《Turbo Lover》在线试听，更多Turbo Lover相关歌曲推荐，尽在网易云音乐",
+              "display_url": "y.music.163.com/m/song?id=1869…",
+              "end": 37,
+              "expanded_url": "https://y.music.163.com/m/song?id=18697962&userid=3223459289&dlt=0846",
+              "images": [
+                {
+                  "height": 1487,
+                  "url": "https://pbs.twimg.com/news_img/2072376379249950720/3GvQkjFU?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2072376379249950720/3GvQkjFU?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 14,
+              "status": 200,
+              "title": "Turbo Lover - Judas Priest - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=18697962&userid=3223459289&dlt=0846",
+              "url": "https://t.co/RzOykl2mzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078927211047137478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的还是听这歌写产品带劲\n\nhttps://t.co/RzOykl2mzZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2078916554520228324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 89,
+          "like_count": 5893,
+          "listed_count": 2,
+          "media_count": 357,
+          "tweet_count": 2966
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

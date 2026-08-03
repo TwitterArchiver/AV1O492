@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2033870216732737951",
+    "created_at": "2026-03-17T11:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T12:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033870216732737951"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LakeOftears082…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/LakeOftears0827/status/2032326323474219164",
+          "start": 6,
+          "url": "https://t.co/aaHo3n7ouB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033870216732737951",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032326323474219164",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "os她好美 https://t.co/aaHo3n7ouB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032326312808079360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDRGA4aa4AA_aB0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2033870216732737951",
+        "created_at": "2026-03-17T11:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T12:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033870216732737951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LakeOftears082…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/LakeOftears0827/status/2032326323474219164",
+              "start": 6,
+              "url": "https://t.co/aaHo3n7ouB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033870216732737951",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032326323474219164",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "os她好美 https://t.co/aaHo3n7ouB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032326312808079360"
+          ]
+        },
+        "author_id": "2032324656116727808",
+        "conversation_id": "2032326323474219164",
+        "created_at": "2026-03-13T05:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T06:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032326323474219164"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "天津"
+            },
+            {
+              "end": 126,
+              "start": 122,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 131,
+              "start": 127,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 136,
+              "start": 132,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "od"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "自残"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "清楚系"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "日系"
+            },
+            {
+              "end": 157,
+              "start": 154,
+              "tag": "母狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B76Q5qZtjq",
+              "end": 181,
+              "expanded_url": "https://x.com/LakeOftears0827/status/2032326323474219164/photo/1",
+              "media_key": "3_2032326312808079360",
+              "start": 158,
+              "url": "https://t.co/B76Q5qZtjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032326323474219164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2136,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Hii我是小熊猫 \nip天津\n188仅好友位\n220开放朋友圈+互动\n500🈷️电子女友平时可语音闲聊\n500解锁线下 接爸爸/妈妈活 过门咨询\n私信只回复口令 验证20\n一直陪着哥绝对不会对门哥冷冰冰\n不过门别私信 穷逼话还多的拉黑\n#天津 #门槛妹 #爸爸活 #妈妈活 #od #自残 #清楚系 #日系 #母狗 https://t.co/B76Q5qZtjq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032797382296166400/85J_f9jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 57,
+          "like_count": 2229,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 1118
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-13T05:17:10.000Z",
+        "description": "",
+        "id": "2032324656116727808",
+        "name": "LakeOftears",
+        "pinned_tweet_id": "2032326323474219164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032325558915497984/V8yqMXCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 6,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 11
+        },
+        "username": "LakeOftears0827",
+        "verified": false
+      }
+    ]
+  }
+}

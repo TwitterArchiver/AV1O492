@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2078932478199476629",
+    "created_at": "2026-07-19T20:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T21:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078947170443727010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1894583854952058885",
+          "start": 0,
+          "username": "ILYNicodiang3lo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078947170443727010",
+    "in_reply_to_user_id": "1894583854952058885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078941985642012753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ILYNicodiang3lo 我也爱那本书🩵🩵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2078932478199476629",
+        "created_at": "2026-07-19T20:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T21:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078947170443727010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1894583854952058885",
+              "start": 0,
+              "username": "ILYNicodiang3lo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078947170443727010",
+        "in_reply_to_user_id": "1894583854952058885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078941985642012753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ILYNicodiang3lo 我也爱那本书🩵🩵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894583854952058885",
+        "conversation_id": "2078932478199476629",
+        "created_at": "2026-07-19T20:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T21:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078941985642012753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078941985642012753",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078932478199476629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 This is how I imagine Jude from a little life (absolutely no hate I love that guy)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2078916554520228324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 89,
+          "like_count": 5931,
+          "listed_count": 2,
+          "media_count": 359,
+          "tweet_count": 2978
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T03:03:14.000Z",
+        "description": "I’m probably looking at things that are not good for me",
+        "id": "1894583854952058885",
+        "name": "Eddie Lovecraft",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078637516031188992/KAU2ptCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 42,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "ILYNicodiang3lo",
+        "verified": false
+      }
+    ]
+  }
+}

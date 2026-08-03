@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2074066697863242143",
+    "created_at": "2026-07-06T09:43:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T10:43:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074066697863242143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1750468126972559360",
+          "start": 3,
+          "username": "miyarah_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074066697863242143",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5235
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073807893497868441",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miyarah_: cuando estoy por mandar a todos a la mierda pero recuerdo que tengo un pedazo de pastel para comer en la nevera https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10100,
+        "height": 464,
+        "media_key": "7_2040595306639720448",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2040595306639720448/pu/img/ux9e_5B2f1EVvzd_.jpg",
+        "public_metrics": {
+          "view_count": 2191031
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040595306639720448/pu/vid/avc1/418x270/bI-CABH_brOr2um7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040595306639720448/pu/vid/avc1/720x464/Ac1ujQYFTjifViVX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2040595306639720448/pu/pl/TIzO5SNCV6oV95tJ.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2074066697863242143",
+        "created_at": "2026-07-06T09:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074066697863242143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1750468126972559360",
+              "start": 3,
+              "username": "miyarah_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074066697863242143",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5235
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073807893497868441",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miyarah_: cuando estoy por mandar a todos a la mierda pero recuerdo que tengo un pedazo de pastel para comer en la nevera https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2040595306639720448"
+          ],
+          "media_source_tweet_id": [
+            "2040595318043967744"
+          ]
+        },
+        "author_id": "1750468126972559360",
+        "conversation_id": "2073807893497868441",
+        "created_at": "2026-07-05T16:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073807893497868441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HOAQYcvhFv",
+              "end": 135,
+              "expanded_url": "https://x.com/panemcrise/status/2040595318043967744/video/1",
+              "media_key": "7_2040595306639720448",
+              "start": 112,
+              "url": "https://t.co/HOAQYcvhFv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073807893497868441",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2472,
+          "impression_count": 726351,
+          "like_count": 38100,
+          "quote_count": 205,
+          "reply_count": 58,
+          "retweet_count": 5235
+        },
+        "reply_settings": "everyone",
+        "text": "cuando estoy por mandar a todos a la mierda pero recuerdo que tengo un pedazo de pastel para comer en la nevera https://t.co/HOAQYcvhFv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Temen-ni-gru Tower",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 85,
+          "like_count": 5129,
+          "listed_count": 2,
+          "media_count": 321,
+          "tweet_count": 2622
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T10:41:08.000Z",
+        "description": "a ver pélame una mandarina",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "karl.♡",
+                "end": 23,
+                "expanded_url": "https://karl.xn--c6h",
+                "start": 0,
+                "url": "https://t.co/r6yCv7UhK4"
+              }
+            ]
+          }
+        },
+        "id": "1750468126972559360",
+        "location": "˚ ʚ 22:22 ɞ ˚",
+        "name": "miya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071964297232572417/RAHO9bc-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16273,
+          "following_count": 1952,
+          "like_count": 181600,
+          "listed_count": 141,
+          "media_count": 6006,
+          "tweet_count": 150056
+        },
+        "url": "https://t.co/r6yCv7UhK4",
+        "username": "miyarah_",
+        "verified": false
+      }
+    ]
+  }
+}

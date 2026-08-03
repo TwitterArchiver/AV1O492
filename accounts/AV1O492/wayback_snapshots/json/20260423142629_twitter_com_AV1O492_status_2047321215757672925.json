@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047321203938033664"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2047321215757672925",
+    "created_at": "2026-04-23T14:26:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:26:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047321215757672925"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8EzBfYAuts",
+          "end": 70,
+          "expanded_url": "https://x.com/AV1O492/status/2047321215757672925/photo/1",
+          "media_key": "3_2047321203938033664",
+          "start": 47,
+          "url": "https://t.co/8EzBfYAuts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047321215757672925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我以前吸了之后要么听歌画画要么就听歌做钻石画，我现在戒毒期间靠钻石画转移注意力缓解焦虑666 https://t.co/8EzBfYAuts"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047321203938033664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmLya3aAAAtghw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047321203938033664"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2047321215757672925",
+        "created_at": "2026-04-23T14:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047321215757672925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8EzBfYAuts",
+              "end": 70,
+              "expanded_url": "https://x.com/AV1O492/status/2047321215757672925/photo/1",
+              "media_key": "3_2047321203938033664",
+              "start": 47,
+              "url": "https://t.co/8EzBfYAuts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047321215757672925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以前吸了之后要么听歌画画要么就听歌做钻石画，我现在戒毒期间靠钻石画转移注意力缓解焦虑666 https://t.co/8EzBfYAuts"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047320949570277376/ns1syjsj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 69,
+          "like_count": 3639,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 1692
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2078726435318153329",
+    "created_at": "2026-07-19T06:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T07:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078726607435706861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1826046056141828096",
+          "start": 0,
+          "username": "RachelPort9321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078726607435706861",
+    "in_reply_to_user_id": "1826046056141828096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078726435318153329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RachelPort9321 好牛逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078726427705544705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkerCSbEAEokRP.jpg",
+        "width": 1430
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2078726435318153329",
+        "created_at": "2026-07-19T06:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078726607435706861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1826046056141828096",
+              "start": 0,
+              "username": "RachelPort9321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078726607435706861",
+        "in_reply_to_user_id": "1826046056141828096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078726435318153329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RachelPort9321 好牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078726427705544705"
+          ]
+        },
+        "author_id": "1826046056141828096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "2078726435318153329",
+        "created_at": "2026-07-19T06:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078726435318153329"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "identityV"
+            },
+            {
+              "end": 21,
+              "start": 11,
+              "tag": "waxartist"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "蝋人形師"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HvPeBzYnBs",
+              "end": 57,
+              "expanded_url": "https://x.com/RachelPort9321/status/2078726435318153329/photo/1",
+              "media_key": "3_2078726427705544705",
+              "start": 34,
+              "url": "https://t.co/HvPeBzYnBs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078726435318153329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#identityV #waxartist #蝋人形師⚠️蜡骨注意 https://t.co/HvPeBzYnBs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 89,
+          "like_count": 5833,
+          "listed_count": 2,
+          "media_count": 354,
+          "tweet_count": 2928
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T23:58:09.000Z",
+        "description": "虎牙直播间298142播擦边，趁热拿捏公交芊\n本人战绩:wbg爱丽杨磊，一哥凉哈皮梁威，拳击手头鱼教主黄志镕，逃脱大师487何添顺，gr小白脸年锦",
+        "id": "1826046056141828096",
+        "location": "whatever happen",
+        "name": "世一操赵沭同",
+        "pinned_tweet_id": "1918633179428311374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078392381964267520/NmkGBYcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 400,
+          "like_count": 11402,
+          "listed_count": 2,
+          "media_count": 325,
+          "tweet_count": 5004
+        },
+        "url": "",
+        "username": "RachelPort9321",
+        "verified": false
+      }
+    ]
+  }
+}

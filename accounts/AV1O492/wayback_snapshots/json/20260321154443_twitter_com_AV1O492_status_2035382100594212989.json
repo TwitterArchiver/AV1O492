@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2035029042567721006",
+    "created_at": "2026-03-21T15:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T16:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035382100594212989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1112677139604594689",
+          "start": 0,
+          "username": "THallelujahT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035382100594212989",
+    "in_reply_to_user_id": "1112677139604594689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035381079427969133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@THallelujahT 我上五年级了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2035029042567721006",
+        "created_at": "2026-03-21T15:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T16:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035382100594212989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1112677139604594689",
+              "start": 0,
+              "username": "THallelujahT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035382100594212989",
+        "in_reply_to_user_id": "1112677139604594689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035381079427969133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@THallelujahT 我上五年级了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1112677139604594689",
+        "conversation_id": "2035029042567721006",
+        "created_at": "2026-03-21T15:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T16:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035381079427969133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035381079427969133",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035029042567721006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 你又干啥了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035336208721788929/bY0oQLSI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 61,
+          "like_count": 2557,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 1223
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-01T11:24:37.000Z",
+        "description": "深海抗压探险家",
+        "id": "1112677139604594689",
+        "location": "Netherlands",
+        "name": "孙笑川298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033459641947181056/z9xbe7xB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 189,
+          "like_count": 1110,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 576
+        },
+        "username": "THallelujahT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078510114273890304",
+        "3_2078510128442335232"
+      ],
+      "media_source_tweet_id": [
+        "2078510166534750481",
+        "2078510166534750481"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2078721720526225902",
+    "created_at": "2026-07-19T06:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T07:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078721720526225902"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "DMC4"
+        },
+        {
+          "end": 27,
+          "start": 21,
+          "tag": "Dante"
+        },
+        {
+          "end": 33,
+          "start": 28,
+          "tag": "Nero"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2001763642862383104",
+          "start": 3,
+          "username": "IrnBru41_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1iIZHkWjDG",
+          "end": 57,
+          "expanded_url": "https://x.com/IrnBru41_/status/2078510166534750481/photo/1",
+          "media_key": "3_2078510114273890304",
+          "start": 34,
+          "url": "https://t.co/1iIZHkWjDG"
+        },
+        {
+          "display_url": "pic.x.com/1iIZHkWjDG",
+          "end": 57,
+          "expanded_url": "https://x.com/IrnBru41_/status/2078510166534750481/photo/1",
+          "media_key": "3_2078510128442335232",
+          "start": 34,
+          "url": "https://t.co/1iIZHkWjDG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078721720526225902",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078510166534750481",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @IrnBru41_: #DMC4\n#Dante\n#Nero https://t.co/1iIZHkWjDG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2078510114273890304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhZ779aEAAN_fG.jpg",
+        "width": 1897
+      },
+      {
+        "height": 2030,
+        "media_key": "3_2078510128442335232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhZ8wvbYAAC5ft.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078510114273890304",
+            "3_2078510128442335232"
+          ]
+        },
+        "author_id": "2001763642862383104",
+        "conversation_id": "2078510166534750481",
+        "created_at": "2026-07-18T16:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078510166534750481"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "DMC4"
+            },
+            {
+              "end": 12,
+              "start": 6,
+              "tag": "Dante"
+            },
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "Nero"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1iIZHkWjDG",
+              "end": 42,
+              "expanded_url": "https://x.com/IrnBru41_/status/2078510166534750481/photo/1",
+              "media_key": "3_2078510114273890304",
+              "start": 19,
+              "url": "https://t.co/1iIZHkWjDG"
+            },
+            {
+              "display_url": "pic.x.com/1iIZHkWjDG",
+              "end": 42,
+              "expanded_url": "https://x.com/IrnBru41_/status/2078510166534750481/photo/1",
+              "media_key": "3_2078510128442335232",
+              "start": 19,
+              "url": "https://t.co/1iIZHkWjDG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078510166534750481",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 503,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "following",
+        "text": "#DMC4\n#Dante\n#Nero https://t.co/1iIZHkWjDG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078510114273890304",
+            "3_2078510128442335232"
+          ],
+          "media_source_tweet_id": [
+            "2078510166534750481",
+            "2078510166534750481"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2078721720526225902",
+        "created_at": "2026-07-19T06:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078721720526225902"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "DMC4"
+            },
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "Dante"
+            },
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "Nero"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2001763642862383104",
+              "start": 3,
+              "username": "IrnBru41_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1iIZHkWjDG",
+              "end": 57,
+              "expanded_url": "https://x.com/IrnBru41_/status/2078510166534750481/photo/1",
+              "media_key": "3_2078510114273890304",
+              "start": 34,
+              "url": "https://t.co/1iIZHkWjDG"
+            },
+            {
+              "display_url": "pic.x.com/1iIZHkWjDG",
+              "end": 57,
+              "expanded_url": "https://x.com/IrnBru41_/status/2078510166534750481/photo/1",
+              "media_key": "3_2078510128442335232",
+              "start": 34,
+              "url": "https://t.co/1iIZHkWjDG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078721720526225902",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078510166534750481",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @IrnBru41_: #DMC4\n#Dante\n#Nero https://t.co/1iIZHkWjDG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 89,
+          "like_count": 5830,
+          "listed_count": 2,
+          "media_count": 354,
+          "tweet_count": 2925
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T21:17:29.000Z",
+        "description": "",
+        "id": "2001763642862383104",
+        "name": "IrnBru",
+        "pinned_tweet_id": "2010342832087965826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061015105975017472/LzaifTaQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 44,
+          "like_count": 25285,
+          "listed_count": 0,
+          "media_count": 2701,
+          "tweet_count": 9104
+        },
+        "url": "",
+        "username": "IrnBru41_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033140035990761472"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2033140037614006753",
+    "created_at": "2026-03-15T11:15:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T12:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033140037614006753"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N5SR7KCAdp",
+          "end": 32,
+          "expanded_url": "https://x.com/AV1O492/status/2033140037614006753/photo/1",
+          "media_key": "3_2033140035990761472",
+          "start": 9,
+          "url": "https://t.co/N5SR7KCAdp"
+        },
+        {
+          "display_url": "x.com/AxeButDumber/s…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/AxeButDumber/status/2032846927503454614",
+          "start": 33,
+          "url": "https://t.co/qzynwlugYq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033140037614006753",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032846927503454614",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "no way😭😭 https://t.co/N5SR7KCAdp https://t.co/qzynwlugYq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 430,
+        "media_key": "3_2033140035990761472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDcqFzfasAAA5IW.jpg",
+        "width": 446
+      },
+      {
+        "height": 829,
+        "media_key": "3_2032846923053543428",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYfgYtaMAQOAIo.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033140035990761472"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2033140037614006753",
+        "created_at": "2026-03-15T11:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T12:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033140037614006753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N5SR7KCAdp",
+              "end": 32,
+              "expanded_url": "https://x.com/AV1O492/status/2033140037614006753/photo/1",
+              "media_key": "3_2033140035990761472",
+              "start": 9,
+              "url": "https://t.co/N5SR7KCAdp"
+            },
+            {
+              "display_url": "x.com/AxeButDumber/s…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/AxeButDumber/status/2032846927503454614",
+              "start": 33,
+              "url": "https://t.co/qzynwlugYq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033140037614006753",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032846927503454614",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "no way😭😭 https://t.co/N5SR7KCAdp https://t.co/qzynwlugYq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032846923053543428"
+          ]
+        },
+        "author_id": "1745288071132704768",
+        "conversation_id": "2032846927503454614",
+        "created_at": "2026-03-14T15:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T16:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032846927503454614"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 68,
+              "normalized_text": "rayman",
+              "probability": 0.6075,
+              "start": 63,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mevqkwOyEX",
+              "end": 93,
+              "expanded_url": "https://x.com/AxeButDumber/status/2032846927503454614/photo/1",
+              "media_key": "3_2032846923053543428",
+              "start": 70,
+              "url": "https://t.co/mevqkwOyEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032846927503454614",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 491,
+          "impression_count": 101827,
+          "like_count": 8134,
+          "quote_count": 36,
+          "reply_count": 40,
+          "retweet_count": 428
+        },
+        "reply_settings": "everyone",
+        "text": "i just removed his jacket dude i'm crying why is he built like rayman https://t.co/mevqkwOyEX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032797382296166400/85J_f9jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 43,
+          "like_count": 1955,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1031
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-11T03:34:49.000Z",
+        "description": "i don’t have anything to put here | 🔞 bc posts might be suggestive",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dejectedaxe.straw.page",
+                "end": 23,
+                "expanded_url": "https://dejectedaxe.straw.page/",
+                "start": 0,
+                "url": "https://t.co/1HP6A0pyaN"
+              }
+            ]
+          }
+        },
+        "id": "1745288071132704768",
+        "location": "she/her | 18",
+        "name": "jill²",
+        "pinned_tweet_id": "2018411573929247067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026808093158383616/5j1BDedo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 313,
+          "like_count": 7165,
+          "listed_count": 3,
+          "media_count": 3001,
+          "tweet_count": 5689
+        },
+        "url": "https://t.co/1HP6A0pyaN",
+        "username": "AxeButDumber",
+        "verified": false
+      }
+    ]
+  }
+}

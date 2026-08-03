@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2068195276289122687",
+    "created_at": "2026-06-20T04:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T05:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068196815741284542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2014844239004442624",
+          "start": 0,
+          "username": "Lola_Scarlet_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068196815741284542",
+    "in_reply_to_user_id": "2014844239004442624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068196740159914467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lola_Scarlet_ 你可以把他俩摆成一个六七的样子吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2068195276289122687",
+        "created_at": "2026-06-20T04:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068196815741284542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014844239004442624",
+              "start": 0,
+              "username": "Lola_Scarlet_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068196815741284542",
+        "in_reply_to_user_id": "2014844239004442624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068196740159914467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lola_Scarlet_ 你可以把他俩摆成一个六七的样子吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014844239004442624",
+        "conversation_id": "2068195276289122687",
+        "created_at": "2026-06-20T04:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068196740159914467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068196740159914467",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068196405051801827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 67"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜皮下真名但丁斯巴达实名冲浪｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068158408487014400/3eqb45Ho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 71,
+          "like_count": 4184,
+          "listed_count": 2,
+          "media_count": 251,
+          "tweet_count": 2129
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T23:34:57.000Z",
+        "description": "",
+        "id": "2014844239004442624",
+        "name": "LU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067869797602504704/nZrDXg68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 15,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "Lola_Scarlet_",
+        "verified": false
+      }
+    ]
+  }
+}

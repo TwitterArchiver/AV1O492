@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2038197076631449600"
+      ],
+      "media_source_tweet_id": [
+        "2038199038806577445"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2038477707655401739",
+    "created_at": "2026-03-30T04:45:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T05:45:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038477707655401739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2021598940123258880",
+          "start": 3,
+          "username": "HOWANMAMA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DcPaa2cpaB",
+          "end": 48,
+          "expanded_url": "https://x.com/HOWANMAMA/status/2038199038806577445/video/1",
+          "media_key": "13_2038197076631449600",
+          "start": 25,
+          "url": "https://t.co/DcPaa2cpaB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038477707655401739",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038199038806577445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HOWANMAMA: 아 이거 개웃기네 https://t.co/DcPaa2cpaB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7823,
+        "height": 946,
+        "media_key": "13_2038197076631449600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038197076631449600/img/kxowtDzbpRd7K8-Z.jpg",
+        "public_metrics": {
+          "view_count": 411
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038197076631449600/vid/avc1/320x340/XZ6fDUG-zVo7QotQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038197076631449600/vid/avc1/480x510/C2dNqjZKEyoL0L5o.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038197076631449600/vid/avc1/720x766/iKeLL77wBHHWpR8C.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038197076631449600/pl/maaz5jNhPFJcP1pO.m3u8?tag=14"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038197076631449600"
+          ],
+          "media_source_tweet_id": [
+            "2038199038806577445"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2038477707655401739",
+        "created_at": "2026-03-30T04:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T05:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038477707655401739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2021598940123258880",
+              "start": 3,
+              "username": "HOWANMAMA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DcPaa2cpaB",
+              "end": 48,
+              "expanded_url": "https://x.com/HOWANMAMA/status/2038199038806577445/video/1",
+              "media_key": "13_2038197076631449600",
+              "start": 25,
+              "url": "https://t.co/DcPaa2cpaB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038477707655401739",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038199038806577445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HOWANMAMA: 아 이거 개웃기네 https://t.co/DcPaa2cpaB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038197076631449600"
+          ]
+        },
+        "author_id": "2021598940123258880",
+        "conversation_id": "2038199038806577445",
+        "created_at": "2026-03-29T10:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038199038806577445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DcPaa2cpaB",
+              "end": 33,
+              "expanded_url": "https://x.com/HOWANMAMA/status/2038199038806577445/video/1",
+              "media_key": "13_2038197076631449600",
+              "start": 10,
+              "url": "https://t.co/DcPaa2cpaB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038199038806577445",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1449,
+          "like_count": 51,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "아 이거 개웃기네 https://t.co/DcPaa2cpaB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别把我认成女的 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037442931037032448/I19VSiwU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 71,
+          "like_count": 3475,
+          "listed_count": 2,
+          "media_count": 158,
+          "tweet_count": 1593
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T14:56:08.000Z",
+        "description": "💿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/HOWANMAMA",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/HOWANMAMA",
+                "start": 0,
+                "url": "https://t.co/YD3HEywr3w"
+              }
+            ]
+          }
+        },
+        "id": "2021598940123258880",
+        "location": "GnR+",
+        "name": "은",
+        "pinned_tweet_id": "2035245719024804207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021915491548508164/Nu0r6_Z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 43,
+          "like_count": 1733,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 311
+        },
+        "url": "https://t.co/YD3HEywr3w",
+        "username": "HOWANMAMA",
+        "verified": false
+      }
+    ]
+  }
+}

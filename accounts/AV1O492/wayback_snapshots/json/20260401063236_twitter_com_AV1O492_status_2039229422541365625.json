@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2039219860421689639",
+    "created_at": "2026-04-01T06:32:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T07:32:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039229422541365625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1876347716756025344",
+          "start": 0,
+          "username": "meikadeer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039229422541365625",
+    "in_reply_to_user_id": "1876347716756025344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039227445317145048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meikadeer 没有没有，我觉得其实不爽，我吃的这个致幻效果特别牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2039219860421689639",
+        "created_at": "2026-04-01T06:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039229422541365625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1876347716756025344",
+              "start": 0,
+              "username": "meikadeer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039229422541365625",
+        "in_reply_to_user_id": "1876347716756025344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039227445317145048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meikadeer 没有没有，我觉得其实不爽，我吃的这个致幻效果特别牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876347716756025344",
+        "conversation_id": "2039219860421689639",
+        "created_at": "2026-04-01T06:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039227445317145048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039227445317145048",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039219860421689639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 这么爽吗我想买来虐待自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别把我认成女的 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038698420756729857/Mtx3ZDGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 72,
+          "like_count": 3608,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 1664
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-06T19:19:08.000Z",
+        "description": "这不是艺术，这是表演性昏迷\n🚪82 52",
+        "id": "1876347716756025344",
+        "location": "Los Angeles, CA",
+        "name": "8+2+8 II",
+        "pinned_tweet_id": "2034895256077180945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024804262396719105/sRLW6ldN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 118,
+          "like_count": 658,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 480
+        },
+        "username": "meikadeer",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "1930356387441455347",
+    "created_at": "2025-06-04T20:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T21:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930357003270140037"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1930357003270140037",
+    "in_reply_to_user_id": "1917890381104271361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930356387441455347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一米八九的特大号傻逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 696,
+        "media_key": "3_1930356385029783553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsoA55ubgAE2gLt.jpg",
+        "width": 746
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "1930356387441455347",
+        "created_at": "2025-06-04T20:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T21:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930357003270140037"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1930357003270140037",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930356387441455347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一米八九的特大号傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930356385029783553"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "1930356387441455347",
+        "created_at": "2025-06-04T20:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T21:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930356387441455347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/11vdenLrme",
+              "end": 34,
+              "expanded_url": "https://x.com/AV1O492/status/1930356387441455347/photo/1",
+              "media_key": "3_1930356385029783553",
+              "start": 11,
+              "url": "https://t.co/11vdenLrme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930356387441455347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恐怖美国异性恋（男） https://t.co/11vdenLrme"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "恐怖暗黑血仆少羽奶龙国潮来袭神秘功夫需要加强哈基米哈基米哈基米胖宝宝乖狗狗屠孝子TV之提琴大人我来给您踩踩背啦点击输入文本金翼先知白兑换码我的天哪镜大人屠夫版本人类需要加强全网最尊重美国人英国人加拿大人墨西哥人阿根廷人中国人挪威人瑞典人德国人俄罗斯人日本人波兰人意大利人活死人女巫真神棍假神婆及狼人鳄鱼人吸血鬼的推特账户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "苦痛之屋    he/them",
+        "name": "𝖍𝖊𝖆𝖑 𝖒𝖞 𝖕𝖘𝖞𝖈𝖍𝖔 𝖑𝖔𝖛𝖊☠✯粪海狂蛆✯",
+        "pinned_tweet_id": "1929763139173912817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929086113408544768/2_CrG0ys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 14,
+          "like_count": 346,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 237
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

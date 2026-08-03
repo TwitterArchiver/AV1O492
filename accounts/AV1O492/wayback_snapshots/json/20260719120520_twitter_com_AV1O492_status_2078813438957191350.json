@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2078813438957191350",
+    "created_at": "2026-07-19T12:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078813438957191350"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SPACERADIO_626…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/SPACERADIO_626/status/2078812626004717956",
+          "start": 66,
+          "url": "https://t.co/vbZbtEenjX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078813438957191350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078812626004717956",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "md我想起来送要我前对象Jellycat但是我这儿没有门店，我就转过去几百让她自己买结果那母的第一句话是你这种人居然送得起我真的， https://t.co/vbZbtEenjX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2078813438957191350",
+        "created_at": "2026-07-19T12:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078813438957191350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SPACERADIO_626…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/SPACERADIO_626/status/2078812626004717956",
+              "start": 66,
+              "url": "https://t.co/vbZbtEenjX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078813438957191350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078812626004717956",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "md我想起来送要我前对象Jellycat但是我这儿没有门店，我就转过去几百让她自己买结果那母的第一句话是你这种人居然送得起我真的， https://t.co/vbZbtEenjX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1054755477542756352",
+        "conversation_id": "2078812626004717956",
+        "created_at": "2026-07-19T12:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078812626004717956"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078812626004717956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想起来了这个畜生拿了我240买的jellycat然后说我都没给她送过生日礼物，保持怒火"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 89,
+          "like_count": 5862,
+          "listed_count": 2,
+          "media_count": 355,
+          "tweet_count": 2947
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-23T15:24:37.000Z",
+        "description": "☏-Shit posting | SEN KOK/森 | FicroAce/she/her/fil/fim/AuDHD drugtwt\n \n💿I'm the collapsing star of death, the pulse echo of the cosmic.",
+        "id": "1054755477542756352",
+        "location": "Space",
+        "name": "Space Badboy",
+        "pinned_tweet_id": "1998815878041973136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057596517041815552/fGsFL77j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 479,
+          "like_count": 6561,
+          "listed_count": 0,
+          "media_count": 801,
+          "tweet_count": 5611
+        },
+        "url": "",
+        "username": "SPACERADIO_626",
+        "verified": false
+      }
+    ]
+  }
+}

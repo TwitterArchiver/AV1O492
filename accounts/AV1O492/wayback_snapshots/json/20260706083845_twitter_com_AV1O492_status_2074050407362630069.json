@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1459623791269580803",
+        "3_1459623791269609472",
+        "3_1459623791269531650"
+      ],
+      "media_source_tweet_id": [
+        "1459623798957690881",
+        "1459623798957690881",
+        "1459623798957690881"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2074050407362630069",
+    "created_at": "2026-07-06T08:38:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:38:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074050407362630069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "748549217476448257",
+          "start": 3,
+          "username": "U2DAZE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QoZ4Auxei4",
+          "end": 38,
+          "expanded_url": "https://x.com/U2DAZE/status/1459623798957690881/photo/1",
+          "media_key": "3_1459623791269580803",
+          "start": 15,
+          "url": "https://t.co/QoZ4Auxei4"
+        },
+        {
+          "display_url": "pic.x.com/QoZ4Auxei4",
+          "end": 38,
+          "expanded_url": "https://x.com/U2DAZE/status/1459623798957690881/photo/1",
+          "media_key": "3_1459623791269609472",
+          "start": 15,
+          "url": "https://t.co/QoZ4Auxei4"
+        },
+        {
+          "display_url": "pic.x.com/QoZ4Auxei4",
+          "end": 38,
+          "expanded_url": "https://x.com/U2DAZE/status/1459623798957690881/photo/1",
+          "media_key": "3_1459623791269531650",
+          "start": 15,
+          "url": "https://t.co/QoZ4Auxei4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074050407362630069",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 250
+    },
+    "referenced_tweets": [
+      {
+        "id": "1459623798957690881",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @U2DAZE: 眠了 https://t.co/QoZ4Auxei4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1459623791269580803",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FEGgGtBVEAMCzsf.jpg",
+        "width": 854
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1459623791269609472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FEGgGtBVgAArYC_.jpg",
+        "width": 1414
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1459623791269531650",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FEGgGtBUUAI4UTP.jpg",
+        "width": 1250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1459623791269580803",
+            "3_1459623791269609472",
+            "3_1459623791269531650"
+          ],
+          "media_source_tweet_id": [
+            "1459623798957690881",
+            "1459623798957690881",
+            "1459623798957690881"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2074050407362630069",
+        "created_at": "2026-07-06T08:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074050407362630069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "748549217476448257",
+              "start": 3,
+              "username": "U2DAZE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QoZ4Auxei4",
+              "end": 38,
+              "expanded_url": "https://x.com/U2DAZE/status/1459623798957690881/photo/1",
+              "media_key": "3_1459623791269580803",
+              "start": 15,
+              "url": "https://t.co/QoZ4Auxei4"
+            },
+            {
+              "display_url": "pic.x.com/QoZ4Auxei4",
+              "end": 38,
+              "expanded_url": "https://x.com/U2DAZE/status/1459623798957690881/photo/1",
+              "media_key": "3_1459623791269609472",
+              "start": 15,
+              "url": "https://t.co/QoZ4Auxei4"
+            },
+            {
+              "display_url": "pic.x.com/QoZ4Auxei4",
+              "end": 38,
+              "expanded_url": "https://x.com/U2DAZE/status/1459623798957690881/photo/1",
+              "media_key": "3_1459623791269531650",
+              "start": 15,
+              "url": "https://t.co/QoZ4Auxei4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074050407362630069",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 250
+        },
+        "referenced_tweets": [
+          {
+            "id": "1459623798957690881",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @U2DAZE: 眠了 https://t.co/QoZ4Auxei4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1459623791269580803",
+            "3_1459623791269609472",
+            "3_1459623791269531650"
+          ]
+        },
+        "author_id": "748549217476448257",
+        "conversation_id": "1459623798957690881",
+        "created_at": "2021-11-13T20:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2021-11-13T21:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1459623798957690881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QoZ4Auxei4",
+              "end": 26,
+              "expanded_url": "https://x.com/U2DAZE/status/1459623798957690881/photo/1",
+              "media_key": "3_1459623791269580803",
+              "start": 3,
+              "url": "https://t.co/QoZ4Auxei4"
+            },
+            {
+              "display_url": "pic.x.com/QoZ4Auxei4",
+              "end": 26,
+              "expanded_url": "https://x.com/U2DAZE/status/1459623798957690881/photo/1",
+              "media_key": "3_1459623791269609472",
+              "start": 3,
+              "url": "https://t.co/QoZ4Auxei4"
+            },
+            {
+              "display_url": "pic.x.com/QoZ4Auxei4",
+              "end": 26,
+              "expanded_url": "https://x.com/U2DAZE/status/1459623798957690881/photo/1",
+              "media_key": "3_1459623791269531650",
+              "start": 3,
+              "url": "https://t.co/QoZ4Auxei4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1459623798957690881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 0,
+          "like_count": 786,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 250
+        },
+        "reply_settings": "everyone",
+        "text": "眠了 https://t.co/QoZ4Auxei4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Temen-ni-gru Tower",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 85,
+          "like_count": 5119,
+          "listed_count": 2,
+          "media_count": 320,
+          "tweet_count": 2617
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-30T16:10:15.000Z",
+        "description": "中文|English|😇I ship whatever I like |DO NOT REPOST MY ART WITHOUT MY PERMISSION | 🔞👉@nobodyknowsuu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "nobodyknowsuu"
+              }
+            ]
+          }
+        },
+        "id": "748549217476448257",
+        "location": "Jungle",
+        "name": "u2",
+        "pinned_tweet_id": "1663372734062288896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1625544863185014789/KN-FRDar_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2791,
+          "following_count": 146,
+          "like_count": 617,
+          "listed_count": 11,
+          "media_count": 257,
+          "tweet_count": 517
+        },
+        "url": "",
+        "username": "U2DAZE",
+        "verified": false
+      }
+    ]
+  }
+}

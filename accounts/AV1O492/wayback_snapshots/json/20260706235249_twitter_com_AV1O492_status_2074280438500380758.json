@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074116355713024000"
+      ],
+      "media_source_tweet_id": [
+        "2074116375073964237"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2074280438500380758",
+    "created_at": "2026-07-06T23:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T00:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074280438500380758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2040300783678410752",
+          "start": 3,
+          "username": "TheFirstKidz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kRaxA0ATK5",
+          "end": 55,
+          "expanded_url": "https://x.com/TheFirstKidz/status/2074116375073964237/photo/1",
+          "media_key": "3_2074116355713024000",
+          "start": 32,
+          "url": "https://t.co/kRaxA0ATK5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074280438500380758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074116375073964237",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheFirstKidz: 我是Jonas，这是我新号 https://t.co/kRaxA0ATK5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2074116355713024000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMi91h0aQAA98NV.jpg",
+        "width": 657
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074116355713024000"
+          ],
+          "media_source_tweet_id": [
+            "2074116375073964237"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2074280438500380758",
+        "created_at": "2026-07-06T23:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T00:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074280438500380758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2040300783678410752",
+              "start": 3,
+              "username": "TheFirstKidz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kRaxA0ATK5",
+              "end": 55,
+              "expanded_url": "https://x.com/TheFirstKidz/status/2074116375073964237/photo/1",
+              "media_key": "3_2074116355713024000",
+              "start": 32,
+              "url": "https://t.co/kRaxA0ATK5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074280438500380758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074116375073964237",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheFirstKidz: 我是Jonas，这是我新号 https://t.co/kRaxA0ATK5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074116355713024000"
+          ]
+        },
+        "author_id": "2040300783678410752",
+        "conversation_id": "2074116375073964237",
+        "created_at": "2026-07-06T13:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074116375073964237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kRaxA0ATK5",
+              "end": 37,
+              "expanded_url": "https://x.com/TheFirstKidz/status/2074116375073964237/photo/1",
+              "media_key": "3_2074116355713024000",
+              "start": 14,
+              "url": "https://t.co/kRaxA0ATK5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074116375073964237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1405,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我是Jonas，这是我新号 https://t.co/kRaxA0ATK5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Temen-ni-gru Tower",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379,
+          "following_count": 85,
+          "like_count": 5186,
+          "listed_count": 2,
+          "media_count": 324,
+          "tweet_count": 2647
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T05:30:49.000Z",
+        "description": "前世@keaiiea\n🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "keaiiea"
+              }
+            ]
+          }
+        },
+        "id": "2040300783678410752",
+        "location": "千葉 浦安市",
+        "name": "Jonas三世",
+        "pinned_tweet_id": "2074128196937863225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074116186527404032/KdlCGOlC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 112,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "TheFirstKidz",
+        "verified": false
+      }
+    ]
+  }
+}

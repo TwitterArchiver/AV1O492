@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2039225518718091532",
+    "created_at": "2026-04-01T06:17:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T07:17:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039225518718091532"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maipianaini093…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/maipianaini0930/status/2039225053313986674",
+          "start": 4,
+          "url": "https://t.co/ZdX5cNFOB4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039225518718091532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039225053313986674",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我好帅 https://t.co/ZdX5cNFOB4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 130,
+        "media_key": "3_2039225048087834624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzIYIBasAAJWgC.jpg",
+        "width": 170
+      },
+      {
+        "height": 160,
+        "media_key": "3_2039225048104652800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzIYIFbUAAwFEE.jpg",
+        "width": 122
+      },
+      {
+        "height": 263,
+        "media_key": "3_2039225048092082176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzIYICbgAAOEbs.jpg",
+        "width": 245
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2039225518718091532",
+        "created_at": "2026-04-01T06:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039225518718091532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maipianaini093…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/maipianaini0930/status/2039225053313986674",
+              "start": 4,
+              "url": "https://t.co/ZdX5cNFOB4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039225518718091532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039225053313986674",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我好帅 https://t.co/ZdX5cNFOB4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039225048087834624",
+            "3_2039225048104652800",
+            "3_2039225048092082176"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2039225053313986674",
+        "created_at": "2026-04-01T06:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039225053313986674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/decKtCaN5r",
+              "end": 23,
+              "expanded_url": "https://x.com/maipianaini0930/status/2039225053313986674/photo/1",
+              "media_key": "3_2039225048087834624",
+              "start": 0,
+              "url": "https://t.co/decKtCaN5r"
+            },
+            {
+              "display_url": "pic.x.com/decKtCaN5r",
+              "end": 23,
+              "expanded_url": "https://x.com/maipianaini0930/status/2039225053313986674/photo/1",
+              "media_key": "3_2039225048104652800",
+              "start": 0,
+              "url": "https://t.co/decKtCaN5r"
+            },
+            {
+              "display_url": "pic.x.com/decKtCaN5r",
+              "end": 23,
+              "expanded_url": "https://x.com/maipianaini0930/status/2039225053313986674/photo/1",
+              "media_key": "3_2039225048092082176",
+              "start": 0,
+              "url": "https://t.co/decKtCaN5r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039225053313986674",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/decKtCaN5r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别把我认成女的 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038698420756729857/Mtx3ZDGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 72,
+          "like_count": 3615,
+          "listed_count": 2,
+          "media_count": 169,
+          "tweet_count": 1660
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 241,
+          "like_count": 7213,
+          "listed_count": 0,
+          "media_count": 456,
+          "tweet_count": 2757
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,761 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067624399008927744"
+      ],
+      "media_source_tweet_id": [
+        "2067624425927930039"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Guns N' Roses",
+          "id": "884819864237383680",
+          "name": "Guns N' Roses"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Guns N' Roses",
+          "id": "884819864237383680",
+          "name": "Guns N' Roses"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Guns N' Roses",
+          "id": "884819864237383680",
+          "name": "Guns N' Roses"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291812963314098176",
+          "name": "Hard rock"
+        }
+      }
+    ],
+    "conversation_id": "2067694294509711445",
+    "created_at": "2026-06-18T19:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T20:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067694294509711445"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 40,
+          "tag": "art"
+        },
+        {
+          "end": 56,
+          "start": 45,
+          "tag": "gunsnroses"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2063529673460707328",
+          "start": 3,
+          "username": "Adunavxhm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MD0rM4jXU1",
+          "end": 80,
+          "expanded_url": "https://x.com/Adunavxhm/status/2067624425927930039/photo/1",
+          "media_key": "3_2067624399008927744",
+          "start": 57,
+          "url": "https://t.co/MD0rM4jXU1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067694294509711445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067624425927930039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Adunavxhm: 组一辈子乐队吗？\n（still old art）\n#art #gunsnroses https://t.co/MD0rM4jXU1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1483,
+        "media_key": "3_2067624399008927744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGtb6fbkAA2g3w.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067624399008927744"
+          ],
+          "media_source_tweet_id": [
+            "2067624425927930039"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Guns N' Roses",
+              "id": "884819864237383680",
+              "name": "Guns N' Roses"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Guns N' Roses",
+              "id": "884819864237383680",
+              "name": "Guns N' Roses"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Guns N' Roses",
+              "id": "884819864237383680",
+              "name": "Guns N' Roses"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291812963314098176",
+              "name": "Hard rock"
+            }
+          }
+        ],
+        "conversation_id": "2067694294509711445",
+        "created_at": "2026-06-18T19:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T20:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067694294509711445"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "art"
+            },
+            {
+              "end": 56,
+              "start": 45,
+              "tag": "gunsnroses"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063529673460707328",
+              "start": 3,
+              "username": "Adunavxhm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MD0rM4jXU1",
+              "end": 80,
+              "expanded_url": "https://x.com/Adunavxhm/status/2067624425927930039/photo/1",
+              "media_key": "3_2067624399008927744",
+              "start": 57,
+              "url": "https://t.co/MD0rM4jXU1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067694294509711445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067624425927930039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Adunavxhm: 组一辈子乐队吗？\n（still old art）\n#art #gunsnroses https://t.co/MD0rM4jXU1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067624399008927744"
+          ]
+        },
+        "author_id": "2063529673460707328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Guns N' Roses",
+              "id": "884819864237383680",
+              "name": "Guns N' Roses"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Guns N' Roses",
+              "id": "884819864237383680",
+              "name": "Guns N' Roses"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Guns N' Roses",
+              "id": "884819864237383680",
+              "name": "Guns N' Roses"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291812963314098176",
+              "name": "Hard rock"
+            }
+          }
+        ],
+        "conversation_id": "2067624425927930039",
+        "created_at": "2026-06-18T15:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067624425927930039"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "art"
+            },
+            {
+              "end": 41,
+              "start": 30,
+              "tag": "gunsnroses"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MD0rM4jXU1",
+              "end": 65,
+              "expanded_url": "https://x.com/Adunavxhm/status/2067624425927930039/photo/1",
+              "media_key": "3_2067624399008927744",
+              "start": 42,
+              "url": "https://t.co/MD0rM4jXU1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067624425927930039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 422,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "组一辈子乐队吗？\n（still old art）\n#art #gunsnroses https://t.co/MD0rM4jXU1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067678186683715584/4RbnZMYe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 69,
+          "like_count": 4108,
+          "listed_count": 2,
+          "media_count": 246,
+          "tweet_count": 2054
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-07T07:57:41.000Z",
+        "description": "？？=Two Qs｜中文｜Lack confidence in foreign languages, using translators.｜oc×Izzy ｜Izzy alt self ship ☺️",
+        "id": "2063529673460707328",
+        "name": "？？",
+        "pinned_tweet_id": "2065901711190065628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063685191483457536/ng45OWl0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 32,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "Adunavxhm",
+        "verified": false
+      }
+    ]
+  }
+}

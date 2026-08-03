@@ -1,0 +1,675 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2072263745351364608",
+        "3_2072263615172804608",
+        "3_2072263744009240578"
+      ],
+      "media_source_tweet_id": [
+        "2072264055767666729",
+        "2072264055767666729",
+        "2072264055767666729"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "The reign of House Targaryen begins with this prequel to popular HBO series \"Game of Thrones.\" Based on George R.R. Martin's \"Fire & Blood,\" \"House of the Dragon\" is set nearly 200 years before the events of \"Game of Thrones,\" telling the story of the Targaryen civil war with King Viserys I Targaryen's children battling for control of the Iron Throne.",
+          "id": "1445480650719461376",
+          "name": "House of the Dragon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sci-fi and fantasy",
+          "id": "847869772129685504",
+          "name": "Sci-fi & fantasy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1283481070956998656",
+          "name": "Sci-fi & fantasy TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1511331896805928962",
+          "name": "House of the Dragon"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1511331896805928962",
+          "name": "House of the Dragon"
+        }
+      }
+    ],
+    "conversation_id": "2072449593590304949",
+    "created_at": "2026-07-01T22:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T23:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072449593590304949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1920162072585003008",
+          "start": 3,
+          "username": "APOM_CN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YjrdIDQ4z6",
+          "end": 63,
+          "expanded_url": "https://x.com/APOM_CN/status/2072264055767666729/video/1",
+          "media_key": "13_2072263745351364608",
+          "start": 40,
+          "url": "https://t.co/YjrdIDQ4z6"
+        },
+        {
+          "display_url": "pic.x.com/YjrdIDQ4z6",
+          "end": 63,
+          "expanded_url": "https://x.com/APOM_CN/status/2072264055767666729/video/1",
+          "media_key": "3_2072263615172804608",
+          "start": 40,
+          "url": "https://t.co/YjrdIDQ4z6"
+        },
+        {
+          "display_url": "pic.x.com/YjrdIDQ4z6",
+          "end": 63,
+          "expanded_url": "https://x.com/APOM_CN/status/2072264055767666729/video/1",
+          "media_key": "3_2072263744009240578",
+          "start": 40,
+          "url": "https://t.co/YjrdIDQ4z6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072449593590304949",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072264055767666729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @APOM_CN: POV: you’re the Red Queen. https://t.co/YjrdIDQ4z6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10147,
+        "height": 1280,
+        "media_key": "13_2072263745351364608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072263745351364608/img/QwVBTDDOWibvZ0T7.jpg",
+        "public_metrics": {
+          "view_count": 597
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072263745351364608/vid/avc1/320x568/qtT8lsbQt57eHYHZ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072263745351364608/vid/avc1/480x852/09pbZcM3_fIkvzGy.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072263745351364608/vid/avc1/720x1280/BbiIvD7dGfrzRmkM.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072263745351364608/pl/qgzQYzrJgVFIDsXd.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2280,
+        "media_key": "3_2072263615172804608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIox1dXgAAZmUG.jpg",
+        "width": 2280
+      },
+      {
+        "height": 900,
+        "media_key": "3_2072263744009240578",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIo5VaXgAIh89c.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072263745351364608",
+            "3_2072263615172804608",
+            "3_2072263744009240578"
+          ],
+          "media_source_tweet_id": [
+            "2072264055767666729",
+            "2072264055767666729",
+            "2072264055767666729"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "The reign of House Targaryen begins with this prequel to popular HBO series \"Game of Thrones.\" Based on George R.R. Martin's \"Fire & Blood,\" \"House of the Dragon\" is set nearly 200 years before the events of \"Game of Thrones,\" telling the story of the Targaryen civil war with King Viserys I Targaryen's children battling for control of the Iron Throne.",
+              "id": "1445480650719461376",
+              "name": "House of the Dragon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sci-fi and fantasy",
+              "id": "847869772129685504",
+              "name": "Sci-fi & fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283481070956998656",
+              "name": "Sci-fi & fantasy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1511331896805928962",
+              "name": "House of the Dragon"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1511331896805928962",
+              "name": "House of the Dragon"
+            }
+          }
+        ],
+        "conversation_id": "2072449593590304949",
+        "created_at": "2026-07-01T22:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T23:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072449593590304949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920162072585003008",
+              "start": 3,
+              "username": "APOM_CN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YjrdIDQ4z6",
+              "end": 63,
+              "expanded_url": "https://x.com/APOM_CN/status/2072264055767666729/video/1",
+              "media_key": "13_2072263745351364608",
+              "start": 40,
+              "url": "https://t.co/YjrdIDQ4z6"
+            },
+            {
+              "display_url": "pic.x.com/YjrdIDQ4z6",
+              "end": 63,
+              "expanded_url": "https://x.com/APOM_CN/status/2072264055767666729/video/1",
+              "media_key": "3_2072263615172804608",
+              "start": 40,
+              "url": "https://t.co/YjrdIDQ4z6"
+            },
+            {
+              "display_url": "pic.x.com/YjrdIDQ4z6",
+              "end": 63,
+              "expanded_url": "https://x.com/APOM_CN/status/2072264055767666729/video/1",
+              "media_key": "3_2072263744009240578",
+              "start": 40,
+              "url": "https://t.co/YjrdIDQ4z6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072449593590304949",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072264055767666729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @APOM_CN: POV: you’re the Red Queen. https://t.co/YjrdIDQ4z6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072263745351364608",
+            "3_2072263615172804608",
+            "3_2072263744009240578"
+          ]
+        },
+        "author_id": "1920162072585003008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "The reign of House Targaryen begins with this prequel to popular HBO series \"Game of Thrones.\" Based on George R.R. Martin's \"Fire & Blood,\" \"House of the Dragon\" is set nearly 200 years before the events of \"Game of Thrones,\" telling the story of the Targaryen civil war with King Viserys I Targaryen's children battling for control of the Iron Throne.",
+              "id": "1445480650719461376",
+              "name": "House of the Dragon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sci-fi and fantasy",
+              "id": "847869772129685504",
+              "name": "Sci-fi & fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283481070956998656",
+              "name": "Sci-fi & fantasy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1511331896805928962",
+              "name": "House of the Dragon"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1511331896805928962",
+              "name": "House of the Dragon"
+            }
+          }
+        ],
+        "conversation_id": "2072264055767666729",
+        "created_at": "2026-07-01T10:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072264055767666729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YjrdIDQ4z6",
+              "end": 50,
+              "expanded_url": "https://x.com/APOM_CN/status/2072264055767666729/video/1",
+              "media_key": "13_2072263745351364608",
+              "start": 27,
+              "url": "https://t.co/YjrdIDQ4z6"
+            },
+            {
+              "display_url": "pic.x.com/YjrdIDQ4z6",
+              "end": 50,
+              "expanded_url": "https://x.com/APOM_CN/status/2072264055767666729/video/1",
+              "media_key": "3_2072263615172804608",
+              "start": 27,
+              "url": "https://t.co/YjrdIDQ4z6"
+            },
+            {
+              "display_url": "pic.x.com/YjrdIDQ4z6",
+              "end": 50,
+              "expanded_url": "https://x.com/APOM_CN/status/2072264055767666729/video/1",
+              "media_key": "3_2072263744009240578",
+              "start": 27,
+              "url": "https://t.co/YjrdIDQ4z6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072264055767666729",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 1412,
+          "like_count": 166,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "POV: you’re the Red Queen. https://t.co/YjrdIDQ4z6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 78,
+          "like_count": 4680,
+          "listed_count": 1,
+          "media_count": 290,
+          "tweet_count": 2404
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-07T17:02:48.000Z",
+        "description": "中文/English/Italiano｜BIOHAZARD/DMC｜Mainly Wesker and ships. I've always been a part of the Bottom! Wesker nation.\n🚫AI",
+        "id": "1920162072585003008",
+        "name": "APOM_CN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045534184194899968/Fe7PilJu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 9,
+          "like_count": 162,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "APOM_CN",
+        "verified": false
+      }
+    ]
+  }
+}

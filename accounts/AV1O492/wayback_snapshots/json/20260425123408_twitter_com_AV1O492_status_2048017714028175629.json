@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2048015647238746558",
+    "created_at": "2026-04-25T12:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T13:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048017714028175629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1641968587102621696",
+          "start": 0,
+          "username": "0voki33Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048017714028175629",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048017553541451845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0voki33Me 我想嫁给你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2048015647238746558",
+        "created_at": "2026-04-25T12:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048017714028175629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048017714028175629",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048017553541451845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me 我想嫁给你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2048015647238746558",
+        "created_at": "2026-04-25T12:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048017553541451845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048017553541451845",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048015647238746558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 太帅了吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/5Lgdtm2",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/5Lgdtm2",
+                "start": 0,
+                "url": "https://t.co/F503DrTT0k"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047592059872387072/fc9q0a9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 72,
+          "like_count": 3809,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 1804
+        },
+        "url": "https://t.co/F503DrTT0k",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "📷药割吐🐈‍⬛\n该账号什么都发不为任何言行负责｜讨厌我请直接b别废话我对待他人同理｜\n只回fo感兴趣的｜备用机@0voki33Me2｜提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "0voki33Me2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2047714085161361786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 1151,
+          "like_count": 6415,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 6176
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2078813438957191350",
+    "created_at": "2026-07-19T12:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078814974026432792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1592172867189293057",
+          "start": 0,
+          "username": "cxszb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078814974026432792",
+    "in_reply_to_user_id": "1592172867189293057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078813655756652936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxszb 我也真被恶心吐了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2078813438957191350",
+        "created_at": "2026-07-19T12:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078814974026432792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1592172867189293057",
+              "start": 0,
+              "username": "cxszb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078814974026432792",
+        "in_reply_to_user_id": "1592172867189293057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078813655756652936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxszb 我也真被恶心吐了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592172867189293057",
+        "conversation_id": "2078813438957191350",
+        "created_at": "2026-07-19T12:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078813655756652936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078813655756652936",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078813438957191350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 🤢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 89,
+          "like_count": 5865,
+          "listed_count": 2,
+          "media_count": 356,
+          "tweet_count": 2949
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-14T15:09:37.000Z",
+        "description": "非二元/无性吸引/s/收ATM/水仙/反出生主义/负能警告/现居北京/",
+        "id": "1592172867189293057",
+        "location": "🚪好友位188",
+        "name": "直花今天不嘴臭",
+        "pinned_tweet_id": "1895930921351823445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914757234996994056/9DnzxE3b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5558,
+          "following_count": 212,
+          "like_count": 17490,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 16248
+        },
+        "url": "",
+        "username": "cxszb",
+        "verified": false
+      }
+    ]
+  }
+}

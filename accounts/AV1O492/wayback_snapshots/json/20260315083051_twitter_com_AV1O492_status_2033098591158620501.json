@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2032827705440481343",
+    "created_at": "2026-03-15T08:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T09:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033098591158620501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2025964591222820864",
+          "start": 0,
+          "username": "tang64902"
+        },
+        {
+          "end": 27,
+          "id": "1987138845058736133",
+          "start": 11,
+          "username": "maipianaini0930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033098591158620501",
+    "in_reply_to_user_id": "2025964591222820864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032893400610124123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tang64902 @maipianaini0930 老资历在戒毒所里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2032827705440481343",
+        "created_at": "2026-03-15T08:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T09:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033098591158620501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2025964591222820864",
+              "start": 0,
+              "username": "tang64902"
+            },
+            {
+              "end": 27,
+              "id": "1987138845058736133",
+              "start": 11,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033098591158620501",
+        "in_reply_to_user_id": "2025964591222820864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032893400610124123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tang64902 @maipianaini0930 老资历在戒毒所里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025964591222820864",
+        "conversation_id": "2032827705440481343",
+        "created_at": "2026-03-14T18:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T19:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032893400610124123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            },
+            {
+              "end": 25,
+              "id": "1917890381104271361",
+              "start": 17,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032893400610124123",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032837713733496889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 @AV1O492 老资历在土里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032797382296166400/85J_f9jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 37,
+          "like_count": 1887,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1007
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T16:03:53.000Z",
+        "description": "od/精分/请关注塔菲喵",
+        "id": "2025964591222820864",
+        "location": "icu",
+        "name": "御杰宝宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025966291736289281/tRYYLK-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 97,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 54
+        },
+        "username": "tang64902",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 234,
+          "like_count": 5805,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 1984
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

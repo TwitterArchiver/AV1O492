@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2037061598679024035",
+    "created_at": "2026-03-26T07:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T08:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037069924489703717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1960389326258495492",
+          "start": 0,
+          "username": "looolzaozimin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037069924489703717",
+    "in_reply_to_user_id": "1960389326258495492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037061598679024035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@looolzaozimin 我也想参加"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2037061598679024035",
+        "created_at": "2026-03-26T07:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T08:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037069924489703717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1960389326258495492",
+              "start": 0,
+              "username": "looolzaozimin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037069924489703717",
+        "in_reply_to_user_id": "1960389326258495492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037061598679024035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@looolzaozimin 我也想参加"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960389326258495492",
+        "conversation_id": "2037061598679024035",
+        "created_at": "2026-03-26T06:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T07:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037061598679024035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037061598679024035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想拍点Cult风格的影像，可能是纪录片，也可能更偏实验。内容会比较边缘、混乱、失控。一段正在发生的下坠。找一个敢拍、也会拍的人。这不是创作，是记录我们自己。我们本身就是素材"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别把我认成女的 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036857419859460096/mWV57S2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 69,
+          "like_count": 3158,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 1471
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T17:10:37.000Z",
+        "description": "",
+        "id": "1960389326258495492",
+        "location": "門288",
+        "name": "小藻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032686730533638144/D7ZSvGlA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24264,
+          "following_count": 45,
+          "like_count": 159,
+          "listed_count": 22,
+          "media_count": 86,
+          "tweet_count": 153
+        },
+        "username": "looolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

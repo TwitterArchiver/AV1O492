@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078905303744090112"
+      ],
+      "media_source_tweet_id": [
+        "2078905338258960405"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2079103308757905538",
+    "created_at": "2026-07-20T07:17:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T08:17:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079103308757905538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1336527397",
+          "start": 3,
+          "username": "seduise"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bc9t6KTYvL",
+          "end": 36,
+          "expanded_url": "https://x.com/seduise/status/2078905338258960405/video/1",
+          "media_key": "13_2078905303744090112",
+          "start": 13,
+          "url": "https://t.co/Bc9t6KTYvL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079103308757905538",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 240
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078905338258960405",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seduise: https://t.co/Bc9t6KTYvL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21534,
+        "height": 620,
+        "media_key": "13_2078905303744090112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078905303744090112/img/nOzt1LDWWMhnHPF1.jpg",
+        "public_metrics": {
+          "view_count": 12871
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078905303744090112/vid/avc1/304x270/vA29IhE40roeioXf.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078905303744090112/vid/avc1/406x360/RYZc2PgGhWaI1pvu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078905303744090112/vid/avc1/700x620/FHFvJ78NiItCpDzi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078905303744090112/pl/uMDujasFQ3Dq_eX-.m3u8?v=778"
+          }
+        ],
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078905303744090112"
+          ]
+        },
+        "author_id": "1336527397",
+        "conversation_id": "2078905338258960405",
+        "created_at": "2026-07-19T18:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T19:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078905338258960405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bc9t6KTYvL",
+              "end": 23,
+              "expanded_url": "https://x.com/seduise/status/2078905338258960405/video/1",
+              "media_key": "13_2078905303744090112",
+              "start": 0,
+              "url": "https://t.co/Bc9t6KTYvL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078905338258960405",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 174,
+          "impression_count": 29301,
+          "like_count": 1470,
+          "quote_count": 10,
+          "reply_count": 1,
+          "retweet_count": 240
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Bc9t6KTYvL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078905303744090112"
+          ],
+          "media_source_tweet_id": [
+            "2078905338258960405"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2079103308757905538",
+        "created_at": "2026-07-20T07:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T08:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079103308757905538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1336527397",
+              "start": 3,
+              "username": "seduise"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bc9t6KTYvL",
+              "end": 36,
+              "expanded_url": "https://x.com/seduise/status/2078905338258960405/video/1",
+              "media_key": "13_2078905303744090112",
+              "start": 13,
+              "url": "https://t.co/Bc9t6KTYvL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079103308757905538",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 240
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078905338258960405",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seduise: https://t.co/Bc9t6KTYvL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2078916554520228324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 89,
+          "like_count": 5982,
+          "listed_count": 2,
+          "media_count": 359,
+          "tweet_count": 2992
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-08T12:24:06.000Z",
+        "description": "saturnalia",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/user/21eglf455…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/user/21eglf455alsljwtyln464j5i?si=508f34379def4f9b",
+                "start": 0,
+                "url": "https://t.co/Gd0HnrCyBd"
+              }
+            ]
+          }
+        },
+        "id": "1336527397",
+        "name": "tolga",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051027473953853440/SYFVHSuc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13349,
+          "following_count": 141,
+          "like_count": 16779,
+          "listed_count": 27,
+          "media_count": 1477,
+          "tweet_count": 2901
+        },
+        "url": "https://t.co/Gd0HnrCyBd",
+        "username": "seduise",
+        "verified": false
+      }
+    ]
+  }
+}

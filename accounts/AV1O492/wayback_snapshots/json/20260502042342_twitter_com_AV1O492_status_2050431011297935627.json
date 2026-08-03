@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2050424229611634843",
+    "created_at": "2026-05-02T04:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T05:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050431011297935627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1720345269106302976",
+          "start": 0,
+          "username": "0773xp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050431011297935627",
+    "in_reply_to_user_id": "1720345269106302976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050424229611634843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0773xp 敢不敢闻一下手？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10613,
+        "height": 1280,
+        "media_key": "13_2050424158765621248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050424158765621248/img/FP2uwfOlwGsJuzHU.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050424158765621248/vid/avc1/320x568/MHTOQA0d7brqqwZI.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050424158765621248/vid/avc1/480x852/QEDqmi3UcK0UN7UO.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050424158765621248/vid/avc1/720x1280/peqwMLlKd44AAk9d.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050424158765621248/pl/ZognwgMXALvyqx1S.m3u8?tag=27"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2050424229611634843",
+        "created_at": "2026-05-02T04:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T05:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050431011297935627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1720345269106302976",
+              "start": 0,
+              "username": "0773xp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050431011297935627",
+        "in_reply_to_user_id": "1720345269106302976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050424229611634843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0773xp 敢不敢闻一下手？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050424158765621248"
+          ]
+        },
+        "author_id": "1720345269106302976",
+        "conversation_id": "2050424229611634843",
+        "created_at": "2026-05-02T03:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T04:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050424229611634843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xf3vVKsoY9",
+              "end": 49,
+              "expanded_url": "https://x.com/0773xp/status/2050424229611634843/video/1",
+              "media_key": "13_2050424158765621248",
+              "start": 26,
+              "url": "https://t.co/Xf3vVKsoY9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050424229611634843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在叠愈美大赛获得叠了两个的好成绩 你也来试试看吧 https://t.co/Xf3vVKsoY9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047592059872387072/fc9q0a9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 74,
+          "like_count": 4067,
+          "listed_count": 3,
+          "media_count": 238,
+          "tweet_count": 1991
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T07:41:08.000Z",
+        "description": "",
+        "id": "1720345269106302976",
+        "name": "河顿_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977775514392887296/6Z8tOR55_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 218,
+          "like_count": 1351,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 4099
+        },
+        "username": "0773xp",
+        "verified": false
+      }
+    ]
+  }
+}

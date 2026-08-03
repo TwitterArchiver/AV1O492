@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2034359043020710013",
+    "created_at": "2026-03-18T20:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T21:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034362469842600065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974688655513096192",
+          "start": 0,
+          "username": "lin_dialog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034362469842600065",
+    "in_reply_to_user_id": "1974688655513096192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034359043020710013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lin_dialog 哎呀老公啊抱抱，这耳洞白细胞咋想的也太坏了吧！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2034359043020710013",
+        "created_at": "2026-03-18T20:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T21:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034362469842600065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974688655513096192",
+              "start": 0,
+              "username": "lin_dialog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034362469842600065",
+        "in_reply_to_user_id": "1974688655513096192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034359043020710013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lin_dialog 哎呀老公啊抱抱，这耳洞白细胞咋想的也太坏了吧！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974688655513096192",
+        "conversation_id": "2034359043020710013",
+        "created_at": "2026-03-18T19:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T20:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034359043020710013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034359043020710013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的有病 我真的有病，我耳朵疼的难受，起来把这个有点重的耳钉换了，结果取下来几分钟长死了，硬穿哗哗流血现在彻底睡不着了，我真的崩溃了真的崩溃了我真的有病是不是啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032797382296166400/85J_f9jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 58,
+          "like_count": 2310,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 1142
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "竹霖♡ they/them｜shedtwt odtwt｜bmi14.87｜烟酒割药四毒俱全｜无政府个人主义｜LGBTQ+全友好｜论点/观点常有 欢迎交流｜互fo私信 选拒建议别来",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "2006041221995847931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033542781080408065/SwlGhoGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 199,
+          "like_count": 1245,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 2495
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

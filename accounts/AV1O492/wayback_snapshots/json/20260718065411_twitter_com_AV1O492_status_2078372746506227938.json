@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077817737074946048"
+      ],
+      "media_source_tweet_id": [
+        "2077817739755106514"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2078372746506227938",
+    "created_at": "2026-07-18T06:54:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T07:54:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078372746506227938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1603381711047299079",
+          "start": 3,
+          "username": "Monica77367033"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TEAqisXLel",
+          "end": 55,
+          "expanded_url": "https://x.com/Monica77367033/status/2077817739755106514/photo/1",
+          "media_key": "3_2077817737074946048",
+          "start": 32,
+          "url": "https://t.co/TEAqisXLel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078372746506227938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077817739755106514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Monica77367033: 后面都在为这幅图打工了 https://t.co/TEAqisXLel"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_2077817737074946048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXkOR5bsAAeQd1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077817737074946048"
+          ]
+        },
+        "author_id": "1603381711047299079",
+        "conversation_id": "2077817739755106514",
+        "created_at": "2026-07-16T18:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T19:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077817739755106514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TEAqisXLel",
+              "end": 35,
+              "expanded_url": "https://x.com/Monica77367033/status/2077817739755106514/photo/1",
+              "media_key": "3_2077817737074946048",
+              "start": 12,
+              "url": "https://t.co/TEAqisXLel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077817739755106514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 702,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "后面都在为这幅图打工了 https://t.co/TEAqisXLel"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077817737074946048"
+          ],
+          "media_source_tweet_id": [
+            "2077817739755106514"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2078372746506227938",
+        "created_at": "2026-07-18T06:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078372746506227938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1603381711047299079",
+              "start": 3,
+              "username": "Monica77367033"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TEAqisXLel",
+              "end": 55,
+              "expanded_url": "https://x.com/Monica77367033/status/2077817739755106514/photo/1",
+              "media_key": "3_2077817737074946048",
+              "start": 32,
+              "url": "https://t.co/TEAqisXLel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078372746506227938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077817739755106514",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Monica77367033: 后面都在为这幅图打工了 https://t.co/TEAqisXLel"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 91,
+          "like_count": 5768,
+          "listed_count": 2,
+          "media_count": 351,
+          "tweet_count": 2905
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-15T13:29:33.000Z",
+        "description": "中文/En/FR/DV❤️💙/bottom Vergil/20+/一人论维水仙/VVer/本质维吉尔嬷嬷，主推维吉尔，CP向主做dv，低概率水仙掉落。44推，吃brocedes，LewisHamilton is GOAT！！！",
+        "id": "1603381711047299079",
+        "name": "Monica（筹备大量dv本ing）",
+        "pinned_tweet_id": "1972919260277342217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069090174706102272/hWDFpVn0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 243,
+          "like_count": 15711,
+          "listed_count": 5,
+          "media_count": 675,
+          "tweet_count": 2094
+        },
+        "url": "",
+        "username": "Monica77367033",
+        "verified": false
+      }
+    ]
+  }
+}

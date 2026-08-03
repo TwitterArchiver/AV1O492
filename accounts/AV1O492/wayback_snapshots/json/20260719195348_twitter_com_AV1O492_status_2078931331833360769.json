@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078917189164572672",
+        "3_2078917210408648704"
+      ],
+      "media_source_tweet_id": [
+        "2078917430232170909",
+        "2078917430232170909"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2078931331833360769",
+    "created_at": "2026-07-19T19:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T20:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078931331833360769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1673717625958850562",
+          "start": 3,
+          "username": "mandinate766936"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mMyOqRvQ0s",
+          "end": 72,
+          "expanded_url": "https://x.com/mandinate766936/status/2078917430232170909/photo/1",
+          "media_key": "3_2078917189164572672",
+          "start": 49,
+          "url": "https://t.co/mMyOqRvQ0s"
+        },
+        {
+          "display_url": "pic.x.com/mMyOqRvQ0s",
+          "end": 72,
+          "expanded_url": "https://x.com/mandinate766936/status/2078917430232170909/photo/1",
+          "media_key": "3_2078917210408648704",
+          "start": 49,
+          "url": "https://t.co/mMyOqRvQ0s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078931331833360769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078917430232170909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mandinate766936: 1vd\n黑骑士饿了\n太久没画这种，我已经啥都画不出来了 https://t.co/mMyOqRvQ0s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078917189164572672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNnMK0GboAA82ey.jpg",
+        "width": 1690
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078917210408648704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNnMMDPagAABbSe.jpg",
+        "width": 1690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078917189164572672",
+            "3_2078917210408648704"
+          ]
+        },
+        "author_id": "1673717625958850562",
+        "conversation_id": "2078917430232170909",
+        "created_at": "2026-07-19T18:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T19:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078917430232170909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mMyOqRvQ0s",
+              "end": 51,
+              "expanded_url": "https://x.com/mandinate766936/status/2078917430232170909/photo/1",
+              "media_key": "3_2078917189164572672",
+              "start": 28,
+              "url": "https://t.co/mMyOqRvQ0s"
+            },
+            {
+              "display_url": "pic.x.com/mMyOqRvQ0s",
+              "end": 51,
+              "expanded_url": "https://x.com/mandinate766936/status/2078917430232170909/photo/1",
+              "media_key": "3_2078917210408648704",
+              "start": 28,
+              "url": "https://t.co/mMyOqRvQ0s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078917430232170909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 95,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "1vd\n黑骑士饿了\n太久没画这种，我已经啥都画不出来了 https://t.co/mMyOqRvQ0s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078917189164572672",
+            "3_2078917210408648704"
+          ],
+          "media_source_tweet_id": [
+            "2078917430232170909",
+            "2078917430232170909"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2078931331833360769",
+        "created_at": "2026-07-19T19:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T20:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078931331833360769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1673717625958850562",
+              "start": 3,
+              "username": "mandinate766936"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mMyOqRvQ0s",
+              "end": 72,
+              "expanded_url": "https://x.com/mandinate766936/status/2078917430232170909/photo/1",
+              "media_key": "3_2078917189164572672",
+              "start": 49,
+              "url": "https://t.co/mMyOqRvQ0s"
+            },
+            {
+              "display_url": "pic.x.com/mMyOqRvQ0s",
+              "end": 72,
+              "expanded_url": "https://x.com/mandinate766936/status/2078917430232170909/photo/1",
+              "media_key": "3_2078917210408648704",
+              "start": 49,
+              "url": "https://t.co/mMyOqRvQ0s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078931331833360769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078917430232170909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mandinate766936: 1vd\n黑骑士饿了\n太久没画这种，我已经啥都画不出来了 https://t.co/mMyOqRvQ0s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2078916554520228324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 89,
+          "like_count": 5902,
+          "listed_count": 2,
+          "media_count": 357,
+          "tweet_count": 2969
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T15:39:27.000Z",
+        "description": "🇨🇳，外语水平差\nop🔥🎩\nbayonetta  bayojeanne\ndmcvd/vn，偏好vd\n只想看画去🦋，我会转发发闲谈在这个账号上面\n喜欢性转，年上，gore 雷的误入\n有点社恐所以对评论会很苦恼，基本无言点赞当回应\n本人很抽象，别报以期待\n对任何争论都不感兴趣，一心只有创作和自推",
+        "id": "1673717625958850562",
+        "name": "曼迪纳特",
+        "pinned_tweet_id": "2035340265888923822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078195509941198848/CCiCKC1S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 302,
+          "like_count": 1779,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 719
+        },
+        "url": "",
+        "username": "mandinate766936",
+        "verified": false
+      }
+    ]
+  }
+}

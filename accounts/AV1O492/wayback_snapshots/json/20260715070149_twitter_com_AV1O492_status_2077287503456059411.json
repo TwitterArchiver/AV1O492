@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2075182984584389047",
+    "created_at": "2026-07-15T07:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T08:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077287503456059411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1894353617945059328",
+          "start": 0,
+          "username": "SDGVA23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077287503456059411",
+    "in_reply_to_user_id": "1894353617945059328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075182984584389047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SDGVA23 悲惨又坚强的女人和互相救赎的好故事🥹🥹你的画会自己表达情绪 超级好看，我也喜欢你写故事的文笔😭这一切都太好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075182975889690624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyH6_nX0AARmzH.jpg",
+        "width": 1338
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2075182984584389047",
+        "created_at": "2026-07-15T07:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077287503456059411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894353617945059328",
+              "start": 0,
+              "username": "SDGVA23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077287503456059411",
+        "in_reply_to_user_id": "1894353617945059328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075182984584389047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SDGVA23 悲惨又坚强的女人和互相救赎的好故事🥹🥹你的画会自己表达情绪 超级好看，我也喜欢你写故事的文笔😭这一切都太好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075182975889690624"
+          ]
+        },
+        "author_id": "1894353617945059328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. ",
+              "id": "10046538522",
+              "name": "Tekken"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. ",
+              "id": "10046538522",
+              "name": "Tekken"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1307106518475522049",
+              "name": "Fighting games"
+            }
+          }
+        ],
+        "conversation_id": "2075182984584389047",
+        "created_at": "2026-07-09T11:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075182984584389047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ii2UzHVpCp",
+              "end": 304,
+              "expanded_url": "https://x.com/SDGVA23/status/2075182984584389047/photo/1",
+              "media_key": "3_2075182975889690624",
+              "start": 281,
+              "url": "https://t.co/ii2UzHVpCp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075182984584389047",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3869,
+                "start": 3857,
+                "tag": "DevilMayCry"
+              },
+              {
+                "end": 3873,
+                "start": 3870,
+                "tag": "OC"
+              }
+            ]
+          },
+          "text": "[CROSSOVER - Character: S Maximoff\n\nAlastor Maximoff: Father\nLiora Maximoff: Mother\nDemitri Maximoff: Cousin\nOgre (Tekken): ?]\n\n(Dante crosses his arms, a nostalgic smile on his lips that slowly fades. He leans back against the wall of a quiet room in the agency, eyes half-closed as if watching everything replay in his mind.)\n\nLittle S… Fuck, where do I even start, huh? (Chuckles)\nHer name’s S Maximoff. Daughter of Alastor Maximoff, a half-demon half-vampire who was my old man Sparda’s right-hand, and her mother was Liora, a pure angel. A mix that should’ve given the world one radiant kid… and that’s exactly what she was. A light. But even lights can get buried in shadow.\n\nWe met her when she was six and we were seven. From the very first glance, something happened between her and my brother. I wasn’t there for the absolute first moment, but Mom always told the story. She’d gone to see Liora, S was with her. Vergil gave her a poppy flower. They fell in love that day, like it was written in blood and… stars. It took them a while to actually admit it. Around nine or ten years old.\n\nMe? (Scratches the back of his neck, embarrassed laugh) Nico would say I got friendzoned. I was the nice big brother. Still am, honestly. And yeah… I’ll admit it, I was a little jealous as a kid. It just added spice to my rivalry with Vergil. I loved teasing him about it, and I still do. Like that one time we all went to the village dance with Mom. S wanted to dance with Vergil. She didn’t know how, and neither did he. But did Mr. Snob even try? Nope. Nada. So I stepped in. I took S out on the floor just to piss my brother off. (Laughs) Oh, and then there’s their “soul bound”: that thing they’ve shared since forever. It lets them feel each other’s emotions, pain, pleasure, everything. No matter the distance or the dimension.\n\nSparda and Eva treated her like their own daughter. She’d come over, eat with us, play with us. She was the little sister I always needed. For Vergil… she was everything: his little orchid, his sun. (Raises hands innocently) Hey, I didn’t make that up! That’s what my brother called her. And she called him “my silver moon.” They thought I never knew, but… my ears were everywhere.\n\n(His smile vanishes completely, his gaze darkening.)\nBut that bastard… Alastor. Pff! That asshole doesn’t even deserve to be called “father.” In front of us, he played the strict but respectable guy. Behind the scenes… it was something else. Long after all the Qliphoth bullshit and my brother’s mess, she finally told us everything. He beat her. And he even… r… (shakes his head, eyes shining with anger and pain) She didn’t deserve any of that. She was so pure… He kept her in ignorance so she wouldn’t know the difference between right and wrong.\n\nAt night, he’d stop in front of her bedroom door and just… wait. Letting the fear build, the sick fuck. Then either he’d leave, or he’d go in. And when he went in, he’d raise a dome to muffle every sound. Liora, her mother, knew nothing. Nobody did, though Sparda had his doubts, he couldn’t accuse him without proof. Ironically, Liora was too scared to stand up to her husband, thinking he was just strict and that opposing him would make it worse. Tragic, right?\n\nMe…(clenches his fists, voice hoarse) I was just a kid. All I thought about was running around, having fun, fighting with Vergil. I saw nothing. Noticed nothing. And fuck, I still hate myself for it. Vergil, though, he felt everything through their “soulbound”. He suspected she was being beaten, he could sense her fear, her pain… but he couldn’t put the pieces together or find any proof. He blamed himself too, you know.\n\n(He lifts his head, a bitter smile slowly returning.)\nBut at least my brother did what needed to be done. Years later… after the house burned and Mom… (sigh) [the rest of the bio in the comments ⬇️]\n#DevilMayCry #OC"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 1910,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "[CROSSOVER - Character: S Maximoff\n\nAlastor Maximoff: Father\nLiora Maximoff: Mother\nDemitri Maximoff: Cousin\nOgre (Tekken): ?]\n\n(Dante crosses his arms, a nostalgic smile on his lips that slowly fades. He leans back against the wall of a quiet room in the agency, eyes half-closed https://t.co/ii2UzHVpCp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 86,
+          "like_count": 5495,
+          "listed_count": 2,
+          "media_count": 337,
+          "tweet_count": 2776
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T11:48:16.000Z",
+        "description": "🕹️Advocate of Vergil/Dragunov/M.Bison for 20+ years| I wrote a crossover (DMC x Tekken x SF)|My words cut like Yamato.Vergil x OC since 2005 (not a selfship)🚫AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/dragunova.rt",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/dragunova.rt",
+                "start": 0,
+                "url": "https://t.co/fKBLp8L6HC"
+              }
+            ]
+          }
+        },
+        "id": "1894353617945059328",
+        "location": "Siberia, Shadaloo & DMC Agency",
+        "name": "DragunovArt 🫡 S.Dragunov player since 2006",
+        "pinned_tweet_id": "2055968278384619739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070026530260922368/KRBxlXyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 760,
+          "like_count": 82072,
+          "listed_count": 3,
+          "media_count": 3429,
+          "tweet_count": 16138
+        },
+        "url": "https://t.co/fKBLp8L6HC",
+        "username": "SDGVA23",
+        "verified": true
+      }
+    ]
+  }
+}

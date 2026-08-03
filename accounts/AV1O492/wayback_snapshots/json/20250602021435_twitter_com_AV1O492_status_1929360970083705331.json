@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "1929248892140634175",
+    "created_at": "2025-06-02T02:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T03:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929360970083705331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1795518928480796672",
+          "start": 0,
+          "username": "aaaadddhhhusk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929360970083705331",
+    "in_reply_to_user_id": "1795518928480796672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929265878610203092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaaadddhhhusk 好烦躁好想哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "1929248892140634175",
+        "created_at": "2025-06-02T02:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T03:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929360970083705331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1795518928480796672",
+              "start": 0,
+              "username": "aaaadddhhhusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929360970083705331",
+        "in_reply_to_user_id": "1795518928480796672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929265878610203092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaaadddhhhusk 好烦躁好想哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795518928480796672",
+        "conversation_id": "1929248892140634175",
+        "created_at": "2025-06-01T19:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T20:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929265878610203092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929265878610203092",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929248892140634175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 你咋子了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "恐怖暗黑血仆少御奶龙国潮来袭神秘功夫需要加强哈基米哈基米哈基米胖宝宝乖狗狗屠孝子TV之提琴大人我来给您踩踩背啦点击输入文本金翼先知白兑换码我的天哪镜大人屠夫版本人类需要加强全网最尊重美国人英国人加拿大人墨西哥人阿根廷人中国人挪威人瑞典人德国人俄罗斯人日本人波兰人意大利人活死人女巫真神棍假神婆及狼人鳄鱼人吸血鬼的推特账户",
+        "id": "1917890381104271361",
+        "location": "苦痛之屋",
+        "name": "𝖍𝖊𝖆𝖑 𝖒𝖞 𝖕𝖘𝖞𝖈𝖍𝖔 𝖑𝖔𝖛𝖊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929086113408544768/2_CrG0ys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 5,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 57
+        },
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T18:14:15.000Z",
+        "description": "只希望可以快快乐乐的",
+        "id": "1795518928480796672",
+        "name": "急吧",
+        "pinned_tweet_id": "1829507926001910110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875113856910901248/dEUmqaey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 74,
+          "like_count": 1001,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1128
+        },
+        "username": "aaaadddhhhusk",
+        "verified": false
+      }
+    ]
+  }
+}

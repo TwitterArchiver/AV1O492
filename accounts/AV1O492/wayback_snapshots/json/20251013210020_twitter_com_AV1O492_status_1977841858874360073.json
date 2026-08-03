@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977475723267829760"
+      ],
+      "media_source_tweet_id": [
+        "1977475729769267369"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "1977841858874360073",
+    "created_at": "2025-10-13T21:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T22:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977841858874360073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "765564184465727488",
+          "start": 3,
+          "username": "screamnhorror"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FimqZklcwX",
+          "end": 51,
+          "expanded_url": "https://x.com/screamnhorror/status/1977475729769267369/photo/1",
+          "media_key": "3_1977475723267829760",
+          "start": 28,
+          "url": "https://t.co/FimqZklcwX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977841858874360073",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 147
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977475729769267369",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @screamnhorror: !!!!!!!! https://t.co/FimqZklcwX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 473,
+        "media_key": "3_1977475723267829760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3FnsXVWcAAJoXh.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977475723267829760"
+          ],
+          "media_source_tweet_id": [
+            "1977475729769267369"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "1977841858874360073",
+        "created_at": "2025-10-13T21:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T22:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977841858874360073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "765564184465727488",
+              "start": 3,
+              "username": "screamnhorror"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FimqZklcwX",
+              "end": 51,
+              "expanded_url": "https://x.com/screamnhorror/status/1977475729769267369/photo/1",
+              "media_key": "3_1977475723267829760",
+              "start": 28,
+              "url": "https://t.co/FimqZklcwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977841858874360073",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 147
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977475729769267369",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @screamnhorror: !!!!!!!! https://t.co/FimqZklcwX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977475723267829760"
+          ]
+        },
+        "author_id": "765564184465727488",
+        "conversation_id": "1977475729769267369",
+        "created_at": "2025-10-12T20:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T21:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977475729769267369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FimqZklcwX",
+              "end": 32,
+              "expanded_url": "https://x.com/screamnhorror/status/1977475729769267369/photo/1",
+              "media_key": "3_1977475723267829760",
+              "start": 9,
+              "url": "https://t.co/FimqZklcwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977475729769267369",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 16551,
+          "like_count": 606,
+          "quote_count": 11,
+          "reply_count": 2,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "!!!!!!!! https://t.co/FimqZklcwX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "恐怖暗黑血仆少羽奶龙国潮来袭神秘功夫需要加强哈基米哈基米哈基米胖宝宝乖狗狗屠孝子TV之提琴大人我来给您踩踩背啦点击输入文本金翼先知白兑换码我的天哪镜大人屠夫版本人类需要加强全网最尊重美国人英国人加拿大人墨西哥人阿根廷人中国人挪威人瑞典人德国人俄罗斯人日本人波兰人意大利人活死人女巫真神棍假神婆及狼人鳄鱼人吸血鬼的推特账户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "苦痛之屋 he/them\r\ncn狂蛆/旗队长",
+        "name": "𝖍𝖊𝖆𝖑 𝖒𝖞 𝖕𝖘𝖞𝖈𝖍𝖔 𝖑𝖔𝖛𝖊☠✯粪海狂蛆✯",
+        "pinned_tweet_id": "1932310860283674700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932284293818249216/2HC70Y2I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 35,
+          "like_count": 1788,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 928
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-16T15:01:39.000Z",
+        "description": "𝙝𝙤𝙧𝙧𝙤𝙧, 𝙨𝙚𝙭, 𝙖𝙣𝙙 𝙧𝙤𝙘𝙠 𝙣’ 𝙧𝙤𝙡𝙡— ⠀⠀⠀⠀ ⠀⠀⠀⠀ ⠀⠀⠀⠀ ⠀⠀ @nevrhadwings♡@bridefnosferatu♡@divnefemm ⠀no human is illegal | blm | free palestine",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "nevrhadwings"
+              },
+              {
+                "end": 79,
+                "start": 63,
+                "username": "bridefnosferatu"
+              },
+              {
+                "end": 90,
+                "start": 80,
+                "username": "divnefemm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/64cvj",
+                "end": 23,
+                "expanded_url": "https://boxd.it/64cvj",
+                "start": 0,
+                "url": "https://t.co/kCgHtcsjQw"
+              }
+            ]
+          }
+        },
+        "id": "765564184465727488",
+        "location": "𝖘𝖈𝖔𝖗𝖕𝖎𝖔 | SHE/HER | 18+",
+        "name": "𝑳𝑰𝑽𝑰𝑵𝑮 𝑫𝑬𝑨𝑫 𝑮𝑰𝑹𝑳 🦇",
+        "pinned_tweet_id": "1653519988450271235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963110911427690496/e_ToSo6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98894,
+          "following_count": 2088,
+          "like_count": 38982,
+          "listed_count": 196,
+          "media_count": 12017,
+          "tweet_count": 23545
+        },
+        "url": "https://t.co/kCgHtcsjQw",
+        "username": "screamnhorror",
+        "verified": true
+      }
+    ]
+  }
+}

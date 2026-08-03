@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2077334662406676832",
+    "created_at": "2026-07-15T10:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T11:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077334793533157803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1750040441880498176",
+          "start": 0,
+          "username": "kill_this_hate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077334793533157803",
+    "in_reply_to_user_id": "1750040441880498176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077334662406676832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kill_this_hate 这是什么软件啊老公，我也想玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077334658824679424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQs3bLaMAAzMh8.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2077334662406676832",
+        "created_at": "2026-07-15T10:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077334793533157803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1750040441880498176",
+              "start": 0,
+              "username": "kill_this_hate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077334793533157803",
+        "in_reply_to_user_id": "1750040441880498176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077334662406676832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kill_this_hate 这是什么软件啊老公，我也想玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077334658824679424"
+          ]
+        },
+        "author_id": "1750040441880498176",
+        "conversation_id": "2077334662406676832",
+        "created_at": "2026-07-15T10:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077334662406676832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rBm2bBdZZl",
+              "end": 37,
+              "expanded_url": "https://x.com/kill_this_hate/status/2077334662406676832/photo/1",
+              "media_key": "3_2077334658824679424",
+              "start": 14,
+              "url": "https://t.co/rBm2bBdZZl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077334662406676832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挑战全网八宫十二宫最坏之人 https://t.co/rBm2bBdZZl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 86,
+          "like_count": 5533,
+          "listed_count": 2,
+          "media_count": 337,
+          "tweet_count": 2796
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T06:19:04.000Z",
+        "description": "莲花去国一千年",
+        "id": "1750040441880498176",
+        "name": "雀 （接占卜 塔罗教学",
+        "pinned_tweet_id": "2056543573777232325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058873451960848384/4vaGtDZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 121,
+          "like_count": 25534,
+          "listed_count": 2,
+          "media_count": 1026,
+          "tweet_count": 10933
+        },
+        "url": "",
+        "username": "kill_this_hate",
+        "verified": false
+      }
+    ]
+  }
+}

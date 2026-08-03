@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2038035463081271634",
+    "created_at": "2026-04-01T06:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T07:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039230266729005427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678171777409875968",
+          "start": 0,
+          "username": "420420420CTL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039230266729005427",
+    "in_reply_to_user_id": "1678171777409875968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038035463081271634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@420420420CTL 你拍照用的啥手机啊发出来居然这么高清"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038035437630148608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEiObruaUAAFzmN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038035437634383872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEiObrva8AA23o3.jpg",
+        "width": 1448
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038035437621780480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEiObrsaoAATU-6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2038035463081271634",
+        "created_at": "2026-04-01T06:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039230266729005427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678171777409875968",
+              "start": 0,
+              "username": "420420420CTL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039230266729005427",
+        "in_reply_to_user_id": "1678171777409875968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038035463081271634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@420420420CTL 你拍照用的啥手机啊发出来居然这么高清"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038035437630148608",
+            "3_2038035437634383872",
+            "3_2038035437621780480"
+          ]
+        },
+        "author_id": "1678171777409875968",
+        "conversation_id": "2038035463081271634",
+        "created_at": "2026-03-28T23:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T00:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038035463081271634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1daHTZ2sYl",
+              "end": 97,
+              "expanded_url": "https://x.com/420420420CTL/status/2038035463081271634/photo/1",
+              "media_key": "3_2038035437630148608",
+              "start": 74,
+              "url": "https://t.co/1daHTZ2sYl"
+            },
+            {
+              "display_url": "pic.x.com/1daHTZ2sYl",
+              "end": 97,
+              "expanded_url": "https://x.com/420420420CTL/status/2038035463081271634/photo/1",
+              "media_key": "3_2038035437634383872",
+              "start": 74,
+              "url": "https://t.co/1daHTZ2sYl"
+            },
+            {
+              "display_url": "pic.x.com/1daHTZ2sYl",
+              "end": 97,
+              "expanded_url": "https://x.com/420420420CTL/status/2038035463081271634/photo/1",
+              "media_key": "3_2038035437621780480",
+              "start": 74,
+              "url": "https://t.co/1daHTZ2sYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038035463081271634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3001,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Amnesia Haze  第四周的时候闻起来和吸起来都像芒果味 ，8周后味道是柠檬味加胡椒 ，我喜欢在第第四周开始每一周割一点不同成熟度的大麻抽 https://t.co/1daHTZ2sYl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别把我认成女的 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038698420756729857/Mtx3ZDGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 72,
+          "like_count": 3611,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 1665
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T22:38:41.000Z",
+        "description": "支持亞洲大麻合法化，大麻除罪，正視醫療大麻用途，MTF🏳️‍⚧️🏳️‍🌈LGBTQ友好🧑‍🤝‍🧑👭只有x和谷歌電郵聯繫方式，會回私信，社群：https://t.co/YwMarw2XdU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 93,
+                "expanded_url": "https://x.com/i/communities/2002034506979750304",
+                "start": 70,
+                "url": "https://t.co/YwMarw2XdU"
+              }
+            ]
+          }
+        },
+        "id": "1678171777409875968",
+        "location": "Los Angeles, CA",
+        "name": "邦尼兔weed_420（大麻/電子煙）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018807810830770177/xgp8x96H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2716,
+          "following_count": 693,
+          "like_count": 435,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 971
+        },
+        "username": "420420420CTL",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067925147353239552"
+      ],
+      "media_source_tweet_id": [
+        "2068077611461284062"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068300889686003923",
+    "created_at": "2026-06-20T11:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T12:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068300889686003923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751644464337027072",
+          "start": 3,
+          "username": "aurulin13"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5qBMYvFCl4",
+          "end": 81,
+          "expanded_url": "https://x.com/aurulin13/status/2068077611461284062/photo/1",
+          "media_key": "3_2067925147353239552",
+          "start": 58,
+          "url": "https://t.co/5qBMYvFCl4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068300889686003923",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 194
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068077611461284062",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aurulin13: Found an old meme i made two years ago lol https://t.co/5qBMYvFCl4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 623,
+        "media_key": "3_2067925147353239552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLK-9xYWUAAVrOa.png",
+        "width": 542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067925147353239552"
+          ],
+          "media_source_tweet_id": [
+            "2068077611461284062"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068300889686003923",
+        "created_at": "2026-06-20T11:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068300889686003923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751644464337027072",
+              "start": 3,
+              "username": "aurulin13"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5qBMYvFCl4",
+              "end": 81,
+              "expanded_url": "https://x.com/aurulin13/status/2068077611461284062/photo/1",
+              "media_key": "3_2067925147353239552",
+              "start": 58,
+              "url": "https://t.co/5qBMYvFCl4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068300889686003923",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068077611461284062",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aurulin13: Found an old meme i made two years ago lol https://t.co/5qBMYvFCl4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067925147353239552"
+          ]
+        },
+        "author_id": "1751644464337027072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068077611461284062",
+        "created_at": "2026-06-19T21:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T22:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068077611461284062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5qBMYvFCl4",
+              "end": 66,
+              "expanded_url": "https://x.com/aurulin13/status/2068077611461284062/photo/1",
+              "media_key": "3_2067925147353239552",
+              "start": 43,
+              "url": "https://t.co/5qBMYvFCl4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068077611461284062",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 175,
+          "impression_count": 18341,
+          "like_count": 2147,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 194
+        },
+        "reply_settings": "everyone",
+        "text": "Found an old meme i made two years ago lol https://t.co/5qBMYvFCl4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜皮下真名但丁斯巴达实名冲浪｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068158408487014400/3eqb45Ho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 71,
+          "like_count": 4241,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 2161
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T16:32:47.000Z",
+        "description": "ARM/RU/ENG. 2d freelance artist. Commissions open. Contact me: aurulin13@gmail.com. my fanfic https://t.co/dZ0dI9DqeH #dmc ocxcanon",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 122,
+                "start": 118,
+                "tag": "dmc"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "archiveofourown.org/users/Aurulin/…",
+                "end": 117,
+                "expanded_url": "https://archiveofourown.org/users/Aurulin/works",
+                "start": 94,
+                "url": "https://t.co/dZ0dI9DqeH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/aurulin",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/aurulin",
+                "start": 0,
+                "url": "https://t.co/jStmXcqvji"
+              }
+            ]
+          }
+        },
+        "id": "1751644464337027072",
+        "location": "Armenia",
+        "name": "Aurulin🇦🇲",
+        "pinned_tweet_id": "1973856766636273708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025652422090035200/ePSoLnIw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4564,
+          "following_count": 264,
+          "like_count": 78137,
+          "listed_count": 10,
+          "media_count": 1411,
+          "tweet_count": 9207
+        },
+        "url": "https://t.co/jStmXcqvji",
+        "username": "aurulin13",
+        "verified": true
+      }
+    ]
+  }
+}

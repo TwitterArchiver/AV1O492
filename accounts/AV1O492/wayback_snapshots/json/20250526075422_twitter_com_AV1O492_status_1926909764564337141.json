@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "1926909764564337141",
+    "created_at": "2025-05-26T07:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T08:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926909764564337141"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1926909764564337141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我对她的回忆都发生在当她在我眼中完美得极端、我们的乐器都同时属于彼此的时候，但现在一切都改变了，就连我的幻觉也暗得发青 直到我用可卡因在墙上画了扇白色的门 从湿红的餐盘里拿走本应该属于我的肉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "1926909764564337141",
+        "created_at": "2025-05-26T07:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T08:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926909764564337141"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1926909764564337141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对她的回忆都发生在当她在我眼中完美得极端、我们的乐器都同时属于彼此的时候，但现在一切都改变了，就连我的幻觉也暗得发青 直到我用可卡因在墙上画了扇白色的门 从湿红的餐盘里拿走本应该属于我的肉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "恐怖暗黑血仆少御奶龙国潮来袭神秘功夫需要加强哈基米哈基米哈基米胖宝宝乖狗狗屠孝子TV之提琴大人我来给您踩踩背啦点击输入文本金翼先知白兑换码我的天哪镜大人屠夫版本人类需要加强全网最尊重美国人英国人加拿大人墨西哥人阿根廷人中国人挪威人瑞典人德国人俄罗斯人日本人波兰人意大利人活死人女巫真神棍假神婆及狼人鳄鱼人吸血鬼的推特账户",
+        "id": "1917890381104271361",
+        "name": "𝓗𝓮𝓪𝓵 𝓜𝓨 𝓛𝓸𝓿𝓮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924888205255704586/fpHTySBb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 3,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 19
+        },
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

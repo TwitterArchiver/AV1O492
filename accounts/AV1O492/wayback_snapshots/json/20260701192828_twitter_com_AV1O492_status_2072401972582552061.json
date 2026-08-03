@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072365965606834177"
+      ],
+      "media_source_tweet_id": [
+        "2072366006190891137"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2072401972582552061",
+    "created_at": "2026-07-01T19:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T20:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072401972582552061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1493962912108535810",
+          "start": 3,
+          "username": "maozhu_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kifi59bYHb",
+          "end": 38,
+          "expanded_url": "https://x.com/maozhu_/status/2072366006190891137/photo/1",
+          "media_key": "3_2072365965606834177",
+          "start": 15,
+          "url": "https://t.co/kifi59bYHb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072401972582552061",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072366006190891137",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maozhu_: 👀 https://t.co/kifi59bYHb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1272,
+        "media_key": "3_2072365965606834177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKF3aia0AEYvNu.jpg",
+        "width": 1304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072365965606834177"
+          ],
+          "media_source_tweet_id": [
+            "2072366006190891137"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2072401972582552061",
+        "created_at": "2026-07-01T19:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T20:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072401972582552061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1493962912108535810",
+              "start": 3,
+              "username": "maozhu_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kifi59bYHb",
+              "end": 38,
+              "expanded_url": "https://x.com/maozhu_/status/2072366006190891137/photo/1",
+              "media_key": "3_2072365965606834177",
+              "start": 15,
+              "url": "https://t.co/kifi59bYHb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072401972582552061",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072366006190891137",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maozhu_: 👀 https://t.co/kifi59bYHb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072365965606834177"
+          ]
+        },
+        "author_id": "1493962912108535810",
+        "conversation_id": "2072366006190891137",
+        "created_at": "2026-07-01T17:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072366006190891137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kifi59bYHb",
+              "end": 25,
+              "expanded_url": "https://x.com/maozhu_/status/2072366006190891137/photo/1",
+              "media_key": "3_2072365965606834177",
+              "start": 2,
+              "url": "https://t.co/kifi59bYHb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072366006190891137",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 3305,
+          "like_count": 475,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "👀 https://t.co/kifi59bYHb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 78,
+          "like_count": 4636,
+          "listed_count": 1,
+          "media_count": 288,
+          "tweet_count": 2377
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-16T14:58:21.000Z",
+        "description": "端.\nVergil Only.\nao3：stratospherespecter\nNO AI",
+        "id": "1493962912108535810",
+        "name": "NEFELIBATA",
+        "pinned_tweet_id": "1668598588702879744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636770938560851968/s9fbuR8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11351,
+          "following_count": 102,
+          "like_count": 1218,
+          "listed_count": 36,
+          "media_count": 91,
+          "tweet_count": 334
+        },
+        "url": "",
+        "username": "maozhu_",
+        "verified": false
+      }
+    ]
+  }
+}

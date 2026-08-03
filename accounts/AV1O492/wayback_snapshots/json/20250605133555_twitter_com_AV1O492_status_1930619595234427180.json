@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "1930614608462803112",
+    "created_at": "2025-06-05T13:35:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T14:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930619595234427180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1915081922423730176",
+          "start": 0,
+          "username": "WendolynZo75783"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930619595234427180",
+    "in_reply_to_user_id": "1915081922423730176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 11,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930614608462803112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WendolynZo75783 写cn吧，以后带截图扩列方便点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "1930614608462803112",
+        "created_at": "2025-06-05T13:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T14:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930619595234427180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1915081922423730176",
+              "start": 0,
+              "username": "WendolynZo75783"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930619595234427180",
+        "in_reply_to_user_id": "1915081922423730176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930614608462803112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WendolynZo75783 写cn吧，以后带截图扩列方便点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915081922423730176",
+        "conversation_id": "1930614608462803112",
+        "created_at": "2025-06-05T13:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T14:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930614608462803112"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1930614608462803112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高考写真名还是cn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "恐怖暗黑血仆少羽奶龙国潮来袭神秘功夫需要加强哈基米哈基米哈基米胖宝宝乖狗狗屠孝子TV之提琴大人我来给您踩踩背啦点击输入文本金翼先知白兑换码我的天哪镜大人屠夫版本人类需要加强全网最尊重美国人英国人加拿大人墨西哥人阿根廷人中国人挪威人瑞典人德国人俄罗斯人日本人波兰人意大利人活死人女巫真神棍假神婆及狼人鳄鱼人吸血鬼的推特账户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "苦痛之屋    he/them",
+        "name": "𝖍𝖊𝖆𝖑 𝖒𝖞 𝖕𝖘𝖞𝖈𝖍𝖔 𝖑𝖔𝖛𝖊☠✯粪海狂蛆✯",
+        "pinned_tweet_id": "1930349672662737066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929086113408544768/2_CrG0ys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 15,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 265
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T16:34:54.000Z",
+        "description": "臭傻逼丧门驴操我把你打漏屎喂给你妈吃",
+        "id": "1915081922423730176",
+        "location": "𝕳𝖊𝖆𝖗𝖙-𝕾𝖍𝖆𝖕𝖊𝖉 𝕭𝖔𝖝",
+        "name": "Erosive chyme",
+        "pinned_tweet_id": "1928985133903749147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929727491926904834/MqkhHrl5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 67,
+          "like_count": 1771,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 766
+        },
+        "username": "WendolynZo75783",
+        "verified": false
+      }
+    ]
+  }
+}

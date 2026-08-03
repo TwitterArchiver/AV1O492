@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2033283397620310298",
+    "created_at": "2026-03-15T22:15:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T23:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033306029862395995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1846610063508836352",
+          "start": 0,
+          "username": "dxy1012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033306029862395995",
+    "in_reply_to_user_id": "1846610063508836352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033293416818426035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dxy1012 唉宝宝我不接的😭😭其实自己天天给产品拉磨都拉不完"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2033283397620310298",
+        "created_at": "2026-03-15T22:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T23:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033306029862395995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1846610063508836352",
+              "start": 0,
+              "username": "dxy1012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033306029862395995",
+        "in_reply_to_user_id": "1846610063508836352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033293416818426035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dxy1012 唉宝宝我不接的😭😭其实自己天天给产品拉磨都拉不完"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846610063508836352",
+        "conversation_id": "2033283397620310298",
+        "created_at": "2026-03-15T21:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T22:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033293416818426035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033293416818426035",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033283397620310298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 你接稿吗 你画的太牛逼了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032797382296166400/85J_f9jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 53,
+          "like_count": 2067,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1076
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T17:52:12.000Z",
+        "description": "=杜小颜",
+        "id": "1846610063508836352",
+        "location": "宇宙",
+        "name": "杜小颜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846610487993151488/9Qw8oskZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 179,
+          "like_count": 783,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 120
+        },
+        "username": "dxy1012",
+        "verified": false
+      }
+    ]
+  }
+}

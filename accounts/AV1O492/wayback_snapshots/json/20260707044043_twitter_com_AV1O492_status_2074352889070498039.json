@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2074352841372905472"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2074352889070498039",
+    "created_at": "2026-07-07T04:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T05:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074352889070498039"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q8jXyOcJey",
+          "end": 23,
+          "expanded_url": "https://x.com/AV1O492/status/2074352889070498039/video/1",
+          "media_key": "7_2074352841372905472",
+          "start": 0,
+          "url": "https://t.co/q8jXyOcJey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074352889070498039",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/q8jXyOcJey"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40774,
+        "height": 720,
+        "media_key": "7_2074352841372905472",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074352841372905472/pu/img/Yj6hteR0bxDdOd0o.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074352841372905472/pu/vid/avc1/480x270/uQv9HGk0wWFaHvT5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074352841372905472/pu/vid/avc1/640x360/kj8Uj5bzfC2jGzH0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074352841372905472/pu/vid/avc1/1280x720/SQL1UJb8QXPb7XGY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074352841372905472/pu/pl/zIQAz_-OI8AsW50S.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074352841372905472"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2074352889070498039",
+        "created_at": "2026-07-07T04:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074352889070498039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q8jXyOcJey",
+              "end": 23,
+              "expanded_url": "https://x.com/AV1O492/status/2074352889070498039/video/1",
+              "media_key": "7_2074352841372905472",
+              "start": 0,
+              "url": "https://t.co/q8jXyOcJey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074352889070498039",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/q8jXyOcJey"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 86,
+          "like_count": 5203,
+          "listed_count": 2,
+          "media_count": 325,
+          "tweet_count": 2657
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

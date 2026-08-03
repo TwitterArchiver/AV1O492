@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2035717489225609250",
+    "created_at": "2026-03-22T14:44:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T15:44:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035729285214814659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1750040441880498176",
+          "start": 0,
+          "username": "kill_this_hate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035729285214814659",
+    "in_reply_to_user_id": "1750040441880498176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035729227530879137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kill_this_hate 然后然后然后我一直法你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2035717489225609250",
+        "created_at": "2026-03-22T14:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T15:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035729285214814659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1750040441880498176",
+              "start": 0,
+              "username": "kill_this_hate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035729285214814659",
+        "in_reply_to_user_id": "1750040441880498176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035729227530879137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kill_this_hate 然后然后然后我一直法你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750040441880498176",
+        "conversation_id": "2035717489225609250",
+        "created_at": "2026-03-22T14:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T15:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035729227530879137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035729227530879137",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035717489225609250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 我们来炒作吧，好不好？就是我把你法了，然后你把我闺蜜法了，然后我和我闺蜜闹掰，然后你再把我法了，然后我又把你法了，然后我一直法你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2034912812620030449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035728501509165057/mhsiSqph_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 62,
+          "like_count": 2628,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 1251
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T06:19:04.000Z",
+        "description": "请爱我的人后退一步，对，就这样招招手就好。",
+        "id": "1750040441880498176",
+        "location": "lark2206",
+        "name": "雀逃避现实（接占卜",
+        "pinned_tweet_id": "2027930860163633378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022546607917666307/T2i9VP-J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 102,
+          "like_count": 21052,
+          "listed_count": 2,
+          "media_count": 891,
+          "tweet_count": 9434
+        },
+        "username": "kill_this_hate",
+        "verified": false
+      }
+    ]
+  }
+}

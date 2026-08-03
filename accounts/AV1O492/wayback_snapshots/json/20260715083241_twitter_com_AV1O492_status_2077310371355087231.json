@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077301901683757056"
+      ],
+      "media_source_tweet_id": [
+        "2077301917731131621"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2077310371355087231",
+    "created_at": "2026-07-15T08:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T09:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077310371355087231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1919090536180600832",
+          "start": 3,
+          "username": "dokigirlluv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rmgUf7PpEX",
+          "end": 40,
+          "expanded_url": "https://x.com/dokigirlluv/status/2077301917731131621/photo/1",
+          "media_key": "3_2077301901683757056",
+          "start": 17,
+          "url": "https://t.co/rmgUf7PpEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077310371355087231",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077301917731131621",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dokigirlluv: https://t.co/rmgUf7PpEX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1086,
+        "media_key": "3_2077301901683757056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQPEtUakAAP9id.jpg",
+        "width": 1138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077301901683757056"
+          ],
+          "media_source_tweet_id": [
+            "2077301917731131621"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2077310371355087231",
+        "created_at": "2026-07-15T08:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077310371355087231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1919090536180600832",
+              "start": 3,
+              "username": "dokigirlluv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rmgUf7PpEX",
+              "end": 40,
+              "expanded_url": "https://x.com/dokigirlluv/status/2077301917731131621/photo/1",
+              "media_key": "3_2077301901683757056",
+              "start": 17,
+              "url": "https://t.co/rmgUf7PpEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077310371355087231",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077301917731131621",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dokigirlluv: https://t.co/rmgUf7PpEX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077301901683757056"
+          ]
+        },
+        "author_id": "1919090536180600832",
+        "conversation_id": "2077301917731131621",
+        "created_at": "2026-07-15T07:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077301917731131621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rmgUf7PpEX",
+              "end": 23,
+              "expanded_url": "https://x.com/dokigirlluv/status/2077301917731131621/photo/1",
+              "media_key": "3_2077301901683757056",
+              "start": 0,
+              "url": "https://t.co/rmgUf7PpEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077301917731131621",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rmgUf7PpEX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 86,
+          "like_count": 5512,
+          "listed_count": 2,
+          "media_count": 337,
+          "tweet_count": 2783
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T18:03:42.000Z",
+        "description": "https://t.co/k2PgJQA6kY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sophiasssophia1",
+                "end": 23,
+                "expanded_url": "https://t.me/sophiasssophia1",
+                "start": 0,
+                "url": "https://t.co/k2PgJQA6kY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sophiaqwq00?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/sophiaqwq00?igsh=MXdyYjB5a3NwaGhraQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/EQEkSNJqeG"
+              }
+            ]
+          }
+        },
+        "id": "1919090536180600832",
+        "name": "Sophia",
+        "pinned_tweet_id": "2064401451766665522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071045306872164352/BvDPqHz1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17369,
+          "following_count": 32,
+          "like_count": 1761,
+          "listed_count": 5,
+          "media_count": 197,
+          "tweet_count": 573
+        },
+        "url": "https://t.co/EQEkSNJqeG",
+        "username": "dokigirlluv",
+        "verified": false
+      }
+    ]
+  }
+}

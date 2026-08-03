@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2072799580341878953",
+    "created_at": "2026-07-02T21:48:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T22:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072799580341878953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1933200730443415552",
+          "start": 3,
+          "username": "nothingnes74306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072799580341878953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072547917244817739",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nothingnes74306: 你的最狂躁最奇异搞笑最自毁最阴阳不定最死妈最骚逼的天使来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2072799580341878953",
+        "created_at": "2026-07-02T21:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T22:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072799580341878953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1933200730443415552",
+              "start": 3,
+              "username": "nothingnes74306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072799580341878953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072547917244817739",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nothingnes74306: 你的最狂躁最奇异搞笑最自毁最阴阳不定最死妈最骚逼的天使来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933200730443415552",
+        "conversation_id": "2072547917244817739",
+        "created_at": "2026-07-02T05:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T06:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072547917244817739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072547917244817739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你的最狂躁最奇异搞笑最自毁最阴阳不定最死妈最骚逼的天使来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 80,
+          "like_count": 4775,
+          "listed_count": 2,
+          "media_count": 296,
+          "tweet_count": 2441
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T16:33:06.000Z",
+        "description": "trust no one",
+        "id": "1933200730443415552",
+        "name": "nothingness",
+        "pinned_tweet_id": "2043580945433854076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996409076876476416/kYNAR_lU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 107,
+          "like_count": 7224,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 732
+        },
+        "url": "",
+        "username": "nothingnes74306",
+        "verified": false
+      }
+    ]
+  }
+}

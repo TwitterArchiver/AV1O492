@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2078932478199476629",
+    "created_at": "2026-07-20T11:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T12:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079167835973267943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1455085033652379648",
+          "start": 0,
+          "username": "AmyPond46124789"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079167835973267943",
+    "in_reply_to_user_id": "1455085033652379648",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079165245566644342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmyPond46124789 love dmc &amp; cannot draw anything out"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2078932478199476629",
+        "created_at": "2026-07-20T11:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079167835973267943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1455085033652379648",
+              "start": 0,
+              "username": "AmyPond46124789"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079167835973267943",
+        "in_reply_to_user_id": "1455085033652379648",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079165245566644342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmyPond46124789 love dmc &amp; cannot draw anything out"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455085033652379648",
+        "conversation_id": "2078932478199476629",
+        "created_at": "2026-07-20T11:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079165245566644342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079165245566644342",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078932478199476629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 How does one manage to make 30% of their arm go missing?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 I LOVE DANTE and everyone could see that",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2078916554520228324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 89,
+          "like_count": 6033,
+          "listed_count": 2,
+          "media_count": 360,
+          "tweet_count": 3020
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-01T08:11:42.000Z",
+        "description": "Artist\n18",
+        "id": "1455085033652379648",
+        "name": "v0mit_mutAnt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078911240093442048/Gc5652Sz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 110,
+          "like_count": 7927,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 2558
+        },
+        "url": "",
+        "username": "AmyPond46124789",
+        "verified": false
+      }
+    ]
+  }
+}

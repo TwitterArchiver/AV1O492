@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073256083095986176"
+      ],
+      "media_source_tweet_id": [
+        "2073257948634390903"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2073375415012651208",
+    "created_at": "2026-07-04T11:56:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T12:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073375415012651208"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 46,
+          "tag": "Vergil"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "736984936008187904",
+          "start": 3,
+          "username": "DMC_156"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gffflQZ6GY",
+          "end": 77,
+          "expanded_url": "https://x.com/DMC_156/status/2073257948634390903/photo/1",
+          "media_key": "3_2073256083095986176",
+          "start": 54,
+          "url": "https://t.co/gffflQZ6GY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073375415012651208",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073257948634390903",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DMC_156: Chibi Vergil: I need more Apple🍎 #Vergil https://t.co/gffflQZ6GY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2073256083095986176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWvbElaoAAaZOr.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073256083095986176"
+          ],
+          "media_source_tweet_id": [
+            "2073257948634390903"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2073375415012651208",
+        "created_at": "2026-07-04T11:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073375415012651208"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 46,
+              "tag": "Vergil"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "736984936008187904",
+              "start": 3,
+              "username": "DMC_156"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gffflQZ6GY",
+              "end": 77,
+              "expanded_url": "https://x.com/DMC_156/status/2073257948634390903/photo/1",
+              "media_key": "3_2073256083095986176",
+              "start": 54,
+              "url": "https://t.co/gffflQZ6GY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073375415012651208",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073257948634390903",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DMC_156: Chibi Vergil: I need more Apple🍎 #Vergil https://t.co/gffflQZ6GY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073256083095986176"
+          ]
+        },
+        "author_id": "736984936008187904",
+        "conversation_id": "2073257948634390903",
+        "created_at": "2026-07-04T04:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:02:25.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073256089236439434",
+          "2073257948634390903"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 33,
+              "tag": "Vergil"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gffflQZ6GY",
+              "end": 64,
+              "expanded_url": "https://x.com/DMC_156/status/2073257948634390903/photo/1",
+              "media_key": "3_2073256083095986176",
+              "start": 41,
+              "url": "https://t.co/gffflQZ6GY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073257948634390903",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1000,
+          "like_count": 142,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "Chibi Vergil: I need more Apple🍎 #Vergil https://t.co/gffflQZ6GY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Temen-ni-gru Tower",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 83,
+          "like_count": 4983,
+          "listed_count": 2,
+          "media_count": 307,
+          "tweet_count": 2554
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-29T18:17:56.000Z",
+        "description": "Post all about Vergil & V , Dante and Nero ( Mostly VERGIL💙 ) Games & Memes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Twitter.com",
+                "end": 23,
+                "expanded_url": "https://www.Twitter.com",
+                "start": 0,
+                "url": "https://t.co/Czmlhmhm3P"
+              }
+            ]
+          }
+        },
+        "id": "736984936008187904",
+        "location": "West Region, Singapore",
+        "name": "Λ2",
+        "pinned_tweet_id": "2046834221801701536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055509329529499648/aK-nXMO0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3707,
+          "following_count": 67,
+          "like_count": 30677,
+          "listed_count": 8,
+          "media_count": 3887,
+          "tweet_count": 8966
+        },
+        "url": "https://t.co/Czmlhmhm3P",
+        "username": "DMC_156",
+        "verified": false
+      }
+    ]
+  }
+}

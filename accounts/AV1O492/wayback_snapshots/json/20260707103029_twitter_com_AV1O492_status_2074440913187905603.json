@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074410204205023232",
+        "3_2074410204209315840"
+      ],
+      "media_source_tweet_id": [
+        "2074410216213389450",
+        "2074410216213389450"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2074440913187905603",
+    "created_at": "2026-07-07T10:30:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T11:30:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074440913187905603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2053440124856467456",
+          "start": 3,
+          "username": "ZOMBIEKING1111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gWCTH92zSg",
+          "end": 51,
+          "expanded_url": "https://x.com/ZOMBIEKING1111/status/2074410216213389450/photo/1",
+          "media_key": "3_2074410204205023232",
+          "start": 28,
+          "url": "https://t.co/gWCTH92zSg"
+        },
+        {
+          "display_url": "pic.x.com/gWCTH92zSg",
+          "end": 51,
+          "expanded_url": "https://x.com/ZOMBIEKING1111/status/2074410216213389450/photo/1",
+          "media_key": "3_2074410204209315840",
+          "start": 28,
+          "url": "https://t.co/gWCTH92zSg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074440913187905603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074410216213389450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZOMBIEKING1111: 我真是要圆寂了 https://t.co/gWCTH92zSg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 651,
+        "media_key": "3_2074410204205023232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnJFwwWAAAOY2V.jpg",
+        "width": 674
+      },
+      {
+        "height": 644,
+        "media_key": "3_2074410204209315840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnJFwxXgAA_5ib.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074410204205023232",
+            "3_2074410204209315840"
+          ],
+          "media_source_tweet_id": [
+            "2074410216213389450",
+            "2074410216213389450"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2074440913187905603",
+        "created_at": "2026-07-07T10:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074440913187905603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2053440124856467456",
+              "start": 3,
+              "username": "ZOMBIEKING1111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gWCTH92zSg",
+              "end": 51,
+              "expanded_url": "https://x.com/ZOMBIEKING1111/status/2074410216213389450/photo/1",
+              "media_key": "3_2074410204205023232",
+              "start": 28,
+              "url": "https://t.co/gWCTH92zSg"
+            },
+            {
+              "display_url": "pic.x.com/gWCTH92zSg",
+              "end": 51,
+              "expanded_url": "https://x.com/ZOMBIEKING1111/status/2074410216213389450/photo/1",
+              "media_key": "3_2074410204209315840",
+              "start": 28,
+              "url": "https://t.co/gWCTH92zSg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074440913187905603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074410216213389450",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZOMBIEKING1111: 我真是要圆寂了 https://t.co/gWCTH92zSg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074410204205023232",
+            "3_2074410204209315840"
+          ]
+        },
+        "author_id": "2053440124856467456",
+        "conversation_id": "2074410216213389450",
+        "created_at": "2026-07-07T08:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074410216213389450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gWCTH92zSg",
+              "end": 31,
+              "expanded_url": "https://x.com/ZOMBIEKING1111/status/2074410216213389450/photo/1",
+              "media_key": "3_2074410204205023232",
+              "start": 8,
+              "url": "https://t.co/gWCTH92zSg"
+            },
+            {
+              "display_url": "pic.x.com/gWCTH92zSg",
+              "end": 31,
+              "expanded_url": "https://x.com/ZOMBIEKING1111/status/2074410216213389450/photo/1",
+              "media_key": "3_2074410204209315840",
+              "start": 8,
+              "url": "https://t.co/gWCTH92zSg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074410216213389450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我真是要圆寂了 https://t.co/gWCTH92zSg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 86,
+          "like_count": 5237,
+          "listed_count": 2,
+          "media_count": 325,
+          "tweet_count": 2673
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T11:41:01.000Z",
+        "description": "od/shtwt king of the earth he/him\n专心过好自己的唐人生活\n我是天选，也是唯一",
+        "id": "2053440124856467456",
+        "name": "自在极意豪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066772444346499072/A-MyxOhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 74,
+          "like_count": 1156,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 667
+        },
+        "url": "",
+        "username": "ZOMBIEKING1111",
+        "verified": false
+      }
+    ]
+  }
+}

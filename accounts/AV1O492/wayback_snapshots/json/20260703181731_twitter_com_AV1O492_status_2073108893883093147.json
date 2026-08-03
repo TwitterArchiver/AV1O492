@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073108684029460480"
+      ],
+      "media_source_tweet_id": [
+        "2073108695588954545"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2073108893883093147",
+    "created_at": "2026-07-03T18:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T19:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073108893883093147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1764120054097195008",
+          "start": 3,
+          "username": "shikayobi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8K1gYHmTcG",
+          "end": 49,
+          "expanded_url": "https://x.com/shikayobi/status/2073108695588954545/photo/1",
+          "media_key": "3_2073108684029460480",
+          "start": 26,
+          "url": "https://t.co/8K1gYHmTcG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073108893883093147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073108695588954545",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shikayobi: 今晚你又是谁的收件人 https://t.co/8K1gYHmTcG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2073108684029460480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUpXURagAA7BpA.jpg",
+        "width": 1334
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073108684029460480"
+          ],
+          "media_source_tweet_id": [
+            "2073108695588954545"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2073108893883093147",
+        "created_at": "2026-07-03T18:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T19:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073108893883093147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1764120054097195008",
+              "start": 3,
+              "username": "shikayobi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8K1gYHmTcG",
+              "end": 49,
+              "expanded_url": "https://x.com/shikayobi/status/2073108695588954545/photo/1",
+              "media_key": "3_2073108684029460480",
+              "start": 26,
+              "url": "https://t.co/8K1gYHmTcG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073108893883093147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073108695588954545",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shikayobi: 今晚你又是谁的收件人 https://t.co/8K1gYHmTcG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073108684029460480"
+          ]
+        },
+        "author_id": "1764120054097195008",
+        "conversation_id": "2073108695588954545",
+        "created_at": "2026-07-03T18:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T19:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073108695588954545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8K1gYHmTcG",
+              "end": 34,
+              "expanded_url": "https://x.com/shikayobi/status/2073108695588954545/photo/1",
+              "media_key": "3_2073108684029460480",
+              "start": 11,
+              "url": "https://t.co/8K1gYHmTcG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073108695588954545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今晚你又是谁的收件人 https://t.co/8K1gYHmTcG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Temen-ni-gru Tower",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1357,
+          "following_count": 82,
+          "like_count": 4902,
+          "listed_count": 2,
+          "media_count": 301,
+          "tweet_count": 2494
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T02:46:22.000Z",
+        "description": "目前什么都不是",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/8uS8XTW",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/8uS8XTW",
+                "start": 0,
+                "url": "https://t.co/FIBd7FQlH0"
+              }
+            ]
+          }
+        },
+        "id": "1764120054097195008",
+        "name": "Søulhusk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073097326655311872/QoQg2O4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 25,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 35
+        },
+        "url": "https://t.co/FIBd7FQlH0",
+        "username": "shikayobi",
+        "verified": false
+      }
+    ]
+  }
+}

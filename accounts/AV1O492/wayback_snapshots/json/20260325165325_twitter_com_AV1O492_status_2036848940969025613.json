@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "1878391028744597662",
+    "created_at": "2026-03-25T16:53:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T17:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036848940969025613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1140091098766827520",
+          "start": 0,
+          "username": "yakubututansan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036848940969025613",
+    "in_reply_to_user_id": "1140091098766827520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878391028744597662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yakubututansan 这是？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1844,
+        "media_key": "3_1878391025359896576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhFir3fbwAA7AUO.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "1878391028744597662",
+        "created_at": "2026-03-25T16:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T17:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036848940969025613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1140091098766827520",
+              "start": 0,
+              "username": "yakubututansan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036848940969025613",
+        "in_reply_to_user_id": "1140091098766827520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878391028744597662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yakubututansan 这是？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878391025359896576"
+          ]
+        },
+        "author_id": "1140091098766827520",
+        "conversation_id": "1878391028744597662",
+        "created_at": "2025-01-12T10:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T11:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878391028744597662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/40Y3JbU6AW",
+              "end": 27,
+              "expanded_url": "https://x.com/yakubututansan/status/1878391028744597662/photo/1",
+              "media_key": "3_1878391025359896576",
+              "start": 4,
+              "url": "https://t.co/40Y3JbU6AW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878391028744597662",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑死了 https://t.co/40Y3JbU6AW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别把我认成女的 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035790691939590144/nPb2bPCA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 68,
+          "like_count": 3095,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1431
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-16T02:57:54.000Z",
+        "description": "鬱のままでいいよ",
+        "id": "1140091098766827520",
+        "name": "薬物炭酸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891793096314322945/2OpHENqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 131,
+          "like_count": 341,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 176
+        },
+        "username": "yakubututansan",
+        "verified": false
+      }
+    ]
+  }
+}

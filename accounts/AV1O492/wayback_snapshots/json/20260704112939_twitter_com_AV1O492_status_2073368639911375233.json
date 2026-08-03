@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072654015393824768"
+      ],
+      "media_source_tweet_id": [
+        "2072654038819074126"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073368639911375233",
+    "created_at": "2026-07-04T11:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T12:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073368639911375233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1078028638828875779",
+          "start": 3,
+          "username": "FuckboiNero"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6aq4mDhWN5",
+          "end": 86,
+          "expanded_url": "https://x.com/FuckboiNero/status/2072654038819074126/photo/1",
+          "media_key": "3_2072654015393824768",
+          "start": 63,
+          "url": "https://t.co/6aq4mDhWN5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073368639911375233",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 83
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072654038819074126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FuckboiNero: Shit gays be doing instead of just having sex https://t.co/6aq4mDhWN5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 737,
+        "media_key": "3_2072654015393824768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOL2HnWAAA6vfu.jpg",
+        "width": 1268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072654015393824768"
+          ],
+          "media_source_tweet_id": [
+            "2072654038819074126"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073368639911375233",
+        "created_at": "2026-07-04T11:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073368639911375233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1078028638828875779",
+              "start": 3,
+              "username": "FuckboiNero"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6aq4mDhWN5",
+              "end": 86,
+              "expanded_url": "https://x.com/FuckboiNero/status/2072654038819074126/photo/1",
+              "media_key": "3_2072654015393824768",
+              "start": 63,
+              "url": "https://t.co/6aq4mDhWN5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073368639911375233",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072654038819074126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FuckboiNero: Shit gays be doing instead of just having sex https://t.co/6aq4mDhWN5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072654015393824768"
+          ]
+        },
+        "author_id": "1078028638828875779",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072654038819074126",
+        "created_at": "2026-07-02T12:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072654038819074126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6aq4mDhWN5",
+              "end": 69,
+              "expanded_url": "https://x.com/FuckboiNero/status/2072654038819074126/photo/1",
+              "media_key": "3_2072654015393824768",
+              "start": 46,
+              "url": "https://t.co/6aq4mDhWN5"
+            },
+            {
+              "display_url": "x.com/noshowscon/sta…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/noshowscon/status/2047816145084846428",
+              "start": 70,
+              "url": "https://t.co/IQrb7n9aps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072654038819074126",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 5029,
+          "like_count": 400,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047816145084846428",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Shit gays be doing instead of just having sex https://t.co/6aq4mDhWN5 https://t.co/IQrb7n9aps"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Temen-ni-gru Tower",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 83,
+          "like_count": 4978,
+          "listed_count": 2,
+          "media_count": 306,
+          "tweet_count": 2548
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-26T20:43:51.000Z",
+        "description": "I'M THE DOG THAT BITES BACK ! 🔞 . Cath . 20+ . 🇬🇷 . He/She/They . ENG/GR . DMC . DN🔄️❌ & Nero-centric . Triggering themes . Pfp @storytellering .",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 128,
+                "username": "storytellering"
+              }
+            ]
+          }
+        },
+        "id": "1078028638828875779",
+        "location": "Ελλάδα",
+        "name": "ARTERIAL ANGEL.",
+        "pinned_tweet_id": "1146137100892430337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055765141514334208/y5VmRuqM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 498,
+          "like_count": 22230,
+          "listed_count": 4,
+          "media_count": 259,
+          "tweet_count": 14418
+        },
+        "url": "",
+        "username": "FuckboiNero",
+        "verified": false
+      }
+    ]
+  }
+}

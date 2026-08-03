@@ -1,0 +1,496 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072324412683194369"
+      ],
+      "media_source_tweet_id": [
+        "2072324428718076063"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2072456954258297343",
+    "created_at": "2026-07-01T23:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T00:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072456954258297343"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 17,
+          "tag": "dcm"
+        },
+        {
+          "end": 34,
+          "start": 22,
+          "tag": "devilmaycry"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1596549129148444672",
+          "start": 3,
+          "username": "YU_NXX_X"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eGqc9CGWRr",
+          "end": 58,
+          "expanded_url": "https://x.com/YU_NXX_X/status/2072324428718076063/photo/1",
+          "media_key": "3_2072324412683194369",
+          "start": 35,
+          "url": "https://t.co/eGqc9CGWRr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072456954258297343",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 123
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072324428718076063",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YU_NXX_X: 5V #dcm #devilmaycry https://t.co/eGqc9CGWRr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2319,
+        "media_key": "3_2072324412683194369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJgEt1aEAEpkk8.jpg",
+        "width": 3215
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072324412683194369"
+          ],
+          "media_source_tweet_id": [
+            "2072324428718076063"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2072456954258297343",
+        "created_at": "2026-07-01T23:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T00:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072456954258297343"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "dcm"
+            },
+            {
+              "end": 34,
+              "start": 22,
+              "tag": "devilmaycry"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1596549129148444672",
+              "start": 3,
+              "username": "YU_NXX_X"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eGqc9CGWRr",
+              "end": 58,
+              "expanded_url": "https://x.com/YU_NXX_X/status/2072324428718076063/photo/1",
+              "media_key": "3_2072324412683194369",
+              "start": 35,
+              "url": "https://t.co/eGqc9CGWRr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072456954258297343",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 123
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072324428718076063",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YU_NXX_X: 5V #dcm #devilmaycry https://t.co/eGqc9CGWRr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072324412683194369"
+          ]
+        },
+        "author_id": "1596549129148444672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2072324428718076063",
+        "created_at": "2026-07-01T14:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072324428718076063"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 3,
+              "tag": "dcm"
+            },
+            {
+              "end": 20,
+              "start": 8,
+              "tag": "devilmaycry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eGqc9CGWRr",
+              "end": 44,
+              "expanded_url": "https://x.com/YU_NXX_X/status/2072324428718076063/photo/1",
+              "media_key": "3_2072324412683194369",
+              "start": 21,
+              "url": "https://t.co/eGqc9CGWRr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072324428718076063",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 5052,
+          "like_count": 859,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "5V #dcm #devilmaycry https://t.co/eGqc9CGWRr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1340,
+          "following_count": 78,
+          "like_count": 4698,
+          "listed_count": 1,
+          "media_count": 291,
+          "tweet_count": 2407
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T16:59:25.000Z",
+        "description": "she/her |17yo| . yrym 槍弓💙❤️|VW💛🖤|⚠️ dmcdv ❤️💙⚠️(BOTTOM VERGIL ONLY)❗️. my tiktok account: https://t.co/RbSLoJOnhQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@yu_nxx_x?_r=1…",
+                "end": 113,
+                "expanded_url": "https://www.tiktok.com/@yu_nxx_x?_r=1&_t=ZS-963cDf7Cnfo",
+                "start": 90,
+                "url": "https://t.co/RbSLoJOnhQ"
+              }
+            ]
+          }
+        },
+        "id": "1596549129148444672",
+        "location": "yourmom",
+        "name": "Yunii🎀",
+        "pinned_tweet_id": "2064338861485088918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063610326143447040/z04Vhhbs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 56,
+          "like_count": 10893,
+          "listed_count": 4,
+          "media_count": 19,
+          "tweet_count": 1140
+        },
+        "url": "",
+        "username": "YU_NXX_X",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2068219475581972480"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2068219508486201829",
+    "created_at": "2026-06-20T06:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T07:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068219508486201829"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T1d2lUCzMi",
+          "end": 47,
+          "expanded_url": "https://x.com/AV1O492/status/2068219508486201829/video/1",
+          "media_key": "7_2068219475581972480",
+          "start": 24,
+          "url": "https://t.co/T1d2lUCzMi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068219508486201829",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "handsome cool guy btm概念 https://t.co/T1d2lUCzMi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17255,
+        "height": 1280,
+        "media_key": "7_2068219475581972480",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2068219475581972480/pu/img/7bBcx0BjV77yOON_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068219475581972480/pu/vid/avc1/320x690/K-Kyn2CcidqGBKzI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068219475581972480/pu/vid/avc1/480x1036/0pHm3M4AZCQyrR1n.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068219475581972480/pu/vid/avc1/592x1280/MASeGT93eqZPOxIX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2068219475581972480/pu/pl/9keCScAT3plVlw_P.m3u8?tag=12"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2068219475581972480"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2068219508486201829",
+        "created_at": "2026-06-20T06:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068219508486201829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T1d2lUCzMi",
+              "end": 47,
+              "expanded_url": "https://x.com/AV1O492/status/2068219508486201829/video/1",
+              "media_key": "7_2068219475581972480",
+              "start": 24,
+              "url": "https://t.co/T1d2lUCzMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068219508486201829",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "handsome cool guy btm概念 https://t.co/T1d2lUCzMi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜皮下真名但丁斯巴达实名冲浪｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068158408487014400/3eqb45Ho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 71,
+          "like_count": 4227,
+          "listed_count": 2,
+          "media_count": 254,
+          "tweet_count": 2151
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

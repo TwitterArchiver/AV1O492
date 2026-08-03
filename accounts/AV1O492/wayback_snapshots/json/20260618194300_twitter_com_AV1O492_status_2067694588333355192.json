@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2067266515947438386",
+    "created_at": "2026-06-18T19:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T20:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067694588333355192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1592172867189293057",
+          "start": 0,
+          "username": "cxszb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067694588333355192",
+    "in_reply_to_user_id": "1592172867189293057",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067266515947438386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxszb 神秘绷带男"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2067266506107535361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBn7ziaQAECe7O.jpg",
+        "width": 1706
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2067266506615054336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBn71baYAACi-s.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2067266515947438386",
+        "created_at": "2026-06-18T19:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T20:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067694588333355192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1592172867189293057",
+              "start": 0,
+              "username": "cxszb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067694588333355192",
+        "in_reply_to_user_id": "1592172867189293057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067266515947438386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxszb 神秘绷带男"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067266506107535361",
+            "3_2067266506615054336"
+          ]
+        },
+        "author_id": "1592172867189293057",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067266515947438386",
+        "created_at": "2026-06-17T15:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067266515947438386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mPq0s9ykFA",
+              "end": 23,
+              "expanded_url": "https://x.com/cxszb/status/2067266515947438386/photo/1",
+              "media_key": "3_2067266506107535361",
+              "start": 0,
+              "url": "https://t.co/mPq0s9ykFA"
+            },
+            {
+              "display_url": "pic.x.com/mPq0s9ykFA",
+              "end": 23,
+              "expanded_url": "https://x.com/cxszb/status/2067266515947438386/photo/1",
+              "media_key": "3_2067266506615054336",
+              "start": 0,
+              "url": "https://t.co/mPq0s9ykFA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067266515947438386",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mPq0s9ykFA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067678186683715584/4RbnZMYe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 69,
+          "like_count": 4112,
+          "listed_count": 2,
+          "media_count": 246,
+          "tweet_count": 2056
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-14T15:09:37.000Z",
+        "description": "03/非二元/无性吸引/抖s/收ATM/水仙/反出生主义/负能警告/现居北京/",
+        "id": "1592172867189293057",
+        "location": "🚪好友位188",
+        "name": "直花今天不嘴臭",
+        "pinned_tweet_id": "1895930921351823445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914757234996994056/9DnzxE3b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5588,
+          "following_count": 209,
+          "like_count": 17178,
+          "listed_count": 14,
+          "media_count": 150,
+          "tweet_count": 16221
+        },
+        "url": "",
+        "username": "cxszb",
+        "verified": false
+      }
+    ]
+  }
+}

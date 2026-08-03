@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067925099303645184"
+      ],
+      "media_source_tweet_id": [
+        "2067925111249027568"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2068200981687669009",
+    "created_at": "2026-06-20T05:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T06:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068200981687669009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2013258168764112896",
+          "start": 3,
+          "username": "Murt_ko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0myhfYrtBI",
+          "end": 44,
+          "expanded_url": "https://x.com/Murt_ko/status/2067925111249027568/photo/1",
+          "media_key": "3_2067925099303645184",
+          "start": 21,
+          "url": "https://t.co/0myhfYrtBI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068200981687669009",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 190
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067925111249027568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Murt_ko: 修改了一下^^ https://t.co/0myhfYrtBI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2416,
+        "media_key": "3_2067925099303645184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLK-6-YbsAA6rsn.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067925099303645184"
+          ],
+          "media_source_tweet_id": [
+            "2067925111249027568"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2068200981687669009",
+        "created_at": "2026-06-20T05:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068200981687669009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2013258168764112896",
+              "start": 3,
+              "username": "Murt_ko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0myhfYrtBI",
+              "end": 44,
+              "expanded_url": "https://x.com/Murt_ko/status/2067925111249027568/photo/1",
+              "media_key": "3_2067925099303645184",
+              "start": 21,
+              "url": "https://t.co/0myhfYrtBI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068200981687669009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 190
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067925111249027568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Murt_ko: 修改了一下^^ https://t.co/0myhfYrtBI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067925099303645184"
+          ]
+        },
+        "author_id": "2013258168764112896",
+        "conversation_id": "2067925111249027568",
+        "created_at": "2026-06-19T10:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067925111249027568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0myhfYrtBI",
+              "end": 31,
+              "expanded_url": "https://x.com/Murt_ko/status/2067925111249027568/photo/1",
+              "media_key": "3_2067925099303645184",
+              "start": 8,
+              "url": "https://t.co/0myhfYrtBI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067925111249027568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 9406,
+          "like_count": 1197,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 190
+        },
+        "reply_settings": "everyone",
+        "text": "修改了一下^^ https://t.co/0myhfYrtBI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜皮下真名但丁斯巴达实名冲浪｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068158408487014400/3eqb45Ho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 71,
+          "like_count": 4192,
+          "listed_count": 2,
+          "media_count": 251,
+          "tweet_count": 2137
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T14:32:15.000Z",
+        "description": "18｜ DMCDV❤️💙🔁❌❌❌｜ 🚫Yumeshipper ｜ 中文/EN👌｜🔕低浮上",
+        "id": "2013258168764112896",
+        "location": "=小顾",
+        "name": "红墓市鳏夫",
+        "pinned_tweet_id": "2038250772253860010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017901632768634880/4QY6k-ia_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 46,
+          "like_count": 2169,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1085
+        },
+        "url": "",
+        "username": "Murt_ko",
+        "verified": false
+      }
+    ]
+  }
+}

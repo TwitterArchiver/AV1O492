@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2033338706070004119",
+    "created_at": "2026-03-16T00:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T01:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033338706070004119"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aeoncontent/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/aeoncontent/status/2027829025637351567",
+          "start": 7,
+          "url": "https://t.co/Ru5MaXCJrg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033338706070004119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027829025637351567",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我和我媳妇儿 https://t.co/Ru5MaXCJrg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2027828961179574272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCRLskBboAAE0qt.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2027828974273851393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCRLtUzWcAEmgeo.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2033338706070004119",
+        "created_at": "2026-03-16T00:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T01:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033338706070004119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aeoncontent/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/aeoncontent/status/2027829025637351567",
+              "start": 7,
+              "url": "https://t.co/Ru5MaXCJrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033338706070004119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027829025637351567",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我和我媳妇儿 https://t.co/Ru5MaXCJrg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027828961179574272",
+            "3_2027828974273851393"
+          ]
+        },
+        "author_id": "1509300144465981443",
+        "conversation_id": "2027829025637351567",
+        "created_at": "2026-02-28T19:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T20:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027829025637351567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6pGxEucuI9",
+              "end": 23,
+              "expanded_url": "https://x.com/aeoncontent/status/2027829025637351567/photo/1",
+              "media_key": "3_2027828961179574272",
+              "start": 0,
+              "url": "https://t.co/6pGxEucuI9"
+            },
+            {
+              "display_url": "pic.x.com/6pGxEucuI9",
+              "end": 23,
+              "expanded_url": "https://x.com/aeoncontent/status/2027829025637351567/photo/1",
+              "media_key": "3_2027828974273851393",
+              "start": 0,
+              "url": "https://t.co/6pGxEucuI9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027829025637351567",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 262,
+          "impression_count": 40689,
+          "like_count": 3578,
+          "quote_count": 33,
+          "reply_count": 0,
+          "retweet_count": 519
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/6pGxEucuI9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032797382296166400/85J_f9jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 53,
+          "like_count": 2079,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1080
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-30T22:43:06.000Z",
+        "description": "fan account dedicated to Ada and Leon",
+        "id": "1509300144465981443",
+        "location": "ic: kjr0313",
+        "name": "Ada ♡ Leon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032430892015071232/geQqCBE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5079,
+          "following_count": 0,
+          "like_count": 288,
+          "listed_count": 2,
+          "media_count": 454,
+          "tweet_count": 547
+        },
+        "username": "aeoncontent",
+        "verified": false
+      }
+    ]
+  }
+}

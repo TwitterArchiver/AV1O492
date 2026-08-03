@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "1930320652478886239",
+    "created_at": "2025-06-04T17:48:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T18:48:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930320652478886239"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jlippincott_/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/jlippincott_/status/1930292141466571163",
+          "start": 9,
+          "url": "https://t.co/hxcPHQrsOx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930320652478886239",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930292141466571163",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我装松弛被发现： https://t.co/hxcPHQrsOx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1724,
+        "media_key": "3_1930292132964683776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsnGd8IXUAAQ9Q2.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "1930320652478886239",
+        "created_at": "2025-06-04T17:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T18:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930320652478886239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jlippincott_/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/jlippincott_/status/1930292141466571163",
+              "start": 9,
+              "url": "https://t.co/hxcPHQrsOx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930320652478886239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930292141466571163",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我装松弛被发现： https://t.co/hxcPHQrsOx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930292132964683776"
+          ]
+        },
+        "author_id": "1287866726491672577",
+        "conversation_id": "1930292141466571163",
+        "created_at": "2025-06-04T15:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T16:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930292141466571163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ybs0fdsswh",
+              "end": 84,
+              "expanded_url": "https://x.com/jlippincott_/status/1930292141466571163/photo/1",
+              "media_key": "3_1930292132964683776",
+              "start": 61,
+              "url": "https://t.co/Ybs0fdsswh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930292141466571163",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Why are the flags creased? Why are the flags always creased?"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 172,
+          "impression_count": 75373,
+          "like_count": 4468,
+          "quote_count": 43,
+          "reply_count": 214,
+          "retweet_count": 200
+        },
+        "reply_settings": "everyone",
+        "text": "Why are the flags creased? Why are the flags always creased? https://t.co/Ybs0fdsswh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "恐怖暗黑血仆少羽奶龙国潮来袭神秘功夫需要加强哈基米哈基米哈基米胖宝宝乖狗狗屠孝子TV之提琴大人我来给您踩踩背啦点击输入文本金翼先知白兑换码我的天哪镜大人屠夫版本人类需要加强全网最尊重美国人英国人加拿大人墨西哥人阿根廷人中国人挪威人瑞典人德国人俄罗斯人日本人波兰人意大利人活死人女巫真神棍假神婆及狼人鳄鱼人吸血鬼的推特账户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "苦痛之屋    he/them",
+        "name": "𝖍𝖊𝖆𝖑 𝖒𝖞 𝖕𝖘𝖞𝖈𝖍𝖔 𝖑𝖔𝖛𝖊☠✯粪海狂蛆✯",
+        "pinned_tweet_id": "1929763139173912817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929086113408544768/2_CrG0ys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 14,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 206
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-27T21:46:12.000Z",
+        "description": "Political scientist | Economist | USMC | Regime Critic | MAGA\n\nΠόλεμος πάντων μὲν πατήρ ἐστι, πάντων δὲ βασιλεύς",
+        "id": "1287866726491672577",
+        "name": "Josiah Lippincott",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889432555197440003/dd8r_fOr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67001,
+          "following_count": 3582,
+          "like_count": 86044,
+          "listed_count": 662,
+          "media_count": 2659,
+          "tweet_count": 23562
+        },
+        "username": "jlippincott_",
+        "verified": true
+      }
+    ]
+  }
+}

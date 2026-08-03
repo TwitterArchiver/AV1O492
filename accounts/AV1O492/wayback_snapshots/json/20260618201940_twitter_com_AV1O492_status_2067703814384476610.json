@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2067703814384476610",
+    "created_at": "2026-06-18T20:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T21:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067703814384476610"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067703814384476610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "bpd怎么治？好吧，其实我是不想治的，如果我没有bpd的话，我可能就不会突发地创造一些东西，如果没有的话，虽说情感波动不会那么逆天了，但是低的没了，高的也没了，这对我来说就像我的毒瘾和我的精神疾病一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2067703814384476610",
+        "created_at": "2026-06-18T20:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T21:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067703814384476610"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067703814384476610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bpd怎么治？好吧，其实我是不想治的，如果我没有bpd的话，我可能就不会突发地创造一些东西，如果没有的话，虽说情感波动不会那么逆天了，但是低的没了，高的也没了，这对我来说就像我的毒瘾和我的精神疾病一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067678186683715584/4RbnZMYe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1244,
+          "following_count": 70,
+          "like_count": 4125,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 2072
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2077699138700148736"
+      ],
+      "media_source_tweet_id": [
+        "2077699194496917696"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2077699731279761642",
+    "created_at": "2026-07-16T10:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T11:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077699731279761642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1843735518401703937",
+          "start": 3,
+          "username": "momokoo8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NLPUruJQFm",
+          "end": 45,
+          "expanded_url": "https://x.com/momokoo8964/status/2077699194496917696/video/1",
+          "media_key": "13_2077699138700148736",
+          "start": 22,
+          "url": "https://t.co/NLPUruJQFm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077699731279761642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077699194496917696",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momokoo8964: 好痛啊… https://t.co/NLPUruJQFm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8534,
+        "height": 1280,
+        "media_key": "13_2077699138700148736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077699138700148736/img/tQohrC--hLoHRN0D.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077699138700148736/vid/avc1/320x568/xHlqDm9WIdxtIPuM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077699138700148736/vid/avc1/480x852/ABcgxomnmuKIcCNx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077699138700148736/vid/avc1/720x1280/r5h8ZIKg3NtnnwfZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077699138700148736/pl/Asa6Uk_Q4_gFJ8wS.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077699138700148736"
+          ],
+          "media_source_tweet_id": [
+            "2077699194496917696"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2077699731279761642",
+        "created_at": "2026-07-16T10:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077699731279761642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1843735518401703937",
+              "start": 3,
+              "username": "momokoo8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NLPUruJQFm",
+              "end": 45,
+              "expanded_url": "https://x.com/momokoo8964/status/2077699194496917696/video/1",
+              "media_key": "13_2077699138700148736",
+              "start": 22,
+              "url": "https://t.co/NLPUruJQFm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077699731279761642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077699194496917696",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @momokoo8964: 好痛啊… https://t.co/NLPUruJQFm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077699138700148736"
+          ]
+        },
+        "author_id": "1843735518401703937",
+        "conversation_id": "2077699194496917696",
+        "created_at": "2026-07-16T10:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077699194496917696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NLPUruJQFm",
+              "end": 28,
+              "expanded_url": "https://x.com/momokoo8964/status/2077699194496917696/video/1",
+              "media_key": "13_2077699138700148736",
+              "start": 5,
+              "url": "https://t.co/NLPUruJQFm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077699194496917696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好痛啊… https://t.co/NLPUruJQFm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 88,
+          "like_count": 5639,
+          "listed_count": 2,
+          "media_count": 341,
+          "tweet_count": 2842
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T19:29:47.000Z",
+        "description": "只是一个普通人类女孩",
+        "id": "1843735518401703937",
+        "location": "🚪88 288",
+        "name": "苦桃",
+        "pinned_tweet_id": "2076652431518367938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077346029083750400/Bda5bvbQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 133,
+          "like_count": 4081,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 1577
+        },
+        "url": "",
+        "username": "momokoo8964",
+        "verified": false
+      }
+    ]
+  }
+}

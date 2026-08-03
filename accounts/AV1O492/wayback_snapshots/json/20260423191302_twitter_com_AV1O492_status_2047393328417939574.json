@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2047393328417939574",
+    "created_at": "2026-04-23T19:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T20:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047393328417939574"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lotus_LianHua0…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/Lotus_LianHua04/status/2047393016600752558",
+          "start": 35,
+          "url": "https://t.co/UTpwZw9fTn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047393328417939574",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047393016600752558",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "另外一个平行世界的我，因为狠心下单了100盒，结果就在昨天被警察传唤 https://t.co/UTpwZw9fTn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2047393328417939574",
+        "created_at": "2026-04-23T19:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T20:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047393328417939574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lotus_LianHua0…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Lotus_LianHua04/status/2047393016600752558",
+              "start": 35,
+              "url": "https://t.co/UTpwZw9fTn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047393328417939574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047393016600752558",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "另外一个平行世界的我，因为狠心下单了100盒，结果就在昨天被警察传唤 https://t.co/UTpwZw9fTn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2047342600013898208",
+        "created_at": "2026-04-23T19:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T20:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047393016600752558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047393016600752558",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047342600013898208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 当时在群里的一句“我要不要买一百盒”现在回想起来好神圣啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047320949570277376/ns1syjsj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 69,
+          "like_count": 3710,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 1738
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2025452734577869286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034457349608583168/v42_v5eG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 21,
+          "like_count": 387,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1097
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

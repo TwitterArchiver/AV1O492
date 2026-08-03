@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2078116596430909525",
+    "created_at": "2026-07-18T08:41:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:41:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078399831891157392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1826046056141828096",
+          "start": 0,
+          "username": "RachelPort9321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078399831891157392",
+    "in_reply_to_user_id": "1826046056141828096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078393033197056271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RachelPort9321 可以可以呵呵哒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2078116596430909525",
+        "created_at": "2026-07-18T08:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078399831891157392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1826046056141828096",
+              "start": 0,
+              "username": "RachelPort9321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078399831891157392",
+        "in_reply_to_user_id": "1826046056141828096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078393033197056271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RachelPort9321 可以可以呵呵哒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826046056141828096",
+        "conversation_id": "2078116596430909525",
+        "created_at": "2026-07-18T08:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078393033197056271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078393033197056271",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078116596430909525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 你啥时候开通微信付款我也要来支持"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 91,
+          "like_count": 5772,
+          "listed_count": 2,
+          "media_count": 351,
+          "tweet_count": 2906
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T23:58:09.000Z",
+        "description": "虎牙直播间298142播擦边，趁热拿捏公交芊\n本人战绩:wbg爱丽杨磊，一哥凉哈皮梁威，拳击手头鱼教主黄志镕，逃脱大师487何添顺，gr小白脸年锦",
+        "id": "1826046056141828096",
+        "location": "whatever happen",
+        "name": "赵沭同",
+        "pinned_tweet_id": "1918633179428311374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078392381964267520/NmkGBYcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 399,
+          "like_count": 11430,
+          "listed_count": 2,
+          "media_count": 323,
+          "tweet_count": 5000
+        },
+        "url": "",
+        "username": "RachelPort9321",
+        "verified": false
+      }
+    ]
+  }
+}

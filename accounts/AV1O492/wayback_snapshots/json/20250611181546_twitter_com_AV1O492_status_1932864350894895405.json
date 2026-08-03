@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "1932864350894895405",
+    "created_at": "2025-06-11T18:15:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T19:15:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932864350894895405"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/WendolynZo7578…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/WendolynZo75783/status/1932764911840755861",
+          "start": 4,
+          "url": "https://t.co/VIKGzRFmmL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932864350894895405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932764911840755861",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "媳妇儿 https://t.co/VIKGzRFmmL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1932764894958698496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtKPboZbwAAHiu1.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1932764894908329990",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtKPboNbMAYkb8O.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1118,
+        "media_key": "3_1932764894925053952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtKPboRaYAAVqxG.jpg",
+        "width": 1082
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "1932864350894895405",
+        "created_at": "2025-06-11T18:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T19:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932864350894895405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WendolynZo7578…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/WendolynZo75783/status/1932764911840755861",
+              "start": 4,
+              "url": "https://t.co/VIKGzRFmmL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932864350894895405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932764911840755861",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "媳妇儿 https://t.co/VIKGzRFmmL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932764894958698496",
+            "3_1932764894908329990",
+            "3_1932764894925053952"
+          ]
+        },
+        "author_id": "1915081922423730176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1932764911840755861",
+        "created_at": "2025-06-11T11:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T12:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932764911840755861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ks9V7P1NNu",
+              "end": 23,
+              "expanded_url": "https://x.com/WendolynZo75783/status/1932764911840755861/photo/1",
+              "media_key": "3_1932764894958698496",
+              "start": 0,
+              "url": "https://t.co/ks9V7P1NNu"
+            },
+            {
+              "display_url": "pic.x.com/ks9V7P1NNu",
+              "end": 23,
+              "expanded_url": "https://x.com/WendolynZo75783/status/1932764911840755861/photo/1",
+              "media_key": "3_1932764894908329990",
+              "start": 0,
+              "url": "https://t.co/ks9V7P1NNu"
+            },
+            {
+              "display_url": "pic.x.com/ks9V7P1NNu",
+              "end": 23,
+              "expanded_url": "https://x.com/WendolynZo75783/status/1932764911840755861/photo/1",
+              "media_key": "3_1932764894925053952",
+              "start": 0,
+              "url": "https://t.co/ks9V7P1NNu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932764911840755861",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ks9V7P1NNu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "恐怖暗黑血仆少羽奶龙国潮来袭神秘功夫需要加强哈基米哈基米哈基米胖宝宝乖狗狗屠孝子TV之提琴大人我来给您踩踩背啦点击输入文本金翼先知白兑换码我的天哪镜大人屠夫版本人类需要加强全网最尊重美国人英国人加拿大人墨西哥人阿根廷人中国人挪威人瑞典人德国人俄罗斯人日本人波兰人意大利人活死人女巫真神棍假神婆及狼人鳄鱼人吸血鬼的推特账户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "苦痛之屋    he/them",
+        "name": "𝖍𝖊𝖆𝖑 𝖒𝖞 𝖕𝖘𝖞𝖈𝖍𝖔 𝖑𝖔𝖛𝖊☠✯粪海狂蛆✯",
+        "pinned_tweet_id": "1932310860283674700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932284293818249216/2HC70Y2I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 19,
+          "like_count": 894,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 503
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T16:34:54.000Z",
+        "description": "臭傻逼丧门驴操我把你打漏屎喂给你妈吃",
+        "id": "1915081922423730176",
+        "location": "𝕳𝖊𝖆𝖗𝖙-𝕾𝖍𝖆𝖕𝖊𝖉 𝕭𝖔𝖝",
+        "name": "Erosive chyme",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931328015105142784/Wl3OqAUC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 77,
+          "like_count": 2264,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 926
+        },
+        "username": "WendolynZo75783",
+        "verified": false
+      }
+    ]
+  }
+}

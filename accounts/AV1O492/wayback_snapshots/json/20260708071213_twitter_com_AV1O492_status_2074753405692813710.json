@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2074753405692813710",
+    "created_at": "2026-07-08T07:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T08:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074753405692813710"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/soulhusk_dead/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/soulhusk_dead/status/2074749892782960743",
+          "start": 19,
+          "url": "https://t.co/3urlQSTgJ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074753405692813710",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074749892782960743",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你现在给我唱一个Gethsemane https://t.co/3urlQSTgJ6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 626,
+        "media_key": "3_2074749886692765696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMr-B4oasAAiRSA.jpg",
+        "width": 598
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2074753405692813710",
+        "created_at": "2026-07-08T07:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074753405692813710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/soulhusk_dead/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/soulhusk_dead/status/2074749892782960743",
+              "start": 19,
+              "url": "https://t.co/3urlQSTgJ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074753405692813710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074749892782960743",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你现在给我唱一个Gethsemane https://t.co/3urlQSTgJ6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074749886692765696"
+          ]
+        },
+        "author_id": "1764120054097195008",
+        "conversation_id": "2074749892782960743",
+        "created_at": "2026-07-08T06:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074749892782960743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ibF6cNxQQX",
+              "end": 29,
+              "expanded_url": "https://x.com/soulhusk_dead/status/2074749892782960743/photo/1",
+              "media_key": "3_2074749886692765696",
+              "start": 6,
+              "url": "https://t.co/ibF6cNxQQX"
+            },
+            {
+              "display_url": "x.com/av1o492/status…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/av1o492/status/2074746049227546859",
+              "start": 30,
+              "url": "https://t.co/6an0WHgQ61"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074749892782960743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074746049227546859",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这样吗宝贝 https://t.co/ibF6cNxQQX https://t.co/6an0WHgQ61"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1412,
+          "following_count": 84,
+          "like_count": 5287,
+          "listed_count": 2,
+          "media_count": 325,
+          "tweet_count": 2680
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T02:46:22.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/bakps003",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/bakps003",
+                "start": 0,
+                "url": "https://t.co/dpo6gVKNJa"
+              }
+            ]
+          }
+        },
+        "id": "1764120054097195008",
+        "name": "Søulhusk",
+        "pinned_tweet_id": "2073364534136615157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073097326655311872/QoQg2O4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 24,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 58
+        },
+        "url": "https://t.co/dpo6gVKNJa",
+        "username": "soulhusk_dead",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2050119888237384181",
+    "created_at": "2026-05-01T07:47:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T08:47:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050119888237384181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 20,
+          "id": "2034261641119014912",
+          "start": 4,
+          "username": "xxh448838021382"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050119888237384181",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第二人格@xxh448838021382"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2050119888237384181",
+        "created_at": "2026-05-01T07:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T08:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050119888237384181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "2034261641119014912",
+              "start": 4,
+              "username": "xxh448838021382"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050119888237384181",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第二人格@xxh448838021382"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047592059872387072/fc9q0a9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1176,
+          "following_count": 75,
+          "like_count": 4023,
+          "listed_count": 3,
+          "media_count": 234,
+          "tweet_count": 1976
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-18T13:32:34.000Z",
+        "description": "大水浑然 灵行其上 你我就曾在那儿 分离                ｜drugholic｜中文/ENG/ESP/DEU｜我是马尔维德｜he/him",
+        "id": "2034261641119014912",
+        "location": "六道轮回苦 死对象之地狱",
+        "name": "𝐌𝐚𝐥𝐯𝐞𝐫𝐝𝐞 𝐇𝐚𝐭𝐞𝐬 𝐘𝐨𝐮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036110454053834752/I25bRisA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 13,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "xxh448838021382",
+        "verified": false
+      }
+    ]
+  }
+}

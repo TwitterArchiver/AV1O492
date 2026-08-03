@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2038959600393974269",
+    "created_at": "2026-04-01T08:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T09:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039257264239095881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1957538990925692928",
+          "start": 0,
+          "username": "SAT0011229"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039257264239095881",
+    "in_reply_to_user_id": "1957538990925692928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039257018100494354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SAT0011229 我好帅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2038959600393974269",
+        "created_at": "2026-04-01T08:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T09:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039257264239095881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1957538990925692928",
+              "start": 0,
+              "username": "SAT0011229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039257264239095881",
+        "in_reply_to_user_id": "1957538990925692928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039257018100494354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SAT0011229 我好帅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957538990925692928",
+        "conversation_id": "2038959600393974269",
+        "created_at": "2026-04-01T08:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T09:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039257018100494354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039257018100494354",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038959600393974269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 其实玩试管的科学家也会磕药当自残精神病😋不然僵尸博士是怎么出现的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别把我认成女的 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038698420756729857/Mtx3ZDGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 72,
+          "like_count": 3630,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 1671
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T20:24:08.000Z",
+        "description": "酒鬼/存在主义/TL/同人女/板绘初学者……属性太多就不全写出来了\nX当日记发……/\n日语—中文是机翻请谅解",
+        "id": "1957538990925692928",
+        "name": "violet",
+        "pinned_tweet_id": "2023284479541047642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039164209381199872/v1jUVpsE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 14,
+          "like_count": 1405,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 280
+        },
+        "username": "SAT0011229",
+        "verified": false
+      }
+    ]
+  }
+}

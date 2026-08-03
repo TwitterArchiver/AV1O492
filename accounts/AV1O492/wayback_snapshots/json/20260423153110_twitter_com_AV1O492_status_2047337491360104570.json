@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2047333895709004097",
+    "created_at": "2026-04-23T15:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047337491360104570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2032802107745824768",
+          "start": 0,
+          "username": "guangzhouxidu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047337491360104570",
+    "in_reply_to_user_id": "2032802107745824768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047336063497392368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guangzhouxidu 不搞清楚药滥原因就短视性一刀切地把白名单管控纯属搬石头砸自己脚\n嗑药的没了白名单首选药只能把更烂下位替代当做新的首选，一直循环往复总有一天没办法从网购平台搞到任何自己想要的东西就只能大把给非法黑灰产业投钱换畅快，这点道理就是有人搞不懂，我也没想到这一天会来得这么快"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2047333895709004097",
+        "created_at": "2026-04-23T15:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047337491360104570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2032802107745824768",
+              "start": 0,
+              "username": "guangzhouxidu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047337491360104570",
+        "in_reply_to_user_id": "2032802107745824768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047336063497392368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guangzhouxidu 不搞清楚药滥原因就短视性一刀切地把白名单管控纯属搬石头砸自己脚\n嗑药的没了白名单首选药只能把更烂下位替代当做新的首选，一直循环往复总有一天没办法从网购平台搞到任何自己想要的东西就只能大把给非法黑灰产业投钱换畅快，这点道理就是有人搞不懂，我也没想到这一天会来得这么快"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032802107745824768",
+        "conversation_id": "2047333895709004097",
+        "created_at": "2026-04-23T15:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047336063497392368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047336063497392368",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047333895709004097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 30u一颗的产品已经不少了，任何药物都不会消失，只会以更高价格出现在黑市，让本来廉价的产品变得有利润可图，吸引更多无辜的穷人参与其中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047320949570277376/ns1syjsj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 69,
+          "like_count": 3656,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 1705
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T12:53:56.000Z",
+        "description": "广州市吸毒局吸毒支队官方推特号，药圈民办派出所 私信常开，接受投稿 报案，不出售任何产品，谨防骗子，反诈安全宣传一刻不容停息，关注局长 防范骗局",
+        "id": "2032802107745824768",
+        "name": "广州吸毒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032802565499637760/AQs27st5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 34,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 63
+        },
+        "username": "guangzhouxidu",
+        "verified": false
+      }
+    ]
+  }
+}

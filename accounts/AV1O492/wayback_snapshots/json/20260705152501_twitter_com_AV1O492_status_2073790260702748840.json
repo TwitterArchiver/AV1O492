@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2073783343796342827",
+    "created_at": "2026-07-05T15:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T16:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073790260702748840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2051707585703952384",
+          "start": 0,
+          "username": "K1llTheSOul0827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073790260702748840",
+    "in_reply_to_user_id": "2051707585703952384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073788719405097040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K1llTheSOul0827 姐妹我b溃了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2073783343796342827",
+        "created_at": "2026-07-05T15:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073790260702748840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2051707585703952384",
+              "start": 0,
+              "username": "K1llTheSOul0827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073790260702748840",
+        "in_reply_to_user_id": "2051707585703952384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073788719405097040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K1llTheSOul0827 姐妹我b溃了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051707585703952384",
+        "conversation_id": "2073783343796342827",
+        "created_at": "2026-07-05T15:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073788719405097040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073788719405097040",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073783343796342827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 好想出去跟一帮子天津人一起玩…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Temen-ni-gru Tower",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1374,
+          "following_count": 83,
+          "like_count": 5076,
+          "listed_count": 2,
+          "media_count": 317,
+          "tweet_count": 2598
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T16:59:13.000Z",
+        "description": "09 \n158/42",
+        "id": "2051707585703952384",
+        "name": "LakeOftears",
+        "pinned_tweet_id": "2060368121006014805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051708701195767808/RiOlZD_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 21,
+          "like_count": 241,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 149
+        },
+        "url": "",
+        "username": "K1llTheSOul0827",
+        "verified": false
+      }
+    ]
+  }
+}

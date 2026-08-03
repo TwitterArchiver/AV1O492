@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036020947824803840"
+      ],
+      "media_source_tweet_id": [
+        "2036020963427401924"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2037030183610310819",
+    "created_at": "2026-03-26T04:53:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T05:53:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037030183610310819"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "门槛"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1843735518401703937",
+          "start": 3,
+          "username": "fakeeco_077"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nYdLHlzGbO",
+          "end": 56,
+          "expanded_url": "https://x.com/fakeeco_077/status/2036020963427401924/photo/1",
+          "media_key": "3_2036020947824803840",
+          "start": 33,
+          "url": "https://t.co/nYdLHlzGbO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037030183610310819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036020963427401924",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fakeeco_077: 求入门我生活费要没有了…#门槛 https://t.co/nYdLHlzGbO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036020947824803840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEFmQ8ZaAAAhxBC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036020947824803840"
+          ],
+          "media_source_tweet_id": [
+            "2036020963427401924"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2037030183610310819",
+        "created_at": "2026-03-26T04:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T05:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037030183610310819"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "门槛"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1843735518401703937",
+              "start": 3,
+              "username": "fakeeco_077"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nYdLHlzGbO",
+              "end": 56,
+              "expanded_url": "https://x.com/fakeeco_077/status/2036020963427401924/photo/1",
+              "media_key": "3_2036020947824803840",
+              "start": 33,
+              "url": "https://t.co/nYdLHlzGbO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037030183610310819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036020963427401924",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fakeeco_077: 求入门我生活费要没有了…#门槛 https://t.co/nYdLHlzGbO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036020947824803840"
+          ]
+        },
+        "author_id": "1843735518401703937",
+        "conversation_id": "2036020963427401924",
+        "created_at": "2026-03-23T10:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T11:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036020963427401924"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "门槛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nYdLHlzGbO",
+              "end": 39,
+              "expanded_url": "https://x.com/fakeeco_077/status/2036020963427401924/photo/1",
+              "media_key": "3_2036020947824803840",
+              "start": 16,
+              "url": "https://t.co/nYdLHlzGbO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036020963427401924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2011,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "求入门我生活费要没有了…#门槛 https://t.co/nYdLHlzGbO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别把我认成女的 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036857419859460096/mWV57S2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 69,
+          "like_count": 3134,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1458
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T19:29:47.000Z",
+        "description": "喜欢我就多给我钱让我生活得好一点 前世@momoko8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "momoko8964"
+              }
+            ]
+          }
+        },
+        "id": "1843735518401703937",
+        "location": "🚪88 288",
+        "name": "苦桃",
+        "pinned_tweet_id": "2028732328290197829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028076823939276800/QuPF9tYf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 101,
+          "like_count": 2248,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 859
+        },
+        "username": "fakeeco_077",
+        "verified": false
+      }
+    ]
+  }
+}

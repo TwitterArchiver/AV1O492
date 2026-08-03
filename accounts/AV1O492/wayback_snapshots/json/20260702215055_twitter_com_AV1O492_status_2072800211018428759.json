@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2072746297287909376"
+      ],
+      "media_source_tweet_id": [
+        "2072746367722950736"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072800211018428759",
+    "created_at": "2026-07-02T21:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T22:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072800211018428759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2053440124856467456",
+          "start": 3,
+          "username": "ZOMBIEKING1111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DX6DguVl4N",
+          "end": 46,
+          "expanded_url": "https://x.com/ZOMBIEKING1111/status/2072746367722950736/video/1",
+          "media_key": "13_2072746297287909376",
+          "start": 23,
+          "url": "https://t.co/DX6DguVl4N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072800211018428759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072746367722950736",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZOMBIEKING1111: 鹅鹅 https://t.co/DX6DguVl4N"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12216,
+        "height": 720,
+        "media_key": "13_2072746297287909376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072746297287909376/img/RrGp3ke0reC4Qdkx.jpg",
+        "public_metrics": {
+          "view_count": 17
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072746297287909376/vid/avc1/480x270/kGszWz36lNGb6Va-.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072746297287909376/vid/avc1/640x360/czmEtiW-x1_4RHE9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072746297287909376/vid/avc1/1280x720/LjVtLadB26383jok.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072746297287909376/pl/uK2DJSR_Z4HHrwWY.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072746297287909376"
+          ],
+          "media_source_tweet_id": [
+            "2072746367722950736"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072800211018428759",
+        "created_at": "2026-07-02T21:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T22:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072800211018428759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2053440124856467456",
+              "start": 3,
+              "username": "ZOMBIEKING1111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DX6DguVl4N",
+              "end": 46,
+              "expanded_url": "https://x.com/ZOMBIEKING1111/status/2072746367722950736/video/1",
+              "media_key": "13_2072746297287909376",
+              "start": 23,
+              "url": "https://t.co/DX6DguVl4N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072800211018428759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072746367722950736",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZOMBIEKING1111: 鹅鹅 https://t.co/DX6DguVl4N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072746297287909376"
+          ]
+        },
+        "author_id": "2053440124856467456",
+        "conversation_id": "2072746367722950736",
+        "created_at": "2026-07-02T18:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T19:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072746367722950736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DX6DguVl4N",
+              "end": 26,
+              "expanded_url": "https://x.com/ZOMBIEKING1111/status/2072746367722950736/video/1",
+              "media_key": "13_2072746297287909376",
+              "start": 3,
+              "url": "https://t.co/DX6DguVl4N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072746367722950736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "鹅鹅 https://t.co/DX6DguVl4N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 80,
+          "like_count": 4778,
+          "listed_count": 2,
+          "media_count": 297,
+          "tweet_count": 2443
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T11:41:01.000Z",
+        "description": "od/shtwt king of the earth he/him\n专心过好自己的唐人生活\n我是天选，也是唯一",
+        "id": "2053440124856467456",
+        "name": "自在极意豪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066772444346499072/A-MyxOhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 64,
+          "like_count": 1060,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 603
+        },
+        "url": "",
+        "username": "ZOMBIEKING1111",
+        "verified": false
+      }
+    ]
+  }
+}

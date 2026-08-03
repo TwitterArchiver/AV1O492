@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "1926957055526441101",
+    "created_at": "2025-05-26T11:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T12:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926957055526441101"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1926957055526441101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我被背叛了 再一次，这是我的手能动之后发现的最悲哀的事实，我手上缠着纱布写下这段话\n不过无论如何 我都不会再等了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "1926957055526441101",
+        "created_at": "2025-05-26T11:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T12:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926957055526441101"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1926957055526441101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我被背叛了 再一次，这是我的手能动之后发现的最悲哀的事实，我手上缠着纱布写下这段话\n不过无论如何 我都不会再等了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "恐怖暗黑血仆少御奶龙国潮来袭神秘功夫需要加强哈基米哈基米哈基米胖宝宝乖狗狗屠孝子TV之提琴大人我来给您踩踩背啦点击输入文本金翼先知白兑换码我的天哪镜大人屠夫版本人类需要加强全网最尊重美国人英国人加拿大人墨西哥人阿根廷人中国人挪威人瑞典人德国人俄罗斯人日本人波兰人意大利人活死人女巫真神棍假神婆及狼人鳄鱼人吸血鬼的推特账户",
+        "id": "1917890381104271361",
+        "name": "𝓗𝓮𝓪𝓵 𝓜𝓨 𝓛𝓸𝓿𝓮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924888205255704586/fpHTySBb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 3,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

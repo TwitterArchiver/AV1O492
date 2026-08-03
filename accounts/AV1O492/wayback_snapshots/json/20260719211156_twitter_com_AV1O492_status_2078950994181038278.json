@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078949055204581376"
+      ],
+      "media_source_tweet_id": [
+        "2078949057838641599"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2078950994181038278",
+    "created_at": "2026-07-19T21:11:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T22:11:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078950994181038278"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 14,
+          "tag": "aesvic"
+        },
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "納配"
+        },
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "殓邮"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057497111718166531",
+          "start": 3,
+          "username": "ovum0021"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DBEFukoATf",
+          "end": 53,
+          "expanded_url": "https://x.com/ovum0021/status/2078949057838641599/photo/1",
+          "media_key": "3_2078949055204581376",
+          "start": 30,
+          "url": "https://t.co/DBEFukoATf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078950994181038278",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078949057838641599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ovum0021: #aesvic #納配 #殓邮 https://t.co/DBEFukoATf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1310,
+        "media_key": "3_2078949055204581376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNnpJqWaYAAhzUW.jpg",
+        "width": 983
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078949055204581376"
+          ]
+        },
+        "author_id": "2057497111718166531",
+        "conversation_id": "2078949057838641599",
+        "created_at": "2026-07-19T21:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T22:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078949057838641599"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "aesvic"
+            },
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "納配"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "殓邮"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DBEFukoATf",
+              "end": 39,
+              "expanded_url": "https://x.com/ovum0021/status/2078949057838641599/photo/1",
+              "media_key": "3_2078949055204581376",
+              "start": 16,
+              "url": "https://t.co/DBEFukoATf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078949057838641599",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#aesvic #納配 #殓邮 https://t.co/DBEFukoATf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078949055204581376"
+          ],
+          "media_source_tweet_id": [
+            "2078949057838641599"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2078950994181038278",
+        "created_at": "2026-07-19T21:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T22:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078950994181038278"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "aesvic"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "納配"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "殓邮"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057497111718166531",
+              "start": 3,
+              "username": "ovum0021"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DBEFukoATf",
+              "end": 53,
+              "expanded_url": "https://x.com/ovum0021/status/2078949057838641599/photo/1",
+              "media_key": "3_2078949055204581376",
+              "start": 30,
+              "url": "https://t.co/DBEFukoATf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078950994181038278",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078949057838641599",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ovum0021: #aesvic #納配 #殓邮 https://t.co/DBEFukoATf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2078916554520228324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 89,
+          "like_count": 5934,
+          "listed_count": 2,
+          "media_count": 359,
+          "tweet_count": 2979
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T16:23:33.000Z",
+        "description": "",
+        "id": "2057497111718166531",
+        "name": "dihshdhd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064113935507509249/3dIzJBje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 9,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "ovum0021",
+        "verified": false
+      }
+    ]
+  }
+}

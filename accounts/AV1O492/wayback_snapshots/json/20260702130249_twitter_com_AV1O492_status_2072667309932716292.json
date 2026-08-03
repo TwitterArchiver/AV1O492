@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2072667309932716292",
+    "created_at": "2026-07-02T13:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T14:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072667309932716292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1751809964035743744",
+          "start": 3,
+          "username": "orphnochus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072667309932716292",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21723
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072404787828572208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @orphnochus: \"hoje eu vejo um filme\"\n\"hoje eu jogo tal jogo\"\n\"hoje eu continuo aquele livro\"\n\"agora sim eu termino aquela série\"\n\neu às…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 651,
+        "media_key": "3_2072404608400379904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKpAuKWUAAG20-.jpg",
+        "width": 913
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2072667309932716292",
+        "created_at": "2026-07-02T13:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072667309932716292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1751809964035743744",
+              "start": 3,
+              "username": "orphnochus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072667309932716292",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21723
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072404787828572208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @orphnochus: \"hoje eu vejo um filme\"\n\"hoje eu jogo tal jogo\"\n\"hoje eu continuo aquele livro\"\n\"agora sim eu termino aquela série\"\n\neu às…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072404608400379904"
+          ]
+        },
+        "author_id": "1751809964035743744",
+        "conversation_id": "2072404787828572208",
+        "created_at": "2026-07-01T19:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T20:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072404787828572208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YDlhIre0ZJ",
+              "end": 193,
+              "expanded_url": "https://x.com/orphnochus/status/2072404787828572208/photo/1",
+              "media_key": "3_2072404608400379904",
+              "start": 170,
+              "url": "https://t.co/YDlhIre0ZJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072404787828572208",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3012,
+          "impression_count": 568680,
+          "like_count": 89066,
+          "quote_count": 535,
+          "reply_count": 224,
+          "retweet_count": 21723
+        },
+        "reply_settings": "everyone",
+        "text": "\"hoje eu vejo um filme\"\n\"hoje eu jogo tal jogo\"\n\"hoje eu continuo aquele livro\"\n\"agora sim eu termino aquela série\"\n\neu às 17:00 na cama depois do 104º Reel do Instagram https://t.co/YDlhIre0ZJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 78,
+          "like_count": 4726,
+          "listed_count": 1,
+          "media_count": 292,
+          "tweet_count": 2419
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-29T03:30:49.000Z",
+        "description": "dont fear the reaper",
+        "id": "1751809964035743744",
+        "location": "道",
+        "name": "carlos",
+        "pinned_tweet_id": "2064882652176347242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070236732931391489/UtOT5kXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 472,
+          "like_count": 8871,
+          "listed_count": 0,
+          "media_count": 776,
+          "tweet_count": 8412
+        },
+        "url": "",
+        "username": "orphnochus",
+        "verified": false
+      }
+    ]
+  }
+}

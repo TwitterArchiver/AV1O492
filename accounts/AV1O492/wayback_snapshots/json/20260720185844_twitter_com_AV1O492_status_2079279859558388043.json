@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2079278610276593849",
+    "created_at": "2026-07-20T18:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T19:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079279859558388043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2050195658603483136",
+          "start": 0,
+          "username": "Idontwanttmf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079279859558388043",
+    "in_reply_to_user_id": "2050195658603483136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079278610276593849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idontwanttmf 饿死老子了，我操，我现在为什么要发吃的？我我问你你你你为什么要发吃的？哎呀，我我好崩溃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2079278602726842368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsU32iaoAA6vm-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2079278610276593849",
+        "created_at": "2026-07-20T18:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079279859558388043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2050195658603483136",
+              "start": 0,
+              "username": "Idontwanttmf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079279859558388043",
+        "in_reply_to_user_id": "2050195658603483136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079278610276593849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontwanttmf 饿死老子了，我操，我现在为什么要发吃的？我我问你你你你为什么要发吃的？哎呀，我我好崩溃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079278602726842368"
+          ]
+        },
+        "author_id": "2050195658603483136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079278610276593849",
+        "created_at": "2026-07-20T18:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079278610276593849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o3B6bRmlLG",
+              "end": 25,
+              "expanded_url": "https://x.com/Idontwanttmf/status/2079278610276593849/photo/1",
+              "media_key": "3_2079278602726842368",
+              "start": 2,
+              "url": "https://t.co/o3B6bRmlLG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079278610276593849",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挂 https://t.co/o3B6bRmlLG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 I LOVE DANTE and everyone could see that",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2078916554520228324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 89,
+          "like_count": 6115,
+          "listed_count": 2,
+          "media_count": 369,
+          "tweet_count": 3071
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T12:49:21.000Z",
+        "description": "🚪88\n第四世\n前世：\n@kira20194922529\n@keaiiea\n@TheFirstKidz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 12,
+                "username": "kira20194922529"
+              },
+              {
+                "end": 37,
+                "start": 29,
+                "username": "keaiiea"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "TheFirstKidz"
+              }
+            ]
+          }
+        },
+        "id": "2050195658603483136",
+        "name": "Jonas（4.0）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077563930407546880/oMF7brlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 137,
+          "like_count": 738,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "Idontwanttmf",
+        "verified": false
+      }
+    ]
+  }
+}

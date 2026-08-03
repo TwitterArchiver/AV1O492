@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2043662905141583872",
+        "7_2043662920115212288",
+        "3_2043662920387895296",
+        "7_2043662953849954304"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2043663044337950881",
+    "created_at": "2026-04-13T12:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T13:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043663044337950881"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kyiYR1Htz6",
+          "end": 55,
+          "expanded_url": "https://x.com/AV1O492/status/2043663044337950881/video/1",
+          "media_key": "7_2043662905141583872",
+          "start": 32,
+          "url": "https://t.co/kyiYR1Htz6"
+        },
+        {
+          "display_url": "pic.x.com/kyiYR1Htz6",
+          "end": 55,
+          "expanded_url": "https://x.com/AV1O492/status/2043663044337950881/video/1",
+          "media_key": "7_2043662920115212288",
+          "start": 32,
+          "url": "https://t.co/kyiYR1Htz6"
+        },
+        {
+          "display_url": "pic.x.com/kyiYR1Htz6",
+          "end": 55,
+          "expanded_url": "https://x.com/AV1O492/status/2043663044337950881/video/1",
+          "media_key": "3_2043662920387895296",
+          "start": 32,
+          "url": "https://t.co/kyiYR1Htz6"
+        },
+        {
+          "display_url": "pic.x.com/kyiYR1Htz6",
+          "end": 55,
+          "expanded_url": "https://x.com/AV1O492/status/2043663044337950881/video/1",
+          "media_key": "7_2043662953849954304",
+          "start": 32,
+          "url": "https://t.co/kyiYR1Htz6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043663044337950881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妹恨牛逼耀祖牛逼奥斯陆第一毒枭牛逼necrobutcher牛逼 https://t.co/kyiYR1Htz6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51566,
+        "height": 1280,
+        "media_key": "7_2043662905141583872",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2043662905141583872/pu/img/yXudHbMAvViM0c6c.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043662905141583872/pu/vid/avc1/320x568/3n_J-fa0-GHvKJu6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043662905141583872/pu/vid/avc1/480x852/RaVGBNQDYaqIOQRD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043662905141583872/pu/vid/avc1/720x1280/zR4Cqegimar97gzC.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2043662905141583872/pu/pl/U9ISif5GtnOdZubq.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 39071,
+        "height": 1280,
+        "media_key": "7_2043662920115212288",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2043662920115212288/pu/img/NZAY_KL5ZncHQkT4.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043662920115212288/pu/vid/avc1/320x568/Cl-_nNF2GEVT8oCn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043662920115212288/pu/vid/avc1/480x852/Pe6p8BrBTUrohf0o.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043662920115212288/pu/vid/avc1/720x1280/ByuFf_kSvs57_mSE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2043662920115212288/pu/pl/NkpZsUhZeuIqrdeN.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2043662920387895296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyMmSpboAAaDbq.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 69637,
+        "height": 1280,
+        "media_key": "7_2043662953849954304",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2043662953849954304/pu/img/iYJU4qVwrGlVi5TM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043662953849954304/pu/vid/avc1/320x568/qXE_pNwXdlP3JAPu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043662953849954304/pu/vid/avc1/480x852/QZE48b18jjoJb8nN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043662953849954304/pu/vid/avc1/720x1280/1L_vR2LzIrd8NuEW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2043662953849954304/pu/pl/1oWfQeBfHxTxf5Gn.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2043662905141583872",
+            "7_2043662920115212288",
+            "3_2043662920387895296",
+            "7_2043662953849954304"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2043663044337950881",
+        "created_at": "2026-04-13T12:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043663044337950881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kyiYR1Htz6",
+              "end": 55,
+              "expanded_url": "https://x.com/AV1O492/status/2043663044337950881/video/1",
+              "media_key": "7_2043662905141583872",
+              "start": 32,
+              "url": "https://t.co/kyiYR1Htz6"
+            },
+            {
+              "display_url": "pic.x.com/kyiYR1Htz6",
+              "end": 55,
+              "expanded_url": "https://x.com/AV1O492/status/2043663044337950881/video/1",
+              "media_key": "7_2043662920115212288",
+              "start": 32,
+              "url": "https://t.co/kyiYR1Htz6"
+            },
+            {
+              "display_url": "pic.x.com/kyiYR1Htz6",
+              "end": 55,
+              "expanded_url": "https://x.com/AV1O492/status/2043663044337950881/video/1",
+              "media_key": "3_2043662920387895296",
+              "start": 32,
+              "url": "https://t.co/kyiYR1Htz6"
+            },
+            {
+              "display_url": "pic.x.com/kyiYR1Htz6",
+              "end": 55,
+              "expanded_url": "https://x.com/AV1O492/status/2043663044337950881/video/1",
+              "media_key": "7_2043662953849954304",
+              "start": 32,
+              "url": "https://t.co/kyiYR1Htz6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043663044337950881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妹恨牛逼耀祖牛逼奥斯陆第一毒枭牛逼necrobutcher牛逼 https://t.co/kyiYR1Htz6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038698420756729857/Mtx3ZDGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 68,
+          "like_count": 3633,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 1686
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

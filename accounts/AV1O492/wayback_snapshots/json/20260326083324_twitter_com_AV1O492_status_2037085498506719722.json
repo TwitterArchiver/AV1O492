@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037085494962429952",
+        "3_2037085491279831040"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2037085498506719722",
+    "created_at": "2026-03-26T08:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T09:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037085498506719722"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wue7K7VkTC",
+          "end": 49,
+          "expanded_url": "https://x.com/AV1O492/status/2037085498506719722/photo/1",
+          "media_key": "3_2037085494962429952",
+          "start": 26,
+          "url": "https://t.co/wue7K7VkTC"
+        },
+        {
+          "display_url": "pic.x.com/wue7K7VkTC",
+          "end": 49,
+          "expanded_url": "https://x.com/AV1O492/status/2037085498506719722/photo/1",
+          "media_key": "3_2037085491279831040",
+          "start": 26,
+          "url": "https://t.co/wue7K7VkTC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037085498506719722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老天啊我把鼓妹儿画得跟个JOJO一样我再也不画画了 https://t.co/wue7K7VkTC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037085494962429952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUudvhWIAADSoT.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2005,
+        "media_key": "3_2037085491279831040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUudhzWIAAiP1j.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037085494962429952",
+            "3_2037085491279831040"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2037085498506719722",
+        "created_at": "2026-03-26T08:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037085498506719722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wue7K7VkTC",
+              "end": 49,
+              "expanded_url": "https://x.com/AV1O492/status/2037085498506719722/photo/1",
+              "media_key": "3_2037085494962429952",
+              "start": 26,
+              "url": "https://t.co/wue7K7VkTC"
+            },
+            {
+              "display_url": "pic.x.com/wue7K7VkTC",
+              "end": 49,
+              "expanded_url": "https://x.com/AV1O492/status/2037085498506719722/photo/1",
+              "media_key": "3_2037085491279831040",
+              "start": 26,
+              "url": "https://t.co/wue7K7VkTC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037085498506719722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老天啊我把鼓妹儿画得跟个JOJO一样我再也不画画了 https://t.co/wue7K7VkTC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别把我认成女的 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036857419859460096/mWV57S2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 69,
+          "like_count": 3167,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 1476
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

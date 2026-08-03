@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2076203663232524733",
+    "created_at": "2026-07-15T06:51:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T07:51:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077284919752130976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1894353617945059328",
+          "start": 0,
+          "username": "SDGVA23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077284919752130976",
+    "in_reply_to_user_id": "1894353617945059328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076203663232524733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SDGVA23 是的…我认为Vergil一些很特别的魅力就在于他自己的执着和人性面的纠葛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "16_2076203648044912640",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HNAoN7sWUAAVHi5.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HNAoN7sWUAAVHi5.mp4"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2076203663232524733",
+        "created_at": "2026-07-15T06:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077284919752130976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894353617945059328",
+              "start": 0,
+              "username": "SDGVA23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077284919752130976",
+        "in_reply_to_user_id": "1894353617945059328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076203663232524733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SDGVA23 是的…我认为Vergil一些很特别的魅力就在于他自己的执着和人性面的纠葛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2076203648044912640"
+          ]
+        },
+        "author_id": "1894353617945059328",
+        "conversation_id": "2076203663232524733",
+        "created_at": "2026-07-12T07:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076203663232524733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S9Si4SW0sB",
+              "end": 250,
+              "expanded_url": "https://x.com/SDGVA23/status/2076203663232524733/photo/1",
+              "media_key": "16_2076203648044912640",
+              "start": 227,
+              "url": "https://t.co/S9Si4SW0sB"
+            },
+            {
+              "display_url": "x.com/PainKille772/s…",
+              "end": 274,
+              "expanded_url": "https://twitter.com/PainKille772/status/2076061555381182579",
+              "start": 251,
+              "url": "https://t.co/9YweY4QT76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076203663232524733",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1630,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076061555381182579",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Well, you're entitled to think so. I was like that when I was a kid. Because I liked the villains who had no 'humanity' or positive side' But he would have been nothing more than a generic antagonist if that had been the case. https://t.co/S9Si4SW0sB https://t.co/9YweY4QT76"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 86,
+          "like_count": 5492,
+          "listed_count": 2,
+          "media_count": 337,
+          "tweet_count": 2775
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T11:48:16.000Z",
+        "description": "🕹️Advocate of Vergil/Dragunov/M.Bison for 20+ years| I wrote a crossover (DMC x Tekken x SF)|My words cut like Yamato.Vergil x OC since 2005 (not a selfship)🚫AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/dragunova.rt",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/dragunova.rt",
+                "start": 0,
+                "url": "https://t.co/fKBLp8L6HC"
+              }
+            ]
+          }
+        },
+        "id": "1894353617945059328",
+        "location": "Siberia, Shadaloo & DMC Agency",
+        "name": "DragunovArt 🫡 S.Dragunov player since 2006",
+        "pinned_tweet_id": "2055968278384619739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070026530260922368/KRBxlXyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 760,
+          "like_count": 82070,
+          "listed_count": 3,
+          "media_count": 3429,
+          "tweet_count": 16136
+        },
+        "url": "https://t.co/fKBLp8L6HC",
+        "username": "SDGVA23",
+        "verified": true
+      }
+    ]
+  }
+}

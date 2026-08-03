@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038553734297591808"
+      ],
+      "media_source_tweet_id": [
+        "2038553745324421598"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2038621797541957931",
+    "created_at": "2026-03-30T14:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T15:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038621797541957931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1292330493694709760",
+          "start": 3,
+          "username": "buhui_aloe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TovK4hYJmI",
+          "end": 49,
+          "expanded_url": "https://x.com/buhui_aloe/status/2038553745324421598/photo/1",
+          "media_key": "3_2038553734297591808",
+          "start": 26,
+          "url": "https://t.co/TovK4hYJmI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038621797541957931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038553745324421598",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @buhui_aloe: 惹啊啊啊啊啊啊啊啊 https://t.co/TovK4hYJmI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1463,
+        "media_key": "3_2038553734297591808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpl0hRaoAANXdi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038553734297591808"
+          ],
+          "media_source_tweet_id": [
+            "2038553745324421598"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2038621797541957931",
+        "created_at": "2026-03-30T14:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038621797541957931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1292330493694709760",
+              "start": 3,
+              "username": "buhui_aloe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TovK4hYJmI",
+              "end": 49,
+              "expanded_url": "https://x.com/buhui_aloe/status/2038553745324421598/photo/1",
+              "media_key": "3_2038553734297591808",
+              "start": 26,
+              "url": "https://t.co/TovK4hYJmI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038621797541957931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038553745324421598",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @buhui_aloe: 惹啊啊啊啊啊啊啊啊 https://t.co/TovK4hYJmI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038553734297591808"
+          ]
+        },
+        "author_id": "1292330493694709760",
+        "conversation_id": "2038553745324421598",
+        "created_at": "2026-03-30T09:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038553745324421598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TovK4hYJmI",
+              "end": 33,
+              "expanded_url": "https://x.com/buhui_aloe/status/2038553745324421598/photo/1",
+              "media_key": "3_2038553734297591808",
+              "start": 10,
+              "url": "https://t.co/TovK4hYJmI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038553745324421598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 339,
+          "like_count": 59,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "惹啊啊啊啊啊啊啊啊 https://t.co/TovK4hYJmI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别把我认成女的 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037442931037032448/I19VSiwU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 71,
+          "like_count": 3497,
+          "listed_count": 2,
+          "media_count": 158,
+          "tweet_count": 1600
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-09T05:23:14.000Z",
+        "description": "你好我吃izzy×axl。。。\n如果buhui不好发音直接喊aloe也行。\n对自己的外国语相当自卑，使用翻译器一直，我喜欢草艾克索罗斯，注意避雷（。）",
+        "id": "1292330493694709760",
+        "location": "月球暗面、大概",
+        "name": "不荟",
+        "pinned_tweet_id": "2001009167780470850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033946928711667713/aokIHonN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 322,
+          "like_count": 10978,
+          "listed_count": 0,
+          "media_count": 380,
+          "tweet_count": 1306
+        },
+        "username": "buhui_aloe",
+        "verified": false
+      }
+    ]
+  }
+}

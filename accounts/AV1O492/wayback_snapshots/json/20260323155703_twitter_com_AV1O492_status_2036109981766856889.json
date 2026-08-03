@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035775039484874752"
+      ],
+      "media_source_tweet_id": [
+        "2035775061769044248"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2036109981766856889",
+    "created_at": "2026-03-23T15:57:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T16:57:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036109981766856889"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 60,
+          "normalized_text": "helvetesforfall",
+          "probability": 0.692,
+          "start": 46,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 61,
+          "start": 45,
+          "tag": "helvetesforfall"
+        },
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "oc"
+        },
+        {
+          "end": 84,
+          "start": 66,
+          "tag": "originalcharacter"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2028193639776817152",
+          "start": 3,
+          "username": "helvetesforfall"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hh4QWhbqqJ",
+          "end": 108,
+          "expanded_url": "https://x.com/helvetesforfall/status/2035775061769044248/photo/1",
+          "media_key": "3_2035775039484874752",
+          "start": 85,
+          "url": "https://t.co/Hh4QWhbqqJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036109981766856889",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 348
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035775061769044248",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @helvetesforfall: Just stop staring, man. #helvetesforfall #oc #originalcharacter https://t.co/Hh4QWhbqqJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1954,
+        "media_key": "3_2035775039484874752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HECGnMcaUAAoBym.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035775039484874752"
+          ],
+          "media_source_tweet_id": [
+            "2035775061769044248"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2036109981766856889",
+        "created_at": "2026-03-23T15:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T16:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036109981766856889"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 60,
+              "normalized_text": "helvetesforfall",
+              "probability": 0.692,
+              "start": 46,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 45,
+              "tag": "helvetesforfall"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "oc"
+            },
+            {
+              "end": 84,
+              "start": 66,
+              "tag": "originalcharacter"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2028193639776817152",
+              "start": 3,
+              "username": "helvetesforfall"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hh4QWhbqqJ",
+              "end": 108,
+              "expanded_url": "https://x.com/helvetesforfall/status/2035775061769044248/photo/1",
+              "media_key": "3_2035775039484874752",
+              "start": 85,
+              "url": "https://t.co/Hh4QWhbqqJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036109981766856889",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 348
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035775061769044248",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @helvetesforfall: Just stop staring, man. #helvetesforfall #oc #originalcharacter https://t.co/Hh4QWhbqqJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035775039484874752"
+          ]
+        },
+        "author_id": "2028193639776817152",
+        "conversation_id": "2035775061769044248",
+        "created_at": "2026-03-22T17:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T18:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035775061769044248"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "helvetesforfall",
+              "probability": 0.8394,
+              "start": 25,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 24,
+              "tag": "helvetesforfall"
+            },
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "oc"
+            },
+            {
+              "end": 63,
+              "start": 45,
+              "tag": "originalcharacter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hh4QWhbqqJ",
+              "end": 87,
+              "expanded_url": "https://x.com/helvetesforfall/status/2035775061769044248/photo/1",
+              "media_key": "3_2035775039484874752",
+              "start": 64,
+              "url": "https://t.co/Hh4QWhbqqJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035775061769044248",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 438,
+          "impression_count": 26514,
+          "like_count": 4085,
+          "quote_count": 21,
+          "reply_count": 3,
+          "retweet_count": 348
+        },
+        "reply_settings": "everyone",
+        "text": "Just stop staring, man. #helvetesforfall #oc #originalcharacter https://t.co/Hh4QWhbqqJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别把我认成女的 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035790691939590144/nPb2bPCA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 66,
+          "like_count": 2866,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 1339
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-01T19:40:39.000Z",
+        "description": "Account for OC art and asks | main: @plutoceanic | Check out my insta too",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "plutoceanic"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/plutoceanic",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/plutoceanic",
+                "start": 0,
+                "url": "https://t.co/tFpgqAKHHA"
+              }
+            ]
+          }
+        },
+        "id": "2028193639776817152",
+        "name": "Helvetes Forfall",
+        "pinned_tweet_id": "2028195417247129771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031980323421016064/IoxCoxo1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 13,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 38
+        },
+        "url": "https://t.co/tFpgqAKHHA",
+        "username": "helvetesforfall",
+        "verified": false
+      }
+    ]
+  }
+}

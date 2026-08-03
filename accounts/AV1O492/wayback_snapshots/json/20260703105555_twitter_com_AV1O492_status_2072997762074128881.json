@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2072997762074128881",
+    "created_at": "2026-07-03T10:55:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T11:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072997762074128881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1501524688471740417",
+          "start": 3,
+          "username": "ww3mediaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072997762074128881",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 506
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072915742228447238",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ww3mediaa: 🔴 Endonezya'da evine sürekli hırsız giren bir ev sahibi, komşularıyla birlikte hırsızlara pusu kurdu.\n\nGece düzenlenen pusud…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34597,
+        "height": 1280,
+        "media_key": "13_2072827282306318336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072827282306318336/img/ED4c0uN5-t-E-YQj.jpg",
+        "public_metrics": {
+          "view_count": 266606
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072827282306318336/vid/avc1/320x568/LFBeqEH20Uf32WRJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072827282306318336/vid/avc1/480x852/yrrfuvvL8nSx75op.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072827282306318336/vid/avc1/720x1280/c-ERwLayLsgG8OUb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072827282306318336/pl/8u3y2H2AyCqR0z4m.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2072997762074128881",
+        "created_at": "2026-07-03T10:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072997762074128881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1501524688471740417",
+              "start": 3,
+              "username": "ww3mediaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072997762074128881",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 506
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072915742228447238",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ww3mediaa: 🔴 Endonezya'da evine sürekli hırsız giren bir ev sahibi, komşularıyla birlikte hırsızlara pusu kurdu.\n\nGece düzenlenen pusud…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072827282306318336"
+          ]
+        },
+        "author_id": "1501524688471740417",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072915742228447238",
+        "created_at": "2026-07-03T05:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072915742228447238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V5s8MVA6k4",
+              "end": 266,
+              "expanded_url": "https://x.com/ww3mediaa/status/2072915742228447238/video/1",
+              "media_key": "13_2072827282306318336",
+              "start": 243,
+              "url": "https://t.co/V5s8MVA6k4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072915742228447238",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 857,
+          "impression_count": 676642,
+          "like_count": 7288,
+          "quote_count": 81,
+          "reply_count": 125,
+          "retweet_count": 506
+        },
+        "reply_settings": "everyone",
+        "text": "🔴 Endonezya'da evine sürekli hırsız giren bir ev sahibi, komşularıyla birlikte hırsızlara pusu kurdu.\n\nGece düzenlenen pusuda 4 şüpheli yakalandı. Zanlılar, polise teslim edilmeden önce koli bandıyla sarılıp Teletubbies kostümleri giydirildi. https://t.co/V5s8MVA6k4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Temen-ni-gru Tower",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 80,
+          "like_count": 4839,
+          "listed_count": 2,
+          "media_count": 299,
+          "tweet_count": 2470
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-09T11:46:07.000Z",
+        "description": "Yeni Nesil Dijital Habercilik 📩 iletisim@medya3.tr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "medya3.tr",
+                "end": 23,
+                "expanded_url": "http://medya3.tr",
+                "start": 0,
+                "url": "https://t.co/wgIALe4FX7"
+              }
+            ]
+          }
+        },
+        "id": "1501524688471740417",
+        "name": "3. Dünya Savaşı",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749311336977235968/dPdOQDBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750813,
+          "following_count": 41,
+          "like_count": 621,
+          "listed_count": 723,
+          "media_count": 66610,
+          "tweet_count": 77131
+        },
+        "url": "https://t.co/wgIALe4FX7",
+        "username": "ww3mediaa",
+        "verified": true
+      }
+    ]
+  }
+}

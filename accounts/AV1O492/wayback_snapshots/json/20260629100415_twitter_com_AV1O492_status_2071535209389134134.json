@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2071523592383443327",
+    "created_at": "2026-06-29T10:04:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T11:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071535209389134134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1414269095416012806",
+          "start": 0,
+          "username": "Coconut_QuQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071535209389134134",
+    "in_reply_to_user_id": "1414269095416012806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071523592383443327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Coconut_QuQ 纹脸男孩67"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1608,
+        "media_key": "3_2071523582140887040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-HuPlaMAAiXr0.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2071523592383443327",
+        "created_at": "2026-06-29T10:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071535209389134134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1414269095416012806",
+              "start": 0,
+              "username": "Coconut_QuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071535209389134134",
+        "in_reply_to_user_id": "1414269095416012806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071523592383443327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coconut_QuQ 纹脸男孩67"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071523582140887040"
+          ]
+        },
+        "author_id": "1414269095416012806",
+        "conversation_id": "2071523592383443327",
+        "created_at": "2026-06-29T09:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071523592383443327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OVfyUzIUSK",
+              "end": 31,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2071523592383443327/photo/1",
+              "media_key": "3_2071523582140887040",
+              "start": 8,
+              "url": "https://t.co/OVfyUzIUSK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071523592383443327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 256,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纹脸男孩（？） https://t.co/OVfyUzIUSK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜皮下真名但丁斯巴达实名冲浪｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071108900422926336/3klYl-Rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 74,
+          "like_count": 4352,
+          "listed_count": 2,
+          "media_count": 267,
+          "tweet_count": 2227
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5769,
+          "following_count": 24,
+          "like_count": 107,
+          "listed_count": 10,
+          "media_count": 43,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

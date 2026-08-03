@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067686911494516736"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2067686914304733193",
+    "created_at": "2026-06-18T19:12:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T20:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067686914304733193"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zrywQHq2tq",
+          "end": 40,
+          "expanded_url": "https://x.com/AV1O492/status/2067686914304733193/photo/1",
+          "media_key": "3_2067686911494516736",
+          "start": 17,
+          "url": "https://t.co/zrywQHq2tq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067686914304733193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我他妈什么时候买了50根穿孔针？ https://t.co/zrywQHq2tq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2067686911494516736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHmSnpa8AA7hQ_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067686911494516736"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2067686914304733193",
+        "created_at": "2026-06-18T19:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T20:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067686914304733193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zrywQHq2tq",
+              "end": 40,
+              "expanded_url": "https://x.com/AV1O492/status/2067686914304733193/photo/1",
+              "media_key": "3_2067686911494516736",
+              "start": 17,
+              "url": "https://t.co/zrywQHq2tq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067686914304733193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈什么时候买了50根穿孔针？ https://t.co/zrywQHq2tq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067678186683715584/4RbnZMYe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 69,
+          "like_count": 4105,
+          "listed_count": 2,
+          "media_count": 243,
+          "tweet_count": 2046
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

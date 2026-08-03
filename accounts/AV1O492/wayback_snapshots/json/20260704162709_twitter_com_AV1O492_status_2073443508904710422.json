@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2073422391401922998",
+    "created_at": "2026-07-04T16:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T17:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073443508904710422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1894353617945059328",
+          "start": 0,
+          "username": "SDGVA23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073443508904710422",
+    "in_reply_to_user_id": "1894353617945059328",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073428535390146725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SDGVA23 nobody can make it disappear！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2073422391401922998",
+        "created_at": "2026-07-04T16:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073443508904710422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894353617945059328",
+              "start": 0,
+              "username": "SDGVA23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073443508904710422",
+        "in_reply_to_user_id": "1894353617945059328",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073428535390146725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SDGVA23 nobody can make it disappear！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894353617945059328",
+        "conversation_id": "2073422391401922998",
+        "created_at": "2026-07-04T15:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073428535390146725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073428535390146725",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073422391401922998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 Yes! 💪🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Temen-ni-gru Tower",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 83,
+          "like_count": 5004,
+          "listed_count": 2,
+          "media_count": 310,
+          "tweet_count": 2563
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T11:48:16.000Z",
+        "description": "🕹️ Advocate of Vergil/Dragunov/M.Bison for 20+ years| I wrote a crossover (DMC x Tekken x SF)|My words cut like Yamato. Vergil x OC since 2005 (not a selfship)",
+        "id": "1894353617945059328",
+        "location": "Siberia, Shadaloo & DMC Agency",
+        "name": "DragunovArt 🫡 S.Dragunov player since 2006",
+        "pinned_tweet_id": "2055968278384619739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070026530260922368/KRBxlXyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 743,
+          "like_count": 80770,
+          "listed_count": 3,
+          "media_count": 3373,
+          "tweet_count": 15806
+        },
+        "url": "",
+        "username": "SDGVA23",
+        "verified": true
+      }
+    ]
+  }
+}

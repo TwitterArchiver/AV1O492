@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2047389870595903607",
+    "created_at": "2026-04-24T04:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T05:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047532837453353368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1054755477542756352",
+          "start": 0,
+          "username": "SPACERADIO_626"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047532837453353368",
+    "in_reply_to_user_id": "1054755477542756352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047492045871182055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SPACERADIO_626 给500美元床头电磁屏蔽器的暗广……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2047389870595903607",
+        "created_at": "2026-04-24T04:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047532837453353368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1054755477542756352",
+              "start": 0,
+              "username": "SPACERADIO_626"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047532837453353368",
+        "in_reply_to_user_id": "1054755477542756352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047492045871182055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SPACERADIO_626 给500美元床头电磁屏蔽器的暗广……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1054755477542756352",
+        "conversation_id": "2047389870595903607",
+        "created_at": "2026-04-24T01:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T02:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047492045871182055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047492045871182055",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047389870595903607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 新中国第一毒枭监视粉丝生活😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047320949570277376/ns1syjsj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 71,
+          "like_count": 3733,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 1751
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-23T15:24:37.000Z",
+        "description": "☏-Shit posting | SEN KOK/森 | FicroAce/she/her/fil/fim/AuDHD\n \n💿I'm the collapsing star of death, the pulse echo of the cosmic.",
+        "id": "1054755477542756352",
+        "location": "Space",
+        "name": "Space Badboy",
+        "pinned_tweet_id": "1998815878041973136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045284652097933312/XE2Zv3Zv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 409,
+          "like_count": 4537,
+          "listed_count": 0,
+          "media_count": 544,
+          "tweet_count": 4031
+        },
+        "username": "SPACERADIO_626",
+        "verified": false
+      }
+    ]
+  }
+}

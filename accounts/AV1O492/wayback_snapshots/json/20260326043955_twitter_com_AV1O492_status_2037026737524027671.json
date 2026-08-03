@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2037026673909002240"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2037026737524027671",
+    "created_at": "2026-03-26T04:39:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T05:39:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037026737524027671"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IYTbcYLc99",
+          "end": 30,
+          "expanded_url": "https://x.com/AV1O492/status/2037026737524027671/video/1",
+          "media_key": "7_2037026673909002240",
+          "start": 7,
+          "url": "https://t.co/IYTbcYLc99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037026737524027671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "火鸡面牛逼啊 https://t.co/IYTbcYLc99"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16070,
+        "height": 1280,
+        "media_key": "7_2037026673909002240",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2037026673909002240/pu/img/HWloJzYSLE4OnRDv.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037026673909002240/pu/vid/avc1/320x568/1s7Xt0vpJOyvP0Lx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037026673909002240/pu/vid/avc1/480x852/BTWOSb33v74pKQNj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037026673909002240/pu/vid/avc1/720x1280/0m-aXTeGMfyX3oQL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2037026673909002240/pu/pl/XGhyoUWj1eIKv6wR.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2037026673909002240"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2037026737524027671",
+        "created_at": "2026-03-26T04:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T05:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037026737524027671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IYTbcYLc99",
+              "end": 30,
+              "expanded_url": "https://x.com/AV1O492/status/2037026737524027671/video/1",
+              "media_key": "7_2037026673909002240",
+              "start": 7,
+              "url": "https://t.co/IYTbcYLc99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037026737524027671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "火鸡面牛逼啊 https://t.co/IYTbcYLc99"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别把我认成女的 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036857419859460096/mWV57S2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 69,
+          "like_count": 3130,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1455
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

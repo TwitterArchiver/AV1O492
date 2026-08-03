@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2072826300641767425"
+      ],
+      "media_source_tweet_id": [
+        "2072826475040948562"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072990423359111308",
+    "created_at": "2026-07-03T10:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T11:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072990423359111308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "904796102154702848",
+          "start": 3,
+          "username": "fijj10"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/liBxYg7Gao",
+          "end": 126,
+          "expanded_url": "https://x.com/fijj10/status/2072826475040948562/video/1",
+          "media_key": "13_2072826300641767425",
+          "start": 103,
+          "url": "https://t.co/liBxYg7Gao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072990423359111308",
+    "lang": "ru",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072826475040948562",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fijj10: Я считаю пока есть идеи и запал - надо клепать видосы\nСделала что-то со смыслом, вроде как https://t.co/liBxYg7Gao"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19066,
+        "height": 1440,
+        "media_key": "13_2072826300641767425",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072826300641767425/img/NyWoKEE9-ivuAj5x.jpg",
+        "public_metrics": {
+          "view_count": 151
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072826300641767425/vid/avc1/320x320/nOSCZAuEJPEvR9a4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072826300641767425/vid/avc1/540x540/nqNmHRxSMRG2MfPH.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072826300641767425/vid/avc1/720x720/CutMPiEIZfaibc1E.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072826300641767425/pl/y0jLzeyplfj-kzi4.m3u8?tag=14"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072826300641767425"
+          ],
+          "media_source_tweet_id": [
+            "2072826475040948562"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072990423359111308",
+        "created_at": "2026-07-03T10:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072990423359111308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "904796102154702848",
+              "start": 3,
+              "username": "fijj10"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/liBxYg7Gao",
+              "end": 126,
+              "expanded_url": "https://x.com/fijj10/status/2072826475040948562/video/1",
+              "media_key": "13_2072826300641767425",
+              "start": 103,
+              "url": "https://t.co/liBxYg7Gao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072990423359111308",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072826475040948562",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fijj10: Я считаю пока есть идеи и запал - надо клепать видосы\nСделала что-то со смыслом, вроде как https://t.co/liBxYg7Gao"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072826300641767425"
+          ]
+        },
+        "author_id": "904796102154702848",
+        "conversation_id": "2072826475040948562",
+        "created_at": "2026-07-02T23:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T00:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072826475040948562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/liBxYg7Gao",
+              "end": 114,
+              "expanded_url": "https://x.com/fijj10/status/2072826475040948562/video/1",
+              "media_key": "13_2072826300641767425",
+              "start": 91,
+              "url": "https://t.co/liBxYg7Gao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072826475040948562",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 281,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Я считаю пока есть идеи и запал - надо клепать видосы\nСделала что-то со смыслом, вроде как https://t.co/liBxYg7Gao"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Temen-ni-gru Tower",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 80,
+          "like_count": 4830,
+          "listed_count": 2,
+          "media_count": 299,
+          "tweet_count": 2465
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-04T19:59:35.000Z",
+        "description": "25 y.o | Valeria aka fij  | Art acc - @fijuj1 | тгк: https://t.co/AkoWvYMp83",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "fijuj1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/fijujj",
+                "end": 76,
+                "expanded_url": "http://t.me/fijujj",
+                "start": 53,
+                "url": "https://t.co/AkoWvYMp83"
+              }
+            ]
+          }
+        },
+        "id": "904796102154702848",
+        "name": "Фидж",
+        "pinned_tweet_id": "2055206634041848039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624574034133323780/6mQH8KG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 157,
+          "like_count": 18190,
+          "listed_count": 3,
+          "media_count": 5460,
+          "tweet_count": 10501
+        },
+        "url": "",
+        "username": "fijj10",
+        "verified": false
+      }
+    ]
+  }
+}

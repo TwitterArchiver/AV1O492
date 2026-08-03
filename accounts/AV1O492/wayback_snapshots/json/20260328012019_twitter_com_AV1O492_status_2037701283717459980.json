@@ -1,0 +1,593 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1815790830822555650",
+          "name": "2024 Summer Olympics Opening Ceremony"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1815790830822555650",
+          "name": "2024 Summer Olympics Opening Ceremony"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Snoop Dogg",
+          "id": "807223820624936960",
+          "name": "Snoop Dogg"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Snoop Dogg",
+          "id": "807223820624936960",
+          "name": "Snoop Dogg"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Snoop Dogg",
+          "id": "807223820624936960",
+          "name": "Snoop Dogg"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291184917221535744",
+          "name": "Hip hop"
+        }
+      }
+    ],
+    "conversation_id": "2037701283717459980",
+    "created_at": "2026-03-28T01:20:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T02:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037701283717459980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SrWeedSmoker/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/SrWeedSmoker/status/2037529517221142901",
+          "start": 2,
+          "url": "https://t.co/3cVVuTqOHO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037701283717459980",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037529517221142901",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/3cVVuTqOHO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11306,
+        "height": 1136,
+        "media_key": "13_2037529454344339456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037529454344339456/img/a1QoFn3Jqc-_SqeN.jpg",
+        "public_metrics": {
+          "view_count": 128425
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037529454344339456/pl/nceR_qKNV97g9rQz.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037529454344339456/vid/avc1/370x360/jPwCsV1gY2j-N1VR.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037529454344339456/vid/avc1/1170x1136/nAPwsGijRbMkfXUj.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037529454344339456/vid/avc1/278x270/GPNT1uVYqOc9OM1o.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037529454344339456/vid/avc1/740x720/QJtQ2V1ey2GJQPYf.mp4"
+          }
+        ],
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1815790830822555650",
+              "name": "2024 Summer Olympics Opening Ceremony"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1815790830822555650",
+              "name": "2024 Summer Olympics Opening Ceremony"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Snoop Dogg",
+              "id": "807223820624936960",
+              "name": "Snoop Dogg"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Snoop Dogg",
+              "id": "807223820624936960",
+              "name": "Snoop Dogg"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Snoop Dogg",
+              "id": "807223820624936960",
+              "name": "Snoop Dogg"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "2037701283717459980",
+        "created_at": "2026-03-28T01:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T02:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037701283717459980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SrWeedSmoker/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/SrWeedSmoker/status/2037529517221142901",
+              "start": 2,
+              "url": "https://t.co/3cVVuTqOHO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037701283717459980",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037529517221142901",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/3cVVuTqOHO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037529454344339456"
+          ]
+        },
+        "author_id": "1020336163041800192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Snoop Dogg",
+              "id": "807223820624936960",
+              "name": "Snoop Dogg"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Snoop Dogg",
+              "id": "807223820624936960",
+              "name": "Snoop Dogg"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Snoop Dogg",
+              "id": "807223820624936960",
+              "name": "Snoop Dogg"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "2037529517221142901",
+        "created_at": "2026-03-27T13:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037529517221142901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f8ab0rCmAy",
+              "end": 111,
+              "expanded_url": "https://x.com/SrWeedSmoker/status/2037529517221142901/video/1",
+              "media_key": "13_2037529454344339456",
+              "start": 88,
+              "url": "https://t.co/f8ab0rCmAy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037529517221142901",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 385,
+          "impression_count": 291868,
+          "like_count": 11328,
+          "quote_count": 20,
+          "reply_count": 10,
+          "retweet_count": 390
+        },
+        "reply_settings": "everyone",
+        "text": "No olvidemos el día que Snoop Dogg ofreció porro a un policía y este no pudo rechazarlo https://t.co/f8ab0rCmAy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别把我认成女的 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037442931037032448/I19VSiwU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 71,
+          "like_count": 3278,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 1522
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-20T15:54:32.000Z",
+        "description": "Si os gustan los porros esta es vuestra cuenta. \nAportaciones y colaboraciones al MD📩",
+        "id": "1020336163041800192",
+        "location": "4:20",
+        "name": "Sr. Weed",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032520501596401665/uUgp2bGv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18682,
+          "following_count": 875,
+          "like_count": 1633,
+          "listed_count": 10,
+          "media_count": 1378,
+          "tweet_count": 1891
+        },
+        "username": "SrWeedSmoker",
+        "verified": true
+      }
+    ]
+  }
+}

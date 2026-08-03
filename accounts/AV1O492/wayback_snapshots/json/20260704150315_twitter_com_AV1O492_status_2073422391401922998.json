@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073422388071686144"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073422391401922998",
+    "created_at": "2026-07-04T15:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T16:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073422391401922998"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UsRgUm0vz0",
+          "end": 31,
+          "expanded_url": "https://x.com/AV1O492/status/2073422391401922998/photo/1",
+          "media_key": "3_2073422388071686144",
+          "start": 8,
+          "url": "https://t.co/UsRgUm0vz0"
+        },
+        {
+          "display_url": "x.com/SDGVA23/status…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/SDGVA23/status/2073415599007404130",
+          "start": 32,
+          "url": "https://t.co/oQgcxCaDI4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073422391401922998",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073415599007404130",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "yes！！！！ https://t.co/UsRgUm0vz0 https://t.co/oQgcxCaDI4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1230,
+        "media_key": "3_2073422388071686144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZGrS5a4AAe5G5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1638,
+        "media_key": "3_2073413577973608449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMY-qeuWsAEeFJY.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073415595614195712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZAf7BW0AAOK1o.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073415595882651648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZAf8BXIAAZ_L4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073415596398493696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZAf98WQAAMpw6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073422388071686144"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073422391401922998",
+        "created_at": "2026-07-04T15:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073422391401922998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UsRgUm0vz0",
+              "end": 31,
+              "expanded_url": "https://x.com/AV1O492/status/2073422391401922998/photo/1",
+              "media_key": "3_2073422388071686144",
+              "start": 8,
+              "url": "https://t.co/UsRgUm0vz0"
+            },
+            {
+              "display_url": "x.com/SDGVA23/status…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/SDGVA23/status/2073415599007404130",
+              "start": 32,
+              "url": "https://t.co/oQgcxCaDI4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073422391401922998",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073415599007404130",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "yes！！！！ https://t.co/UsRgUm0vz0 https://t.co/oQgcxCaDI4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073413577973608449",
+            "3_2073415595614195712",
+            "3_2073415595882651648",
+            "3_2073415596398493696"
+          ]
+        },
+        "author_id": "1894353617945059328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073415599007404130",
+        "created_at": "2026-07-04T14:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:28:14.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073413581102538758",
+          "2073415599007404130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ozD4Zc60ty",
+              "end": 51,
+              "expanded_url": "https://x.com/SDGVA23/status/2073415599007404130/photo/1",
+              "media_key": "3_2073413577973608449",
+              "start": 28,
+              "url": "https://t.co/ozD4Zc60ty"
+            },
+            {
+              "display_url": "pic.x.com/ozD4Zc60ty",
+              "end": 51,
+              "expanded_url": "https://x.com/SDGVA23/status/2073415599007404130/photo/1",
+              "media_key": "3_2073415595614195712",
+              "start": 28,
+              "url": "https://t.co/ozD4Zc60ty"
+            },
+            {
+              "display_url": "pic.x.com/ozD4Zc60ty",
+              "end": 51,
+              "expanded_url": "https://x.com/SDGVA23/status/2073415599007404130/photo/1",
+              "media_key": "3_2073415595882651648",
+              "start": 28,
+              "url": "https://t.co/ozD4Zc60ty"
+            },
+            {
+              "display_url": "pic.x.com/ozD4Zc60ty",
+              "end": 51,
+              "expanded_url": "https://x.com/SDGVA23/status/2073415599007404130/photo/1",
+              "media_key": "3_2073415596398493696",
+              "start": 28,
+              "url": "https://t.co/ozD4Zc60ty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073415599007404130",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Physical media is not dead. https://t.co/ozD4Zc60ty"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Temen-ni-gru Tower",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 83,
+          "like_count": 4998,
+          "listed_count": 2,
+          "media_count": 309,
+          "tweet_count": 2558
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T11:48:16.000Z",
+        "description": "🕹️ Advocate of Vergil/Dragunov/M.Bison for 20+ years| I wrote a crossover (DMC x Tekken x SF)|My words cut like Yamato. Vergil x OC since 2005 (not a selfship)",
+        "id": "1894353617945059328",
+        "location": "Siberia, Shadaloo & DMC Agency",
+        "name": "DragunovArt 🫡 S.Dragunov player since 2006",
+        "pinned_tweet_id": "2055968278384619739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070026530260922368/KRBxlXyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 746,
+          "like_count": 80765,
+          "listed_count": 3,
+          "media_count": 3373,
+          "tweet_count": 15804
+        },
+        "url": "",
+        "username": "SDGVA23",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2033278260185080085",
+    "created_at": "2026-03-15T20:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T21:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033278260185080085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974688655513096192",
+          "start": 3,
+          "username": "lin_dialog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033278260185080085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033276776051576968",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lin_dialog: 在吗在吗？我想问一下这个恋老癖怎么解决？嗯我有一个朋友…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2033278260185080085",
+        "created_at": "2026-03-15T20:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T21:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033278260185080085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974688655513096192",
+              "start": 3,
+              "username": "lin_dialog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033278260185080085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033276776051576968",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lin_dialog: 在吗在吗？我想问一下这个恋老癖怎么解决？嗯我有一个朋友…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974688655513096192",
+        "conversation_id": "2033276776051576968",
+        "created_at": "2026-03-15T20:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T21:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033276776051576968"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033276776051576968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在吗在吗？我想问一下这个恋老癖怎么解决？嗯我有一个朋友…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032797382296166400/85J_f9jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 52,
+          "like_count": 2053,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1069
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "竹霖♡ 18 they/them｜shedtwt odtwt｜bmi14.87｜烟酒割药四毒俱全｜无政府个人主义｜LGBTQ+全友好｜论点/观点常有 欢迎交流｜互fo私信 选拒建议别来",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "2006041221995847931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015796280795258880/pvCRCu-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 200,
+          "like_count": 1244,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 2440
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

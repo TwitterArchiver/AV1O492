@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2075229447720976418",
+    "created_at": "2026-07-09T14:47:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T15:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075230362608017717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1743330426985594881",
+          "start": 0,
+          "username": "jianggejiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075230362608017717",
+    "in_reply_to_user_id": "1743330426985594881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075229447720976418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianggejiang 好可爱呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2075229355521843200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyyGpNXoAA17oX.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2075229447720976418",
+        "created_at": "2026-07-09T14:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075230362608017717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1743330426985594881",
+              "start": 0,
+              "username": "jianggejiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075230362608017717",
+        "in_reply_to_user_id": "1743330426985594881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075229447720976418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianggejiang 好可爱呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075229355521843200"
+          ]
+        },
+        "author_id": "1743330426985594881",
+        "conversation_id": "2075229447720976418",
+        "created_at": "2026-07-09T14:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075229447720976418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JJvXAgQX1p",
+              "end": 39,
+              "expanded_url": "https://x.com/jianggejiang/status/2075229447720976418/photo/1",
+              "media_key": "3_2075229355521843200",
+              "start": 16,
+              "url": "https://t.co/JJvXAgQX1p"
+            },
+            {
+              "display_url": "x.com/jianggejiang/s…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/jianggejiang/status/2074873448455864803",
+              "start": 40,
+              "url": "https://t.co/JZpNZw0PZ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075229447720976418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074873448455864803",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我完全不会画画 xxs涂鸦来了 https://t.co/JJvXAgQX1p https://t.co/JZpNZw0PZ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 86,
+          "like_count": 5446,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 2763
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-05T17:55:57.000Z",
+        "description": "-烟代找我 外烟电子烟💚🏳️‍🌈\n-叫我姜鴿江/劣蛛/阿团/JunoPhilip/J \n-CN/EN🤏\n-从你妈逼良\n-🚪66￥ 详🔝plq\n-英文号:@jiangziqiqqq\n-备用:@poorspider1014",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 76,
+                "username": "jiangziqiqqq"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "poorspider1014"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianggejiang66…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianggejiang66281",
+                "start": 0,
+                "url": "https://t.co/VAA7v2Dfnb"
+              }
+            ]
+          }
+        },
+        "id": "1743330426985594881",
+        "location": "Ion Jupiter",
+        "name": "姜鸽江⑧⑨⑥④",
+        "pinned_tweet_id": "2073099134253547652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056376409434783745/0i0qhl96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 942,
+          "like_count": 8605,
+          "listed_count": 0,
+          "media_count": 602,
+          "tweet_count": 4219
+        },
+        "url": "https://t.co/VAA7v2Dfnb",
+        "username": "jianggejiang",
+        "verified": false
+      }
+    ]
+  }
+}

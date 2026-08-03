@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078126674731044864"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2078126681144152198",
+    "created_at": "2026-07-17T14:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078126681144152198"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d7J09NyZI9",
+          "end": 52,
+          "expanded_url": "https://x.com/AV1O492/status/2078126681144152198/photo/1",
+          "media_key": "3_2078126674731044864",
+          "start": 29,
+          "url": "https://t.co/d7J09NyZI9"
+        },
+        {
+          "display_url": "x.com/DarkSparda_DDS…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/DarkSparda_DDS/status/2077901333839892530",
+          "start": 53,
+          "url": "https://t.co/MezbW4FP42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078126681144152198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077901333839892530",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这倒是提醒我了，我立马冲动着下单定制了一个冰箱贴（wtf https://t.co/d7J09NyZI9 https://t.co/MezbW4FP42"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078126674731044864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNb9M0WbkAAnmAp.jpg",
+        "width": 946
+      },
+      {
+        "height": 1590,
+        "media_key": "3_2077901316056125440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNYwPN3XkAAz6fy.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2077901324029489153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNYwPrkXcAExrzy.jpg",
+        "width": 1152
+      },
+      {
+        "height": 362,
+        "media_key": "3_2077901330639650816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNYwQEMWgAAQD9p.jpg",
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078126674731044864"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2078126681144152198",
+        "created_at": "2026-07-17T14:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078126681144152198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d7J09NyZI9",
+              "end": 52,
+              "expanded_url": "https://x.com/AV1O492/status/2078126681144152198/photo/1",
+              "media_key": "3_2078126674731044864",
+              "start": 29,
+              "url": "https://t.co/d7J09NyZI9"
+            },
+            {
+              "display_url": "x.com/DarkSparda_DDS…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/DarkSparda_DDS/status/2077901333839892530",
+              "start": 53,
+              "url": "https://t.co/MezbW4FP42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078126681144152198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077901333839892530",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这倒是提醒我了，我立马冲动着下单定制了一个冰箱贴（wtf https://t.co/d7J09NyZI9 https://t.co/MezbW4FP42"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077901316056125440",
+            "3_2077901324029489153",
+            "3_2077901330639650816"
+          ]
+        },
+        "author_id": "1772040591053864960",
+        "conversation_id": "2077901333839892530",
+        "created_at": "2026-07-16T23:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T00:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077901333839892530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eYYrWU2K7C",
+              "end": 242,
+              "expanded_url": "https://x.com/DarkSparda_DDS/status/2077901333839892530/photo/1",
+              "media_key": "3_2077901316056125440",
+              "start": 219,
+              "url": "https://t.co/eYYrWU2K7C"
+            },
+            {
+              "display_url": "pic.x.com/eYYrWU2K7C",
+              "end": 242,
+              "expanded_url": "https://x.com/DarkSparda_DDS/status/2077901333839892530/photo/1",
+              "media_key": "3_2077901324029489153",
+              "start": 219,
+              "url": "https://t.co/eYYrWU2K7C"
+            },
+            {
+              "display_url": "pic.x.com/eYYrWU2K7C",
+              "end": 242,
+              "expanded_url": "https://x.com/DarkSparda_DDS/status/2077901333839892530/photo/1",
+              "media_key": "3_2077901330639650816",
+              "start": 219,
+              "url": "https://t.co/eYYrWU2K7C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077901333839892530",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 799,
+          "impression_count": 114256,
+          "like_count": 5263,
+          "quote_count": 14,
+          "reply_count": 24,
+          "retweet_count": 529
+        },
+        "reply_settings": "everyone",
+        "text": "Alguien en facebook subió fotos de la ocasión en la que conoció a Dan SouthWorth (voz de Vergil) y me causa gracia que Dan tenga esa puta imagen decorando su escritorio jaja \n\nCómo se nota que entiende la fokin vibra 🗿 https://t.co/eYYrWU2K7C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 91,
+          "like_count": 5728,
+          "listed_count": 2,
+          "media_count": 348,
+          "tweet_count": 2881
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T23:20:13.000Z",
+        "description": "Amante del Gaming // Creador de Contenido // Memero/Shitposter de la comunidad hispana de DMC//\nhttps://t.co/GG3lS5flQd +17k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@DARKSPARDA-DDS",
+                "end": 119,
+                "expanded_url": "http://youtube.com/@DARKSPARDA-DDS",
+                "start": 96,
+                "url": "https://t.co/GG3lS5flQd"
+              }
+            ]
+          }
+        },
+        "id": "1772040591053864960",
+        "name": "DARK SPARDA",
+        "pinned_tweet_id": "2074992312204321021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051568635282403332/L96Dc5wV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2900,
+          "following_count": 71,
+          "like_count": 10834,
+          "listed_count": 3,
+          "media_count": 1337,
+          "tweet_count": 5502
+        },
+        "url": "",
+        "username": "DarkSparda_DDS",
+        "verified": false
+      }
+    ]
+  }
+}

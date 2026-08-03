@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074540478301913088"
+      ],
+      "media_source_tweet_id": [
+        "2074540482835968064"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074879953674592751",
+    "created_at": "2026-07-08T15:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T16:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074879953674592751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1946630017800376320",
+          "start": 3,
+          "username": "lemonheade628"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LLn81t3lZQ",
+          "end": 44,
+          "expanded_url": "https://x.com/lemonheade628/status/2074540482835968064/photo/1",
+          "media_key": "3_2074540478301913088",
+          "start": 21,
+          "url": "https://t.co/LLn81t3lZQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074879953674592751",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074540482835968064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lemonheade628: 学 https://t.co/LLn81t3lZQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_2074540478301913088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMo_ktlawAAzqow.jpg",
+        "width": 1341
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074540478301913088"
+          ],
+          "media_source_tweet_id": [
+            "2074540482835968064"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074879953674592751",
+        "created_at": "2026-07-08T15:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074879953674592751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1946630017800376320",
+              "start": 3,
+              "username": "lemonheade628"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LLn81t3lZQ",
+              "end": 44,
+              "expanded_url": "https://x.com/lemonheade628/status/2074540482835968064/photo/1",
+              "media_key": "3_2074540478301913088",
+              "start": 21,
+              "url": "https://t.co/LLn81t3lZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074879953674592751",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074540482835968064",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lemonheade628: 学 https://t.co/LLn81t3lZQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074540478301913088"
+          ]
+        },
+        "author_id": "1946630017800376320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074540482835968064",
+        "created_at": "2026-07-07T17:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074540482835968064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LLn81t3lZQ",
+              "end": 25,
+              "expanded_url": "https://x.com/lemonheade628/status/2074540482835968064/photo/1",
+              "media_key": "3_2074540478301913088",
+              "start": 2,
+              "url": "https://t.co/LLn81t3lZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074540482835968064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 2812,
+          "like_count": 335,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "学 https://t.co/LLn81t3lZQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 85,
+          "like_count": 5348,
+          "listed_count": 2,
+          "media_count": 330,
+          "tweet_count": 2719
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T17:55:53.000Z",
+        "description": "💙Bottom Vergil only💙/\n🍋柠檬头/18↑/中国語🍋\n外语内容均为翻译器\n目前是安定的维吉尔厨💙（受向喜好）一般在画DV❤️💙（🔁❌）喜欢交流和各种各样的创作！",
+        "id": "1946630017800376320",
+        "name": "柠檬头",
+        "pinned_tweet_id": "2071494016735269152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063173532763525120/G6_zY94T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 71,
+          "like_count": 34,
+          "listed_count": 2,
+          "media_count": 156,
+          "tweet_count": 423
+        },
+        "url": "",
+        "username": "lemonheade628",
+        "verified": false
+      }
+    ]
+  }
+}

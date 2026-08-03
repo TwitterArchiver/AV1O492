@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2050067822571880891",
+    "created_at": "2026-05-01T04:20:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T05:20:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050067822571880891"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jianlvya/statu…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/jianlvya/status/2050004560606097627",
+          "start": 20,
+          "url": "https://t.co/g3D0adwdDa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050067822571880891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050004560606097627",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么我坐个地铁都会被拍下来发到网上？ https://t.co/g3D0adwdDa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2050004557342883840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHMUSJRawAAPLuN.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2050067822571880891",
+        "created_at": "2026-05-01T04:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050067822571880891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jianlvya/statu…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/jianlvya/status/2050004560606097627",
+              "start": 20,
+              "url": "https://t.co/g3D0adwdDa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050067822571880891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050004560606097627",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么我坐个地铁都会被拍下来发到网上？ https://t.co/g3D0adwdDa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050004557342883840"
+          ]
+        },
+        "author_id": "1828632343680294916",
+        "conversation_id": "2050004560606097627",
+        "created_at": "2026-05-01T00:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T01:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050004560606097627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lX0tHHfOqj",
+              "end": 45,
+              "expanded_url": "https://x.com/jianlvya/status/2050004560606097627/photo/1",
+              "media_key": "3_2050004557342883840",
+              "start": 22,
+              "url": "https://t.co/lX0tHHfOqj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050004560606097627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 30646,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挺纳闷，他靠什么吃饭，或者说做什么工作的? https://t.co/lX0tHHfOqj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047592059872387072/fc9q0a9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 75,
+          "like_count": 4010,
+          "listed_count": 3,
+          "media_count": 232,
+          "tweet_count": 1967
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T03:15:12.000Z",
+        "description": "会点赞 INTJ 欢迎交流 私信互关\n伙伴：@KawawaDiana8964\n逃生舱：@fanlvup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "fanlvup"
+              }
+            ]
+          }
+        },
+        "id": "1828632343680294916",
+        "location": "Hi，你好，繁律！",
+        "name": "繁律",
+        "pinned_tweet_id": "2049656543814221931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016260938069061632/4QiMAEi1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5837,
+          "following_count": 1001,
+          "like_count": 21608,
+          "listed_count": 17,
+          "media_count": 891,
+          "tweet_count": 1677
+        },
+        "username": "jianlvya",
+        "verified": true
+      }
+    ]
+  }
+}

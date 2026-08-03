@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "1980485274284224993",
+    "created_at": "2025-10-21T09:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T10:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980570143257423899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1530478330285371393",
+          "start": 0,
+          "username": "nei8447"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980570143257423899",
+    "in_reply_to_user_id": "1530478330285371393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980544362414297498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nei8447 你们听说过旗队长的故事吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "1980485274284224993",
+        "created_at": "2025-10-21T09:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T10:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980570143257423899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1530478330285371393",
+              "start": 0,
+              "username": "nei8447"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980570143257423899",
+        "in_reply_to_user_id": "1530478330285371393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980544362414297498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nei8447 你们听说过旗队长的故事吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530478330285371393",
+        "conversation_id": "1980485274284224993",
+        "created_at": "2025-10-21T07:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T08:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980544362414297498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980544362414297498",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980485274284224993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 精神分裂又发作了，就是这样了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "恐怖暗黑血仆少羽奶龙国潮来袭神秘功夫需要加强哈基米哈基米哈基米胖宝宝乖狗狗屠孝子TV之提琴大人我来给您踩踩背啦点击输入文本金翼先知白兑换码我的天哪镜大人屠夫版本人类需要加强全网最尊重美国人英国人加拿大人墨西哥人阿根廷人中国人挪威人瑞典人德国人俄罗斯人日本人波兰人意大利人活死人女巫真神棍假神婆及狼人鳄鱼人吸血鬼的推特账户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "苦痛之屋 he/them\r\ncn狂蛆/旗队长",
+        "name": "𝖍𝖊𝖆𝖑 𝖒𝖞 𝖕𝖘𝖞𝖈𝖍𝖔 𝖑𝖔𝖛𝖊☠✯粪海狂蛆✯",
+        "pinned_tweet_id": "1932310860283674700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932284293818249216/2HC70Y2I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 36,
+          "like_count": 1790,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 937
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T09:17:47.000Z",
+        "description": "",
+        "id": "1530478330285371393",
+        "name": ".",
+        "pinned_tweet_id": "1896282008432898468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909400417718697984/MZ6HHcVe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 60,
+          "like_count": 3039,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 328
+        },
+        "username": "nei8447",
+        "verified": false
+      }
+    ]
+  }
+}

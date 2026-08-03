@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2048039860125253706",
+    "created_at": "2026-04-25T15:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T16:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048059615783576035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1429055428374130693",
+          "start": 0,
+          "username": "Gamer94469"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048059615783576035",
+    "in_reply_to_user_id": "1429055428374130693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048049370382414042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gamer94469 我看完了总结是不够爽一点都不够爽操你妈好愤怒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2048039860125253706",
+        "created_at": "2026-04-25T15:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048059615783576035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1429055428374130693",
+              "start": 0,
+              "username": "Gamer94469"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048059615783576035",
+        "in_reply_to_user_id": "1429055428374130693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048049370382414042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gamer94469 我看完了总结是不够爽一点都不够爽操你妈好愤怒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429055428374130693",
+        "conversation_id": "2048039860125253706",
+        "created_at": "2026-04-25T14:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048049370382414042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048049370382414042",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048039860125253706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 好看吗这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/5Lgdtm2",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/5Lgdtm2",
+                "start": 0,
+                "url": "https://t.co/F503DrTT0k"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047592059872387072/fc9q0a9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 72,
+          "like_count": 3822,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 1824
+        },
+        "url": "https://t.co/F503DrTT0k",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-21T12:19:04.000Z",
+        "description": "即刻绞杀即刻刎颈",
+        "id": "1429055428374130693",
+        "name": "圣洁斯坦剋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047731830015819776/vL2n8dyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 252,
+          "like_count": 21007,
+          "listed_count": 1,
+          "media_count": 647,
+          "tweet_count": 5452
+        },
+        "username": "Gamer94469",
+        "verified": false
+      }
+    ]
+  }
+}

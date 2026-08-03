@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072442917491552256"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2072442920138092816",
+    "created_at": "2026-07-01T22:11:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T23:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072442920138092816"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VW0x9ZbxPM",
+          "end": 30,
+          "expanded_url": "https://x.com/AV1O492/status/2072442920138092816/photo/1",
+          "media_key": "3_2072442917491552256",
+          "start": 7,
+          "url": "https://t.co/VW0x9ZbxPM"
+        },
+        {
+          "display_url": "x.com/hauntedreigns/…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/hauntedreigns/status/2072291869091054078",
+          "start": 31,
+          "url": "https://t.co/JwcI8jAd3S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072442920138092816",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072291869091054078",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Gilver https://t.co/VW0x9ZbxPM https://t.co/JwcI8jAd3S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 274,
+        "media_key": "3_2072442917491552256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMLL2mpbsAAJ5cM.jpg",
+        "width": 268
+      },
+      {
+        "height": 720,
+        "media_key": "3_2072291860522078208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJCd7laEAAqLUC.jpg",
+        "width": 1280
+      },
+      {
+        "height": 415,
+        "media_key": "3_2072291860522098688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJCd7laYAAUHbC.jpg",
+        "width": 739
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072442917491552256"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2072442920138092816",
+        "created_at": "2026-07-01T22:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T23:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072442920138092816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VW0x9ZbxPM",
+              "end": 30,
+              "expanded_url": "https://x.com/AV1O492/status/2072442920138092816/photo/1",
+              "media_key": "3_2072442917491552256",
+              "start": 7,
+              "url": "https://t.co/VW0x9ZbxPM"
+            },
+            {
+              "display_url": "x.com/hauntedreigns/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/hauntedreigns/status/2072291869091054078",
+              "start": 31,
+              "url": "https://t.co/JwcI8jAd3S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072442920138092816",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072291869091054078",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Gilver https://t.co/VW0x9ZbxPM https://t.co/JwcI8jAd3S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072291860522078208",
+            "3_2072291860522098688"
+          ]
+        },
+        "author_id": "3571046233",
+        "conversation_id": "2072291869091054078",
+        "created_at": "2026-07-01T12:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072291869091054078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/COFehB2CZW",
+              "end": 66,
+              "expanded_url": "https://x.com/hauntedreigns/status/2072291869091054078/photo/1",
+              "media_key": "3_2072291860522078208",
+              "start": 43,
+              "url": "https://t.co/COFehB2CZW"
+            },
+            {
+              "display_url": "pic.x.com/COFehB2CZW",
+              "end": 66,
+              "expanded_url": "https://x.com/hauntedreigns/status/2072291869091054078/photo/1",
+              "media_key": "3_2072291860522098688",
+              "start": 43,
+              "url": "https://t.co/COFehB2CZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072291869091054078",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 12403,
+          "like_count": 698,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "dead and buried (1981)\nmouthwashing (2024) https://t.co/COFehB2CZW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 78,
+          "like_count": 4674,
+          "listed_count": 1,
+          "media_count": 290,
+          "tweet_count": 2400
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-15T11:39:57.000Z",
+        "description": "jaz ⛧ sleepy artist🩸horror films & gamer 🪱 passionate about godzilla/kaiju 🦷 BA in film/media + dental assistant || committed to + loves @DeadFredHorror 💙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "DeadFredHorror"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/reigneko",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/reigneko",
+                "start": 0,
+                "url": "https://t.co/FwwZG2coSF"
+              }
+            ]
+          }
+        },
+        "id": "3571046233",
+        "location": "between liminal spaces",
+        "name": "Reign",
+        "pinned_tweet_id": "1870271568020156434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035660095754039296/MoCovzEV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13491,
+          "following_count": 3484,
+          "like_count": 167746,
+          "listed_count": 47,
+          "media_count": 12503,
+          "tweet_count": 73670
+        },
+        "url": "https://t.co/FwwZG2coSF",
+        "username": "hauntedreigns",
+        "verified": false
+      }
+    ]
+  }
+}

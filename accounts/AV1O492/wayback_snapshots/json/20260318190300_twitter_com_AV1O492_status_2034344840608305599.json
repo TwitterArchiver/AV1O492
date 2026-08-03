@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2034332918097883565",
+    "created_at": "2026-03-18T19:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T20:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034344840608305599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1592172867189293057",
+          "start": 0,
+          "username": "cxszb"
+        },
+        {
+          "end": 20,
+          "id": "1743330426985594881",
+          "start": 7,
+          "username": "jianggejiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034344840608305599",
+    "in_reply_to_user_id": "1592172867189293057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034340566360875388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxszb @jianggejiang 我本来还想管这个叫梦露钉哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2034332918097883565",
+        "created_at": "2026-03-18T19:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T20:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034344840608305599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1592172867189293057",
+              "start": 0,
+              "username": "cxszb"
+            },
+            {
+              "end": 20,
+              "id": "1743330426985594881",
+              "start": 7,
+              "username": "jianggejiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034344840608305599",
+        "in_reply_to_user_id": "1592172867189293057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034340566360875388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxszb @jianggejiang 我本来还想管这个叫梦露钉哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592172867189293057",
+        "conversation_id": "2034332918097883565",
+        "created_at": "2026-03-18T18:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T19:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034340566360875388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1743330426985594881",
+              "start": 0,
+              "username": "jianggejiang"
+            },
+            {
+              "end": 22,
+              "id": "1917890381104271361",
+              "start": 14,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034340566360875388",
+        "in_reply_to_user_id": "1743330426985594881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034334429322358821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianggejiang @AV1O492 这名字有点那啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032797382296166400/85J_f9jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 58,
+          "like_count": 2285,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1139
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-14T15:09:37.000Z",
+        "description": "03/非二元/无性吸引/抖s/收ATM/水仙/反出生主义/负能警告/现居北京/",
+        "id": "1592172867189293057",
+        "location": "🚪好友位88",
+        "name": "直花今天不嘴臭",
+        "pinned_tweet_id": "1836806921233617051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914757234996994056/9DnzxE3b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5837,
+          "following_count": 310,
+          "like_count": 15786,
+          "listed_count": 17,
+          "media_count": 173,
+          "tweet_count": 18307
+        },
+        "username": "cxszb",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-05T17:55:57.000Z",
+        "description": "-烟代找我 外烟电子烟💚🏳️‍🌈\n-叫我姜鴿江/阿团/JunoPhilip/J \n-CN/ENG🤏\n-从你妈逼良\n-🚪66￥ 详🔝plq\n-英文号:@jiangziqiqqq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 74,
+                "username": "jiangziqiqqq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianggejiang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianggejiang",
+                "start": 0,
+                "url": "https://t.co/VcDqc5C3ZD"
+              }
+            ]
+          }
+        },
+        "id": "1743330426985594881",
+        "location": "Ion Jupiter",
+        "name": "姜鸽江",
+        "pinned_tweet_id": "2006394995960578049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009286095666909184/pgYHbdAK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 830,
+          "like_count": 3781,
+          "listed_count": 1,
+          "media_count": 460,
+          "tweet_count": 3016
+        },
+        "url": "https://t.co/VcDqc5C3ZD",
+        "username": "jianggejiang",
+        "verified": false
+      }
+    ]
+  }
+}

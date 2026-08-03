@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071491182111367168"
+      ],
+      "media_source_tweet_id": [
+        "2071491189518577726"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2072211687961407741",
+    "created_at": "2026-07-01T06:52:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T07:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072211687961407741"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 13,
+          "tag": "DevilMayCryNetflix"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1209840133320478720",
+          "start": 3,
+          "username": "mun_G_s"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rJawPDKLvx",
+          "end": 73,
+          "expanded_url": "https://x.com/mun_G_s/status/2071491189518577726/photo/1",
+          "media_key": "3_2071491182111367168",
+          "start": 50,
+          "url": "https://t.co/rJawPDKLvx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072211687961407741",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 221
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071491189518577726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mun_G_s: #DevilMayCryNetflix\n요즘 블러드본을 하고 있습니다 https://t.co/rJawPDKLvx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1713,
+        "media_key": "3_2071491182111367168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9qQUEaIAAbKij.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071491182111367168"
+          ],
+          "media_source_tweet_id": [
+            "2071491189518577726"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2072211687961407741",
+        "created_at": "2026-07-01T06:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072211687961407741"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 13,
+              "tag": "DevilMayCryNetflix"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1209840133320478720",
+              "start": 3,
+              "username": "mun_G_s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rJawPDKLvx",
+              "end": 73,
+              "expanded_url": "https://x.com/mun_G_s/status/2071491189518577726/photo/1",
+              "media_key": "3_2071491182111367168",
+              "start": 50,
+              "url": "https://t.co/rJawPDKLvx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072211687961407741",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 221
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071491189518577726",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mun_G_s: #DevilMayCryNetflix\n요즘 블러드본을 하고 있습니다 https://t.co/rJawPDKLvx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071491182111367168"
+          ]
+        },
+        "author_id": "1209840133320478720",
+        "conversation_id": "2071491189518577726",
+        "created_at": "2026-06-29T07:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T08:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071491189518577726"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 0,
+              "tag": "DevilMayCryNetflix"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rJawPDKLvx",
+              "end": 60,
+              "expanded_url": "https://x.com/mun_G_s/status/2071491189518577726/photo/1",
+              "media_key": "3_2071491182111367168",
+              "start": 37,
+              "url": "https://t.co/rJawPDKLvx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071491189518577726",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 473,
+          "impression_count": 17543,
+          "like_count": 2386,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 221
+        },
+        "reply_settings": "everyone",
+        "text": "#DevilMayCryNetflix\n요즘 블러드본을 하고 있습니다 https://t.co/rJawPDKLvx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll｜别找我要东西和渠道｜我的vpn爆炸了不能发帖😭😭",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 77,
+          "like_count": 4557,
+          "listed_count": 1,
+          "media_count": 281,
+          "tweet_count": 2341
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-25T14:15:48.000Z",
+        "description": "잡덕/헤테로가 돈이 된다는 걸 보여주겠다",
+        "id": "1209840133320478720",
+        "name": "먼지",
+        "pinned_tweet_id": "2052757194043727907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057838536985055233/SUvgiM3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 84,
+          "like_count": 11774,
+          "listed_count": 4,
+          "media_count": 5320,
+          "tweet_count": 24521
+        },
+        "url": "",
+        "username": "mun_G_s",
+        "verified": false
+      }
+    ]
+  }
+}

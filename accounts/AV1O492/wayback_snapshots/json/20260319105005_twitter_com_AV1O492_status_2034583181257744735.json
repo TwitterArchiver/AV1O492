@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2034582804928020735",
+    "created_at": "2026-03-19T10:50:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T11:50:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034583181257744735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1960389326258495492",
+          "start": 0,
+          "username": "looolzaozimin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034583181257744735",
+    "in_reply_to_user_id": "1960389326258495492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034582804928020735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@looolzaozimin 我想服用死藤水和指引你的那个他对话"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034582796312920064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDxKRghaQAAI6du.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034582796304551936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDxKRgfakAAOC_u.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034582796308770816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDxKRgga8AA7Ury.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034582796304547840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDxKRgfagAAi542.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2034582804928020735",
+        "created_at": "2026-03-19T10:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034583181257744735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1960389326258495492",
+              "start": 0,
+              "username": "looolzaozimin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034583181257744735",
+        "in_reply_to_user_id": "1960389326258495492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034582804928020735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@looolzaozimin 我想服用死藤水和指引你的那个他对话"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034582796312920064",
+            "3_2034582796304551936",
+            "3_2034582796308770816",
+            "3_2034582796304547840"
+          ]
+        },
+        "author_id": "1960389326258495492",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034582804928020735",
+        "created_at": "2026-03-19T10:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034582804928020735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1JWQFIlCjI",
+              "end": 78,
+              "expanded_url": "https://x.com/looolzaozimin/status/2034582804928020735/photo/1",
+              "media_key": "3_2034582796312920064",
+              "start": 55,
+              "url": "https://t.co/1JWQFIlCjI"
+            },
+            {
+              "display_url": "pic.x.com/1JWQFIlCjI",
+              "end": 78,
+              "expanded_url": "https://x.com/looolzaozimin/status/2034582804928020735/photo/1",
+              "media_key": "3_2034582796304551936",
+              "start": 55,
+              "url": "https://t.co/1JWQFIlCjI"
+            },
+            {
+              "display_url": "pic.x.com/1JWQFIlCjI",
+              "end": 78,
+              "expanded_url": "https://x.com/looolzaozimin/status/2034582804928020735/photo/1",
+              "media_key": "3_2034582796308770816",
+              "start": 55,
+              "url": "https://t.co/1JWQFIlCjI"
+            },
+            {
+              "display_url": "pic.x.com/1JWQFIlCjI",
+              "end": 78,
+              "expanded_url": "https://x.com/looolzaozimin/status/2034582804928020735/photo/1",
+              "media_key": "3_2034582796304547840",
+              "start": 55,
+              "url": "https://t.co/1JWQFIlCjI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034582804928020735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们下面特别冷别下坠了让你的灵魂回到正轨 虽然不无聊抖阴还能刷到吉他张索菲亚坏药丸它们 但是特别凄凉特别冷 https://t.co/1JWQFIlCjI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032797382296166400/85J_f9jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 58,
+          "like_count": 2328,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1150
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T17:10:37.000Z",
+        "description": "Everyone who gets close to mebecomes unfortunate.",
+        "id": "1960389326258495492",
+        "name": "小藻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032686730533638144/D7ZSvGlA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24486,
+          "following_count": 44,
+          "like_count": 153,
+          "listed_count": 24,
+          "media_count": 83,
+          "tweet_count": 137
+        },
+        "username": "looolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

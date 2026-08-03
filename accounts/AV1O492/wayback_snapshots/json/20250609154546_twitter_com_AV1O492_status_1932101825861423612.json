@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1932101746152845312"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "1932100358538776659",
+    "created_at": "2025-06-09T15:45:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T16:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932101825861423612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1922690950184435712",
+          "start": 0,
+          "username": "ZOMBIE_AOAOAO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9dNwDxBDVb",
+          "end": 43,
+          "expanded_url": "https://x.com/AV1O492/status/1932101825861423612/video/1",
+          "media_key": "7_1932101746152845312",
+          "start": 20,
+          "url": "https://t.co/9dNwDxBDVb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932101825861423612",
+    "in_reply_to_user_id": "1922690950184435712",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 21,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932101088121069590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZOMBIE_AOAOAO here https://t.co/9dNwDxBDVb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7008,
+        "height": 1280,
+        "media_key": "7_1932101746152845312",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1932101746152845312/pu/img/NAVKDXQRmkGv0BcM.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1932101746152845312/pu/vid/avc1/320x706/n73co4B0xqrwMAJH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1932101746152845312/pu/vid/avc1/480x1058/YIUJFYvMUu6AY8Ny.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1932101746152845312/pu/vid/avc1/580x1280/6GjPUj5afcxX19kN.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1932101746152845312/pu/pl/8rtDy-Gd_Pgj4QuM.m3u8?tag=12"
+          }
+        ],
+        "width": 580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1932101746152845312"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "1932100358538776659",
+        "created_at": "2025-06-09T15:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T16:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932101825861423612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1922690950184435712",
+              "start": 0,
+              "username": "ZOMBIE_AOAOAO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9dNwDxBDVb",
+              "end": 43,
+              "expanded_url": "https://x.com/AV1O492/status/1932101825861423612/video/1",
+              "media_key": "7_1932101746152845312",
+              "start": 20,
+              "url": "https://t.co/9dNwDxBDVb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932101825861423612",
+        "in_reply_to_user_id": "1922690950184435712",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932101088121069590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZOMBIE_AOAOAO here https://t.co/9dNwDxBDVb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922690950184435712",
+        "conversation_id": "1932100358538776659",
+        "created_at": "2025-06-09T15:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T16:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932101088121069590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932101088121069590",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932100358538776659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 怎么开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "恐怖暗黑血仆少羽奶龙国潮来袭神秘功夫需要加强哈基米哈基米哈基米胖宝宝乖狗狗屠孝子TV之提琴大人我来给您踩踩背啦点击输入文本金翼先知白兑换码我的天哪镜大人屠夫版本人类需要加强全网最尊重美国人英国人加拿大人墨西哥人阿根廷人中国人挪威人瑞典人德国人俄罗斯人日本人波兰人意大利人活死人女巫真神棍假神婆及狼人鳄鱼人吸血鬼的推特账户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "苦痛之屋    he/them",
+        "name": "𝖍𝖊𝖆𝖑 𝖒𝖞 𝖕𝖘𝖞𝖈𝖍𝖔 𝖑𝖔𝖛𝖊☠✯粪海狂蛆✯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931027286532521984/4K0I92IB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 16,
+          "like_count": 774,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 409
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T16:30:54.000Z",
+        "description": "sh gore tw still fucking HATE everyone FUCK off",
+        "id": "1922690950184435712",
+        "name": "僵尸嗷嗷叫",
+        "pinned_tweet_id": "1929290173486866518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929275579595198464/9vmFSNit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 52,
+          "like_count": 1141,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 1059
+        },
+        "username": "ZOMBIE_AOAOAO",
+        "verified": false
+      }
+    ]
+  }
+}

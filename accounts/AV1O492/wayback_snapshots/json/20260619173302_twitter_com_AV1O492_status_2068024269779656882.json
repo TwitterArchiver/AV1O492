@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067964807211565057"
+      ],
+      "media_source_tweet_id": [
+        "2067964813847015854"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2068024269779656882",
+    "created_at": "2026-06-19T17:33:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T18:33:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068024269779656882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1822969290167062528",
+          "start": 3,
+          "username": "mo_hc_a"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dv00Mw6nat",
+          "end": 36,
+          "expanded_url": "https://x.com/mo_hc_a/status/2067964813847015854/photo/1",
+          "media_key": "3_2067964807211565057",
+          "start": 13,
+          "url": "https://t.co/Dv00Mw6nat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068024269779656882",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067964813847015854",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mo_hc_a: https://t.co/Dv00Mw6nat"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2067964807211565057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLjCR3awAE6oEe.jpg",
+        "width": 950
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067964807211565057"
+          ],
+          "media_source_tweet_id": [
+            "2067964813847015854"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2068024269779656882",
+        "created_at": "2026-06-19T17:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068024269779656882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1822969290167062528",
+              "start": 3,
+              "username": "mo_hc_a"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dv00Mw6nat",
+              "end": 36,
+              "expanded_url": "https://x.com/mo_hc_a/status/2067964813847015854/photo/1",
+              "media_key": "3_2067964807211565057",
+              "start": 13,
+              "url": "https://t.co/Dv00Mw6nat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068024269779656882",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067964813847015854",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mo_hc_a: https://t.co/Dv00Mw6nat"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067964807211565057"
+          ]
+        },
+        "author_id": "1822969290167062528",
+        "conversation_id": "2067964813847015854",
+        "created_at": "2026-06-19T13:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067964813847015854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dv00Mw6nat",
+              "end": 23,
+              "expanded_url": "https://x.com/mo_hc_a/status/2067964813847015854/photo/1",
+              "media_key": "3_2067964807211565057",
+              "start": 0,
+              "url": "https://t.co/Dv00Mw6nat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067964813847015854",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 1813,
+          "like_count": 294,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Dv00Mw6nat"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067678186683715584/4RbnZMYe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 70,
+          "like_count": 4137,
+          "listed_count": 2,
+          "media_count": 246,
+          "tweet_count": 2091
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T12:12:32.000Z",
+        "description": "20+ | DMC NSFW | 🔑@mur_a_jw | 🦋https://t.co/jxOV9zFxQ9 | Do not use my work",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "mur_a_jw"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/moorha…",
+                "end": 54,
+                "expanded_url": "https://bsky.app/profile/moorhacca.bsky.social",
+                "start": 31,
+                "url": "https://t.co/jxOV9zFxQ9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/8JBPuPC3IXZj…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/8JBPuPC3IXZjeTkG21d7M0W9XmC2",
+                "start": 0,
+                "url": "https://t.co/X93zEyAlnm"
+              }
+            ]
+          }
+        },
+        "id": "1822969290167062528",
+        "name": "邑",
+        "pinned_tweet_id": "2058555032644292690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869766151146000384/wAyV4dYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2677,
+          "following_count": 77,
+          "like_count": 5656,
+          "listed_count": 14,
+          "media_count": 670,
+          "tweet_count": 1315
+        },
+        "url": "https://t.co/X93zEyAlnm",
+        "username": "mo_hc_a",
+        "verified": false
+      }
+    ]
+  }
+}

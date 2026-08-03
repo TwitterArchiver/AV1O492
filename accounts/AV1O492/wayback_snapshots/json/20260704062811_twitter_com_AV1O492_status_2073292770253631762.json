@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2073257110205505984",
+    "created_at": "2026-07-04T06:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T07:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073292770253631762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2024584670365831169",
+          "start": 0,
+          "username": "luftwaffelive"
+        },
+        {
+          "end": 23,
+          "id": "1816489710682030080",
+          "start": 15,
+          "username": "keaiiea"
+        },
+        {
+          "end": 32,
+          "id": "2069077183348543489",
+          "start": 24,
+          "username": "Wiopzkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073292770253631762",
+    "in_reply_to_user_id": "2024584670365831169",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073291995859255329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luftwaffelive @keaiiea @Wiopzkk 就吸，就吸，就吸，就吸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2073257110205505984",
+        "created_at": "2026-07-04T06:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073292770253631762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024584670365831169",
+              "start": 0,
+              "username": "luftwaffelive"
+            },
+            {
+              "end": 23,
+              "id": "1816489710682030080",
+              "start": 15,
+              "username": "keaiiea"
+            },
+            {
+              "end": 32,
+              "id": "2069077183348543489",
+              "start": 24,
+              "username": "Wiopzkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073292770253631762",
+        "in_reply_to_user_id": "2024584670365831169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073291995859255329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luftwaffelive @keaiiea @Wiopzkk 就吸，就吸，就吸，就吸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024584670365831169",
+        "conversation_id": "2073257110205505984",
+        "created_at": "2026-07-04T06:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073291995859255329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            },
+            {
+              "end": 17,
+              "id": "1816489710682030080",
+              "start": 9,
+              "username": "keaiiea"
+            },
+            {
+              "end": 26,
+              "id": "2069077183348543489",
+              "start": 18,
+              "username": "Wiopzkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073291995859255329",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073277580221022389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 @keaiiea @Wiopzkk 这个贱东西说我吸毒骂我，我骂他臭卷毛他急眼了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Temen-ni-gru Tower",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 83,
+          "like_count": 4947,
+          "listed_count": 2,
+          "media_count": 301,
+          "tweet_count": 2531
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T20:39:50.000Z",
+        "description": "我是xwx｜精神不正常\n🚪58｜88",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bzd83462",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bzd83462",
+                "start": 0,
+                "url": "https://t.co/w4TurCgXJT"
+              }
+            ]
+          }
+        },
+        "id": "2024584670365831169",
+        "location": "notfound",
+        "name": "豆包我全家死了",
+        "pinned_tweet_id": "2066523058886816194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066887505987919873/UdxmXiro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 178,
+          "like_count": 813,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 203
+        },
+        "url": "https://t.co/w4TurCgXJT",
+        "username": "luftwaffelive",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T15:04:46.000Z",
+        "description": "我是jonas\n这是我的宝贝小猫：@johnh0g0081\n🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "johnh0g0081"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keaiiea2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keaiiea2",
+                "start": 0,
+                "url": "https://t.co/tkjVWJfpCw"
+              }
+            ]
+          }
+        },
+        "id": "1816489710682030080",
+        "name": "J0N45",
+        "pinned_tweet_id": "1983196415313752421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040970131346718720/QxA0zX1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3411,
+          "following_count": 468,
+          "like_count": 29841,
+          "listed_count": 3,
+          "media_count": 622,
+          "tweet_count": 2938
+        },
+        "url": "https://t.co/tkjVWJfpCw",
+        "username": "keaiiea",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-22T15:18:04.000Z",
+        "description": "最后的轻语",
+        "id": "2069077183348543489",
+        "location": "你妈堪称肉便器",
+        "name": "Wiopzkk",
+        "pinned_tweet_id": "2072994373697196358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069078457234198528/S_lCKQL1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 35,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 202
+        },
+        "url": "",
+        "username": "Wiopzkk",
+        "verified": false
+      }
+    ]
+  }
+}

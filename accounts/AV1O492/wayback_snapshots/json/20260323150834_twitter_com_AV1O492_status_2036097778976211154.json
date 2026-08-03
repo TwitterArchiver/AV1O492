@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2035899113259270383",
+    "created_at": "2026-03-23T15:08:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T16:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036097778976211154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1292330493694709760",
+          "start": 0,
+          "username": "buhui_aloe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036097778976211154",
+    "in_reply_to_user_id": "1292330493694709760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035899113259270383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buhui_aloe 好萌啊！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035899101200756736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HED3ciWbsAAdDGn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2035899113259270383",
+        "created_at": "2026-03-23T15:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T16:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036097778976211154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1292330493694709760",
+              "start": 0,
+              "username": "buhui_aloe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036097778976211154",
+        "in_reply_to_user_id": "1292330493694709760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035899113259270383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buhui_aloe 好萌啊！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035899101200756736"
+          ]
+        },
+        "author_id": "1292330493694709760",
+        "conversation_id": "2035899113259270383",
+        "created_at": "2026-03-23T01:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T02:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035899113259270383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yKYsNzS2yx",
+              "end": 50,
+              "expanded_url": "https://x.com/buhui_aloe/status/2035899113259270383/photo/1",
+              "media_key": "3_2035899101200756736",
+              "start": 27,
+              "url": "https://t.co/yKYsNzS2yx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035899113259270383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 248,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "axl中后期满脸写着“我是男的”，看起来很搞笑，，， https://t.co/yKYsNzS2yx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别把我认成女的 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035790691939590144/nPb2bPCA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 65,
+          "like_count": 2848,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 1332
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-09T05:23:14.000Z",
+        "description": "你好我吃izzy×axl。。。\n如果buhui不好发音直接喊aloe也行。\n对自己的外国语相当自卑，使用翻译器一直",
+        "id": "1292330493694709760",
+        "location": "月球暗面、大概",
+        "name": "不荟",
+        "pinned_tweet_id": "2001009167780470850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033946928711667713/aokIHonN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 322,
+          "like_count": 10570,
+          "listed_count": 0,
+          "media_count": 371,
+          "tweet_count": 1249
+        },
+        "username": "buhui_aloe",
+        "verified": false
+      }
+    ]
+  }
+}

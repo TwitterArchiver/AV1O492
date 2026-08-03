@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2047744501851283944",
+    "created_at": "2026-04-25T06:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T07:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047923123534926009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1070206834164649984",
+          "start": 0,
+          "username": "Dilili2020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047923123534926009",
+    "in_reply_to_user_id": "1070206834164649984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047813218102620538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dilili2020 啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2047744501851283944",
+        "created_at": "2026-04-25T06:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047923123534926009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1070206834164649984",
+              "start": 0,
+              "username": "Dilili2020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047923123534926009",
+        "in_reply_to_user_id": "1070206834164649984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047813218102620538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dilili2020 啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1070206834164649984",
+        "conversation_id": "2047744501851283944",
+        "created_at": "2026-04-24T23:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T00:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047813218102620538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047813218102620538",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047744501851283944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 大麻也需要戒么 又没有瘾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/5Lgdtm2",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/5Lgdtm2",
+                "start": 0,
+                "url": "https://t.co/F503DrTT0k"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047592059872387072/fc9q0a9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 71,
+          "like_count": 3781,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 1778
+        },
+        "url": "https://t.co/F503DrTT0k",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-05T06:42:47.000Z",
+        "description": "全球发货",
+        "id": "1070206834164649984",
+        "location": "California, USA",
+        "name": "16",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994607995586842628/8A3VnAhT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 152,
+          "like_count": 100208,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1047
+        },
+        "username": "Dilili2020",
+        "verified": false
+      }
+    ]
+  }
+}

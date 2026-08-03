@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2034368778029646086",
+    "created_at": "2026-03-18T20:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T21:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034368778029646086"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/axzamyzed/stat…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/axzamyzed/status/2033892813273002199",
+          "start": 22,
+          "url": "https://t.co/HFla6eym29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034368778029646086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033892813273002199",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了，我被押回来的时候吃的全是警察请的 https://t.co/HFla6eym29"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 847,
+        "media_key": "3_2033892804586573828",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDnWutCbEAQaJ0y.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2034368778029646086",
+        "created_at": "2026-03-18T20:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T21:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034368778029646086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/axzamyzed/stat…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/axzamyzed/status/2033892813273002199",
+              "start": 22,
+              "url": "https://t.co/HFla6eym29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034368778029646086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033892813273002199",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了，我被押回来的时候吃的全是警察请的 https://t.co/HFla6eym29"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033892804586573828"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2033892813273002199",
+        "created_at": "2026-03-17T13:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T14:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033892813273002199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gw8iRXEQ4l",
+              "end": 32,
+              "expanded_url": "https://x.com/axzamyzed/status/2033892813273002199/photo/1",
+              "media_key": "3_2033892804586573828",
+              "start": 9,
+              "url": "https://t.co/Gw8iRXEQ4l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033892813273002199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 295064,
+          "like_count": 1544,
+          "quote_count": 1,
+          "reply_count": 80,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "这是要被抓了吗？ https://t.co/Gw8iRXEQ4l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032797382296166400/85J_f9jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 58,
+          "like_count": 2313,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 1144
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2033059853720236538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 909,
+          "like_count": 6806,
+          "listed_count": 1,
+          "media_count": 380,
+          "tweet_count": 4136
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

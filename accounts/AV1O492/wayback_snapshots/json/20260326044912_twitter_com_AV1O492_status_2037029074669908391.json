@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2036826888824668582",
+    "created_at": "2026-03-26T04:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T05:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037029074669908391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1741063508102627328",
+          "start": 0,
+          "username": "kitty068_ly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037029074669908391",
+    "in_reply_to_user_id": "1741063508102627328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037027414484934825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitty068_ly 图上思考能力不如正常人一根头发视频配的图土得老子简直想呕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2036826888824668582",
+        "created_at": "2026-03-26T04:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T05:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037029074669908391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1741063508102627328",
+              "start": 0,
+              "username": "kitty068_ly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037029074669908391",
+        "in_reply_to_user_id": "1741063508102627328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037027414484934825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitty068_ly 图上思考能力不如正常人一根头发视频配的图土得老子简直想呕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741063508102627328",
+        "conversation_id": "2036826888824668582",
+        "created_at": "2026-03-26T04:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T05:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037027414484934825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037027414484934825",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037027228345569307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 对我好想把他们屠了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别把我认成女的 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036857419859460096/mWV57S2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 69,
+          "like_count": 3133,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1457
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T11:47:58.000Z",
+        "description": "只想随便说些想说的话和喜欢我或者认同我的人交流懒得说服或者赢过任何人\n任何求偶意愿的私信@dngyng169770781都会看",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 44,
+                "username": "dngyng169770781"
+              }
+            ]
+          }
+        },
+        "id": "1741063508102627328",
+        "location": "Fall in love",
+        "name": "易子而食",
+        "pinned_tweet_id": "2036628825292091673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019851159041949696/qYHRz2xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 384,
+          "like_count": 3117,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 2305
+        },
+        "username": "kitty068_ly",
+        "verified": false
+      }
+    ]
+  }
+}

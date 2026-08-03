@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073315014019346432",
+        "3_2073315014329667585"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2073315039243870222",
+    "created_at": "2026-07-04T07:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T08:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073315039243870222"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IdFs026o10",
+          "end": 89,
+          "expanded_url": "https://x.com/AV1O492/status/2073315039243870222/photo/1",
+          "media_key": "3_2073315014019346432",
+          "start": 66,
+          "url": "https://t.co/IdFs026o10"
+        },
+        {
+          "display_url": "pic.x.com/IdFs026o10",
+          "end": 89,
+          "expanded_url": "https://x.com/AV1O492/status/2073315039243870222/photo/1",
+          "media_key": "3_2073315014329667585",
+          "start": 66,
+          "url": "https://t.co/IdFs026o10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073315039243870222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天出来，路过以前上的小学了，下次再过来，我带个粉笔在上面画一个Dante，然后写一个，我是你们一几年的学姐，你们能不能去玩鬼泣？ https://t.co/IdFs026o10"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2073315014019346432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXlBTYbcAAWOgu.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073315014329667585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXlBUiakAEAtw0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073315014019346432",
+            "3_2073315014329667585"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2073315039243870222",
+        "created_at": "2026-07-04T07:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T08:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073315039243870222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IdFs026o10",
+              "end": 89,
+              "expanded_url": "https://x.com/AV1O492/status/2073315039243870222/photo/1",
+              "media_key": "3_2073315014019346432",
+              "start": 66,
+              "url": "https://t.co/IdFs026o10"
+            },
+            {
+              "display_url": "pic.x.com/IdFs026o10",
+              "end": 89,
+              "expanded_url": "https://x.com/AV1O492/status/2073315039243870222/photo/1",
+              "media_key": "3_2073315014329667585",
+              "start": 66,
+              "url": "https://t.co/IdFs026o10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073315039243870222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天出来，路过以前上的小学了，下次再过来，我带个粉笔在上面画一个Dante，然后写一个，我是你们一几年的学姐，你们能不能去玩鬼泣？ https://t.co/IdFs026o10"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Temen-ni-gru Tower",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 83,
+          "like_count": 4959,
+          "listed_count": 2,
+          "media_count": 302,
+          "tweet_count": 2538
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

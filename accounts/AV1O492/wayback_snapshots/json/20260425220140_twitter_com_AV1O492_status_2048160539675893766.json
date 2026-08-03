@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2048015647238746558",
+    "created_at": "2026-04-25T22:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T23:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048160539675893766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1782247418353926145",
+          "start": 0,
+          "username": "saaaki1_"
+        },
+        {
+          "end": 18,
+          "id": "1816489710682030080",
+          "start": 10,
+          "username": "keaiiea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048160539675893766",
+    "in_reply_to_user_id": "1782247418353926145",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048160462911807680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saaaki1_ @keaiiea 直接gay你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2048015647238746558",
+        "created_at": "2026-04-25T22:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T23:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048160539675893766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1782247418353926145",
+              "start": 0,
+              "username": "saaaki1_"
+            },
+            {
+              "end": 18,
+              "id": "1816489710682030080",
+              "start": 10,
+              "username": "keaiiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048160539675893766",
+        "in_reply_to_user_id": "1782247418353926145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048160462911807680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saaaki1_ @keaiiea 直接gay你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782247418353926145",
+        "conversation_id": "2048015647238746558",
+        "created_at": "2026-04-25T22:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T23:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048160462911807680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            },
+            {
+              "end": 17,
+              "id": "1816489710682030080",
+              "start": 9,
+              "username": "keaiiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048160462911807680",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048159360048836675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 @keaiiea 直接给你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/5Lgdtm2",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/5Lgdtm2",
+                "start": 0,
+                "url": "https://t.co/F503DrTT0k"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047592059872387072/fc9q0a9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 72,
+          "like_count": 3875,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 1851
+        },
+        "url": "https://t.co/F503DrTT0k",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T03:18:13.000Z",
+        "description": "叫我言言/saki 欢迎匿名提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakxxx_w0e",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakxxx_w0e",
+                "start": 0,
+                "url": "https://t.co/BzSfgR3PFy"
+              }
+            ]
+          }
+        },
+        "id": "1782247418353926145",
+        "name": "kikiller",
+        "pinned_tweet_id": "1848758585909727572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966741918119079936/TkCTCvVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2280,
+          "following_count": 433,
+          "like_count": 16209,
+          "listed_count": 5,
+          "media_count": 334,
+          "tweet_count": 9557
+        },
+        "url": "https://t.co/BzSfgR3PFy",
+        "username": "saaaki1_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T15:04:46.000Z",
+        "description": "我是jonas\n🚪88",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keaiiea1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keaiiea1",
+                "start": 0,
+                "url": "https://t.co/6qTDtDAnmS"
+              }
+            ]
+          }
+        },
+        "id": "1816489710682030080",
+        "name": "J0N45",
+        "pinned_tweet_id": "1983196415313752421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040970131346718720/QxA0zX1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 420,
+          "like_count": 26615,
+          "listed_count": 2,
+          "media_count": 407,
+          "tweet_count": 2268
+        },
+        "url": "https://t.co/6qTDtDAnmS",
+        "username": "keaiiea",
+        "verified": false
+      }
+    ]
+  }
+}

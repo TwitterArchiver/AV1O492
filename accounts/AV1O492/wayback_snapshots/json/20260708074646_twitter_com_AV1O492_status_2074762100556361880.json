@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2074762100556361880",
+    "created_at": "2026-07-08T07:46:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T08:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074762100556361880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1772040591053864960",
+          "start": 3,
+          "username": "DarkSparda_DDS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/5p4saYm",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/5p4saYm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074762100556361880",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074648531520921783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DarkSparda_DDS: Ehh yo he visto eso antes... \n\nDíganme que no soy el único anciano que recuerda esta joyita(? jaja https://t.co/5p4saYm…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 93726,
+        "height": 720,
+        "media_key": "13_2074647360781578241",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074647360781578241/img/bIQyGXLfo19TyJXM.jpg",
+        "public_metrics": {
+          "view_count": 3255
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074647360781578241/vid/avc1/480x270/Tycxit8PvppQbQnz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074647360781578241/vid/avc1/640x360/RghzHAR-WeRWVkPC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074647360781578241/vid/avc1/1280x720/dSvZOwPsLZRtasPU.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074647360781578241/pl/V7WRqXipAtH863Sp.m3u8?tag=14&v=ca0"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2074762100556361880",
+        "created_at": "2026-07-08T07:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074762100556361880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1772040591053864960",
+              "start": 3,
+              "username": "DarkSparda_DDS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/5p4saYm",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/5p4saYm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074762100556361880",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074648531520921783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DarkSparda_DDS: Ehh yo he visto eso antes... \n\nDíganme que no soy el único anciano que recuerda esta joyita(? jaja https://t.co/5p4saYm…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074647360781578241"
+          ]
+        },
+        "author_id": "1772040591053864960",
+        "conversation_id": "2074648531520921783",
+        "created_at": "2026-07-08T00:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T01:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074648531520921783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5p4saYmJDG",
+              "end": 122,
+              "expanded_url": "https://x.com/DarkSparda_DDS/status/2074648531520921783/video/1",
+              "media_key": "13_2074647360781578241",
+              "start": 99,
+              "url": "https://t.co/5p4saYmJDG"
+            },
+            {
+              "display_url": "x.com/dmc_poc_jp/sta…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/dmc_poc_jp/status/2074438485944176759",
+              "start": 123,
+              "url": "https://t.co/t5aLEvW3Sz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074648531520921783",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 10360,
+          "like_count": 475,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074438485944176759",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Ehh yo he visto eso antes... \n\nDíganme que no soy el único anciano que recuerda esta joyita(? jaja https://t.co/5p4saYmJDG https://t.co/t5aLEvW3Sz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1412,
+          "following_count": 84,
+          "like_count": 5298,
+          "listed_count": 2,
+          "media_count": 325,
+          "tweet_count": 2681
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T23:20:13.000Z",
+        "description": "Amante del Gaming // Creador de Contenido // Memero/Shitposter de la comunidad hispana de DMC//\nhttps://t.co/GG3lS5fTFL +16k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@DARKSPARDA-DDS",
+                "end": 119,
+                "expanded_url": "http://youtube.com/@DARKSPARDA-DDS",
+                "start": 96,
+                "url": "https://t.co/GG3lS5fTFL"
+              }
+            ]
+          }
+        },
+        "id": "1772040591053864960",
+        "name": "DARK SPARDA",
+        "pinned_tweet_id": "2062996958063530408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051568635282403332/L96Dc5wV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2888,
+          "following_count": 71,
+          "like_count": 10614,
+          "listed_count": 3,
+          "media_count": 1325,
+          "tweet_count": 5431
+        },
+        "url": "",
+        "username": "DarkSparda_DDS",
+        "verified": false
+      }
+    ]
+  }
+}

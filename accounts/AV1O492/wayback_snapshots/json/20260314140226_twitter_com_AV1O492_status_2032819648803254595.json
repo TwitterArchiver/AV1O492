@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2032815089376702795",
+    "created_at": "2026-03-14T14:02:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T15:02:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032819648803254595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1592172867189293057",
+          "start": 0,
+          "username": "cxszb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032819648803254595",
+    "in_reply_to_user_id": "1592172867189293057",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032818221708091769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxszb 没大事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2032815089376702795",
+        "created_at": "2026-03-14T14:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032819648803254595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1592172867189293057",
+              "start": 0,
+              "username": "cxszb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032819648803254595",
+        "in_reply_to_user_id": "1592172867189293057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032818221708091769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxszb 没大事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592172867189293057",
+        "conversation_id": "2032815089376702795",
+        "created_at": "2026-03-14T13:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T14:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032818221708091769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032818221708091769",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032815089376702795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 没事吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032797382296166400/85J_f9jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 27,
+          "like_count": 1787,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 966
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-14T15:09:37.000Z",
+        "description": "03/非二元/无性吸引/抖s/收ATM/水仙/反出生主义/负能警告/现居北京/",
+        "id": "1592172867189293057",
+        "location": "🚪好友位88",
+        "name": "直花今天不嘴臭",
+        "pinned_tweet_id": "1836806921233617051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914757234996994056/9DnzxE3b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5846,
+          "following_count": 310,
+          "like_count": 15632,
+          "listed_count": 17,
+          "media_count": 172,
+          "tweet_count": 18293
+        },
+        "username": "cxszb",
+        "verified": false
+      }
+    ]
+  }
+}

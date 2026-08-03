@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931589867328462848"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "1931585506128892345",
+    "created_at": "2025-06-08T05:51:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T06:51:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931589885577908480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1884194134019526656",
+          "start": 0,
+          "username": "Fuckarashnk8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9gvOIWj6mZ",
+          "end": 40,
+          "expanded_url": "https://x.com/AV1O492/status/1931589885577908480/photo/1",
+          "media_key": "3_1931589867328462848",
+          "start": 17,
+          "url": "https://t.co/9gvOIWj6mZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931589885577908480",
+    "in_reply_to_user_id": "1884194134019526656",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931585506128892345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fuckarashnk8964 https://t.co/9gvOIWj6mZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1931589867328462848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs5iwBXbYAAQ8lq.jpg",
+        "width": 877
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931589867328462848"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "1931585506128892345",
+        "created_at": "2025-06-08T05:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T06:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931589885577908480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1884194134019526656",
+              "start": 0,
+              "username": "Fuckarashnk8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9gvOIWj6mZ",
+              "end": 40,
+              "expanded_url": "https://x.com/AV1O492/status/1931589885577908480/photo/1",
+              "media_key": "3_1931589867328462848",
+              "start": 17,
+              "url": "https://t.co/9gvOIWj6mZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931589885577908480",
+        "in_reply_to_user_id": "1884194134019526656",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931585506128892345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fuckarashnk8964 https://t.co/9gvOIWj6mZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1931585505067667456"
+          ]
+        },
+        "author_id": "1884194134019526656",
+        "conversation_id": "1931585506128892345",
+        "created_at": "2025-06-08T05:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T06:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931585506128892345"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931585506128892345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校强制周末补习"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "恐怖暗黑血仆少羽奶龙国潮来袭神秘功夫需要加强哈基米哈基米哈基米胖宝宝乖狗狗屠孝子TV之提琴大人我来给您踩踩背啦点击输入文本金翼先知白兑换码我的天哪镜大人屠夫版本人类需要加强全网最尊重美国人英国人加拿大人墨西哥人阿根廷人中国人挪威人瑞典人德国人俄罗斯人日本人波兰人意大利人活死人女巫真神棍假神婆及狼人鳄鱼人吸血鬼的推特账户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "苦痛之屋    he/them",
+        "name": "𝖍𝖊𝖆𝖑 𝖒𝖞 𝖕𝖘𝖞𝖈𝖍𝖔 𝖑𝖔𝖛𝖊☠✯粪海狂蛆✯",
+        "pinned_tweet_id": "1929759618525549037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931027286532521984/4K0I92IB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 17,
+          "like_count": 642,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 343
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-28T10:57:52.000Z",
+        "description": "i love postal2 and blood,doom",
+        "id": "1884194134019526656",
+        "location": "rt.pornhub.com/pig",
+        "name": "SSRS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931390646469955584/omaJgLeo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 147,
+          "like_count": 1676,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 248
+        },
+        "username": "Fuckarashnk8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2033472884279242755",
+    "created_at": "2026-03-16T09:18:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T10:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033472884279242755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1914611702747779072",
+          "start": 3,
+          "username": "nox8964"
+        },
+        {
+          "end": 21,
+          "id": "1917890381104271361",
+          "start": 13,
+          "username": "AV1O492"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033472884279242755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033453422104412574",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nox8964: @AV1O492 乌鲁木齐路来几个男大弟弟和我举个a4纸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2033472884279242755",
+        "created_at": "2026-03-16T09:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T10:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033472884279242755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1914611702747779072",
+              "start": 3,
+              "username": "nox8964"
+            },
+            {
+              "end": 21,
+              "id": "1917890381104271361",
+              "start": 13,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033472884279242755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033453422104412574",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nox8964: @AV1O492 乌鲁木齐路来几个男大弟弟和我举个a4纸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914611702747779072",
+        "conversation_id": "2033102826348622003",
+        "created_at": "2026-03-16T08:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T09:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033453422104412574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033453422104412574",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033102826348622003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 乌鲁木齐路来几个男大弟弟和我举个a4纸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032797382296166400/85J_f9jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 53,
+          "like_count": 2085,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1086
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T09:26:32.000Z",
+        "description": "LGBT友好｜mtx｜oder｜喜欢我的话就来互fo交朋友｜入🚪费用89.64，纯圈米https://t.co/to7wTTqwwt提问箱｜如果发癫让你不开心真的对不起喵\n叫我小夜就可以了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/asukayeyezi",
+                "end": 66,
+                "expanded_url": "https://ngl.link/asukayeyezi",
+                "start": 43,
+                "url": "https://t.co/to7wTTqwwt"
+              }
+            ]
+          }
+        },
+        "id": "1914611702747779072",
+        "location": "夜深寂靜之時",
+        "name": "⁺✞ʚ奏洺夜ɞ✟₊🏳️‍⚧️ #心宿二",
+        "pinned_tweet_id": "2026649236545351718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033343886354243584/-mZ6Vkth_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 500,
+          "like_count": 6570,
+          "listed_count": 3,
+          "media_count": 42,
+          "tweet_count": 1067
+        },
+        "username": "nox8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2075018403451179496",
+    "created_at": "2026-07-09T13:31:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T14:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075211218412052800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016028559228469252",
+          "start": 0,
+          "username": "Alvvaysioffy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075211218412052800",
+    "in_reply_to_user_id": "2016028559228469252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075018403451179496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alvvaysioffy1 谁说没有害人变胖的完美犯罪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075018398254403584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvyPUJakAAQH1Y.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075018398258573312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvyPUKaMAAZQMZ.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2075018403451179496",
+        "created_at": "2026-07-09T13:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T14:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075211218412052800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016028559228469252",
+              "start": 0,
+              "username": "Alvvaysioffy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075211218412052800",
+        "in_reply_to_user_id": "2016028559228469252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075018403451179496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alvvaysioffy1 谁说没有害人变胖的完美犯罪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075018398254403584",
+            "3_2075018398258573312"
+          ]
+        },
+        "author_id": "2016028559228469252",
+        "conversation_id": "2075018403451179496",
+        "created_at": "2026-07-09T00:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T01:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075018403451179496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rFMA4QZt3T",
+              "end": 49,
+              "expanded_url": "https://x.com/Alvvaysioffy1/status/2075018403451179496/photo/1",
+              "media_key": "3_2075018398254403584",
+              "start": 26,
+              "url": "https://t.co/rFMA4QZt3T"
+            },
+            {
+              "display_url": "pic.x.com/rFMA4QZt3T",
+              "end": 49,
+              "expanded_url": "https://x.com/Alvvaysioffy1/status/2075018403451179496/photo/1",
+              "media_key": "3_2075018398258573312",
+              "start": 26,
+              "url": "https://t.co/rFMA4QZt3T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075018403451179496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6756,
+          "like_count": 57,
+          "quote_count": 3,
+          "reply_count": 32,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "米罗巴林是个啥？还有普瑞导致血清素综合症的都来了👍 https://t.co/rFMA4QZt3T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 86,
+          "like_count": 5422,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 2754
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "在世界尽头呼唤爱的野兽",
+        "id": "2016028559228469252",
+        "name": "彩華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 229,
+          "like_count": 1478,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 922
+        },
+        "url": "",
+        "username": "Alvvaysioffy1",
+        "verified": false
+      }
+    ]
+  }
+}

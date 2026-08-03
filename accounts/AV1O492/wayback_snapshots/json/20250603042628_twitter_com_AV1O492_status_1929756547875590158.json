@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "1929756547875590158",
+    "created_at": "2025-06-03T04:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T05:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929756547875590158"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《Миллион алых роз》，别名《百万朵玫瑰》，由 Алла Пугачёва 演唱，收录于《Коллекция. По острым иглам яркого огня》专辑中，《Миллион алых роз》下载，《Миллион алых роз》在线试听，更多Миллион алых роз相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/FFRAXG9",
+          "end": 58,
+          "expanded_url": "http://163cn.tv/FFRAXG9",
+          "start": 35,
+          "status": 200,
+          "title": "Миллион алых роз（百万朵玫瑰） - Алла Пугачёва - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?id=1296864970&uct2=3%2FMRvbrV0tkJ9Iv09KvyqQ%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=c&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.3.0&sc=wm&tn=",
+          "url": "https://t.co/ibXbRUCORg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929756547875590158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我会弹唱这个，还有那个莫斯科郊外的晚上，我以前可喜欢这种俄罗斯小歌了 https://t.co/ibXbRUCORg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "1929756547875590158",
+        "created_at": "2025-06-03T04:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T05:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929756547875590158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《Миллион алых роз》，别名《百万朵玫瑰》，由 Алла Пугачёва 演唱，收录于《Коллекция. По острым иглам яркого огня》专辑中，《Миллион алых роз》下载，《Миллион алых роз》在线试听，更多Миллион алых роз相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/FFRAXG9",
+              "end": 58,
+              "expanded_url": "http://163cn.tv/FFRAXG9",
+              "start": 35,
+              "status": 200,
+              "title": "Миллион алых роз（百万朵玫瑰） - Алла Пугачёва - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=1296864970&uct2=3%2FMRvbrV0tkJ9Iv09KvyqQ%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=c&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.3.0&sc=wm&tn=",
+              "url": "https://t.co/ibXbRUCORg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929756547875590158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我会弹唱这个，还有那个莫斯科郊外的晚上，我以前可喜欢这种俄罗斯小歌了 https://t.co/ibXbRUCORg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "恐怖暗黑血仆少御奶龙国潮来袭神秘功夫需要加强哈基米哈基米哈基米胖宝宝乖狗狗屠孝子TV之提琴大人我来给您踩踩背啦点击输入文本金翼先知白兑换码我的天哪镜大人屠夫版本人类需要加强全网最尊重美国人英国人加拿大人墨西哥人阿根廷人中国人挪威人瑞典人德国人俄罗斯人日本人波兰人意大利人活死人女巫真神棍假神婆及狼人鳄鱼人吸血鬼的推特账户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "苦痛之屋",
+        "name": "𝖍𝖊𝖆𝖑 𝖒𝖞 𝖕𝖘𝖞𝖈𝖍𝖔 𝖑𝖔𝖛𝖊☠✯粪海狂蛆✯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929086113408544768/2_CrG0ys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 8,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 125
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

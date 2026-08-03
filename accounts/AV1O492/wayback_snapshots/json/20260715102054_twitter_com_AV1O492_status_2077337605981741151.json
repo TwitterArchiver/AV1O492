@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076941670025973760",
+        "3_2076941686161412096"
+      ],
+      "media_source_tweet_id": [
+        "2076941698631188764",
+        "2076941698631188764"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2077337605981741151",
+    "created_at": "2026-07-15T10:20:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T11:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077337605981741151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1845701696267390976",
+          "start": 3,
+          "username": "Sundaybekasi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6pkICt9qoW",
+          "end": 55,
+          "expanded_url": "https://x.com/Sundaybekasi/status/2076941698631188764/photo/1",
+          "media_key": "3_2076941670025973760",
+          "start": 32,
+          "url": "https://t.co/6pkICt9qoW"
+        },
+        {
+          "display_url": "pic.x.com/6pkICt9qoW",
+          "end": 55,
+          "expanded_url": "https://x.com/Sundaybekasi/status/2076941698631188764/photo/1",
+          "media_key": "3_2076941686161412096",
+          "start": 32,
+          "url": "https://t.co/6pkICt9qoW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077337605981741151",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076941698631188764",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sundaybekasi: I draw Vergil https://t.co/6pkICt9qoW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076941670025973760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLHcd0a0AALFi7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1646,
+        "media_key": "3_2076941686161412096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLHdZ7aEAA7oXP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076941670025973760",
+            "3_2076941686161412096"
+          ],
+          "media_source_tweet_id": [
+            "2076941698631188764",
+            "2076941698631188764"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2077337605981741151",
+        "created_at": "2026-07-15T10:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077337605981741151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1845701696267390976",
+              "start": 3,
+              "username": "Sundaybekasi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6pkICt9qoW",
+              "end": 55,
+              "expanded_url": "https://x.com/Sundaybekasi/status/2076941698631188764/photo/1",
+              "media_key": "3_2076941670025973760",
+              "start": 32,
+              "url": "https://t.co/6pkICt9qoW"
+            },
+            {
+              "display_url": "pic.x.com/6pkICt9qoW",
+              "end": 55,
+              "expanded_url": "https://x.com/Sundaybekasi/status/2076941698631188764/photo/1",
+              "media_key": "3_2076941686161412096",
+              "start": 32,
+              "url": "https://t.co/6pkICt9qoW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077337605981741151",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076941698631188764",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sundaybekasi: I draw Vergil https://t.co/6pkICt9qoW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076941670025973760",
+            "3_2076941686161412096"
+          ]
+        },
+        "author_id": "1845701696267390976",
+        "conversation_id": "2076941698631188764",
+        "created_at": "2026-07-14T08:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T09:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076941698631188764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6pkICt9qoW",
+              "end": 37,
+              "expanded_url": "https://x.com/Sundaybekasi/status/2076941698631188764/photo/1",
+              "media_key": "3_2076941670025973760",
+              "start": 14,
+              "url": "https://t.co/6pkICt9qoW"
+            },
+            {
+              "display_url": "pic.x.com/6pkICt9qoW",
+              "end": 37,
+              "expanded_url": "https://x.com/Sundaybekasi/status/2076941698631188764/photo/1",
+              "media_key": "3_2076941686161412096",
+              "start": 14,
+              "url": "https://t.co/6pkICt9qoW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076941698631188764",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 2557,
+          "like_count": 211,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "I draw Vergil https://t.co/6pkICt9qoW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 86,
+          "like_count": 5538,
+          "listed_count": 2,
+          "media_count": 337,
+          "tweet_count": 2797
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T05:42:42.000Z",
+        "description": "- 20, any pronouns, INFP, Artist\nUnlabeled acc\nIDN & broken ENG🥀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sundaybekasi.carrd.co",
+                "end": 23,
+                "expanded_url": "https://sundaybekasi.carrd.co",
+                "start": 0,
+                "url": "https://t.co/QsaZS6f2Xz"
+              }
+            ]
+          }
+        },
+        "id": "1845701696267390976",
+        "location": "Hidden World",
+        "name": "Nero",
+        "pinned_tweet_id": "2069836424707547296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076310711702294528/9A-fUNiS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 165,
+          "like_count": 2998,
+          "listed_count": 2,
+          "media_count": 1246,
+          "tweet_count": 8166
+        },
+        "url": "https://t.co/QsaZS6f2Xz",
+        "username": "Sundaybekasi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078038215056134144",
+        "3_2078038212153655296"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2078038229287370903",
+    "created_at": "2026-07-17T08:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T09:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078038229287370903"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7850S3lTyW",
+          "end": 26,
+          "expanded_url": "https://x.com/AV1O492/status/2078038229287370903/photo/1",
+          "media_key": "3_2078038215056134144",
+          "start": 3,
+          "url": "https://t.co/7850S3lTyW"
+        },
+        {
+          "display_url": "pic.x.com/7850S3lTyW",
+          "end": 26,
+          "expanded_url": "https://x.com/AV1O492/status/2078038229287370903/photo/1",
+          "media_key": "3_2078038212153655296",
+          "start": 3,
+          "url": "https://t.co/7850S3lTyW"
+        },
+        {
+          "display_url": "x.com/Lola_Scarlet_/…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/Lola_Scarlet_/status/2078037021763985832",
+          "start": 27,
+          "url": "https://t.co/2z1yx0BNqX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078038229287370903",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078037021763985832",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "us https://t.co/7850S3lTyW https://t.co/2z1yx0BNqX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078038215056134144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNasvyYbkAAOwLV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078038212153655296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNasvnkbQAAYOOJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1459,
+        "media_key": "3_2078037016626028544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNarqB4bYAAWLKS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078038215056134144",
+            "3_2078038212153655296"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2078038229287370903",
+        "created_at": "2026-07-17T08:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078038229287370903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7850S3lTyW",
+              "end": 26,
+              "expanded_url": "https://x.com/AV1O492/status/2078038229287370903/photo/1",
+              "media_key": "3_2078038215056134144",
+              "start": 3,
+              "url": "https://t.co/7850S3lTyW"
+            },
+            {
+              "display_url": "pic.x.com/7850S3lTyW",
+              "end": 26,
+              "expanded_url": "https://x.com/AV1O492/status/2078038229287370903/photo/1",
+              "media_key": "3_2078038212153655296",
+              "start": 3,
+              "url": "https://t.co/7850S3lTyW"
+            },
+            {
+              "display_url": "x.com/Lola_Scarlet_/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Lola_Scarlet_/status/2078037021763985832",
+              "start": 27,
+              "url": "https://t.co/2z1yx0BNqX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078038229287370903",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078037021763985832",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "us https://t.co/7850S3lTyW https://t.co/2z1yx0BNqX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078037016626028544"
+          ]
+        },
+        "author_id": "2014844239004442624",
+        "conversation_id": "2078037021763985832",
+        "created_at": "2026-07-17T08:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078037021763985832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CZqev9lKtj",
+              "end": 31,
+              "expanded_url": "https://x.com/Lola_Scarlet_/status/2078037021763985832/photo/1",
+              "media_key": "3_2078037016626028544",
+              "start": 8,
+              "url": "https://t.co/CZqev9lKtj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078037021763985832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "相处概念绝绝子 https://t.co/CZqev9lKtj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 91,
+          "like_count": 5684,
+          "listed_count": 2,
+          "media_count": 346,
+          "tweet_count": 2863
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T23:34:57.000Z",
+        "description": "",
+        "id": "2014844239004442624",
+        "name": "LU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077967683778420736/4gVxebVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 17,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 172
+        },
+        "url": "",
+        "username": "Lola_Scarlet_",
+        "verified": false
+      }
+    ]
+  }
+}

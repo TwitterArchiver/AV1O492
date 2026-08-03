@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2034706006488580212",
+    "created_at": "2026-03-19T18:58:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T19:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034706006488580212"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 108,
+          "start": 104,
+          "tag": "嬉皮士"
+        },
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "朋克"
+        },
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "挂壁"
+        },
+        {
+          "end": 121,
+          "start": 117,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "线下"
+        },
+        {
+          "end": 129,
+          "start": 126,
+          "tag": "线上"
+        },
+        {
+          "end": 134,
+          "start": 130,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 139,
+          "start": 135,
+          "tag": "妈妈活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2032324656116727808",
+          "start": 3,
+          "username": "LakeOftears0827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034706006488580212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034702630229090694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LakeOftears0827: 妈的好恶心 外面的世界好坏 我只想和我得闺蜜们偷东西挂壁成天溜达然后就窝在挂壁房里放着音乐嗑药吸毒喝酒自残然后就这样幸福的过一辈子到死 都没有任何人可以伤害到我们了 #嬉皮士 #朋克 #挂壁 #门槛妹 #线下 #线上 #爸爸活 #妈妈活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2034706006488580212",
+        "created_at": "2026-03-19T18:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T19:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034706006488580212"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "嬉皮士"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "朋克"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "挂壁"
+            },
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "线下"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "线上"
+            },
+            {
+              "end": 134,
+              "start": 130,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "妈妈活"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2032324656116727808",
+              "start": 3,
+              "username": "LakeOftears0827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034706006488580212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034702630229090694",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LakeOftears0827: 妈的好恶心 外面的世界好坏 我只想和我得闺蜜们偷东西挂壁成天溜达然后就窝在挂壁房里放着音乐嗑药吸毒喝酒自残然后就这样幸福的过一辈子到死 都没有任何人可以伤害到我们了 #嬉皮士 #朋克 #挂壁 #门槛妹 #线下 #线上 #爸爸活 #妈妈活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032324656116727808",
+        "conversation_id": "2034702630229090694",
+        "created_at": "2026-03-19T18:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T19:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034702630229090694"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 83,
+              "tag": "嬉皮士"
+            },
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "朋克"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "挂壁"
+            },
+            {
+              "end": 100,
+              "start": 96,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "线下"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "线上"
+            },
+            {
+              "end": 113,
+              "start": 109,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 118,
+              "start": 114,
+              "tag": "妈妈活"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034702630229090694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "妈的好恶心 外面的世界好坏 我只想和我得闺蜜们偷东西挂壁成天溜达然后就窝在挂壁房里放着音乐嗑药吸毒喝酒自残然后就这样幸福的过一辈子到死 都没有任何人可以伤害到我们了 #嬉皮士 #朋克 #挂壁 #门槛妹 #线下 #线上 #爸爸活 #妈妈活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583723845484544/tfrleEgu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 58,
+          "like_count": 2391,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1172
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-13T05:17:10.000Z",
+        "description": "",
+        "id": "2032324656116727808",
+        "name": "LakeOftears",
+        "pinned_tweet_id": "2032326323474219164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032325558915497984/V8yqMXCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 9,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 23
+        },
+        "username": "LakeOftears0827",
+        "verified": false
+      }
+    ]
+  }
+}

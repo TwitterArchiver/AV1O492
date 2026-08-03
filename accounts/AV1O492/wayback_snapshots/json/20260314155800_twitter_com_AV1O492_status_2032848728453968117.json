@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2032848728453968117",
+    "created_at": "2026-03-14T15:58:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T16:58:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032848728453968117"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/a4451020/statu…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/a4451020/status/2032846558040043758",
+          "start": 25,
+          "url": "https://t.co/90HeKUZ9Im"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032848728453968117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032846558040043758",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "利他林你回来吧，不在的日子 我什么事儿都干不下去 https://t.co/90HeKUZ9Im"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2032848728453968117",
+        "created_at": "2026-03-14T15:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T16:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032848728453968117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/a4451020/statu…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/a4451020/status/2032846558040043758",
+              "start": 25,
+              "url": "https://t.co/90HeKUZ9Im"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032848728453968117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032846558040043758",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "利他林你回来吧，不在的日子 我什么事儿都干不下去 https://t.co/90HeKUZ9Im"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733852461390348288",
+        "conversation_id": "2032846558040043758",
+        "created_at": "2026-03-14T15:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T16:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032846558040043758"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032846558040043758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想念利他林VyvanseAdderall苯基吡拉西坦的第二个月"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032797382296166400/85J_f9jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 32,
+          "like_count": 1835,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 984
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-10T14:13:58.000Z",
+        "description": "我是条｜ #papayaoi 爱好者｜发言是辱追｜前世@djalxjhshytf1｜私联🚪300/500/1500",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 5,
+                "tag": "papayaoi"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "djalxjhshytf1"
+              }
+            ]
+          }
+        },
+        "id": "1733852461390348288",
+        "location": "妹子打tag都是引流的",
+        "name": "Sr20det",
+        "pinned_tweet_id": "1969033730757964137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006468103425925120/byLYSITw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 35,
+          "like_count": 30546,
+          "listed_count": 6,
+          "media_count": 112,
+          "tweet_count": 541
+        },
+        "username": "a4451020",
+        "verified": false
+      }
+    ]
+  }
+}

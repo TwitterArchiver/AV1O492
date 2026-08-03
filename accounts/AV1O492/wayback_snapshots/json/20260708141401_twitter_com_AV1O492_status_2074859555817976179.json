@@ -1,0 +1,704 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074831387136495616",
+        "3_2074831387161714688",
+        "3_2074831387128213504",
+        "3_2074831387144912896"
+      ],
+      "media_source_tweet_id": [
+        "2074831407336325279",
+        "2074831407336325279",
+        "2074831407336325279",
+        "2074831407336325279"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+          "id": "10045599546",
+          "name": "Pokémon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+          "id": "10045599546",
+          "name": "Pokémon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2074859555817976179",
+    "created_at": "2026-07-08T14:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T15:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074859555817976179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2041725018518986752",
+          "start": 3,
+          "username": "thatsajokelol"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q3I9IT0Ktt",
+          "end": 71,
+          "expanded_url": "https://x.com/thatsajokelol/status/2074831407336325279/photo/1",
+          "media_key": "3_2074831387136495616",
+          "start": 48,
+          "url": "https://t.co/q3I9IT0Ktt"
+        },
+        {
+          "display_url": "pic.x.com/q3I9IT0Ktt",
+          "end": 71,
+          "expanded_url": "https://x.com/thatsajokelol/status/2074831407336325279/photo/1",
+          "media_key": "3_2074831387161714688",
+          "start": 48,
+          "url": "https://t.co/q3I9IT0Ktt"
+        },
+        {
+          "display_url": "pic.x.com/q3I9IT0Ktt",
+          "end": 71,
+          "expanded_url": "https://x.com/thatsajokelol/status/2074831407336325279/photo/1",
+          "media_key": "3_2074831387128213504",
+          "start": 48,
+          "url": "https://t.co/q3I9IT0Ktt"
+        },
+        {
+          "display_url": "pic.x.com/q3I9IT0Ktt",
+          "end": 71,
+          "expanded_url": "https://x.com/thatsajokelol/status/2074831407336325279/photo/1",
+          "media_key": "3_2074831387144912896",
+          "start": 48,
+          "url": "https://t.co/q3I9IT0Ktt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074859555817976179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074831407336325279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @thatsajokelol: 是之前六月一号参加dv宝可梦企划画的图 存个档（1/5） https://t.co/q3I9IT0Ktt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1397,
+        "media_key": "3_2074831387136495616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtIJ1caEAAUFzc.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1397,
+        "media_key": "3_2074831387161714688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtIJ1ia4AAzqWJ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1397,
+        "media_key": "3_2074831387128213504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtIJ1absAAZQzf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1397,
+        "media_key": "3_2074831387144912896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtIJ1eagAA9JzU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074831387136495616",
+            "3_2074831387161714688",
+            "3_2074831387128213504",
+            "3_2074831387144912896"
+          ],
+          "media_source_tweet_id": [
+            "2074831407336325279",
+            "2074831407336325279",
+            "2074831407336325279",
+            "2074831407336325279"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2074859555817976179",
+        "created_at": "2026-07-08T14:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074859555817976179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2041725018518986752",
+              "start": 3,
+              "username": "thatsajokelol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q3I9IT0Ktt",
+              "end": 71,
+              "expanded_url": "https://x.com/thatsajokelol/status/2074831407336325279/photo/1",
+              "media_key": "3_2074831387136495616",
+              "start": 48,
+              "url": "https://t.co/q3I9IT0Ktt"
+            },
+            {
+              "display_url": "pic.x.com/q3I9IT0Ktt",
+              "end": 71,
+              "expanded_url": "https://x.com/thatsajokelol/status/2074831407336325279/photo/1",
+              "media_key": "3_2074831387161714688",
+              "start": 48,
+              "url": "https://t.co/q3I9IT0Ktt"
+            },
+            {
+              "display_url": "pic.x.com/q3I9IT0Ktt",
+              "end": 71,
+              "expanded_url": "https://x.com/thatsajokelol/status/2074831407336325279/photo/1",
+              "media_key": "3_2074831387128213504",
+              "start": 48,
+              "url": "https://t.co/q3I9IT0Ktt"
+            },
+            {
+              "display_url": "pic.x.com/q3I9IT0Ktt",
+              "end": 71,
+              "expanded_url": "https://x.com/thatsajokelol/status/2074831407336325279/photo/1",
+              "media_key": "3_2074831387144912896",
+              "start": 48,
+              "url": "https://t.co/q3I9IT0Ktt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074859555817976179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074831407336325279",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @thatsajokelol: 是之前六月一号参加dv宝可梦企划画的图 存个档（1/5） https://t.co/q3I9IT0Ktt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074831387136495616",
+            "3_2074831387161714688",
+            "3_2074831387128213504",
+            "3_2074831387144912896"
+          ]
+        },
+        "author_id": "2041725018518986752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2074831407336325279",
+        "created_at": "2026-07-08T12:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074831407336325279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q3I9IT0Ktt",
+              "end": 52,
+              "expanded_url": "https://x.com/thatsajokelol/status/2074831407336325279/photo/1",
+              "media_key": "3_2074831387136495616",
+              "start": 29,
+              "url": "https://t.co/q3I9IT0Ktt"
+            },
+            {
+              "display_url": "pic.x.com/q3I9IT0Ktt",
+              "end": 52,
+              "expanded_url": "https://x.com/thatsajokelol/status/2074831407336325279/photo/1",
+              "media_key": "3_2074831387161714688",
+              "start": 29,
+              "url": "https://t.co/q3I9IT0Ktt"
+            },
+            {
+              "display_url": "pic.x.com/q3I9IT0Ktt",
+              "end": 52,
+              "expanded_url": "https://x.com/thatsajokelol/status/2074831407336325279/photo/1",
+              "media_key": "3_2074831387128213504",
+              "start": 29,
+              "url": "https://t.co/q3I9IT0Ktt"
+            },
+            {
+              "display_url": "pic.x.com/q3I9IT0Ktt",
+              "end": 52,
+              "expanded_url": "https://x.com/thatsajokelol/status/2074831407336325279/photo/1",
+              "media_key": "3_2074831387144912896",
+              "start": 29,
+              "url": "https://t.co/q3I9IT0Ktt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074831407336325279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 209,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "是之前六月一号参加dv宝可梦企划画的图 存个档（1/5） https://t.co/q3I9IT0Ktt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 85,
+          "like_count": 5329,
+          "listed_count": 2,
+          "media_count": 329,
+          "tweet_count": 2696
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T03:52:05.000Z",
+        "description": "本體@Majiomo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "Majiomo"
+              }
+            ]
+          }
+        },
+        "id": "2041725018518986752",
+        "name": "海不问我从何处来",
+        "pinned_tweet_id": "2045774021166555570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041886472463380485/Cj4P3X2D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 27,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "thatsajokelol",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2074866985545187543",
+    "created_at": "2026-07-08T14:43:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T15:43:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074866985545187543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1891848716023422976",
+          "start": 3,
+          "username": "AORINGO_nemuru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074866985545187543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074866042221072623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AORINGO_nemuru: 当然你可以说你有病，但是很多爱把我是精神病挂在嘴上的都只是不想担责的懦夫而已，我是人，我先是一个活生生独立的人，其次才会被社会划分成三六九等。我不认可社会刻板印象的标签，所以我不会说我有病，并且我也不在意，我只知道这就是我自己，我做的每一…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2074866985545187543",
+        "created_at": "2026-07-08T14:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074866985545187543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1891848716023422976",
+              "start": 3,
+              "username": "AORINGO_nemuru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074866985545187543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074866042221072623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AORINGO_nemuru: 当然你可以说你有病，但是很多爱把我是精神病挂在嘴上的都只是不想担责的懦夫而已，我是人，我先是一个活生生独立的人，其次才会被社会划分成三六九等。我不认可社会刻板印象的标签，所以我不会说我有病，并且我也不在意，我只知道这就是我自己，我做的每一…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891848716023422976",
+        "conversation_id": "2074866042221072623",
+        "created_at": "2026-07-08T14:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074866042221072623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074866042221072623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "当然你可以说你有病，但是很多爱把我是精神病挂在嘴上的都只是不想担责的懦夫而已，我是人，我先是一个活生生独立的人，其次才会被社会划分成三六九等。我不认可社会刻板印象的标签，所以我不会说我有病，并且我也不在意，我只知道这就是我自己，我做的每一件事说的每一句话都会成为我作为自己的证据"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 85,
+          "like_count": 5335,
+          "listed_count": 2,
+          "media_count": 330,
+          "tweet_count": 2711
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T13:54:55.000Z",
+        "description": "冰块儿 | 神堕｜欲望,暴力,自由｜神聖かまってちゃん♡｜*裏垢 @uni_wwwww｜视奸的全家死了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "uni_wwwww"
+              }
+            ]
+          }
+        },
+        "id": "1891848716023422976",
+        "location": "🚪50/88/150",
+        "name": "青林檎",
+        "pinned_tweet_id": "2005650298598289578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044971844642775042/k4QuHVS2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 239,
+          "like_count": 13260,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 1297
+        },
+        "url": "",
+        "username": "AORINGO_nemuru",
+        "verified": false
+      }
+    ]
+  }
+}

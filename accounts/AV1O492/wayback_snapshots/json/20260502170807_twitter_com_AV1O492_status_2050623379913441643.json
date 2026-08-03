@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2050622893936251049",
+    "created_at": "2026-05-02T17:08:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T18:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050623379913441643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1054755477542756352",
+          "start": 0,
+          "username": "SPACERADIO_626"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050623379913441643",
+    "in_reply_to_user_id": "1054755477542756352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050622893936251049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SPACERADIO_626 我操，好好玩啊这猫"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17732,
+        "height": 1280,
+        "media_key": "13_2050622804345950208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050622804345950208/img/7FtATbIeK8ms2M9a.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050622804345950208/vid/avc1/320x568/DvMWfp1w8iKsfesN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050622804345950208/vid/avc1/480x852/jojc9o0w-PJSCfPJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050622804345950208/vid/avc1/720x1280/cKZvpH72YxFOJrnH.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050622804345950208/pl/G4_HbnrB9wGXvbTo.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2050622893936251049",
+        "created_at": "2026-05-02T17:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T18:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050623379913441643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1054755477542756352",
+              "start": 0,
+              "username": "SPACERADIO_626"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050623379913441643",
+        "in_reply_to_user_id": "1054755477542756352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050622893936251049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SPACERADIO_626 我操，好好玩啊这猫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050622804345950208"
+          ]
+        },
+        "author_id": "1054755477542756352",
+        "conversation_id": "2050622893936251049",
+        "created_at": "2026-05-02T17:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T18:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050622893936251049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gmS2M9UEPw",
+              "end": 42,
+              "expanded_url": "https://x.com/SPACERADIO_626/status/2050622893936251049/video/1",
+              "media_key": "13_2050622804345950208",
+              "start": 19,
+              "url": "https://t.co/gmS2M9UEPw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050622893936251049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当时我们也没想到他文化程度这么低…… https://t.co/gmS2M9UEPw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047592059872387072/fc9q0a9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 76,
+          "like_count": 4139,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 2026
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-23T15:24:37.000Z",
+        "description": "☏-Shit posting | SEN KOK/森 | FicroAce/she/her/fil/fim/AuDHD drugtwt\n \n💿I'm the collapsing star of death, the pulse echo of the cosmic.",
+        "id": "1054755477542756352",
+        "location": "Space",
+        "name": "Space Badboy",
+        "pinned_tweet_id": "1998815878041973136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047719872726261760/rK7O9YTq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 432,
+          "like_count": 5089,
+          "listed_count": 0,
+          "media_count": 614,
+          "tweet_count": 4465
+        },
+        "username": "SPACERADIO_626",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933458312546455552"
+      ],
+      "media_source_tweet_id": [
+        "1933458320817598553"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "1933719711881310558",
+    "created_at": "2025-06-14T02:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T03:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933719711881310558"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 25,
+          "tag": "隐德来希"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1580505223071641600",
+          "start": 3,
+          "username": "qwq_shark"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r6Mg17OFWn",
+          "end": 54,
+          "expanded_url": "https://x.com/qwq_shark/status/1933458320817598553/photo/1",
+          "media_key": "3_1933458312546455552",
+          "start": 31,
+          "url": "https://t.co/r6Mg17OFWn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933719711881310558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933458320817598553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qwq_shark: 哎我去萌死我了宝宝\n#隐德来希 https://t.co/r6Mg17OFWn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1997,
+        "media_key": "3_1933458312546455552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtUGF2NbkAApNcK.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933458312546455552"
+          ],
+          "media_source_tweet_id": [
+            "1933458320817598553"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "1933719711881310558",
+        "created_at": "2025-06-14T02:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T03:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933719711881310558"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "隐德来希"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1580505223071641600",
+              "start": 3,
+              "username": "qwq_shark"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r6Mg17OFWn",
+              "end": 54,
+              "expanded_url": "https://x.com/qwq_shark/status/1933458320817598553/photo/1",
+              "media_key": "3_1933458312546455552",
+              "start": 31,
+              "url": "https://t.co/r6Mg17OFWn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933719711881310558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933458320817598553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qwq_shark: 哎我去萌死我了宝宝\n#隐德来希 https://t.co/r6Mg17OFWn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933458312546455552"
+          ]
+        },
+        "author_id": "1580505223071641600",
+        "conversation_id": "1933458320817598553",
+        "created_at": "2025-06-13T09:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T10:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933458320817598553"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "隐德来希"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r6Mg17OFWn",
+              "end": 39,
+              "expanded_url": "https://x.com/qwq_shark/status/1933458320817598553/photo/1",
+              "media_key": "3_1933458312546455552",
+              "start": 16,
+              "url": "https://t.co/r6Mg17OFWn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933458320817598553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 653,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎我去萌死我了宝宝\n#隐德来希 https://t.co/r6Mg17OFWn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "恐怖暗黑血仆少羽奶龙国潮来袭神秘功夫需要加强哈基米哈基米哈基米胖宝宝乖狗狗屠孝子TV之提琴大人我来给您踩踩背啦点击输入文本金翼先知白兑换码我的天哪镜大人屠夫版本人类需要加强全网最尊重美国人英国人加拿大人墨西哥人阿根廷人中国人挪威人瑞典人德国人俄罗斯人日本人波兰人意大利人活死人女巫真神棍假神婆及狼人鳄鱼人吸血鬼的推特账户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "苦痛之屋 he/them\r\ncn狂蛆/旗队长",
+        "name": "𝖍𝖊𝖆𝖑 𝖒𝖞 𝖕𝖘𝖞𝖈𝖍𝖔 𝖑𝖔𝖛𝖊☠✯粪海狂蛆✯",
+        "pinned_tweet_id": "1932310860283674700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932284293818249216/2HC70Y2I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 20,
+          "like_count": 1077,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 615
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T10:28:18.000Z",
+        "description": "好朋友@Miekoudesu｜提问箱：https://t.co/gVJiSVQFBH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "Miekoudesu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/1m1ssyu0",
+                "end": 42,
+                "expanded_url": "https://ngl.link/1m1ssyu0",
+                "start": 19,
+                "url": "https://t.co/gVJiSVQFBH"
+              }
+            ]
+          }
+        },
+        "id": "1580505223071641600",
+        "name": "悲惨世界与内心独白",
+        "pinned_tweet_id": "1863064821769568264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912781745281462273/HyZSDNF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5472,
+          "following_count": 330,
+          "like_count": 3516,
+          "listed_count": 9,
+          "media_count": 487,
+          "tweet_count": 10249
+        },
+        "username": "qwq_shark",
+        "verified": false
+      }
+    ]
+  }
+}

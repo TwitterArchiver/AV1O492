@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073735810164424704",
+        "3_2073735810168553473",
+        "3_2073735810160132096",
+        "3_2073735810151768064"
+      ],
+      "media_source_tweet_id": [
+        "2073735818100064541",
+        "2073735818100064541",
+        "2073735818100064541",
+        "2073735818100064541"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2074038972221980936",
+    "created_at": "2026-07-06T07:53:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T08:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074038972221980936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1220297473417187328",
+          "start": 3,
+          "username": "the_cooler_7ed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IpPW7EHfpR",
+          "end": 82,
+          "expanded_url": "https://x.com/the_cooler_7ed/status/2073735818100064541/photo/1",
+          "media_key": "3_2073735810164424704",
+          "start": 59,
+          "url": "https://t.co/IpPW7EHfpR"
+        },
+        {
+          "display_url": "pic.x.com/IpPW7EHfpR",
+          "end": 82,
+          "expanded_url": "https://x.com/the_cooler_7ed/status/2073735818100064541/photo/1",
+          "media_key": "3_2073735810168553473",
+          "start": 59,
+          "url": "https://t.co/IpPW7EHfpR"
+        },
+        {
+          "display_url": "pic.x.com/IpPW7EHfpR",
+          "end": 82,
+          "expanded_url": "https://x.com/the_cooler_7ed/status/2073735818100064541/photo/1",
+          "media_key": "3_2073735810160132096",
+          "start": 59,
+          "url": "https://t.co/IpPW7EHfpR"
+        },
+        {
+          "display_url": "pic.x.com/IpPW7EHfpR",
+          "end": 82,
+          "expanded_url": "https://x.com/the_cooler_7ed/status/2073735818100064541/photo/1",
+          "media_key": "3_2073735810151768064",
+          "start": 59,
+          "url": "https://t.co/IpPW7EHfpR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074038972221980936",
+    "lang": "ru",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3020
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073735818100064541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @the_cooler_7ed: мы с подругой так и сделали в отпуске😎 https://t.co/IpPW7EHfpR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1546,
+        "media_key": "3_2073735810164424704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdju3LbgAAXjl4.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1555,
+        "media_key": "3_2073735810168553473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdju3MagAEej5x.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1546,
+        "media_key": "3_2073735810160132096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdju3KaAAAfsZX.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1544,
+        "media_key": "3_2073735810151768064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdju3IaYAAlzVx.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073735810164424704",
+            "3_2073735810168553473",
+            "3_2073735810160132096",
+            "3_2073735810151768064"
+          ],
+          "media_source_tweet_id": [
+            "2073735818100064541",
+            "2073735818100064541",
+            "2073735818100064541",
+            "2073735818100064541"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2074038972221980936",
+        "created_at": "2026-07-06T07:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074038972221980936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1220297473417187328",
+              "start": 3,
+              "username": "the_cooler_7ed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IpPW7EHfpR",
+              "end": 82,
+              "expanded_url": "https://x.com/the_cooler_7ed/status/2073735818100064541/photo/1",
+              "media_key": "3_2073735810164424704",
+              "start": 59,
+              "url": "https://t.co/IpPW7EHfpR"
+            },
+            {
+              "display_url": "pic.x.com/IpPW7EHfpR",
+              "end": 82,
+              "expanded_url": "https://x.com/the_cooler_7ed/status/2073735818100064541/photo/1",
+              "media_key": "3_2073735810168553473",
+              "start": 59,
+              "url": "https://t.co/IpPW7EHfpR"
+            },
+            {
+              "display_url": "pic.x.com/IpPW7EHfpR",
+              "end": 82,
+              "expanded_url": "https://x.com/the_cooler_7ed/status/2073735818100064541/photo/1",
+              "media_key": "3_2073735810160132096",
+              "start": 59,
+              "url": "https://t.co/IpPW7EHfpR"
+            },
+            {
+              "display_url": "pic.x.com/IpPW7EHfpR",
+              "end": 82,
+              "expanded_url": "https://x.com/the_cooler_7ed/status/2073735818100064541/photo/1",
+              "media_key": "3_2073735810151768064",
+              "start": 59,
+              "url": "https://t.co/IpPW7EHfpR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074038972221980936",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3020
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073735818100064541",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @the_cooler_7ed: мы с подругой так и сделали в отпуске😎 https://t.co/IpPW7EHfpR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073735810164424704",
+            "3_2073735810168553473",
+            "3_2073735810160132096",
+            "3_2073735810151768064"
+          ]
+        },
+        "author_id": "1220297473417187328",
+        "conversation_id": "2073735818100064541",
+        "created_at": "2026-07-05T11:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073735818100064541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IpPW7EHfpR",
+              "end": 62,
+              "expanded_url": "https://x.com/the_cooler_7ed/status/2073735818100064541/photo/1",
+              "media_key": "3_2073735810164424704",
+              "start": 39,
+              "url": "https://t.co/IpPW7EHfpR"
+            },
+            {
+              "display_url": "pic.x.com/IpPW7EHfpR",
+              "end": 62,
+              "expanded_url": "https://x.com/the_cooler_7ed/status/2073735818100064541/photo/1",
+              "media_key": "3_2073735810168553473",
+              "start": 39,
+              "url": "https://t.co/IpPW7EHfpR"
+            },
+            {
+              "display_url": "pic.x.com/IpPW7EHfpR",
+              "end": 62,
+              "expanded_url": "https://x.com/the_cooler_7ed/status/2073735818100064541/photo/1",
+              "media_key": "3_2073735810160132096",
+              "start": 39,
+              "url": "https://t.co/IpPW7EHfpR"
+            },
+            {
+              "display_url": "pic.x.com/IpPW7EHfpR",
+              "end": 62,
+              "expanded_url": "https://x.com/the_cooler_7ed/status/2073735818100064541/photo/1",
+              "media_key": "3_2073735810151768064",
+              "start": 39,
+              "url": "https://t.co/IpPW7EHfpR"
+            },
+            {
+              "display_url": "x.com/onoklea/status…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/onoklea/status/2073309392766636419",
+              "start": 63,
+              "url": "https://t.co/ZyQNUfBIdn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073735818100064541",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4901,
+          "impression_count": 1766531,
+          "like_count": 42652,
+          "quote_count": 873,
+          "reply_count": 171,
+          "retweet_count": 3024
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073309392766636419",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "мы с подругой так и сделали в отпуске😎 https://t.co/IpPW7EHfpR https://t.co/ZyQNUfBIdn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Temen-ni-gru Tower",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 85,
+          "like_count": 5118,
+          "listed_count": 2,
+          "media_count": 320,
+          "tweet_count": 2616
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-23T10:49:50.000Z",
+        "description": "i’m 23yo, i still can smoke legally",
+        "id": "1220297473417187328",
+        "location": "ISFP 4w5 so/sx felv ",
+        "name": "7ed🇰🇿",
+        "pinned_tweet_id": "1980533917699698753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029098615877038080/WPjob7e2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 1074,
+          "like_count": 411530,
+          "listed_count": 1,
+          "media_count": 4639,
+          "tweet_count": 61074
+        },
+        "url": "",
+        "username": "the_cooler_7ed",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "1929244338963259564",
+    "created_at": "2025-06-01T18:31:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T19:31:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929244338963259564"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《When the Levee Breaks (Remaster)》，由 Led Zeppelin 演唱，收录于《Led Zeppelin IV (Deluxe Edition)》专辑中，《When the Levee Breaks (Remaster)》下载，《When the Levee Breaks (Remaster)》在线试听，更多When the Levee Breaks (Remaster)相关歌曲推荐，尽在网易云音乐",
+          "display_url": "y.music.163.com/m/song?id=2971…",
+          "end": 23,
+          "expanded_url": "https://y.music.163.com/m/song?id=29719541&userid=3223459289&dlt=0846",
+          "start": 0,
+          "status": 200,
+          "title": "When the Levee Breaks (Remaster) - Led Zeppelin - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?id=29719541&userid=3223459289&dlt=0846",
+          "url": "https://t.co/NHUZIGBCHI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929244338963259564",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/NHUZIGBCHI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "1929244338963259564",
+        "created_at": "2025-06-01T18:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T19:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929244338963259564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《When the Levee Breaks (Remaster)》，由 Led Zeppelin 演唱，收录于《Led Zeppelin IV (Deluxe Edition)》专辑中，《When the Levee Breaks (Remaster)》下载，《When the Levee Breaks (Remaster)》在线试听，更多When the Levee Breaks (Remaster)相关歌曲推荐，尽在网易云音乐",
+              "display_url": "y.music.163.com/m/song?id=2971…",
+              "end": 23,
+              "expanded_url": "https://y.music.163.com/m/song?id=29719541&userid=3223459289&dlt=0846",
+              "start": 0,
+              "status": 200,
+              "title": "When the Levee Breaks (Remaster) - Led Zeppelin - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=29719541&userid=3223459289&dlt=0846",
+              "url": "https://t.co/NHUZIGBCHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929244338963259564",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NHUZIGBCHI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "恐怖暗黑血仆少御奶龙国潮来袭神秘功夫需要加强哈基米哈基米哈基米胖宝宝乖狗狗屠孝子TV之提琴大人我来给您踩踩背啦点击输入文本金翼先知白兑换码我的天哪镜大人屠夫版本人类需要加强全网最尊重美国人英国人加拿大人墨西哥人阿根廷人中国人挪威人瑞典人德国人俄罗斯人日本人波兰人意大利人活死人女巫真神棍假神婆及狼人鳄鱼人吸血鬼的推特账户",
+        "id": "1917890381104271361",
+        "location": "苦痛之屋",
+        "name": "𝖍𝖊𝖆𝖑 𝖒𝖞 𝖕𝖘𝖞𝖈𝖍𝖔 𝖑𝖔𝖛𝖊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929086113408544768/2_CrG0ys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 4,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 42
+        },
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

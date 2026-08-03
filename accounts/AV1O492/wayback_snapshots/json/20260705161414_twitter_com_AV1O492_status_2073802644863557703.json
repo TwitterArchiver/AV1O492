@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2073802644863557703",
+    "created_at": "2026-07-05T16:14:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T17:14:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073802644863557703"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Paramjitt/stat…",
+          "end": 162,
+          "expanded_url": "https://twitter.com/Paramjitt/status/2073657428756054513",
+          "start": 139,
+          "url": "https://t.co/fdyksEXRp6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073802644863557703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073657428756054513",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Dizzy's\n称呼    自指  他指\n男的     🟩    🟩\n男娘     🟩    🟩\n药娘     🟥    🟥\n跨女     🟥    🟥\n女的     🟥    🟩\nmtf       🟥    🟥\nftm       🟩    🟩\n但丁     🍕    🍕 https://t.co/fdyksEXRp6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2073802644863557703",
+        "created_at": "2026-07-05T16:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073802644863557703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Paramjitt/stat…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/Paramjitt/status/2073657428756054513",
+              "start": 139,
+              "url": "https://t.co/fdyksEXRp6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073802644863557703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073657428756054513",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Dizzy's\n称呼    自指  他指\n男的     🟩    🟩\n男娘     🟩    🟩\n药娘     🟥    🟥\n跨女     🟥    🟥\n女的     🟥    🟩\nmtf       🟥    🟥\nftm       🟩    🟩\n但丁     🍕    🍕 https://t.co/fdyksEXRp6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "162974851",
+        "conversation_id": "2073657428756054513",
+        "created_at": "2026-07-05T06:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073657428756054513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/axzameyzed/sta…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/axzameyzed/status/2073655933532828127",
+              "start": 128,
+              "url": "https://t.co/7drAYBuf4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073657428756054513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 596,
+          "like_count": 10,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073655933532828127",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "称呼    自指  他指\n男的     🟩    🟩\n男娘     🟩    🟩\n药娘     🟩    🟩\n跨女     🟩    🟩\n女的     🟩    🟩\nmtf       🟩    🟩\nftm       🟩    🟩\n末影人 🔥    🔥 https://t.co/7drAYBuf4F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Temen-ni-gru Tower",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 83,
+          "like_count": 5085,
+          "listed_count": 2,
+          "media_count": 319,
+          "tweet_count": 2603
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-05T06:05:17.000Z",
+        "description": "互关寻回\n🚪52（加了啥也没有）\n你推六个月封15个号的人，传奇耐封王\n自我介绍不多说了，你应该刷到过我\nhttps://t.co/TYxFLX9MRG\n大号@Shivam3228\n牛马💊 @AminoXx_killer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 79,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 110,
+                "start": 95,
+                "username": "AminoXx_killer"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 76,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 53,
+                "url": "https://t.co/TYxFLX9MRG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/l2gjMdmFaC"
+              }
+            ]
+          }
+        },
+        "id": "162974851",
+        "location": "你身后",
+        "name": "霖（赞绝病娇中2，16.0寻回爱妻）",
+        "pinned_tweet_id": "2068570468312039765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071548184963506176/HGB67smS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 335,
+          "like_count": 1046,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 678
+        },
+        "url": "https://t.co/l2gjMdmFaC",
+        "username": "Paramjitt",
+        "verified": false
+      }
+    ]
+  }
+}

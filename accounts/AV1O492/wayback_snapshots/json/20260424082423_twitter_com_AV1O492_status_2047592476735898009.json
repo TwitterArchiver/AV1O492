@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2047330438008721490",
+    "created_at": "2026-04-24T08:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T09:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047592476735898009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1816489710682030080",
+          "start": 0,
+          "username": "keaiiea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047592476735898009",
+    "in_reply_to_user_id": "1816489710682030080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047538634719699350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keaiiea 我好帅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2047330438008721490",
+        "created_at": "2026-04-24T08:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047592476735898009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1816489710682030080",
+              "start": 0,
+              "username": "keaiiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047592476735898009",
+        "in_reply_to_user_id": "1816489710682030080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047538634719699350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keaiiea 我好帅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816489710682030080",
+        "conversation_id": "2047330438008721490",
+        "created_at": "2026-04-24T04:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047538634719699350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047538634719699350",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047330438008721490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 THE GAY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047592059872387072/fc9q0a9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 70,
+          "like_count": 3748,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 1754
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T15:04:46.000Z",
+        "description": "我是jonas\n🚪88",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keaiiea1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keaiiea1",
+                "start": 0,
+                "url": "https://t.co/6qTDtDAnmS"
+              }
+            ]
+          }
+        },
+        "id": "1816489710682030080",
+        "name": "J0N45",
+        "pinned_tweet_id": "1983196415313752421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040970131346718720/QxA0zX1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1696,
+          "following_count": 415,
+          "like_count": 26417,
+          "listed_count": 2,
+          "media_count": 398,
+          "tweet_count": 2233
+        },
+        "url": "https://t.co/6qTDtDAnmS",
+        "username": "keaiiea",
+        "verified": false
+      }
+    ]
+  }
+}

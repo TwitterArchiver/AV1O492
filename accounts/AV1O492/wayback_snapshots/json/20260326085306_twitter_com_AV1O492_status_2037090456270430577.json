@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2037089571792707633",
+    "created_at": "2026-03-26T08:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T09:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037090456270430577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1933200730443415552",
+          "start": 0,
+          "username": "nothingnes74306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037090456270430577",
+    "in_reply_to_user_id": "1933200730443415552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037089571792707633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nothingnes74306 邮票还是麻？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2037089571792707633",
+        "created_at": "2026-03-26T08:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037090456270430577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1933200730443415552",
+              "start": 0,
+              "username": "nothingnes74306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037090456270430577",
+        "in_reply_to_user_id": "1933200730443415552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037089571792707633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nothingnes74306 邮票还是麻？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933200730443415552",
+        "conversation_id": "2037089571792707633",
+        "created_at": "2026-03-26T08:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037089571792707633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037089571792707633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在有个问题，就是我准备四月份去杭州拿包，我可以做大巴过去，但回来的时候我不敢做大巴回来，因为我怕安检，我也不会开车，所以除了打车之外还有啥方法吗？打车就是比较贵额"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别把我认成女的 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036857419859460096/mWV57S2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 69,
+          "like_count": 3176,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 1478
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T16:33:06.000Z",
+        "description": "Love me until I love myself",
+        "id": "1933200730443415552",
+        "name": "nothingness",
+        "pinned_tweet_id": "2002704439376040060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996409076876476416/kYNAR_lU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 118,
+          "like_count": 4288,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 375
+        },
+        "username": "nothingnes74306",
+        "verified": false
+      }
+    ]
+  }
+}

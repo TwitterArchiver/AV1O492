@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2071164336614371767",
+    "created_at": "2026-06-28T09:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T10:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071164336614371767"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Samael404/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Samael404/status/2071043219186655651",
+          "start": 5,
+          "url": "https://t.co/tlkxYr4FRa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071164336614371767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071043219186655651",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我内个了 https://t.co/tlkxYr4FRa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071043202979864576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3S0fwaIAAmw1p.jpg",
+        "width": 1365
+      },
+      {
+        "height": 1365,
+        "media_key": "3_2071043202975776768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3S0fvbwAAaHUM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071043202975682560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3S0fvaUAAK8Wh.jpg",
+        "width": 1463
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071043202992455680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3S0fzaQAAFB1Y.jpg",
+        "width": 1820
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2071164336614371767",
+        "created_at": "2026-06-28T09:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071164336614371767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Samael404/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Samael404/status/2071043219186655651",
+              "start": 5,
+              "url": "https://t.co/tlkxYr4FRa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071164336614371767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071043219186655651",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我内个了 https://t.co/tlkxYr4FRa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071043202979864576",
+            "3_2071043202975776768",
+            "3_2071043202975682560",
+            "3_2071043202992455680"
+          ]
+        },
+        "author_id": "1553298590302212097",
+        "conversation_id": "2071043219186655651",
+        "created_at": "2026-06-28T01:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T02:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071043219186655651"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 18,
+              "tag": "dmcvd"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "VD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cd4LhP4AJu",
+              "end": 52,
+              "expanded_url": "https://x.com/Samael404/status/2071043219186655651/photo/1",
+              "media_key": "3_2071043202979864576",
+              "start": 29,
+              "url": "https://t.co/Cd4LhP4AJu"
+            },
+            {
+              "display_url": "pic.x.com/Cd4LhP4AJu",
+              "end": 52,
+              "expanded_url": "https://x.com/Samael404/status/2071043219186655651/photo/1",
+              "media_key": "3_2071043202975776768",
+              "start": 29,
+              "url": "https://t.co/Cd4LhP4AJu"
+            },
+            {
+              "display_url": "pic.x.com/Cd4LhP4AJu",
+              "end": 52,
+              "expanded_url": "https://x.com/Samael404/status/2071043219186655651/photo/1",
+              "media_key": "3_2071043202975682560",
+              "start": 29,
+              "url": "https://t.co/Cd4LhP4AJu"
+            },
+            {
+              "display_url": "pic.x.com/Cd4LhP4AJu",
+              "end": 52,
+              "expanded_url": "https://x.com/Samael404/status/2071043219186655651/photo/1",
+              "media_key": "3_2071043202992455680",
+              "start": 29,
+              "url": "https://t.co/Cd4LhP4AJu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071043219186655651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 1455,
+          "like_count": 227,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "想起来账号发一下，后三张是给接龙的\n#dmcvd #VD https://t.co/Cd4LhP4AJu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜皮下真名但丁斯巴达实名冲浪｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071108900422926336/3klYl-Rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 74,
+          "like_count": 4278,
+          "listed_count": 2,
+          "media_count": 260,
+          "tweet_count": 2183
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-30T08:37:11.000Z",
+        "description": "=Samael404//中國語/少量日本語//:D 低浮上",
+        "id": "1553298590302212097",
+        "name": "暴雨前夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892963891581157376/gaVkjEgE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 55,
+          "like_count": 6607,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 299
+        },
+        "url": "",
+        "username": "Samael404",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2074904617608171694",
+    "created_at": "2026-07-09T13:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T14:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075211994253476135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1673717625958850562",
+          "start": 0,
+          "username": "mandinate766936"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075211994253476135",
+    "in_reply_to_user_id": "1673717625958850562",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074904617608171694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mandinate766936 好香艳好香艳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2364,
+        "media_key": "3_2074904422484987904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMuKlDUa0AAXYf5.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2074904617608171694",
+        "created_at": "2026-07-09T13:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T14:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075211994253476135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1673717625958850562",
+              "start": 0,
+              "username": "mandinate766936"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075211994253476135",
+        "in_reply_to_user_id": "1673717625958850562",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074904617608171694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mandinate766936 好香艳好香艳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074904422484987904"
+          ]
+        },
+        "author_id": "1673717625958850562",
+        "conversation_id": "2074904617608171694",
+        "created_at": "2026-07-08T17:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T18:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074904617608171694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7kI2oTdXP",
+              "end": 35,
+              "expanded_url": "https://x.com/mandinate766936/status/2074904617608171694/photo/1",
+              "media_key": "3_2074904422484987904",
+              "start": 12,
+              "url": "https://t.co/j7kI2oTdXP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074904617608171694",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 609,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "幼v4d\n我的色心大起 https://t.co/j7kI2oTdXP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 86,
+          "like_count": 5425,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 2755
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T15:39:27.000Z",
+        "description": "🇨🇳，外语水平差\nop🔥🎩\nbayonetta  bayojeanne\ndmcvd/vn，偏好vd\n只想看画去🦋，我会转发发闲谈在这个账号上面\n喜欢性转，年上，gore 雷的误入\n本人很抽象，别报以期待",
+        "id": "1673717625958850562",
+        "name": "曼迪纳特",
+        "pinned_tweet_id": "2035340265888923822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066670229602926592/tSq5QL3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 298,
+          "like_count": 1645,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 636
+        },
+        "url": "",
+        "username": "mandinate766936",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2071862007096308139",
+    "created_at": "2026-07-20T16:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T17:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079247799452115111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1858748785004081152",
+          "start": 0,
+          "username": "ChaoL94331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079247799452115111",
+    "in_reply_to_user_id": "1858748785004081152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079247120138433015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChaoL94331 有人和我一样喜欢一切都是值得的☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2071862007096308139",
+        "created_at": "2026-07-20T16:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079247799452115111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1858748785004081152",
+              "start": 0,
+              "username": "ChaoL94331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079247799452115111",
+        "in_reply_to_user_id": "1858748785004081152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079247120138433015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChaoL94331 有人和我一样喜欢一切都是值得的☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858748785004081152",
+        "conversation_id": "2071862007096308139",
+        "created_at": "2026-07-20T16:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079247120138433015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079247120138433015",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071862007096308139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 好喜欢这个...整条手臂这些凹凸的瘢痕都好美😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 I LOVE DANTE and everyone could see that",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2078916554520228324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 89,
+          "like_count": 6106,
+          "listed_count": 2,
+          "media_count": 366,
+          "tweet_count": 3058
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T05:47:09.000Z",
+        "description": "@DinOs86587",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "DinOs86587"
+              }
+            ]
+          }
+        },
+        "id": "1858748785004081152",
+        "name": "超级龙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897167111488966656/XrdRmdNB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 295,
+          "like_count": 12509,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 215
+        },
+        "url": "",
+        "username": "ChaoL94331",
+        "verified": false
+      }
+    ]
+  }
+}

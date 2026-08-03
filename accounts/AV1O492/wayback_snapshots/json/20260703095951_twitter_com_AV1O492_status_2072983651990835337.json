@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1944949475396460544"
+      ],
+      "media_source_tweet_id": [
+        "1944949539036913734"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2072983651990835337",
+    "created_at": "2026-07-03T09:59:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T10:59:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072983651990835337"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 16,
+          "tag": "VergilSparda"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "736984936008187904",
+          "start": 3,
+          "username": "DMC_156"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E1orqbIMQ6",
+          "end": 53,
+          "expanded_url": "https://x.com/DMC_156/status/1944949539036913734/video/1",
+          "media_key": "13_1944949475396460544",
+          "start": 30,
+          "url": "https://t.co/E1orqbIMQ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072983651990835337",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944949539036913734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DMC_156: 💙  #VergilSparda https://t.co/E1orqbIMQ6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13033,
+        "height": 902,
+        "media_key": "13_1944949475396460544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1944949475396460544/img/riXEVoNC4QqZ0CZd.jpg",
+        "public_metrics": {
+          "view_count": 2149
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944949475396460544/vid/avc1/320x400/8ER3xNa0K_XZ1HGQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944949475396460544/vid/avc1/480x600/UnrTll4uNoswnAqR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944949475396460544/vid/avc1/720x902/aiXfXggq1o-PA1G2.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1944949475396460544/pl/FK4E5VlPfNfAk0tn.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1944949475396460544"
+          ],
+          "media_source_tweet_id": [
+            "1944949539036913734"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2072983651990835337",
+        "created_at": "2026-07-03T09:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072983651990835337"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 16,
+              "tag": "VergilSparda"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "736984936008187904",
+              "start": 3,
+              "username": "DMC_156"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E1orqbIMQ6",
+              "end": 53,
+              "expanded_url": "https://x.com/DMC_156/status/1944949539036913734/video/1",
+              "media_key": "13_1944949475396460544",
+              "start": 30,
+              "url": "https://t.co/E1orqbIMQ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072983651990835337",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944949539036913734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DMC_156: 💙  #VergilSparda https://t.co/E1orqbIMQ6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1944949475396460544"
+          ]
+        },
+        "author_id": "736984936008187904",
+        "conversation_id": "1944949539036913734",
+        "created_at": "2025-07-15T02:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T03:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944949539036913734"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 3,
+              "tag": "VergilSparda"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E1orqbIMQ6",
+              "end": 40,
+              "expanded_url": "https://x.com/DMC_156/status/1944949539036913734/video/1",
+              "media_key": "13_1944949475396460544",
+              "start": 17,
+              "url": "https://t.co/E1orqbIMQ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944949539036913734",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 5913,
+          "like_count": 547,
+          "quote_count": 8,
+          "reply_count": 2,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "💙  #VergilSparda https://t.co/E1orqbIMQ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 80,
+          "like_count": 4828,
+          "listed_count": 2,
+          "media_count": 299,
+          "tweet_count": 2464
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-29T18:17:56.000Z",
+        "description": "Post all about Vergil & V , Dante and Nero ( Mostly VERGIL💙 ) DMC Games & Memes and Others🌪️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Twitter.com",
+                "end": 23,
+                "expanded_url": "https://www.Twitter.com",
+                "start": 0,
+                "url": "https://t.co/Czmlhmhm3P"
+              }
+            ]
+          }
+        },
+        "id": "736984936008187904",
+        "location": "West Region, Singapore",
+        "name": "Λ2",
+        "pinned_tweet_id": "2046834221801701536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055509329529499648/aK-nXMO0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3708,
+          "following_count": 67,
+          "like_count": 30661,
+          "listed_count": 8,
+          "media_count": 3884,
+          "tweet_count": 8954
+        },
+        "url": "https://t.co/Czmlhmhm3P",
+        "username": "DMC_156",
+        "verified": false
+      }
+    ]
+  }
+}

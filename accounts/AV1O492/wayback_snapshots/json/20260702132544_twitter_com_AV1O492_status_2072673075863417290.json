@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072442917491552256"
+      ],
+      "media_source_tweet_id": [
+        "2072442920138092816"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2072673075863417290",
+    "created_at": "2026-07-02T13:25:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T14:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072673075863417290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1917890381104271361",
+          "start": 3,
+          "username": "AV1O492"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VW0x9ZbxPM",
+          "end": 43,
+          "expanded_url": "https://x.com/AV1O492/status/2072442920138092816/photo/1",
+          "media_key": "3_2072442917491552256",
+          "start": 20,
+          "url": "https://t.co/VW0x9ZbxPM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072673075863417290",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072442920138092816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AV1O492: Gilver https://t.co/VW0x9ZbxPM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 274,
+        "media_key": "3_2072442917491552256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMLL2mpbsAAJ5cM.jpg",
+        "width": 268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072442917491552256"
+          ],
+          "media_source_tweet_id": [
+            "2072442920138092816"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2072673075863417290",
+        "created_at": "2026-07-02T13:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072673075863417290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1917890381104271361",
+              "start": 3,
+              "username": "AV1O492"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VW0x9ZbxPM",
+              "end": 43,
+              "expanded_url": "https://x.com/AV1O492/status/2072442920138092816/photo/1",
+              "media_key": "3_2072442917491552256",
+              "start": 20,
+              "url": "https://t.co/VW0x9ZbxPM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072673075863417290",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072442920138092816",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AV1O492: Gilver https://t.co/VW0x9ZbxPM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072442917491552256"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2072442920138092816",
+        "created_at": "2026-07-01T22:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T23:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072442920138092816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VW0x9ZbxPM",
+              "end": 30,
+              "expanded_url": "https://x.com/AV1O492/status/2072442920138092816/photo/1",
+              "media_key": "3_2072442917491552256",
+              "start": 7,
+              "url": "https://t.co/VW0x9ZbxPM"
+            },
+            {
+              "display_url": "x.com/hauntedreigns/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/hauntedreigns/status/2072291869091054078",
+              "start": 31,
+              "url": "https://t.co/JwcI8jAd3S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072442920138092816",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 282,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072291869091054078",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Gilver https://t.co/VW0x9ZbxPM https://t.co/JwcI8jAd3S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1346,
+          "following_count": 78,
+          "like_count": 4732,
+          "listed_count": 1,
+          "media_count": 292,
+          "tweet_count": 2421
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

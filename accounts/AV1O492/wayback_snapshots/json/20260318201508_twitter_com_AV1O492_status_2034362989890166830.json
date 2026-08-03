@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034362987247796224"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2034362989890166830",
+    "created_at": "2026-03-18T20:15:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T21:15:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034362989890166830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1876347716756025344",
+          "start": 4,
+          "username": "meikadeer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iyGh3j6QKt",
+          "end": 70,
+          "expanded_url": "https://x.com/AV1O492/status/2034362989890166830/photo/1",
+          "media_key": "3_2034362987247796224",
+          "start": 47,
+          "url": "https://t.co/iyGh3j6QKt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034362989890166830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天和 @meikadeer ，这个世界好小 她居然是我以前很喜欢的一个乐队前贝斯手我好意外 https://t.co/iyGh3j6QKt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2034362987247796224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDuCW78bgAAsdou.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034362987247796224"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2034362989890166830",
+        "created_at": "2026-03-18T20:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T21:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034362989890166830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1876347716756025344",
+              "start": 4,
+              "username": "meikadeer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iyGh3j6QKt",
+              "end": 70,
+              "expanded_url": "https://x.com/AV1O492/status/2034362989890166830/photo/1",
+              "media_key": "3_2034362987247796224",
+              "start": 47,
+              "url": "https://t.co/iyGh3j6QKt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034362989890166830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天和 @meikadeer ，这个世界好小 她居然是我以前很喜欢的一个乐队前贝斯手我好意外 https://t.co/iyGh3j6QKt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032797382296166400/85J_f9jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 58,
+          "like_count": 2311,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 1143
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-06T19:19:08.000Z",
+        "description": "这不是艺术，这是表演性昏迷",
+        "id": "1876347716756025344",
+        "location": "Los Angeles, CA",
+        "name": "氯硝西泮片",
+        "pinned_tweet_id": "1974779913875103810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024804262396719105/sRLW6ldN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 108,
+          "like_count": 548,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 420
+        },
+        "username": "meikadeer",
+        "verified": false
+      }
+    ]
+  }
+}

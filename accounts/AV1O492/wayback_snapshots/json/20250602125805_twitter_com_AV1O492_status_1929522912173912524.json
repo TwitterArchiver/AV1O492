@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "1927634388357112207",
+    "created_at": "2025-06-02T12:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T13:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929522912173912524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1828097760274608128",
+          "start": 0,
+          "username": "xiaole2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929522912173912524",
+    "in_reply_to_user_id": "1828097760274608128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927634388357112207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaole2006 虫母证件照比直播间美颜掉了还吓人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1416,
+        "media_key": "3_1927634374964514816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsBVQECXkAA7Hg_.jpg",
+        "width": 1892
+      },
+      {
+        "height": 454,
+        "media_key": "3_1927634375614910464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsBVQGdb0AAU9aU.jpg",
+        "width": 808
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "1927634388357112207",
+        "created_at": "2025-06-02T12:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T13:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929522912173912524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1828097760274608128",
+              "start": 0,
+              "username": "xiaole2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929522912173912524",
+        "in_reply_to_user_id": "1828097760274608128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927634388357112207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaole2006 虫母证件照比直播间美颜掉了还吓人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927634374964514816",
+            "3_1927634375614910464"
+          ]
+        },
+        "author_id": "1828097760274608128",
+        "conversation_id": "1927634388357112207",
+        "created_at": "2025-05-28T07:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T08:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927634388357112207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hIs2jcJJfJ",
+              "end": 35,
+              "expanded_url": "https://x.com/xiaole2006/status/1927634388357112207/photo/1",
+              "media_key": "3_1927634374964514816",
+              "start": 12,
+              "url": "https://t.co/hIs2jcJJfJ"
+            },
+            {
+              "display_url": "pic.x.com/hIs2jcJJfJ",
+              "end": 35,
+              "expanded_url": "https://x.com/xiaole2006/status/1927634388357112207/photo/1",
+              "media_key": "3_1927634375614910464",
+              "start": 12,
+              "url": "https://t.co/hIs2jcJJfJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927634388357112207",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 504,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Jane简英虫母大曝光 https://t.co/hIs2jcJJfJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "恐怖暗黑血仆少御奶龙国潮来袭神秘功夫需要加强哈基米哈基米哈基米胖宝宝乖狗狗屠孝子TV之提琴大人我来给您踩踩背啦点击输入文本金翼先知白兑换码我的天哪镜大人屠夫版本人类需要加强全网最尊重美国人英国人加拿大人墨西哥人阿根廷人中国人挪威人瑞典人德国人俄罗斯人日本人波兰人意大利人活死人女巫真神棍假神婆及狼人鳄鱼人吸血鬼的推特账户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "苦痛之屋",
+        "name": "𝖍𝖊𝖆𝖑 𝖒𝖞 𝖕𝖘𝖞𝖈𝖍𝖔 𝖑𝖔𝖛𝖊☠✯粪海狂蛆✯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929086113408544768/2_CrG0ys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 5,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 61
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T15:51:02.000Z",
+        "description": "于春玲的私生饭",
+        "id": "1828097760274608128",
+        "location": "广西",
+        "name": "风间琉璃",
+        "pinned_tweet_id": "1927634388357112207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885541074367897601/CVyFKSpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 143,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 168
+        },
+        "username": "xiaole2006",
+        "verified": false
+      }
+    ]
+  }
+}

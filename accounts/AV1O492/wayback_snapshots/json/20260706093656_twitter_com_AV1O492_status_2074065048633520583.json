@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2074064963594039296",
+        "7_2074064994636111872",
+        "7_2074065021601218560"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2074065048633520583",
+    "created_at": "2026-07-06T09:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T10:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074065048633520583"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/J9IyMR5Zz1",
+          "end": 113,
+          "expanded_url": "https://x.com/AV1O492/status/2074065048633520583/video/1",
+          "media_key": "7_2074064963594039296",
+          "start": 90,
+          "url": "https://t.co/J9IyMR5Zz1"
+        },
+        {
+          "display_url": "pic.x.com/J9IyMR5Zz1",
+          "end": 113,
+          "expanded_url": "https://x.com/AV1O492/status/2074065048633520583/video/1",
+          "media_key": "7_2074064994636111872",
+          "start": 90,
+          "url": "https://t.co/J9IyMR5Zz1"
+        },
+        {
+          "display_url": "pic.x.com/J9IyMR5Zz1",
+          "end": 113,
+          "expanded_url": "https://x.com/AV1O492/status/2074065048633520583/video/1",
+          "media_key": "7_2074065021601218560",
+          "start": 90,
+          "url": "https://t.co/J9IyMR5Zz1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074065048633520583",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "this is when I was totally totally calm's when I saw Dante painted by other great artists https://t.co/J9IyMR5Zz1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14605,
+        "height": 1278,
+        "media_key": "7_2074064963594039296",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074064963594039296/pu/img/6t-jhRJgdGRSt3CM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074064963594039296/pu/vid/avc1/320x750/GH-smFrffA-h-N_l.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074064963594039296/pu/vid/avc1/480x1126/Ct8Ang2K8mV3799X.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074064963594039296/pu/vid/avc1/544x1278/6xm8THpAMwCRQ0_3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074064963594039296/pu/pl/AFNzBnVlq_LUb5L6.m3u8?tag=12"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "duration_ms": 16766,
+        "height": 1278,
+        "media_key": "7_2074064994636111872",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074064994636111872/pu/img/V9BtxevuIRgtD2dC.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074064994636111872/pu/vid/avc1/320x788/k45hy4BfBzhUM4_t.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074064994636111872/pu/vid/avc1/518x1278/lLAIWNyT4JEXKu6q.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074064994636111872/pu/pl/tOjxxcGilgp6XDGs.m3u8?tag=12"
+          }
+        ],
+        "width": 518
+      },
+      {
+        "duration_ms": 17136,
+        "height": 1278,
+        "media_key": "7_2074065021601218560",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074065021601218560/pu/img/3jQyLjbM3FzsrTQr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074065021601218560/pu/vid/avc1/320x792/LP2M0k1qFJTJqvbd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074065021601218560/pu/vid/avc1/516x1278/Vbo4THcF9JAAZH79.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074065021601218560/pu/pl/xobWAPcJ_bypuu5h.m3u8?tag=12"
+          }
+        ],
+        "width": 516
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074064963594039296",
+            "7_2074064994636111872",
+            "7_2074065021601218560"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2074065048633520583",
+        "created_at": "2026-07-06T09:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074065048633520583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J9IyMR5Zz1",
+              "end": 113,
+              "expanded_url": "https://x.com/AV1O492/status/2074065048633520583/video/1",
+              "media_key": "7_2074064963594039296",
+              "start": 90,
+              "url": "https://t.co/J9IyMR5Zz1"
+            },
+            {
+              "display_url": "pic.x.com/J9IyMR5Zz1",
+              "end": 113,
+              "expanded_url": "https://x.com/AV1O492/status/2074065048633520583/video/1",
+              "media_key": "7_2074064994636111872",
+              "start": 90,
+              "url": "https://t.co/J9IyMR5Zz1"
+            },
+            {
+              "display_url": "pic.x.com/J9IyMR5Zz1",
+              "end": 113,
+              "expanded_url": "https://x.com/AV1O492/status/2074065048633520583/video/1",
+              "media_key": "7_2074065021601218560",
+              "start": 90,
+              "url": "https://t.co/J9IyMR5Zz1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074065048633520583",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "this is when I was totally totally calm's when I saw Dante painted by other great artists https://t.co/J9IyMR5Zz1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Temen-ni-gru Tower",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 85,
+          "like_count": 5128,
+          "listed_count": 2,
+          "media_count": 321,
+          "tweet_count": 2621
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

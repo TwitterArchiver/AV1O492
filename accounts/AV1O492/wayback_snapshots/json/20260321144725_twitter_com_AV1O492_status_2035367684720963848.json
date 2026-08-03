@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2035367684720963848",
+    "created_at": "2026-03-21T14:47:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T15:47:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035367684720963848"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cunjian520/sta…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/cunjian520/status/2035354742118064609",
+          "start": 39,
+          "url": "https://t.co/FarbNycPfh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035367684720963848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035354742118064609",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不得了，！这个，哦马卡塞吃了之后。我，变成一只，坤？操你妈。，我要，跳？楼。 https://t.co/FarbNycPfh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2035367684720963848",
+        "created_at": "2026-03-21T14:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T15:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035367684720963848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cunjian520/sta…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/cunjian520/status/2035354742118064609",
+              "start": 39,
+              "url": "https://t.co/FarbNycPfh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035367684720963848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035354742118064609",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不得了，！这个，哦马卡塞吃了之后。我，变成一只，坤？操你妈。，我要，跳？楼。 https://t.co/FarbNycPfh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018455912919535616",
+        "conversation_id": "2035354742118064609",
+        "created_at": "2026-03-21T13:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T14:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035354742118064609"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035354742118064609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不得了，！这个，肯德基吃了之后。我，变成一只，坤？操你妈。，我要，跳？楼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035336208721788929/bY0oQLSI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 60,
+          "like_count": 2542,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1218
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-02T22:46:21.000Z",
+        "description": "🚪50/100/288",
+        "id": "2018455912919535616",
+        "name": "村贝",
+        "pinned_tweet_id": "2033207637018616128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033512525850107904/Z6HQbayT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 6,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 16
+        },
+        "username": "cunjian520",
+        "verified": false
+      }
+    ]
+  }
+}

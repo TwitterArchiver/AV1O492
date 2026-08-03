@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073652836781768704",
+        "3_2073652836781723648",
+        "3_2073652836785868800",
+        "3_2073652836794343424"
+      ],
+      "media_source_tweet_id": [
+        "2073652849834422380",
+        "2073652849834422380",
+        "2073652849834422380",
+        "2073652849834422380"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2074057442380656967",
+    "created_at": "2026-07-06T09:06:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T10:06:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074057442380656967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1240544284039766016",
+          "start": 3,
+          "username": "patriarchmoriya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W4wIvrze8b",
+          "end": 123,
+          "expanded_url": "https://x.com/patriarchmoriya/status/2073652849834422380/photo/1",
+          "media_key": "3_2073652836781768704",
+          "start": 100,
+          "url": "https://t.co/W4wIvrze8b"
+        },
+        {
+          "display_url": "pic.x.com/W4wIvrze8b",
+          "end": 123,
+          "expanded_url": "https://x.com/patriarchmoriya/status/2073652849834422380/photo/1",
+          "media_key": "3_2073652836781723648",
+          "start": 100,
+          "url": "https://t.co/W4wIvrze8b"
+        },
+        {
+          "display_url": "pic.x.com/W4wIvrze8b",
+          "end": 123,
+          "expanded_url": "https://x.com/patriarchmoriya/status/2073652849834422380/photo/1",
+          "media_key": "3_2073652836785868800",
+          "start": 100,
+          "url": "https://t.co/W4wIvrze8b"
+        },
+        {
+          "display_url": "pic.x.com/W4wIvrze8b",
+          "end": 123,
+          "expanded_url": "https://x.com/patriarchmoriya/status/2073652849834422380/photo/1",
+          "media_key": "3_2073652836794343424",
+          "start": 100,
+          "url": "https://t.co/W4wIvrze8b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074057442380656967",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2693
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073652849834422380",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @patriarchmoriya: 프라하가서 무하 미술관 갔다왔고 다시한번 알폰스 무하는 미친놈인가하는 생각이 들었다. 이게 어떻게 후기 인상주의랑 같은 시대 그림체지… 허하 https://t.co/W4wIvrze8b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2073652836781768704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcYRLPbwAAr59s.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2073652836781723648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcYRLPbEAAHtJa.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2073652836785868800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcYRLQaUAAqmCu.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2073652836794343424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcYRLSboAArjym.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073652836781768704",
+            "3_2073652836781723648",
+            "3_2073652836785868800",
+            "3_2073652836794343424"
+          ],
+          "media_source_tweet_id": [
+            "2073652849834422380",
+            "2073652849834422380",
+            "2073652849834422380",
+            "2073652849834422380"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2074057442380656967",
+        "created_at": "2026-07-06T09:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074057442380656967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1240544284039766016",
+              "start": 3,
+              "username": "patriarchmoriya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W4wIvrze8b",
+              "end": 123,
+              "expanded_url": "https://x.com/patriarchmoriya/status/2073652849834422380/photo/1",
+              "media_key": "3_2073652836781768704",
+              "start": 100,
+              "url": "https://t.co/W4wIvrze8b"
+            },
+            {
+              "display_url": "pic.x.com/W4wIvrze8b",
+              "end": 123,
+              "expanded_url": "https://x.com/patriarchmoriya/status/2073652849834422380/photo/1",
+              "media_key": "3_2073652836781723648",
+              "start": 100,
+              "url": "https://t.co/W4wIvrze8b"
+            },
+            {
+              "display_url": "pic.x.com/W4wIvrze8b",
+              "end": 123,
+              "expanded_url": "https://x.com/patriarchmoriya/status/2073652849834422380/photo/1",
+              "media_key": "3_2073652836785868800",
+              "start": 100,
+              "url": "https://t.co/W4wIvrze8b"
+            },
+            {
+              "display_url": "pic.x.com/W4wIvrze8b",
+              "end": 123,
+              "expanded_url": "https://x.com/patriarchmoriya/status/2073652849834422380/photo/1",
+              "media_key": "3_2073652836794343424",
+              "start": 100,
+              "url": "https://t.co/W4wIvrze8b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074057442380656967",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2693
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073652849834422380",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @patriarchmoriya: 프라하가서 무하 미술관 갔다왔고 다시한번 알폰스 무하는 미친놈인가하는 생각이 들었다. 이게 어떻게 후기 인상주의랑 같은 시대 그림체지… 허하 https://t.co/W4wIvrze8b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073652836781768704",
+            "3_2073652836781723648",
+            "3_2073652836785868800",
+            "3_2073652836794343424"
+          ]
+        },
+        "author_id": "1240544284039766016",
+        "conversation_id": "2073652849834422380",
+        "created_at": "2026-07-05T06:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073652849834422380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W4wIvrze8b",
+              "end": 102,
+              "expanded_url": "https://x.com/patriarchmoriya/status/2073652849834422380/photo/1",
+              "media_key": "3_2073652836781768704",
+              "start": 79,
+              "url": "https://t.co/W4wIvrze8b"
+            },
+            {
+              "display_url": "pic.x.com/W4wIvrze8b",
+              "end": 102,
+              "expanded_url": "https://x.com/patriarchmoriya/status/2073652849834422380/photo/1",
+              "media_key": "3_2073652836781723648",
+              "start": 79,
+              "url": "https://t.co/W4wIvrze8b"
+            },
+            {
+              "display_url": "pic.x.com/W4wIvrze8b",
+              "end": 102,
+              "expanded_url": "https://x.com/patriarchmoriya/status/2073652849834422380/photo/1",
+              "media_key": "3_2073652836785868800",
+              "start": 79,
+              "url": "https://t.co/W4wIvrze8b"
+            },
+            {
+              "display_url": "pic.x.com/W4wIvrze8b",
+              "end": 102,
+              "expanded_url": "https://x.com/patriarchmoriya/status/2073652849834422380/photo/1",
+              "media_key": "3_2073652836794343424",
+              "start": 79,
+              "url": "https://t.co/W4wIvrze8b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073652849834422380",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2764,
+          "impression_count": 1154903,
+          "like_count": 11489,
+          "quote_count": 396,
+          "reply_count": 9,
+          "retweet_count": 2694
+        },
+        "reply_settings": "everyone",
+        "text": "프라하가서 무하 미술관 갔다왔고 다시한번 알폰스 무하는 미친놈인가하는 생각이 들었다. 이게 어떻게 후기 인상주의랑 같은 시대 그림체지… 허하 https://t.co/W4wIvrze8b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Temen-ni-gru Tower",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 85,
+          "like_count": 5127,
+          "listed_count": 2,
+          "media_count": 320,
+          "tweet_count": 2620
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-19T07:43:06.000Z",
+        "description": "(전)비밀결사문사철 단장 (현)은퇴",
+        "id": "1240544284039766016",
+        "name": "천애",
+        "pinned_tweet_id": "2032677708703150591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934983751240761344/Thn6f10O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 319,
+          "like_count": 15729,
+          "listed_count": 12,
+          "media_count": 5393,
+          "tweet_count": 69095
+        },
+        "url": "",
+        "username": "patriarchmoriya",
+        "verified": false
+      }
+    ]
+  }
+}

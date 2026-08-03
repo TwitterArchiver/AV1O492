@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072977891328233474",
+        "3_2072977906465492992"
+      ],
+      "media_source_tweet_id": [
+        "2072977918436003917",
+        "2072977918436003917"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2072979803767287975",
+    "created_at": "2026-07-03T09:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T10:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072979803767287975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1054755477542756352",
+          "start": 3,
+          "username": "SPACERADIO_626"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SNXHxGTyKm",
+          "end": 64,
+          "expanded_url": "https://x.com/SPACERADIO_626/status/2072977918436003917/photo/1",
+          "media_key": "3_2072977891328233474",
+          "start": 41,
+          "url": "https://t.co/SNXHxGTyKm"
+        },
+        {
+          "display_url": "pic.x.com/SNXHxGTyKm",
+          "end": 64,
+          "expanded_url": "https://x.com/SPACERADIO_626/status/2072977918436003917/photo/1",
+          "media_key": "3_2072977906465492992",
+          "start": 41,
+          "url": "https://t.co/SNXHxGTyKm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072979803767287975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072977918436003917",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SPACERADIO_626: 给兄弟送点麻吸，这盒子太可爱了我都想要了 https://t.co/SNXHxGTyKm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2072977891328233474",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSyaLfbkAIF-PB.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2072977906465492992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSybD4b0AAERLn.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072977891328233474",
+            "3_2072977906465492992"
+          ],
+          "media_source_tweet_id": [
+            "2072977918436003917",
+            "2072977918436003917"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072979803767287975",
+        "created_at": "2026-07-03T09:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072979803767287975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1054755477542756352",
+              "start": 3,
+              "username": "SPACERADIO_626"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SNXHxGTyKm",
+              "end": 64,
+              "expanded_url": "https://x.com/SPACERADIO_626/status/2072977918436003917/photo/1",
+              "media_key": "3_2072977891328233474",
+              "start": 41,
+              "url": "https://t.co/SNXHxGTyKm"
+            },
+            {
+              "display_url": "pic.x.com/SNXHxGTyKm",
+              "end": 64,
+              "expanded_url": "https://x.com/SPACERADIO_626/status/2072977918436003917/photo/1",
+              "media_key": "3_2072977906465492992",
+              "start": 41,
+              "url": "https://t.co/SNXHxGTyKm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072979803767287975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072977918436003917",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SPACERADIO_626: 给兄弟送点麻吸，这盒子太可爱了我都想要了 https://t.co/SNXHxGTyKm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072977891328233474",
+            "3_2072977906465492992"
+          ]
+        },
+        "author_id": "1054755477542756352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072977918436003917",
+        "created_at": "2026-07-03T09:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072977918436003917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SNXHxGTyKm",
+              "end": 44,
+              "expanded_url": "https://x.com/SPACERADIO_626/status/2072977918436003917/photo/1",
+              "media_key": "3_2072977891328233474",
+              "start": 21,
+              "url": "https://t.co/SNXHxGTyKm"
+            },
+            {
+              "display_url": "pic.x.com/SNXHxGTyKm",
+              "end": 44,
+              "expanded_url": "https://x.com/SPACERADIO_626/status/2072977918436003917/photo/1",
+              "media_key": "3_2072977906465492992",
+              "start": 21,
+              "url": "https://t.co/SNXHxGTyKm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072977918436003917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "给兄弟送点麻吸，这盒子太可爱了我都想要了 https://t.co/SNXHxGTyKm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 80,
+          "like_count": 4825,
+          "listed_count": 2,
+          "media_count": 299,
+          "tweet_count": 2461
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-23T15:24:37.000Z",
+        "description": "☏-Shit posting | SEN KOK/森 | FicroAce/she/her/fil/fim/AuDHD drugtwt\n \n💿I'm the collapsing star of death, the pulse echo of the cosmic.",
+        "id": "1054755477542756352",
+        "location": "Space",
+        "name": "Space Badboy",
+        "pinned_tweet_id": "1998815878041973136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057596517041815552/fGsFL77j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 476,
+          "like_count": 6425,
+          "listed_count": 0,
+          "media_count": 789,
+          "tweet_count": 5470
+        },
+        "url": "",
+        "username": "SPACERADIO_626",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2048660116682252666",
+    "created_at": "2026-07-20T08:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T09:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079128604647317561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1946208593554141185",
+          "start": 0,
+          "username": "_virtual_star_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079128604647317561",
+    "in_reply_to_user_id": "1946208593554141185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079126773275730232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_virtual_star_ 谢谢你的理解和包容💔❤️‍🩹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2048660116682252666",
+        "created_at": "2026-07-20T08:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T09:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079128604647317561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1946208593554141185",
+              "start": 0,
+              "username": "_virtual_star_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079128604647317561",
+        "in_reply_to_user_id": "1946208593554141185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079126773275730232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_virtual_star_ 谢谢你的理解和包容💔❤️‍🩹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946208593554141185",
+        "conversation_id": "2048660116682252666",
+        "created_at": "2026-07-20T08:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T09:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079126773275730232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079126773275730232",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079125875824730312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 ah i see, i hope you can atleast find some peace. i wish the best for you, keep pushing friend."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2078916554520228324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 89,
+          "like_count": 6006,
+          "listed_count": 2,
+          "media_count": 359,
+          "tweet_count": 3008
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T14:01:15.000Z",
+        "description": "meooww\nshedtwt",
+        "id": "1946208593554141185",
+        "name": "ren",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072602298472419328/0k0g4AEi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 99,
+          "like_count": 724,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 534
+        },
+        "url": "",
+        "username": "_virtual_star_",
+        "verified": false
+      }
+    ]
+  }
+}

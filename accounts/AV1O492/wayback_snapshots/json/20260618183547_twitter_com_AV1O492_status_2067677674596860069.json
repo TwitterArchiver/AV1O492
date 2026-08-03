@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933518270260523013",
+        "3_1933518265940389895",
+        "3_1933518268192731139",
+        "7_1933518265881669632"
+      ],
+      "media_source_tweet_id": [
+        "1933518403064770622",
+        "1933518403064770622",
+        "1933518403064770622",
+        "1933518403064770622"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2067677674596860069",
+    "created_at": "2026-06-18T18:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T19:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067677674596860069"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 47,
+          "tag": "shtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1917890381104271361",
+          "start": 3,
+          "username": "AV1O492"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nM3588YLrK",
+          "end": 77,
+          "expanded_url": "https://x.com/AV1O492/status/1933518403064770622/video/1",
+          "media_key": "3_1933518270260523013",
+          "start": 54,
+          "url": "https://t.co/nM3588YLrK"
+        },
+        {
+          "display_url": "pic.x.com/nM3588YLrK",
+          "end": 77,
+          "expanded_url": "https://x.com/AV1O492/status/1933518403064770622/video/1",
+          "media_key": "3_1933518265940389895",
+          "start": 54,
+          "url": "https://t.co/nM3588YLrK"
+        },
+        {
+          "display_url": "pic.x.com/nM3588YLrK",
+          "end": 77,
+          "expanded_url": "https://x.com/AV1O492/status/1933518403064770622/video/1",
+          "media_key": "3_1933518268192731139",
+          "start": 54,
+          "url": "https://t.co/nM3588YLrK"
+        },
+        {
+          "display_url": "pic.x.com/nM3588YLrK",
+          "end": 77,
+          "expanded_url": "https://x.com/AV1O492/status/1933518403064770622/video/1",
+          "media_key": "7_1933518265881669632",
+          "start": 54,
+          "url": "https://t.co/nM3588YLrK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067677674596860069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933518403064770622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AV1O492: 我在大腿正面划了一个纳粹万🐹🐹\n我夏天一直穿超短裤 可以露出来\n\n #shtwt https://t.co/nM3588YLrK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1933518270260523013",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtU8n2GbMAUrevZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1933518265940389895",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtU8nmAbMAcyNf5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1933518268192731139",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtU8nuZbMAMsqo8.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 11026,
+        "height": 1280,
+        "media_key": "7_1933518265881669632",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1933518265881669632/pu/img/E-aWzLrDVMU6k-JX.jpg",
+        "public_metrics": {
+          "view_count": 1210
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1933518265881669632/pu/vid/avc1/320x568/cwBHST5Hn-_ZHh_D.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1933518265881669632/pu/vid/avc1/480x852/URVctd0pxUAvOg63.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1933518265881669632/pu/vid/avc1/720x1280/u_f3CgqQSndLdAiS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1933518265881669632/pu/pl/RQDUWgHopYT0LHS-.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933518270260523013",
+            "3_1933518265940389895",
+            "3_1933518268192731139",
+            "7_1933518265881669632"
+          ],
+          "media_source_tweet_id": [
+            "1933518403064770622",
+            "1933518403064770622",
+            "1933518403064770622",
+            "1933518403064770622"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067677674596860069",
+        "created_at": "2026-06-18T18:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067677674596860069"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 47,
+              "tag": "shtwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1917890381104271361",
+              "start": 3,
+              "username": "AV1O492"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nM3588YLrK",
+              "end": 77,
+              "expanded_url": "https://x.com/AV1O492/status/1933518403064770622/video/1",
+              "media_key": "3_1933518270260523013",
+              "start": 54,
+              "url": "https://t.co/nM3588YLrK"
+            },
+            {
+              "display_url": "pic.x.com/nM3588YLrK",
+              "end": 77,
+              "expanded_url": "https://x.com/AV1O492/status/1933518403064770622/video/1",
+              "media_key": "3_1933518265940389895",
+              "start": 54,
+              "url": "https://t.co/nM3588YLrK"
+            },
+            {
+              "display_url": "pic.x.com/nM3588YLrK",
+              "end": 77,
+              "expanded_url": "https://x.com/AV1O492/status/1933518403064770622/video/1",
+              "media_key": "3_1933518268192731139",
+              "start": 54,
+              "url": "https://t.co/nM3588YLrK"
+            },
+            {
+              "display_url": "pic.x.com/nM3588YLrK",
+              "end": 77,
+              "expanded_url": "https://x.com/AV1O492/status/1933518403064770622/video/1",
+              "media_key": "7_1933518265881669632",
+              "start": 54,
+              "url": "https://t.co/nM3588YLrK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067677674596860069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933518403064770622",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AV1O492: 我在大腿正面划了一个纳粹万🐹🐹\n我夏天一直穿超短裤 可以露出来\n\n #shtwt https://t.co/nM3588YLrK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933518270260523013",
+            "3_1933518265940389895",
+            "3_1933518268192731139",
+            "7_1933518265881669632"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1933518403064770622",
+        "created_at": "2025-06-13T13:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T14:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933518403064770622"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 34,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nM3588YLrK",
+              "end": 64,
+              "expanded_url": "https://x.com/AV1O492/status/1933518403064770622/video/1",
+              "media_key": "3_1933518270260523013",
+              "start": 41,
+              "url": "https://t.co/nM3588YLrK"
+            },
+            {
+              "display_url": "pic.x.com/nM3588YLrK",
+              "end": 64,
+              "expanded_url": "https://x.com/AV1O492/status/1933518403064770622/video/1",
+              "media_key": "3_1933518265940389895",
+              "start": 41,
+              "url": "https://t.co/nM3588YLrK"
+            },
+            {
+              "display_url": "pic.x.com/nM3588YLrK",
+              "end": 64,
+              "expanded_url": "https://x.com/AV1O492/status/1933518403064770622/video/1",
+              "media_key": "3_1933518268192731139",
+              "start": 41,
+              "url": "https://t.co/nM3588YLrK"
+            },
+            {
+              "display_url": "pic.x.com/nM3588YLrK",
+              "end": 64,
+              "expanded_url": "https://x.com/AV1O492/status/1933518403064770622/video/1",
+              "media_key": "7_1933518265881669632",
+              "start": 41,
+              "url": "https://t.co/nM3588YLrK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933518403064770622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 5275,
+          "like_count": 34,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我在大腿正面划了一个纳粹万🐹🐹\n我夏天一直穿超短裤 可以露出来\n\n #shtwt https://t.co/nM3588YLrK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047592059872387072/fc9q0a9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 69,
+          "like_count": 4104,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 2030
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

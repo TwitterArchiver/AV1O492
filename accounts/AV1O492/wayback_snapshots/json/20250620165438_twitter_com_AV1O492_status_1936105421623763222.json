@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936105031591493632"
+      ],
+      "media_source_tweet_id": [
+        "1936105044556103983"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "1936105421623763222",
+    "created_at": "2025-06-20T16:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T17:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936105421623763222"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "女大"
+        },
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "反差"
+        },
+        {
+          "end": 28,
+          "start": 24,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "纯绿"
+        },
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "半绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1599125227786608655",
+          "start": 3,
+          "username": "momoko8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KnTlKP06jy",
+          "end": 77,
+          "expanded_url": "https://x.com/momoko8964/status/1936105044556103983/photo/1",
+          "media_key": "3_1936105031591493632",
+          "start": 54,
+          "url": "https://t.co/KnTlKP06jy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936105421623763222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936105044556103983",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momoko8964: #女大 #反差 #门槛妹 #纯绿 #半绿 什么都接 请过我门槛吧我真的好穷 https://t.co/KnTlKP06jy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1936105031591493632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt5tRK_bgAA0xIx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936105031591493632"
+          ],
+          "media_source_tweet_id": [
+            "1936105044556103983"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "1936105421623763222",
+        "created_at": "2025-06-20T16:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T17:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936105421623763222"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "女大"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "反差"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "纯绿"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "半绿"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1599125227786608655",
+              "start": 3,
+              "username": "momoko8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KnTlKP06jy",
+              "end": 77,
+              "expanded_url": "https://x.com/momoko8964/status/1936105044556103983/photo/1",
+              "media_key": "3_1936105031591493632",
+              "start": 54,
+              "url": "https://t.co/KnTlKP06jy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936105421623763222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936105044556103983",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @momoko8964: #女大 #反差 #门槛妹 #纯绿 #半绿 什么都接 请过我门槛吧我真的好穷 https://t.co/KnTlKP06jy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936105031591493632"
+          ]
+        },
+        "author_id": "1599125227786608655",
+        "conversation_id": "1936105044556103983",
+        "created_at": "2025-06-20T16:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T17:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936105044556103983"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "女大"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "反差"
+            },
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "纯绿"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "半绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KnTlKP06jy",
+              "end": 61,
+              "expanded_url": "https://x.com/momoko8964/status/1936105044556103983/photo/1",
+              "media_key": "3_1936105031591493632",
+              "start": 38,
+              "url": "https://t.co/KnTlKP06jy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936105044556103983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#女大 #反差 #门槛妹 #纯绿 #半绿 什么都接 请过我门槛吧我真的好穷 https://t.co/KnTlKP06jy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "恐怖暗黑血仆少羽奶龙国潮来袭神秘功夫需要加强哈基米哈基米哈基米胖宝宝乖狗狗屠孝子TV之提琴大人我来给您踩踩背啦点击输入文本金翼先知白兑换码我的天哪镜大人屠夫版本人类需要加强全网最尊重美国人英国人加拿大人墨西哥人阿根廷人中国人挪威人瑞典人德国人俄罗斯人日本人波兰人意大利人活死人女巫真神棍假神婆及狼人鳄鱼人吸血鬼的推特账户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "苦痛之屋 he/them\r\ncn狂蛆/旗队长",
+        "name": "𝖍𝖊𝖆𝖑 𝖒𝖞 𝖕𝖘𝖞𝖈𝖍𝖔 𝖑𝖔𝖛𝖊☠✯粪海狂蛆✯",
+        "pinned_tweet_id": "1932310860283674700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932284293818249216/2HC70Y2I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 31,
+          "like_count": 1662,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 874
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T19:35:49.000Z",
+        "description": "不爱看就滚出去 喜欢我就请给我点钱让我生活得更好",
+        "id": "1599125227786608655",
+        "location": "🚪88/288 私信只回口令",
+        "name": "苦桃",
+        "pinned_tweet_id": "1933489485230321989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936014057389076481/jaRjgUVa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5473,
+          "following_count": 288,
+          "like_count": 19667,
+          "listed_count": 8,
+          "media_count": 1104,
+          "tweet_count": 12988
+        },
+        "username": "momoko8964",
+        "verified": false
+      }
+    ]
+  }
+}

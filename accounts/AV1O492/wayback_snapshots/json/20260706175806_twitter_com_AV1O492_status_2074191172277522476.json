@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074181037664653312"
+      ],
+      "media_source_tweet_id": [
+        "2074181049828213168"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2074191172277522476",
+    "created_at": "2026-07-06T17:58:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T18:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074191172277522476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1429055428374130693",
+          "start": 3,
+          "username": "Gamer94469"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ghPIIHXEB6",
+          "end": 53,
+          "expanded_url": "https://x.com/Gamer94469/status/2074181049828213168/photo/1",
+          "media_key": "3_2074181037664653312",
+          "start": 30,
+          "url": "https://t.co/ghPIIHXEB6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074191172277522476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074181049828213168",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gamer94469: 想象一下我正操得爽看到这个 https://t.co/ghPIIHXEB6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074181037664653312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMj4qg3aUAAcUqS.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074181037664653312"
+          ],
+          "media_source_tweet_id": [
+            "2074181049828213168"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2074191172277522476",
+        "created_at": "2026-07-06T17:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074191172277522476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1429055428374130693",
+              "start": 3,
+              "username": "Gamer94469"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ghPIIHXEB6",
+              "end": 53,
+              "expanded_url": "https://x.com/Gamer94469/status/2074181049828213168/photo/1",
+              "media_key": "3_2074181037664653312",
+              "start": 30,
+              "url": "https://t.co/ghPIIHXEB6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074191172277522476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074181049828213168",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gamer94469: 想象一下我正操得爽看到这个 https://t.co/ghPIIHXEB6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074181037664653312"
+          ]
+        },
+        "author_id": "1429055428374130693",
+        "conversation_id": "2074181049828213168",
+        "created_at": "2026-07-06T17:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074181049828213168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ghPIIHXEB6",
+              "end": 37,
+              "expanded_url": "https://x.com/Gamer94469/status/2074181049828213168/photo/1",
+              "media_key": "3_2074181037664653312",
+              "start": 14,
+              "url": "https://t.co/ghPIIHXEB6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074181049828213168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下我正操得爽看到这个 https://t.co/ghPIIHXEB6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Temen-ni-gru Tower",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379,
+          "following_count": 84,
+          "like_count": 5152,
+          "listed_count": 2,
+          "media_count": 322,
+          "tweet_count": 2626
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-21T12:19:04.000Z",
+        "description": "即刻绞杀即刻刎颈",
+        "id": "1429055428374130693",
+        "name": "人民杀手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073847878385283072/Lr_8XzVQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1127,
+          "following_count": 319,
+          "like_count": 22234,
+          "listed_count": 2,
+          "media_count": 730,
+          "tweet_count": 5771
+        },
+        "url": "",
+        "username": "Gamer94469",
+        "verified": false
+      }
+    ]
+  }
+}

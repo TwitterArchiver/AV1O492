@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2035739414585020416"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2035739576006791523",
+    "created_at": "2026-03-22T15:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T16:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035739576006791523"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uKqllMIsE6",
+          "end": 54,
+          "expanded_url": "https://x.com/AV1O492/status/2035739576006791523/video/1",
+          "media_key": "7_2035739414585020416",
+          "start": 31,
+          "url": "https://t.co/uKqllMIsE6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035739576006791523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就搞不明白我这死歌单了我正犯抑郁症呢下一首给我听毒汁有病吧 https://t.co/uKqllMIsE6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22056,
+        "height": 1280,
+        "media_key": "7_2035739414585020416",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2035739414585020416/pu/img/6zbMqc497-j_fvVk.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035739414585020416/pu/vid/avc1/320x694/_U2pX4azWFwBYYrS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035739414585020416/pu/vid/avc1/480x1040/cYrz4D_ZOL7u5XLK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035739414585020416/pu/vid/avc1/590x1280/wserMOzacKmGW9RF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2035739414585020416/pu/pl/mqaRZXUnB0XGg1--.m3u8?tag=12"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2035739414585020416"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2035739576006791523",
+        "created_at": "2026-03-22T15:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T16:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035739576006791523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uKqllMIsE6",
+              "end": 54,
+              "expanded_url": "https://x.com/AV1O492/status/2035739576006791523/video/1",
+              "media_key": "7_2035739414585020416",
+              "start": 31,
+              "url": "https://t.co/uKqllMIsE6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035739576006791523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就搞不明白我这死歌单了我正犯抑郁症呢下一首给我听毒汁有病吧 https://t.co/uKqllMIsE6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2034912812620030449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035728501509165057/mhsiSqph_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 62,
+          "like_count": 2632,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 1257
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

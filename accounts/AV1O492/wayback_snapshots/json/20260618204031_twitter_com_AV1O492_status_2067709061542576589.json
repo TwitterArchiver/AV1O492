@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067593172688224256"
+      ],
+      "media_source_tweet_id": [
+        "2067593177436213707"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2067709061542576589",
+    "created_at": "2026-06-18T20:40:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T21:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067709061542576589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2046980032375947264",
+          "start": 3,
+          "username": "dmhksp121_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xmOtEwBJIQ",
+          "end": 59,
+          "expanded_url": "https://x.com/dmhksp121_/status/2067593177436213707/photo/1",
+          "media_key": "3_2067593172688224256",
+          "start": 36,
+          "url": "https://t.co/xmOtEwBJIQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067709061542576589",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067593177436213707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dmhksp121_: 화장실왔는데 이런사람있으면 어떡해요 https://t.co/xmOtEwBJIQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_2067593172688224256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGRCTYawAAZBNL.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067593172688224256"
+          ],
+          "media_source_tweet_id": [
+            "2067593177436213707"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2067709061542576589",
+        "created_at": "2026-06-18T20:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T21:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067709061542576589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2046980032375947264",
+              "start": 3,
+              "username": "dmhksp121_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xmOtEwBJIQ",
+              "end": 59,
+              "expanded_url": "https://x.com/dmhksp121_/status/2067593177436213707/photo/1",
+              "media_key": "3_2067593172688224256",
+              "start": 36,
+              "url": "https://t.co/xmOtEwBJIQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067709061542576589",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067593177436213707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dmhksp121_: 화장실왔는데 이런사람있으면 어떡해요 https://t.co/xmOtEwBJIQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067593172688224256"
+          ]
+        },
+        "author_id": "2046980032375947264",
+        "conversation_id": "2067593177436213707",
+        "created_at": "2026-06-18T13:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067593177436213707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xmOtEwBJIQ",
+              "end": 43,
+              "expanded_url": "https://x.com/dmhksp121_/status/2067593177436213707/photo/1",
+              "media_key": "3_2067593172688224256",
+              "start": 20,
+              "url": "https://t.co/xmOtEwBJIQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067593177436213707",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 701,
+          "like_count": 42,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "화장실왔는데 이런사람있으면 어떡해요 https://t.co/xmOtEwBJIQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067678186683715584/4RbnZMYe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1244,
+          "following_count": 70,
+          "like_count": 4126,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 2086
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T15:50:53.000Z",
+        "description": "16",
+        "id": "2046980032375947264",
+        "location": "부담스러우시면 언제든지 말해주세요",
+        "name": "dmhpks",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063232191241629697/93XPmJUO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 7,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 155
+        },
+        "url": "",
+        "username": "dmhksp121_",
+        "verified": false
+      }
+    ]
+  }
+}

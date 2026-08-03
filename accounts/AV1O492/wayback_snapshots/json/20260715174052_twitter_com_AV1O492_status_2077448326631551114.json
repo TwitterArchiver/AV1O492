@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2077425690199371861",
+    "created_at": "2026-07-15T17:40:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T18:40:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077448326631551114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2013258168764112896",
+          "start": 0,
+          "username": "Murt_ko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077448326631551114",
+    "in_reply_to_user_id": "2013258168764112896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077425690199371861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Murt_ko 生日快乐呀！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1031,
+        "media_key": "3_2077425680799916032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNR_pmdaYAAC-m7.jpg",
+        "width": 1283
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2077425690199371861",
+        "created_at": "2026-07-15T17:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T18:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077448326631551114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2013258168764112896",
+              "start": 0,
+              "username": "Murt_ko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077448326631551114",
+        "in_reply_to_user_id": "2013258168764112896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077425690199371861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murt_ko 生日快乐呀！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077425680799916032"
+          ]
+        },
+        "author_id": "2013258168764112896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077425690199371861",
+        "created_at": "2026-07-15T16:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077425690199371861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nro8xjS4ka",
+              "end": 38,
+              "expanded_url": "https://x.com/Murt_ko/status/2077425690199371861/photo/1",
+              "media_key": "3_2077425680799916032",
+              "start": 15,
+              "url": "https://t.co/Nro8xjS4ka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077425690199371861",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天18+（19）了～🥳🥳🥳 https://t.co/Nro8xjS4ka"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 89,
+          "like_count": 5597,
+          "listed_count": 2,
+          "media_count": 339,
+          "tweet_count": 2824
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T14:32:15.000Z",
+        "description": "19｜ DMCDV❤️💙🔁❌❌❌+ NK｜ 中文/EN👌｜🔕低浮上",
+        "id": "2013258168764112896",
+        "location": "=小顾",
+        "name": "红墓市鳏夫",
+        "pinned_tweet_id": "2038250772253860010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071648889938354176/3a_ZI8qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 51,
+          "like_count": 2198,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1054
+        },
+        "url": "",
+        "username": "Murt_ko",
+        "verified": false
+      }
+    ]
+  }
+}

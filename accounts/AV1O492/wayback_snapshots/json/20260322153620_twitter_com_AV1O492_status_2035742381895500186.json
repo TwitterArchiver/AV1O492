@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2035741056172765438",
+    "created_at": "2026-03-22T15:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T16:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035742381895500186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2009015557677568003",
+          "start": 0,
+          "username": "ZOMBIEAOAOAAO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035742381895500186",
+    "in_reply_to_user_id": "2009015557677568003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035741056172765438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZOMBIEAOAOAAO 这是你画的吗？握草你太牛逼了我跪了爸爸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2035741039101906944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEBnsHJakAAVlux.jpg",
+        "width": 1420
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2035741056172765438",
+        "created_at": "2026-03-22T15:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T16:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035742381895500186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2009015557677568003",
+              "start": 0,
+              "username": "ZOMBIEAOAOAAO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035742381895500186",
+        "in_reply_to_user_id": "2009015557677568003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035741056172765438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZOMBIEAOAOAAO 这是你画的吗？握草你太牛逼了我跪了爸爸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035741039101906944"
+          ]
+        },
+        "author_id": "2009015557677568003",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2035741056172765438",
+        "created_at": "2026-03-22T15:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T16:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035741056172765438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8kIySuz75a",
+              "end": 34,
+              "expanded_url": "https://x.com/ZOMBIEAOAOAAO/status/2035741056172765438/photo/1",
+              "media_key": "3_2035741039101906944",
+              "start": 11,
+              "url": "https://t.co/8kIySuz75a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035741056172765438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我给你们看过这张没有 https://t.co/8kIySuz75a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2034912812620030449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035728501509165057/mhsiSqph_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 62,
+          "like_count": 2636,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 1260
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T21:33:46.000Z",
+        "description": "𝕬𝖛𝖊 𝕯𝖔𝖒𝖎𝖓𝖚𝖘 𝕹𝖔𝖝 Sh/odtwt he/him dont follow me",
+        "id": "2009015557677568003",
+        "name": "Doomguy怒狼破",
+        "pinned_tweet_id": "2009182313880719373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032072088350248960/20Q65kuB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 198,
+          "like_count": 2743,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 2021
+        },
+        "username": "ZOMBIEAOAOAAO",
+        "verified": false
+      }
+    ]
+  }
+}

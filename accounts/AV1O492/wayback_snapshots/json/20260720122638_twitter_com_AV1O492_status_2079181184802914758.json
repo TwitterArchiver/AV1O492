@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2079180175284298113",
+    "created_at": "2026-07-20T12:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T13:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079181184802914758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2051707585703952384",
+          "start": 0,
+          "username": "K1llTheSOul0827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079181184802914758",
+    "in_reply_to_user_id": "2051707585703952384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079180175284298113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K1llTheSOul0827 我发的空针纹身也被删了，审核跟QQ空间有的一拼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079180166149046272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNq7WFtaAAA7_AA.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2079180175284298113",
+        "created_at": "2026-07-20T12:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079181184802914758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2051707585703952384",
+              "start": 0,
+              "username": "K1llTheSOul0827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079181184802914758",
+        "in_reply_to_user_id": "2051707585703952384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079180175284298113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K1llTheSOul0827 我发的空针纹身也被删了，审核跟QQ空间有的一拼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079180166149046272"
+          ]
+        },
+        "author_id": "2051707585703952384",
+        "conversation_id": "2079180175284298113",
+        "created_at": "2026-07-20T12:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079180175284298113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WNQOZaCsxj",
+              "end": 32,
+              "expanded_url": "https://x.com/K1llTheSOul0827/status/2079180175284298113/photo/1",
+              "media_key": "3_2079180166149046272",
+              "start": 9,
+              "url": "https://t.co/WNQOZaCsxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079180175284298113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "群众里面有坏人… https://t.co/WNQOZaCsxj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 I LOVE DANTE and everyone could see that",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2078916554520228324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 89,
+          "like_count": 6049,
+          "listed_count": 2,
+          "media_count": 364,
+          "tweet_count": 3043
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T16:59:13.000Z",
+        "description": "09 \n158/42",
+        "id": "2051707585703952384",
+        "name": "LakeOftears",
+        "pinned_tweet_id": "2060368121006014805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051708701195767808/RiOlZD_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 23,
+          "like_count": 370,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 214
+        },
+        "url": "",
+        "username": "K1llTheSOul0827",
+        "verified": false
+      }
+    ]
+  }
+}

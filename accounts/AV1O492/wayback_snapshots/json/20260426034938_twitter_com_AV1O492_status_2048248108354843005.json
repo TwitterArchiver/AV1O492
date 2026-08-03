@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2048004455258525907",
+    "created_at": "2026-04-26T03:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T04:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048248108354843005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1604313808096202752",
+          "start": 0,
+          "username": "tdfhi8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048248108354843005",
+    "in_reply_to_user_id": "1604313808096202752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048246305366184279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tdfhi8 谢谢关心但是看我发的评论bro买家是熟人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2048004455258525907",
+        "created_at": "2026-04-26T03:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048248108354843005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1604313808096202752",
+              "start": 0,
+              "username": "tdfhi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048248108354843005",
+        "in_reply_to_user_id": "1604313808096202752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048246305366184279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tdfhi8 谢谢关心但是看我发的评论bro买家是熟人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604313808096202752",
+        "conversation_id": "2048004455258525907",
+        "created_at": "2026-04-26T03:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048246305366184279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048246305366184279",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048004455258525907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 现在还有面交还用微信？小心点吧，他出事把你点出来就废了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/5Lgdtm2",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/5Lgdtm2",
+                "start": 0,
+                "url": "https://t.co/F503DrTT0k"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047592059872387072/fc9q0a9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 73,
+          "like_count": 3891,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 1872
+        },
+        "url": "https://t.co/F503DrTT0k",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-18T03:13:21.000Z",
+        "description": "。",
+        "id": "1604313808096202752",
+        "location": "海南",
+        "name": "述影",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929216346065432576/O26W5Svg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 530,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 698
+        },
+        "username": "tdfhi8",
+        "verified": false
+      }
+    ]
+  }
+}

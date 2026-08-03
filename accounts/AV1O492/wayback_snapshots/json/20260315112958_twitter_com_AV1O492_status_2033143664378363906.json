@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033143657889669121"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2033143664378363906",
+    "created_at": "2026-03-15T11:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T12:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033143664378363906"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VpnPYPWyiU",
+          "end": 25,
+          "expanded_url": "https://x.com/AV1O492/status/2033143664378363906/photo/1",
+          "media_key": "3_2033143657889669121",
+          "start": 2,
+          "url": "https://t.co/VpnPYPWyiU"
+        },
+        {
+          "display_url": "x.com/AV1O492/status…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/AV1O492/status/2032553363024588901",
+          "start": 26,
+          "url": "https://t.co/v12U223YKZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033143664378363906",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032553363024588901",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "麻 https://t.co/VpnPYPWyiU https://t.co/v12U223YKZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033143657889669121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDctYoHaIAEZmlM.jpg",
+        "width": 1372
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033143657889669121"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2033143664378363906",
+        "created_at": "2026-03-15T11:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T12:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033143664378363906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VpnPYPWyiU",
+              "end": 25,
+              "expanded_url": "https://x.com/AV1O492/status/2033143664378363906/photo/1",
+              "media_key": "3_2033143657889669121",
+              "start": 2,
+              "url": "https://t.co/VpnPYPWyiU"
+            },
+            {
+              "display_url": "x.com/AV1O492/status…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/AV1O492/status/2032553363024588901",
+              "start": 26,
+              "url": "https://t.co/v12U223YKZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033143664378363906",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032553363024588901",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "麻 https://t.co/VpnPYPWyiU https://t.co/v12U223YKZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2032553363024588901",
+        "created_at": "2026-03-13T20:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T21:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032553363024588901"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032553363024588901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 353,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "警察今天他妈因为点别人的鸡毛蒜皮的屌事来找我，半夜突击我家给老子锁全撬开牛逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032797382296166400/85J_f9jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 43,
+          "like_count": 1959,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1034
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

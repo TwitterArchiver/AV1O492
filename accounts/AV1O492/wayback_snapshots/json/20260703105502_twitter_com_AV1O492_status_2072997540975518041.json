@@ -1,0 +1,530 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2072757344795021312"
+      ],
+      "media_source_tweet_id": [
+        "2072757433101922705"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2072997540975518041",
+    "created_at": "2026-07-03T10:55:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T11:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072997540975518041"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 20,
+          "tag": "dmc"
+        },
+        {
+          "end": 32,
+          "start": 25,
+          "tag": "vergil"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1836158446393049088",
+          "start": 3,
+          "username": "vergilesbian"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RQCgRPs80g",
+          "end": 84,
+          "expanded_url": "https://x.com/vergilesbian/status/2072757433101922705/video/1",
+          "media_key": "13_2072757344795021312",
+          "start": 61,
+          "url": "https://t.co/RQCgRPs80g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072997540975518041",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072757433101922705",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vergilesbian: — #dmc #vergil — editing after six years.. https://t.co/RQCgRPs80g"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22316,
+        "height": 720,
+        "media_key": "13_2072757344795021312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072757344795021312/img/TAZqM8Pv8AiplIYN.jpg",
+        "public_metrics": {
+          "view_count": 441
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072757344795021312/vid/avc1/320x320/vmGs7FYXZuJ_bre5.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072757344795021312/vid/avc1/540x540/IaFeLpvzhGJwTNUj.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072757344795021312/vid/avc1/720x720/a-TJhZwVie002dyg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072757344795021312/pl/iRcUa1H1mw1Y2Rzh.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072757344795021312"
+          ],
+          "media_source_tweet_id": [
+            "2072757433101922705"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2072997540975518041",
+        "created_at": "2026-07-03T10:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072997540975518041"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "dmc"
+            },
+            {
+              "end": 32,
+              "start": 25,
+              "tag": "vergil"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1836158446393049088",
+              "start": 3,
+              "username": "vergilesbian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RQCgRPs80g",
+              "end": 84,
+              "expanded_url": "https://x.com/vergilesbian/status/2072757433101922705/video/1",
+              "media_key": "13_2072757344795021312",
+              "start": 61,
+              "url": "https://t.co/RQCgRPs80g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072997540975518041",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072757433101922705",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vergilesbian: — #dmc #vergil — editing after six years.. https://t.co/RQCgRPs80g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072757344795021312"
+          ]
+        },
+        "author_id": "1836158446393049088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2072757433101922705",
+        "created_at": "2026-07-02T19:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T20:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072757433101922705"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 2,
+              "tag": "dmc"
+            },
+            {
+              "end": 14,
+              "start": 7,
+              "tag": "vergil"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RQCgRPs80g",
+              "end": 66,
+              "expanded_url": "https://x.com/vergilesbian/status/2072757433101922705/video/1",
+              "media_key": "13_2072757344795021312",
+              "start": 43,
+              "url": "https://t.co/RQCgRPs80g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072757433101922705",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1042,
+          "like_count": 112,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "— #dmc #vergil — editing after six years.. https://t.co/RQCgRPs80g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Temen-ni-gru Tower",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 80,
+          "like_count": 4838,
+          "listed_count": 2,
+          "media_count": 299,
+          "tweet_count": 2469
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T21:41:08.000Z",
+        "description": "★ “I am free now, father” ★ vergil’s angel ★ ⋆‧°𓏲ּ𝄢 bc - @ROTTENROADK1LL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 57,
+                "username": "ROTTENROADK1LL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/rxsfield",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/rxsfield",
+                "start": 0,
+                "url": "https://t.co/hPY6XcnYI8"
+              }
+            ]
+          }
+        },
+        "id": "1836158446393049088",
+        "location": "🇵🇰 ✰ 18 ✰ he/him ✰ MDNI",
+        "name": "✰ Joshua Rosfield ✰",
+        "pinned_tweet_id": "2033601620974375422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067736366000091136/W6fIAJgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2035,
+          "following_count": 543,
+          "like_count": 83317,
+          "listed_count": 24,
+          "media_count": 7080,
+          "tweet_count": 33038
+        },
+        "url": "https://t.co/hPY6XcnYI8",
+        "username": "vergilesbian",
+        "verified": false
+      }
+    ]
+  }
+}

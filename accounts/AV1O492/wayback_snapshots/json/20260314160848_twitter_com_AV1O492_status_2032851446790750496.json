@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2032834020783042597",
+    "created_at": "2026-03-14T16:08:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T17:08:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032851446790750496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1832482255266025473",
+          "start": 0,
+          "username": "TTtangz_"
+        },
+        {
+          "end": 22,
+          "id": "2028518919137525760",
+          "start": 10,
+          "username": "yihu1176880"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032851446790750496",
+    "in_reply_to_user_id": "1832482255266025473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032849474104791377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTtangz_ @yihu1176880 不好意思我不是女的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2032834020783042597",
+        "created_at": "2026-03-14T16:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T17:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032851446790750496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1832482255266025473",
+              "start": 0,
+              "username": "TTtangz_"
+            },
+            {
+              "end": 22,
+              "id": "2028518919137525760",
+              "start": 10,
+              "username": "yihu1176880"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032851446790750496",
+        "in_reply_to_user_id": "1832482255266025473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032849474104791377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTtangz_ @yihu1176880 不好意思我不是女的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832482255266025473",
+        "conversation_id": "2032834020783042597",
+        "created_at": "2026-03-14T16:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T17:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032849474104791377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            },
+            {
+              "end": 21,
+              "id": "2028518919137525760",
+              "start": 9,
+              "username": "yihu1176880"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032849474104791377",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032834020783042597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 @yihu1176880 妈咪可以互fo嘛！&gt;&lt;"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032797382296166400/85J_f9jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 33,
+          "like_count": 1846,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 988
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-07T18:13:22.000Z",
+        "description": "你好我素🍬/les🌈/sub/素自伤妹/我有🌟瘾/禁🚹（🏳️‍⚧️也不行哈补药关注我）/我有视奸癖👁️👁️",
+        "id": "1832482255266025473",
+        "name": "余棠",
+        "pinned_tweet_id": "1852530397839597988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832482501991792640/E_vKHSMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 56,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 151
+        },
+        "username": "TTtangz_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T17:13:09.000Z",
+        "description": "我是小树｜不定期掉落雪兔｜黑泥｜欧滴妹｜直fo是喜欢｜请各位直fo我吧 ᗜ 𖥦 ᗜ",
+        "id": "2028518919137525760",
+        "name": "那天死掉的你和我",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028525189131386880/hir3x1Qb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 119,
+          "like_count": 911,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 178
+        },
+        "username": "yihu1176880",
+        "verified": false
+      }
+    ]
+  }
+}

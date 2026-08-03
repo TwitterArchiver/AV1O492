@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Nicki Minaj",
+          "id": "806590795469836288",
+          "name": "Nicki Minaj"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Nicki Minaj",
+          "id": "806590795469836288",
+          "name": "Nicki Minaj"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nicki Minaj",
+          "id": "806590795469836288",
+          "name": "Nicki Minaj"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291184917221535744",
+          "name": "Hip hop"
+        }
+      }
+    ],
+    "conversation_id": "2016232346962305171",
+    "created_at": "2026-03-14T17:35:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T18:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032873156281811337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1662723831533027329",
+          "start": 0,
+          "username": "loong001116"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032873156281811337",
+    "in_reply_to_user_id": "1662723831533027329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016232346962305171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loong001116 nicki minaj今晚不在这里她在白宫和川普讨论一些重要的事✌🏻🙄✌🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1460,
+        "media_key": "3_2016232336271278083",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_sYoJwbAAMXtFv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Nicki Minaj",
+              "id": "806590795469836288",
+              "name": "Nicki Minaj"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Nicki Minaj",
+              "id": "806590795469836288",
+              "name": "Nicki Minaj"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nicki Minaj",
+              "id": "806590795469836288",
+              "name": "Nicki Minaj"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "2016232346962305171",
+        "created_at": "2026-03-14T17:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T18:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032873156281811337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1662723831533027329",
+              "start": 0,
+              "username": "loong001116"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032873156281811337",
+        "in_reply_to_user_id": "1662723831533027329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016232346962305171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loong001116 nicki minaj今晚不在这里她在白宫和川普讨论一些重要的事✌🏻🙄✌🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016232336271278083"
+          ]
+        },
+        "author_id": "1662723831533027329",
+        "conversation_id": "2016232346962305171",
+        "created_at": "2026-01-27T19:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T20:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016232346962305171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hTv5eYViqZ",
+              "end": 36,
+              "expanded_url": "https://x.com/loong001116/status/2016232346962305171/photo/1",
+              "media_key": "3_2016232336271278083",
+              "start": 13,
+              "url": "https://t.co/hTv5eYViqZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016232346962305171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 38054,
+          "like_count": 253,
+          "quote_count": 11,
+          "reply_count": 18,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "酷儿的6B4T，欢迎转发 https://t.co/hTv5eYViqZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032797382296166400/85J_f9jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 35,
+          "like_count": 1861,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1001
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T07:33:54.000Z",
+        "description": "Queer\n人称代词：他(中性)/ta\n所有观点皆来自本人，思考能力不需要绑定AI\nLGBTQ+互关",
+        "id": "1662723831533027329",
+        "location": "Satan's Dick",
+        "name": "劳荣枝(乙女激女顺直男转推即死)",
+        "pinned_tweet_id": "2016232346962305171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017461086367223808/CwfFSNvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 1670,
+          "like_count": 5302,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 4333
+        },
+        "username": "loong001116",
+        "verified": false
+      }
+    ]
+  }
+}

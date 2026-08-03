@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2047388815875039585",
+    "created_at": "2026-04-23T18:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T19:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047389095371149383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1472562347684540418",
+          "start": 0,
+          "username": "Jewelry6001226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047389095371149383",
+    "in_reply_to_user_id": "1472562347684540418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047388815875039585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jewelry6001226 老公挣外快买魔爪中…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2047388815875039585",
+        "created_at": "2026-04-23T18:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T19:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047389095371149383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1472562347684540418",
+              "start": 0,
+              "username": "Jewelry6001226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047389095371149383",
+        "in_reply_to_user_id": "1472562347684540418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047388815875039585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jewelry6001226 老公挣外快买魔爪中…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472562347684540418",
+        "conversation_id": "2047388815875039585",
+        "created_at": "2026-04-23T18:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T19:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047388815875039585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AV1O492/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/AV1O492/status/2047377828078026851",
+              "start": 8,
+              "url": "https://t.co/Gos3PpVdij"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047388815875039585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047377828078026851",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我老公上黄网： https://t.co/Gos3PpVdij"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047320949570277376/ns1syjsj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 69,
+          "like_count": 3698,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 1733
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-19T13:40:09.000Z",
+        "description": "乙代梦至上‖ Yes, ALL MEN AND ALL RELIGIONS‖无浪漫吸引 单女请找我玩",
+        "id": "1472562347684540418",
+        "location": "KILO & JOYA",
+        "name": "璎姬",
+        "pinned_tweet_id": "1763179902717599958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023893847110221824/M6liNefz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 357,
+          "like_count": 4687,
+          "listed_count": 1,
+          "media_count": 627,
+          "tweet_count": 6168
+        },
+        "username": "Jewelry6001226",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2078902739065786737",
+    "created_at": "2026-07-19T18:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T19:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078902739065786737"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "DMC3"
+        },
+        {
+          "end": 27,
+          "start": 21,
+          "tag": "Dante"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2001763642862383104",
+          "start": 3,
+          "username": "IrnBru41_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078902739065786737",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 132
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078826022548672829",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @IrnBru41_: #DMC3\n#Dante\n\nIt's amazing how not only has it not become outdated, but it has become even cooler and more significant than…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 140933,
+        "height": 702,
+        "media_key": "13_2078825964570603520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078825964570603520/img/q196KQVqkyxzPJ49.jpg",
+        "public_metrics": {
+          "view_count": 9588
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078825964570603520/vid/avc1/492x270/BJqULaDEsQvvZ12n.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078825964570603520/vid/avc1/656x360/QaWuENGIz1Lkuh4w.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078825964570603520/vid/avc1/1282x702/zzUawuKVbKyAtYY9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078825964570603520/pl/TnU_oxtqKWBAyBit.m3u8"
+          }
+        ],
+        "width": 1282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2078902739065786737",
+        "created_at": "2026-07-19T18:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T19:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078902739065786737"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "DMC3"
+            },
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "Dante"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2001763642862383104",
+              "start": 3,
+              "username": "IrnBru41_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078902739065786737",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 132
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078826022548672829",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @IrnBru41_: #DMC3\n#Dante\n\nIt's amazing how not only has it not become outdated, but it has become even cooler and more significant than…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078825964570603520"
+          ]
+        },
+        "author_id": "2001763642862383104",
+        "conversation_id": "2078826022548672829",
+        "created_at": "2026-07-19T12:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078826022548672829"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "DMC3"
+            },
+            {
+              "end": 12,
+              "start": 6,
+              "tag": "Dante"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yQvcCQNk1a",
+              "end": 153,
+              "expanded_url": "https://x.com/IrnBru41_/status/2078826022548672829/video/1",
+              "media_key": "13_2078825964570603520",
+              "start": 130,
+              "url": "https://t.co/yQvcCQNk1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078826022548672829",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 218,
+          "impression_count": 16832,
+          "like_count": 1128,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 132
+        },
+        "reply_settings": "following",
+        "text": "#DMC3\n#Dante\n\nIt's amazing how not only has it not become outdated, but it has become even cooler and more significant than ever. https://t.co/yQvcCQNk1a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1469,
+          "following_count": 89,
+          "like_count": 5878,
+          "listed_count": 2,
+          "media_count": 356,
+          "tweet_count": 2953
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T21:17:29.000Z",
+        "description": "",
+        "id": "2001763642862383104",
+        "name": "IrnBru",
+        "pinned_tweet_id": "2010342832087965826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061015105975017472/LzaifTaQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 44,
+          "like_count": 25432,
+          "listed_count": 0,
+          "media_count": 2705,
+          "tweet_count": 9148
+        },
+        "url": "",
+        "username": "IrnBru41_",
+        "verified": false
+      }
+    ]
+  }
+}

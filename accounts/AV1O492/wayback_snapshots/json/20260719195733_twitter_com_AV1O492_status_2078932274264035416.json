@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078932266219384832"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2078932274264035416",
+    "created_at": "2026-07-19T19:57:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T20:57:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078932274264035416"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 16,
+          "tag": "shtwt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UMKqKTljzd",
+          "end": 46,
+          "expanded_url": "https://x.com/AV1O492/status/2078932274264035416/photo/1",
+          "media_key": "3_2078932266219384832",
+          "start": 23,
+          "url": "https://t.co/UMKqKTljzd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078932274264035416",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "scars all faded\n#shtwt https://t.co/UMKqKTljzd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078932266219384832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNnZ4agasAAoNep.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078932266219384832"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2078932274264035416",
+        "created_at": "2026-07-19T19:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T20:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078932274264035416"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UMKqKTljzd",
+              "end": 46,
+              "expanded_url": "https://x.com/AV1O492/status/2078932274264035416/photo/1",
+              "media_key": "3_2078932266219384832",
+              "start": 23,
+              "url": "https://t.co/UMKqKTljzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078932274264035416",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "scars all faded\n#shtwt https://t.co/UMKqKTljzd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2078916554520228324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 89,
+          "like_count": 5905,
+          "listed_count": 2,
+          "media_count": 358,
+          "tweet_count": 2971
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

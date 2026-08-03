@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2074889920976654699",
+    "created_at": "2026-07-08T16:14:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T17:14:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074889920976654699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2051707585703952384",
+          "start": 3,
+          "username": "K1llTheSOul0827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074889920976654699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074888193829380556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @K1llTheSOul0827: 老公一不回我消息我就觉得他出轨了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2074889920976654699",
+        "created_at": "2026-07-08T16:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074889920976654699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2051707585703952384",
+              "start": 3,
+              "username": "K1llTheSOul0827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074889920976654699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074888193829380556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @K1llTheSOul0827: 老公一不回我消息我就觉得他出轨了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051707585703952384",
+        "conversation_id": "2074888193829380556",
+        "created_at": "2026-07-08T16:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074888193829380556"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074888193829380556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "老公一不回我消息我就觉得他出轨了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 85,
+          "like_count": 5362,
+          "listed_count": 2,
+          "media_count": 330,
+          "tweet_count": 2725
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T16:59:13.000Z",
+        "description": "09 \n158/42",
+        "id": "2051707585703952384",
+        "name": "LakeOftears",
+        "pinned_tweet_id": "2060368121006014805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051708701195767808/RiOlZD_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 22,
+          "like_count": 266,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "K1llTheSOul0827",
+        "verified": false
+      }
+    ]
+  }
+}

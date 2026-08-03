@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2032242330762428573",
+    "created_at": "2026-03-14T15:44:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T16:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032845277858779558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1915081922423730176",
+          "start": 0,
+          "username": "WendolynZo75783"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032845277858779558",
+    "in_reply_to_user_id": "1915081922423730176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032845070492373457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WendolynZo75783 加油加油[斜眼笑][斜眼笑]"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2032845070492373457].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2032845070492373457",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2032845070492373457"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2032242330762428573",
+        "created_at": "2026-03-14T15:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T16:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032845277858779558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1915081922423730176",
+              "start": 0,
+              "username": "WendolynZo75783"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032845277858779558",
+        "in_reply_to_user_id": "1915081922423730176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032845070492373457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WendolynZo75783 加油加油[斜眼笑][斜眼笑]"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032797382296166400/85J_f9jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 31,
+          "like_count": 1828,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 980
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T16:34:54.000Z",
+        "description": "即使我的自杀是对你的一场报复，但假设你死在我之前呢？我的精心准备、一切令你觉得忏悔万分的行为，岂不是完全付之一炬，只有空荡荡的世界对着我沉默吗？",
+        "id": "1915081922423730176",
+        "location": "𝕳𝖊𝖆𝖗𝖙-𝕾𝖍𝖆𝖕𝖊𝖉 𝕭𝖔𝖝",
+        "name": "Erosive chyme",
+        "pinned_tweet_id": "2013434432330580130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017928240040706049/m33ULl1j_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 309,
+          "like_count": 9999,
+          "listed_count": 0,
+          "media_count": 602,
+          "tweet_count": 4105
+        },
+        "username": "WendolynZo75783",
+        "verified": false
+      }
+    ]
+  }
+}

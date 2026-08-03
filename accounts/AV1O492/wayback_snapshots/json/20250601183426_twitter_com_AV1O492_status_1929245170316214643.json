@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "1929245170316214643",
+    "created_at": "2025-06-01T18:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T19:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929245170316214643"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AV1O492/status…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/AV1O492/status/1927328237362827418",
+          "start": 44,
+          "url": "https://t.co/dMNRTvTZJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929245170316214643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927328237362827418",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这座天堂从来不缺能献出血肉的人 我现在能做的只有在贫民区水沟里溺死 加州的雨会把我带走 https://t.co/dMNRTvTZJP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "1929245170316214643",
+        "created_at": "2025-06-01T18:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T19:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929245170316214643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AV1O492/status…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/AV1O492/status/1927328237362827418",
+              "start": 44,
+              "url": "https://t.co/dMNRTvTZJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929245170316214643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927328237362827418",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这座天堂从来不缺能献出血肉的人 我现在能做的只有在贫民区水沟里溺死 加州的雨会把我带走 https://t.co/dMNRTvTZJP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "1927328237362827418",
+        "created_at": "2025-05-27T11:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T12:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927328237362827418"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927328237362827418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你用你的半数积蓄换来半天上流人的生活体验，那么然后呢 你的下一步打算是什么 你要怎么逃离眼前的齿轮 在这个绞肉的天堂之城活下去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "恐怖暗黑血仆少御奶龙国潮来袭神秘功夫需要加强哈基米哈基米哈基米胖宝宝乖狗狗屠孝子TV之提琴大人我来给您踩踩背啦点击输入文本金翼先知白兑换码我的天哪镜大人屠夫版本人类需要加强全网最尊重美国人英国人加拿大人墨西哥人阿根廷人中国人挪威人瑞典人德国人俄罗斯人日本人波兰人意大利人活死人女巫真神棍假神婆及狼人鳄鱼人吸血鬼的推特账户",
+        "id": "1917890381104271361",
+        "location": "苦痛之屋",
+        "name": "𝖍𝖊𝖆𝖑 𝖒𝖞 𝖕𝖘𝖞𝖈𝖍𝖔 𝖑𝖔𝖛𝖊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929086113408544768/2_CrG0ys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 4,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 43
+        },
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

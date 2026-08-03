@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068201546823970816"
+      ],
+      "media_source_tweet_id": [
+        "2068201556328296943"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2068300350852112671",
+    "created_at": "2026-06-20T11:50:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T12:50:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068300350852112671"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 28,
+          "tag": "Vergil"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "736984936008187904",
+          "start": 3,
+          "username": "DMC_156"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cy5TCsy7Ed",
+          "end": 59,
+          "expanded_url": "https://x.com/DMC_156/status/2068201556328296943/photo/1",
+          "media_key": "3_2068201546823970816",
+          "start": 36,
+          "url": "https://t.co/cy5TCsy7Ed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068300350852112671",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068201556328296943",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DMC_156: Of course DMC3 #Vergil https://t.co/cy5TCsy7Ed"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068201546823970816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLO6WVpbMAApiXd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068201546823970816"
+          ],
+          "media_source_tweet_id": [
+            "2068201556328296943"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2068300350852112671",
+        "created_at": "2026-06-20T11:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068300350852112671"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 28,
+              "tag": "Vergil"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "736984936008187904",
+              "start": 3,
+              "username": "DMC_156"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cy5TCsy7Ed",
+              "end": 59,
+              "expanded_url": "https://x.com/DMC_156/status/2068201556328296943/photo/1",
+              "media_key": "3_2068201546823970816",
+              "start": 36,
+              "url": "https://t.co/cy5TCsy7Ed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068300350852112671",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068201556328296943",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DMC_156: Of course DMC3 #Vergil https://t.co/cy5TCsy7Ed"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068201546823970816"
+          ]
+        },
+        "author_id": "736984936008187904",
+        "conversation_id": "2068201556328296943",
+        "created_at": "2026-06-20T05:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:09:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068199655876575602",
+          "2068201556328296943"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 15,
+              "tag": "Vergil"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cy5TCsy7Ed",
+              "end": 46,
+              "expanded_url": "https://x.com/DMC_156/status/2068201556328296943/photo/1",
+              "media_key": "3_2068201546823970816",
+              "start": 23,
+              "url": "https://t.co/cy5TCsy7Ed"
+            },
+            {
+              "display_url": "x.com/amyy_tweetz/st…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/amyy_tweetz/status/2066845151943893029",
+              "start": 47,
+              "url": "https://t.co/400DW4edek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068201556328296943",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 2112,
+          "like_count": 138,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066845151943893029",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Of course DMC3 #Vergil https://t.co/cy5TCsy7Ed https://t.co/400DW4edek"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜皮下真名但丁斯巴达实名冲浪｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068158408487014400/3eqb45Ho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 71,
+          "like_count": 4239,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 2160
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-29T18:17:56.000Z",
+        "description": "Post all about Vergil & V , Dante and Nero ( Mostly VERGIL💙 ) DMC Games & Memes and Others🌪️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Twitter.com",
+                "end": 23,
+                "expanded_url": "https://www.Twitter.com",
+                "start": 0,
+                "url": "https://t.co/Czmlhmhm3P"
+              }
+            ]
+          }
+        },
+        "id": "736984936008187904",
+        "location": "West Region, Singapore",
+        "name": "Λ2",
+        "pinned_tweet_id": "2046834221801701536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055509329529499648/aK-nXMO0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3680,
+          "following_count": 66,
+          "like_count": 30194,
+          "listed_count": 8,
+          "media_count": 3754,
+          "tweet_count": 8682
+        },
+        "url": "https://t.co/Czmlhmhm3P",
+        "username": "DMC_156",
+        "verified": false
+      }
+    ]
+  }
+}

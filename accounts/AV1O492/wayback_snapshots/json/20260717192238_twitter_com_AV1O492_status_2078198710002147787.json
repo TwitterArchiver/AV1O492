@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1441472383211114515",
+          "name": "Stuffed toys"
+        }
+      }
+    ],
+    "conversation_id": "2078198710002147787",
+    "created_at": "2026-07-17T19:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T20:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078198710002147787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "942763519",
+          "start": 3,
+          "username": "crismlt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078198710002147787",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078131441485975636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crismlt: More flattering angles of the Vergil and Dante plushies\n\nAlso my hand for size comparison \n\nThat you can get in my pinned twee…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2078131412050280449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcBgkPWgAEYVAD.jpg",
+        "width": 2000
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078131420753477632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcBhEqWwAA7iyR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078131428378693632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcBhhEWUAAu2Gd.jpg",
+        "width": 1325
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078131435676852224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcBh8QXYAAG9_p.jpg",
+        "width": 1562
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "2078198710002147787",
+        "created_at": "2026-07-17T19:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T20:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078198710002147787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "942763519",
+              "start": 3,
+              "username": "crismlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078198710002147787",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078131441485975636",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @crismlt: More flattering angles of the Vergil and Dante plushies\n\nAlso my hand for size comparison \n\nThat you can get in my pinned twee…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078131412050280449",
+            "3_2078131420753477632",
+            "3_2078131428378693632",
+            "3_2078131435676852224"
+          ]
+        },
+        "author_id": "942763519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2078131441485975636",
+        "created_at": "2026-07-17T14:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078131441485975636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W6P3zjMkC0",
+              "end": 183,
+              "expanded_url": "https://x.com/crismlt/status/2078131441485975636/photo/1",
+              "media_key": "3_2078131412050280449",
+              "start": 160,
+              "url": "https://t.co/W6P3zjMkC0"
+            },
+            {
+              "display_url": "pic.x.com/W6P3zjMkC0",
+              "end": 183,
+              "expanded_url": "https://x.com/crismlt/status/2078131441485975636/photo/1",
+              "media_key": "3_2078131420753477632",
+              "start": 160,
+              "url": "https://t.co/W6P3zjMkC0"
+            },
+            {
+              "display_url": "pic.x.com/W6P3zjMkC0",
+              "end": 183,
+              "expanded_url": "https://x.com/crismlt/status/2078131441485975636/photo/1",
+              "media_key": "3_2078131428378693632",
+              "start": 160,
+              "url": "https://t.co/W6P3zjMkC0"
+            },
+            {
+              "display_url": "pic.x.com/W6P3zjMkC0",
+              "end": 183,
+              "expanded_url": "https://x.com/crismlt/status/2078131441485975636/photo/1",
+              "media_key": "3_2078131435676852224",
+              "start": 160,
+              "url": "https://t.co/W6P3zjMkC0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078131441485975636",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1610,
+          "like_count": 133,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "More flattering angles of the Vergil and Dante plushies\n\nAlso my hand for size comparison \n\nThat you can get in my pinned tweet :3333333 or link in the replies https://t.co/W6P3zjMkC0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道，也别想着我会教你，私信问的直接骂没商量，老子又不认识你没有任何义务相信你",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 91,
+          "like_count": 5759,
+          "listed_count": 2,
+          "media_count": 351,
+          "tweet_count": 2902
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-12T03:35:41.000Z",
+        "description": "I draw sometimes 😝\n🚫No xenophobia and racism allowed here",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "redbubble.com/people/cristin…",
+                "end": 23,
+                "expanded_url": "https://www.redbubble.com/people/cristinamlt",
+                "start": 0,
+                "url": "https://t.co/uGR2kDHkpI"
+              }
+            ]
+          }
+        },
+        "id": "942763519",
+        "location": "CHECK REDBUBBLE STORE➡️",
+        "name": "Cris🇻🇪",
+        "pinned_tweet_id": "2078097956763320544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813285482765152256/drK9LYKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6324,
+          "following_count": 5354,
+          "like_count": 134158,
+          "listed_count": 49,
+          "media_count": 3785,
+          "tweet_count": 24672
+        },
+        "url": "https://t.co/uGR2kDHkpI",
+        "username": "crismlt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "1930352746743640390",
+    "created_at": "2025-06-04T19:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T20:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930352746743640390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lelechen945/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Lelechen945/status/1930077292577075496",
+          "start": 7,
+          "url": "https://t.co/QlfND5XBkq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930352746743640390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930077292577075496",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太装逼了我曹 https://t.co/QlfND5XBkq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 658,
+        "media_key": "3_1930077290840633346",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GskDEe2asAINulB.jpg",
+        "width": 840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "1930352746743640390",
+        "created_at": "2025-06-04T19:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T20:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930352746743640390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lelechen945/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Lelechen945/status/1930077292577075496",
+              "start": 7,
+              "url": "https://t.co/QlfND5XBkq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930352746743640390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930077292577075496",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太装逼了我曹 https://t.co/QlfND5XBkq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930077290840633346"
+          ]
+        },
+        "author_id": "885553072289701889",
+        "conversation_id": "1930077292577075496",
+        "created_at": "2025-06-04T01:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T02:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930077292577075496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kQzwGz76bB",
+              "end": 28,
+              "expanded_url": "https://x.com/Lelechen945/status/1930077292577075496/photo/1",
+              "media_key": "3_1930077290840633346",
+              "start": 5,
+              "url": "https://t.co/kQzwGz76bB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930077292577075496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 237,
+          "impression_count": 214874,
+          "like_count": 5611,
+          "quote_count": 33,
+          "reply_count": 50,
+          "retweet_count": 672
+        },
+        "reply_settings": "everyone",
+        "text": "應景一下 https://t.co/kQzwGz76bB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "恐怖暗黑血仆少羽奶龙国潮来袭神秘功夫需要加强哈基米哈基米哈基米胖宝宝乖狗狗屠孝子TV之提琴大人我来给您踩踩背啦点击输入文本金翼先知白兑换码我的天哪镜大人屠夫版本人类需要加强全网最尊重美国人英国人加拿大人墨西哥人阿根廷人中国人挪威人瑞典人德国人俄罗斯人日本人波兰人意大利人活死人女巫真神棍假神婆及狼人鳄鱼人吸血鬼的推特账户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "苦痛之屋    he/them",
+        "name": "𝖍𝖊𝖆𝖑 𝖒𝖞 𝖕𝖘𝖞𝖈𝖍𝖔 𝖑𝖔𝖛𝖊☠✯粪海狂蛆✯",
+        "pinned_tweet_id": "1929763139173912817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929086113408544768/2_CrG0ys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 14,
+          "like_count": 346,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 232
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-13T17:34:40.000Z",
+        "description": "手把青秧插滿田，低頭便見水中天\n\n心地清淨方為道，退步原來是向前",
+        "id": "885553072289701889",
+        "location": "台灣",
+        "name": "王語萱",
+        "pinned_tweet_id": "931483453593239553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688756508044173314/-E-vchAR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89888,
+          "following_count": 147,
+          "like_count": 928549,
+          "listed_count": 269,
+          "media_count": 22063,
+          "tweet_count": 82236
+        },
+        "username": "Lelechen945",
+        "verified": false
+      }
+    ]
+  }
+}

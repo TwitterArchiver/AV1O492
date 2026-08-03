@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036334043273576448"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2036334046511280151",
+    "created_at": "2026-03-24T06:47:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T07:47:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036334046511280151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/asZ2m37Jii",
+          "end": 42,
+          "expanded_url": "https://x.com/AV1O492/status/2036334046511280151/photo/1",
+          "media_key": "3_2036334043273576448",
+          "start": 19,
+          "url": "https://t.co/asZ2m37Jii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036334046511280151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "他妈的老子要一盒给老子开两盒你妈死了 https://t.co/asZ2m37Jii"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2036334043273576448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEKDBf1bQAAQ32b.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036334043273576448"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2036334046511280151",
+        "created_at": "2026-03-24T06:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T07:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036334046511280151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/asZ2m37Jii",
+              "end": 42,
+              "expanded_url": "https://x.com/AV1O492/status/2036334046511280151/photo/1",
+              "media_key": "3_2036334043273576448",
+              "start": 19,
+              "url": "https://t.co/asZ2m37Jii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036334046511280151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他妈的老子要一盒给老子开两盒你妈死了 https://t.co/asZ2m37Jii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别把我认成女的 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035790691939590144/nPb2bPCA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 68,
+          "like_count": 2942,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 1370
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2071107921854038506",
+    "created_at": "2026-06-28T05:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T06:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071107921854038506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1590939682568736769",
+          "start": 3,
+          "username": "ColesPerson"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071107921854038506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071107547793121452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ColesPerson: 急需一个婊子和我一起抱头痛哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2071107921854038506",
+        "created_at": "2026-06-28T05:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T06:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071107921854038506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1590939682568736769",
+              "start": 3,
+              "username": "ColesPerson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071107921854038506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071107547793121452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ColesPerson: 急需一个婊子和我一起抱头痛哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590939682568736769",
+        "conversation_id": "2071107547793121452",
+        "created_at": "2026-06-28T05:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T06:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071107547793121452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071107547793121452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "急需一个婊子和我一起抱头痛哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜皮下真名但丁斯巴达实名冲浪｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068366253987946496/-9a2Kroa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 72,
+          "like_count": 4257,
+          "listed_count": 2,
+          "media_count": 257,
+          "tweet_count": 2171
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T05:29:24.000Z",
+        "description": "🚪8964，用来给南方大山里的孩子买姨妈巾/姨父巾用",
+        "id": "1590939682568736769",
+        "location": "Manhattan, NY",
+        "name": "汉命贵0975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983668137922064384/aKdXx6yC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2337,
+          "following_count": 1404,
+          "like_count": 29707,
+          "listed_count": 6,
+          "media_count": 926,
+          "tweet_count": 10527
+        },
+        "url": "",
+        "username": "ColesPerson",
+        "verified": false
+      }
+    ]
+  }
+}

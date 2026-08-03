@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2038444058797031467",
+    "created_at": "2026-03-30T02:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T03:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038448332771918321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1414269095416012806",
+          "start": 0,
+          "username": "Coconut_QuQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038448332771918321",
+    "in_reply_to_user_id": "1414269095416012806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038444058797031467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Coconut_QuQ 闺蜜你咋这么瘦这么美？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038444048240001024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEoCD83awAAL5oF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2038444058797031467",
+        "created_at": "2026-03-30T02:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T03:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038448332771918321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1414269095416012806",
+              "start": 0,
+              "username": "Coconut_QuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038448332771918321",
+        "in_reply_to_user_id": "1414269095416012806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038444058797031467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coconut_QuQ 闺蜜你咋这么瘦这么美？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038444048240001024"
+          ]
+        },
+        "author_id": "1414269095416012806",
+        "conversation_id": "2038444058797031467",
+        "created_at": "2026-03-30T02:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T03:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038444058797031467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uUo2OP8br5",
+              "end": 23,
+              "expanded_url": "https://x.com/Coconut_QuQ/status/2038444058797031467/photo/1",
+              "media_key": "3_2038444048240001024",
+              "start": 0,
+              "url": "https://t.co/uUo2OP8br5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038444058797031467",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uUo2OP8br5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别把我认成女的 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037442931037032448/I19VSiwU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 71,
+          "like_count": 3460,
+          "listed_count": 2,
+          "media_count": 156,
+          "tweet_count": 1586
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5356,
+          "following_count": 23,
+          "like_count": 66,
+          "listed_count": 10,
+          "media_count": 31,
+          "tweet_count": 47
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2075143055641075724",
+    "created_at": "2026-07-09T12:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075194682066493502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1318195782411902976",
+          "start": 0,
+          "username": "Aissen_ninini"
+        },
+        {
+          "end": 28,
+          "id": "2040300783678410752",
+          "start": 15,
+          "username": "TheFirstKidz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075194682066493502",
+    "in_reply_to_user_id": "1318195782411902976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075189952670023832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aissen_ninini @TheFirstKidz 这个人发啥了呀？我这儿看不到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2075143055641075724",
+        "created_at": "2026-07-09T12:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075194682066493502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1318195782411902976",
+              "start": 0,
+              "username": "Aissen_ninini"
+            },
+            {
+              "end": 28,
+              "id": "2040300783678410752",
+              "start": 15,
+              "username": "TheFirstKidz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075194682066493502",
+        "in_reply_to_user_id": "1318195782411902976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075189952670023832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aissen_ninini @TheFirstKidz 这个人发啥了呀？我这儿看不到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1318195782411902976",
+        "conversation_id": "2075143055641075724",
+        "created_at": "2026-07-09T12:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075189952670023832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2040300783678410752",
+              "start": 0,
+              "username": "TheFirstKidz"
+            },
+            {
+              "end": 22,
+              "id": "1917890381104271361",
+              "start": 14,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075189952670023832",
+        "in_reply_to_user_id": "2040300783678410752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075165511659471008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheFirstKidz @AV1O492 擦一下镜子然后再拍一张好不好🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 85,
+          "like_count": 5387,
+          "listed_count": 2,
+          "media_count": 334,
+          "tweet_count": 2739
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-19T14:22:28.000Z",
+        "description": "讨厌二元论",
+        "id": "1318195782411902976",
+        "name": "aissen",
+        "pinned_tweet_id": "2025983089021952168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034730802349809664/zpML4XCi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 27,
+          "like_count": 49470,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 1952
+        },
+        "url": "",
+        "username": "Aissen_ninini",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T05:30:49.000Z",
+        "description": "前世@keaiiea\n🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "keaiiea"
+              }
+            ]
+          }
+        },
+        "id": "2040300783678410752",
+        "location": "千葉 浦安市",
+        "name": "Jonas三世",
+        "pinned_tweet_id": "2074128196937863225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074116186527404032/KdlCGOlC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 231,
+          "like_count": 763,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "TheFirstKidz",
+        "verified": false
+      }
+    ]
+  }
+}

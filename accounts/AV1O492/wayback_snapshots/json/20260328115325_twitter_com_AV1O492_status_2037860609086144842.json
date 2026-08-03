@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2037860609086144842",
+    "created_at": "2026-03-28T11:53:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T12:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037860609086144842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《Ballerina Coupe》，由 CupcakKe 演唱，收录于《The BakKery》专辑中，《Ballerina Coupe》下载，《Ballerina Coupe》在线试听，更多Ballerina Coupe相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/344paiw",
+          "end": 39,
+          "expanded_url": "https://163cn.tv/344paiw",
+          "start": 16,
+          "status": 200,
+          "title": "Ballerina Coupe - CupcakKe - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?id=2756650810&uct2=3%2FMRvbrV0tkJ9Iv09KvyqQ%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=c&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.4.80&sc=wm&tn=",
+          "url": "https://t.co/cbnbKLbKiW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037860609086144842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在地铁上一直听这个好提神啊\n https://t.co/cbnbKLbKiW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2037860609086144842",
+        "created_at": "2026-03-28T11:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037860609086144842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《Ballerina Coupe》，由 CupcakKe 演唱，收录于《The BakKery》专辑中，《Ballerina Coupe》下载，《Ballerina Coupe》在线试听，更多Ballerina Coupe相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/344paiw",
+              "end": 39,
+              "expanded_url": "https://163cn.tv/344paiw",
+              "start": 16,
+              "status": 200,
+              "title": "Ballerina Coupe - CupcakKe - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=2756650810&uct2=3%2FMRvbrV0tkJ9Iv09KvyqQ%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=c&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.4.80&sc=wm&tn=",
+              "url": "https://t.co/cbnbKLbKiW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037860609086144842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在地铁上一直听这个好提神啊\n https://t.co/cbnbKLbKiW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别把我认成女的 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037442931037032448/I19VSiwU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 72,
+          "like_count": 3345,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 1547
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

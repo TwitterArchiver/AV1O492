@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2067680900218015744",
+        "7_2067680919184691200",
+        "7_2067680933113937920",
+        "3_2067680723784589312"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2067681078681411987",
+    "created_at": "2026-06-18T18:49:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T19:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067681078681411987"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 94,
+          "start": 88,
+          "tag": "shtwt"
+        },
+        {
+          "end": 102,
+          "start": 95,
+          "tag": "988twt"
+        },
+        {
+          "end": 111,
+          "start": 103,
+          "tag": "drugtwt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M9r2ApmgCj",
+          "end": 159,
+          "expanded_url": "https://x.com/AV1O492/status/2067681078681411987/video/1",
+          "media_key": "7_2067680900218015744",
+          "start": 136,
+          "url": "https://t.co/M9r2ApmgCj"
+        },
+        {
+          "display_url": "pic.x.com/M9r2ApmgCj",
+          "end": 159,
+          "expanded_url": "https://x.com/AV1O492/status/2067681078681411987/video/1",
+          "media_key": "7_2067680919184691200",
+          "start": 136,
+          "url": "https://t.co/M9r2ApmgCj"
+        },
+        {
+          "display_url": "pic.x.com/M9r2ApmgCj",
+          "end": 159,
+          "expanded_url": "https://x.com/AV1O492/status/2067681078681411987/video/1",
+          "media_key": "7_2067680933113937920",
+          "start": 136,
+          "url": "https://t.co/M9r2ApmgCj"
+        },
+        {
+          "display_url": "pic.x.com/M9r2ApmgCj",
+          "end": 159,
+          "expanded_url": "https://x.com/AV1O492/status/2067681078681411987/video/1",
+          "media_key": "3_2067680723784589312",
+          "start": 136,
+          "url": "https://t.co/M9r2ApmgCj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067681078681411987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "before finish my powerd i just feeeelllling boring n hate the 1 who tf may only love me\n#shtwt #988twt #drugtwt \n到骨头 但是被血糊住了，不知道你们能不能看清 https://t.co/M9r2ApmgCj"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2067681078681411987].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2067681078681411987",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2067681078681411987"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 47165,
+        "height": 1280,
+        "media_key": "7_2067680900218015744",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2067680900218015744/pu/img/kFqnRGzIbDGIBVnQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067680900218015744/pu/vid/avc1/320x568/REEM6zV3r8WHA7Zu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067680900218015744/pu/vid/avc1/480x852/3b2X19D1LNJ-rVph.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067680900218015744/pu/vid/avc1/720x1280/TndaibSPKoL20t5l.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2067680900218015744/pu/pl/iUYT78fTGIh8l5XP.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 37652,
+        "height": 1280,
+        "media_key": "7_2067680919184691200",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2067680919184691200/pu/img/wretcBJx1FdseCFl.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067680919184691200/pu/vid/avc1/320x568/xbrRlLgVFtAOB8To.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067680919184691200/pu/vid/avc1/480x852/X8U8HBN11oqY9144.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067680919184691200/pu/vid/avc1/720x1280/nR-Z8C_CgnWUD1LV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2067680919184691200/pu/pl/2y5a8leKYiae0SCo.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 19383,
+        "height": 1280,
+        "media_key": "7_2067680933113937920",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2067680933113937920/pu/img/86LG-ygBqXJZ_tsg.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067680933113937920/pu/vid/avc1/320x568/RpjMelAaV3AFUPTU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067680933113937920/pu/vid/avc1/480x852/7mXR4MG6JNhF4JMd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067680933113937920/pu/vid/avc1/720x1280/Si7Y07OsJP70X4W2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2067680933113937920/pu/pl/ZoKRMztAtfKS48DT.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2067680723784589312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHgqcoaYAAsJx9.jpg",
+        "width": 1500
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067678186683715584/4RbnZMYe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 69,
+          "like_count": 4104,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 2037
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

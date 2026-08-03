@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2039294427009896522",
+    "created_at": "2026-04-01T10:54:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T11:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039295231276077441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2009015557677568003",
+          "start": 0,
+          "username": "ZOMBIEAOAOAAO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039295231276077441",
+    "in_reply_to_user_id": "2009015557677568003",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039294427009896522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZOMBIEAOAOAAO 我操😰😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2039294427009896522",
+        "created_at": "2026-04-01T10:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039295231276077441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2009015557677568003",
+              "start": 0,
+              "username": "ZOMBIEAOAOAAO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039295231276077441",
+        "in_reply_to_user_id": "2009015557677568003",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039294427009896522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZOMBIEAOAOAAO 我操😰😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009015557677568003",
+        "conversation_id": "2039294427009896522",
+        "created_at": "2026-04-01T10:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039294427009896522"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039294427009896522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老子的晚安不见了😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别把我认成女的 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038698420756729857/Mtx3ZDGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 71,
+          "like_count": 3642,
+          "listed_count": 2,
+          "media_count": 172,
+          "tweet_count": 1677
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T21:33:46.000Z",
+        "description": "𝕬𝖛𝖊 𝕯𝖔𝖒𝖎𝖓𝖚𝖘 𝕹𝖔𝖝 Sh/odtwt he/him dont follow me",
+        "id": "2009015557677568003",
+        "name": "爱生活爱人妻",
+        "pinned_tweet_id": "2009182313880719373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032072088350248960/20Q65kuB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 218,
+          "like_count": 3089,
+          "listed_count": 0,
+          "media_count": 280,
+          "tweet_count": 2265
+        },
+        "username": "ZOMBIEAOAOAAO",
+        "verified": false
+      }
+    ]
+  }
+}

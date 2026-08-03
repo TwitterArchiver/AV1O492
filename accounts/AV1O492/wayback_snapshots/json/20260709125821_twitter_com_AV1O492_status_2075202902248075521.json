@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2075201924878802975",
+    "created_at": "2026-07-09T12:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075202902248075521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1887175592031944705",
+          "start": 0,
+          "username": "neu498581457303"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075202902248075521",
+    "in_reply_to_user_id": "1887175592031944705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075201924878802975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neu498581457303 亚米亚米！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2075201864371744768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyZGcsbMAAZIjy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2075201924878802975",
+        "created_at": "2026-07-09T12:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075202902248075521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1887175592031944705",
+              "start": 0,
+              "username": "neu498581457303"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075202902248075521",
+        "in_reply_to_user_id": "1887175592031944705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075201924878802975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neu498581457303 亚米亚米！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075201864371744768"
+          ]
+        },
+        "author_id": "1887175592031944705",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075201924878802975",
+        "created_at": "2026-07-09T12:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075201924878802975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3urTbzECcV",
+              "end": 37,
+              "expanded_url": "https://x.com/neu498581457303/status/2075201924878802975/photo/1",
+              "media_key": "3_2075201864371744768",
+              "start": 14,
+              "url": "https://t.co/3urTbzECcV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075201924878802975",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在美团上买的芋泥冰淇淋好吃 https://t.co/3urTbzECcV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 86,
+          "like_count": 5417,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 2753
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T16:25:11.000Z",
+        "description": "",
+        "id": "1887175592031944705",
+        "name": "子倪",
+        "pinned_tweet_id": "1989376664711959030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887178082257412097/-3h8feo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 74,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "neu498581457303",
+        "verified": false
+      }
+    ]
+  }
+}

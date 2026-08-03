@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073856353911689216"
+      ],
+      "media_source_tweet_id": [
+        "2073856355706794231"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2074056965534412902",
+    "created_at": "2026-07-06T09:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T10:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074056965534412902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2066304671648526336",
+          "start": 3,
+          "username": "SaikyoDebiru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2jjxINPM4L",
+          "end": 108,
+          "expanded_url": "https://x.com/SaikyoDebiru/status/2073856355706794231/photo/1",
+          "media_key": "3_2073856353911689216",
+          "start": 85,
+          "url": "https://t.co/2jjxINPM4L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074056965534412902",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073856355706794231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SaikyoDebiru: “Taking a nap, do not bother me unless it is something important.” https://t.co/2jjxINPM4L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1308,
+        "media_key": "3_2073856353911689216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMfRXboX0AAcEwe.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073856353911689216"
+          ],
+          "media_source_tweet_id": [
+            "2073856355706794231"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2074056965534412902",
+        "created_at": "2026-07-06T09:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074056965534412902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2066304671648526336",
+              "start": 3,
+              "username": "SaikyoDebiru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2jjxINPM4L",
+              "end": 108,
+              "expanded_url": "https://x.com/SaikyoDebiru/status/2073856355706794231/photo/1",
+              "media_key": "3_2073856353911689216",
+              "start": 85,
+              "url": "https://t.co/2jjxINPM4L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074056965534412902",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073856355706794231",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SaikyoDebiru: “Taking a nap, do not bother me unless it is something important.” https://t.co/2jjxINPM4L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073856353911689216"
+          ]
+        },
+        "author_id": "2066304671648526336",
+        "conversation_id": "2073856355706794231",
+        "created_at": "2026-07-05T19:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T20:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073856355706794231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2jjxINPM4L",
+              "end": 90,
+              "expanded_url": "https://x.com/SaikyoDebiru/status/2073856355706794231/photo/1",
+              "media_key": "3_2073856353911689216",
+              "start": 67,
+              "url": "https://t.co/2jjxINPM4L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073856355706794231",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 1299,
+          "like_count": 243,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "“Taking a nap, do not bother me unless it is something important.” https://t.co/2jjxINPM4L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Temen-ni-gru Tower",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 85,
+          "like_count": 5126,
+          "listed_count": 2,
+          "media_count": 320,
+          "tweet_count": 2618
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T23:46:04.000Z",
+        "description": "❝𝐈 𝐝𝐨𝐧'𝐭 𝐰𝐚𝐧𝐭 𝐭𝐨 𝐛𝐞 𝐚𝐥𝐨𝐧𝐞 𝐚𝐧𝐲𝐦𝐨𝐫𝐞.❞\n\nHalf-demon, half-human, son of Sparda. \n\nVergil's twin brother.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Blue𓏲ּ𝄢.⠀",
+                "end": 23,
+                "expanded_url": "http://xn--Blue-tqf90357bb7th.xn--6ii/",
+                "start": 0,
+                "url": "https://t.co/XrqmfzayH3"
+              }
+            ]
+          }
+        },
+        "id": "2066304671648526336",
+        "location": "Devil May Cry, MDNI",
+        "name": "𝙳𝚊𝚗𝚝𝚎",
+        "pinned_tweet_id": "2066310361947558040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072832979353702400/cbqE-8R__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 81,
+          "like_count": 80,
+          "listed_count": 7,
+          "media_count": 88,
+          "tweet_count": 669
+        },
+        "url": "https://t.co/XrqmfzayH3",
+        "username": "SaikyoDebiru",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2078932478199476629",
+    "created_at": "2026-07-20T11:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T12:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079174059624108250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1516262894769356810",
+          "start": 0,
+          "username": "zeipod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079174059624108250",
+    "in_reply_to_user_id": "1516262894769356810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079111307081797639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zeipod 我喜欢这个比喻！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2078932478199476629",
+        "created_at": "2026-07-20T11:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079174059624108250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1516262894769356810",
+              "start": 0,
+              "username": "zeipod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079174059624108250",
+        "in_reply_to_user_id": "1516262894769356810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079111307081797639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zeipod 我喜欢这个比喻！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516262894769356810",
+        "conversation_id": "2078932478199476629",
+        "created_at": "2026-07-20T07:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T08:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079111307081797639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079111307081797639",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078932478199476629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 Looks like a squishy thats just been squished and its slowly inflating again"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 I LOVE DANTE and everyone could see that",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2078916554520228324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 89,
+          "like_count": 6045,
+          "listed_count": 2,
+          "media_count": 362,
+          "tweet_count": 3031
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-19T03:50:34.000Z",
+        "description": "What the fuck",
+        "id": "1516262894769356810",
+        "location": "poopville",
+        "name": "boomshakalaka",
+        "pinned_tweet_id": "1570975566660268033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074762357168041984/pWuX0kQ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 41,
+          "like_count": 1117,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 188
+        },
+        "url": "",
+        "username": "zeipod",
+        "verified": false
+      }
+    ]
+  }
+}

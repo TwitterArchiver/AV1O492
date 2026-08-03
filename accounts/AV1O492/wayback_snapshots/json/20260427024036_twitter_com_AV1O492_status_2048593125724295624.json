@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2035738063138181412",
+    "created_at": "2026-04-27T02:40:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T03:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048593125724295624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2046371425934540800",
+          "start": 0,
+          "username": "KINGuzjz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "mobile.yangkeduo.com/goods.html?ps=…",
+          "end": 33,
+          "expanded_url": "https://mobile.yangkeduo.com/goods.html?ps=82A3kMH5Iq",
+          "start": 10,
+          "unwound_url": "https://mobile.yangkeduo.com/goods.html?goods_id=732759267597&page_from=23&_oc_trace_mark=199&pxq_secret_key=47HJJ6ATZ7XIB3HVTU3ENAXMRHHSLK27DKXKVB43PM7P5OJBNNZQ&_oak_share_snapshot_num=1190&_oak_share_time=1777257630&share_oak_rcto=YWIcxqszMbRnZ9a19rhgg_SzUqXEqGdA-SmYUDjBkmkvOI2jV6HFahw1&_oak_share_ticket=01-0000000029-69dea064f3785c852024cfeafb7d3f57c2d7b50a9899f701d6843bf8366cdb7f-1778553631&share_uin=6AXNQWKZM53566GGDTQAB7VWYM_GEXDA&refer_share_id=da64d449cbc843c6baef88431672a5f0&refer_share_uin=6AXNQWKZM53566GGDTQAB7VWYM_GEXDA&refer_share_channel=copy_link&refer_share_form=text",
+          "url": "https://t.co/A8s8QjSOJe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048593125724295624",
+    "in_reply_to_user_id": "2046371425934540800",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048566208413172056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KINGuzjz https://t.co/A8s8QjSOJe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2035738063138181412",
+        "created_at": "2026-04-27T02:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048593125724295624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2046371425934540800",
+              "start": 0,
+              "username": "KINGuzjz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "mobile.yangkeduo.com/goods.html?ps=…",
+              "end": 33,
+              "expanded_url": "https://mobile.yangkeduo.com/goods.html?ps=82A3kMH5Iq",
+              "start": 10,
+              "unwound_url": "https://mobile.yangkeduo.com/goods.html?goods_id=732759267597&page_from=23&_oc_trace_mark=199&pxq_secret_key=47HJJ6ATZ7XIB3HVTU3ENAXMRHHSLK27DKXKVB43PM7P5OJBNNZQ&_oak_share_snapshot_num=1190&_oak_share_time=1777257630&share_oak_rcto=YWIcxqszMbRnZ9a19rhgg_SzUqXEqGdA-SmYUDjBkmkvOI2jV6HFahw1&_oak_share_ticket=01-0000000029-69dea064f3785c852024cfeafb7d3f57c2d7b50a9899f701d6843bf8366cdb7f-1778553631&share_uin=6AXNQWKZM53566GGDTQAB7VWYM_GEXDA&refer_share_id=da64d449cbc843c6baef88431672a5f0&refer_share_uin=6AXNQWKZM53566GGDTQAB7VWYM_GEXDA&refer_share_channel=copy_link&refer_share_form=text",
+              "url": "https://t.co/A8s8QjSOJe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048593125724295624",
+        "in_reply_to_user_id": "2046371425934540800",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048566208413172056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KINGuzjz https://t.co/A8s8QjSOJe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046371425934540800",
+        "conversation_id": "2035738063138181412",
+        "created_at": "2026-04-27T00:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T01:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048566208413172056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048566208413172056",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035738063138181412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 有推荐的OD药吗 市面可以很容易搞到的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/5Lgdtm2",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/5Lgdtm2",
+                "start": 0,
+                "url": "https://t.co/F503DrTT0k"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047592059872387072/fc9q0a9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 75,
+          "like_count": 3949,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 1895
+        },
+        "url": "https://t.co/F503DrTT0k",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T23:32:49.000Z",
+        "description": "",
+        "id": "2046371425934540800",
+        "name": "KING",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 25,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "KINGuzjz",
+        "verified": false
+      }
+    ]
+  }
+}

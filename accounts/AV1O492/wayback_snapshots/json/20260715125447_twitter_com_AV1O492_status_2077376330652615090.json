@@ -1,0 +1,452 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076701372289015808",
+        "3_2076701372247117824",
+        "3_2076701372238745601",
+        "3_2076701372259704832"
+      ],
+      "media_source_tweet_id": [
+        "2076701379801080001",
+        "2076701379801080001",
+        "2076701379801080001",
+        "2076701379801080001"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Shaving and Grooming",
+          "id": "856575202972413952",
+          "name": "Shaving and grooming"
+        }
+      }
+    ],
+    "conversation_id": "2077376330652615090",
+    "created_at": "2026-07-15T12:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T13:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077376330652615090"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 83,
+          "start": 77,
+          "tag": "Dante"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "736984936008187904",
+          "start": 3,
+          "username": "DMC_156"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gjtYTykEbx",
+          "end": 107,
+          "expanded_url": "https://x.com/DMC_156/status/2076701379801080001/photo/1",
+          "media_key": "3_2076701372289015808",
+          "start": 84,
+          "url": "https://t.co/gjtYTykEbx"
+        },
+        {
+          "display_url": "pic.x.com/gjtYTykEbx",
+          "end": 107,
+          "expanded_url": "https://x.com/DMC_156/status/2076701379801080001/photo/1",
+          "media_key": "3_2076701372247117824",
+          "start": 84,
+          "url": "https://t.co/gjtYTykEbx"
+        },
+        {
+          "display_url": "pic.x.com/gjtYTykEbx",
+          "end": 107,
+          "expanded_url": "https://x.com/DMC_156/status/2076701379801080001/photo/1",
+          "media_key": "3_2076701372238745601",
+          "start": 84,
+          "url": "https://t.co/gjtYTykEbx"
+        },
+        {
+          "display_url": "pic.x.com/gjtYTykEbx",
+          "end": 107,
+          "expanded_url": "https://x.com/DMC_156/status/2076701379801080001/photo/1",
+          "media_key": "3_2076701372259704832",
+          "start": 84,
+          "url": "https://t.co/gjtYTykEbx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077376330652615090",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076701379801080001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DMC_156: Dante finally shaved his Beard, He looks 10 years younger now.  #Dante https://t.co/gjtYTykEbx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2076701372289015808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHs5S_aYAAZaxB.jpg",
+        "width": 1670
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2076701372247117824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHs5S1bEAAoU_Z.jpg",
+        "width": 1812
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2076701372238745601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHs5SzbUAEAfi4.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2076701372259704832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHs5S4bIAAsfkk.jpg",
+        "width": 1783
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076701372289015808",
+            "3_2076701372247117824",
+            "3_2076701372238745601",
+            "3_2076701372259704832"
+          ],
+          "media_source_tweet_id": [
+            "2076701379801080001",
+            "2076701379801080001",
+            "2076701379801080001",
+            "2076701379801080001"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Shaving and Grooming",
+              "id": "856575202972413952",
+              "name": "Shaving and grooming"
+            }
+          }
+        ],
+        "conversation_id": "2077376330652615090",
+        "created_at": "2026-07-15T12:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077376330652615090"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 77,
+              "tag": "Dante"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "736984936008187904",
+              "start": 3,
+              "username": "DMC_156"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gjtYTykEbx",
+              "end": 107,
+              "expanded_url": "https://x.com/DMC_156/status/2076701379801080001/photo/1",
+              "media_key": "3_2076701372289015808",
+              "start": 84,
+              "url": "https://t.co/gjtYTykEbx"
+            },
+            {
+              "display_url": "pic.x.com/gjtYTykEbx",
+              "end": 107,
+              "expanded_url": "https://x.com/DMC_156/status/2076701379801080001/photo/1",
+              "media_key": "3_2076701372247117824",
+              "start": 84,
+              "url": "https://t.co/gjtYTykEbx"
+            },
+            {
+              "display_url": "pic.x.com/gjtYTykEbx",
+              "end": 107,
+              "expanded_url": "https://x.com/DMC_156/status/2076701379801080001/photo/1",
+              "media_key": "3_2076701372238745601",
+              "start": 84,
+              "url": "https://t.co/gjtYTykEbx"
+            },
+            {
+              "display_url": "pic.x.com/gjtYTykEbx",
+              "end": 107,
+              "expanded_url": "https://x.com/DMC_156/status/2076701379801080001/photo/1",
+              "media_key": "3_2076701372259704832",
+              "start": 84,
+              "url": "https://t.co/gjtYTykEbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077376330652615090",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076701379801080001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DMC_156: Dante finally shaved his Beard, He looks 10 years younger now.  #Dante https://t.co/gjtYTykEbx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076701372289015808",
+            "3_2076701372247117824",
+            "3_2076701372238745601",
+            "3_2076701372259704832"
+          ]
+        },
+        "author_id": "736984936008187904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Shaving and Grooming",
+              "id": "856575202972413952",
+              "name": "Shaving and grooming"
+            }
+          }
+        ],
+        "conversation_id": "2076701379801080001",
+        "created_at": "2026-07-13T16:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076701379801080001"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 64,
+              "tag": "Dante"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gjtYTykEbx",
+              "end": 94,
+              "expanded_url": "https://x.com/DMC_156/status/2076701379801080001/photo/1",
+              "media_key": "3_2076701372289015808",
+              "start": 71,
+              "url": "https://t.co/gjtYTykEbx"
+            },
+            {
+              "display_url": "pic.x.com/gjtYTykEbx",
+              "end": 94,
+              "expanded_url": "https://x.com/DMC_156/status/2076701379801080001/photo/1",
+              "media_key": "3_2076701372247117824",
+              "start": 71,
+              "url": "https://t.co/gjtYTykEbx"
+            },
+            {
+              "display_url": "pic.x.com/gjtYTykEbx",
+              "end": 94,
+              "expanded_url": "https://x.com/DMC_156/status/2076701379801080001/photo/1",
+              "media_key": "3_2076701372238745601",
+              "start": 71,
+              "url": "https://t.co/gjtYTykEbx"
+            },
+            {
+              "display_url": "pic.x.com/gjtYTykEbx",
+              "end": 94,
+              "expanded_url": "https://x.com/DMC_156/status/2076701379801080001/photo/1",
+              "media_key": "3_2076701372259704832",
+              "start": 71,
+              "url": "https://t.co/gjtYTykEbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076701379801080001",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 6708,
+          "like_count": 344,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "Dante finally shaved his Beard, He looks 10 years younger now.  #Dante https://t.co/gjtYTykEbx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 86,
+          "like_count": 5555,
+          "listed_count": 2,
+          "media_count": 338,
+          "tweet_count": 2802
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-29T18:17:56.000Z",
+        "description": "Post all about Vergil & V , Dante and Nero ( Mostly VERGIL💙 ) Games & Memes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Twitter.com",
+                "end": 23,
+                "expanded_url": "https://www.Twitter.com",
+                "start": 0,
+                "url": "https://t.co/Czmlhmhm3P"
+              }
+            ]
+          }
+        },
+        "id": "736984936008187904",
+        "location": "West Region, Singapore",
+        "name": "Λ2",
+        "pinned_tweet_id": "2046834221801701536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055509329529499648/aK-nXMO0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3723,
+          "following_count": 67,
+          "like_count": 30853,
+          "listed_count": 8,
+          "media_count": 3936,
+          "tweet_count": 9086
+        },
+        "url": "https://t.co/Czmlhmhm3P",
+        "username": "DMC_156",
+        "verified": false
+      }
+    ]
+  }
+}

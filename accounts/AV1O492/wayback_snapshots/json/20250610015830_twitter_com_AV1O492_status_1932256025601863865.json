@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "1932137478460412234",
+    "created_at": "2025-06-10T01:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T02:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932256025601863865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1915081922423730176",
+          "start": 0,
+          "username": "WendolynZo75783"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932256025601863865",
+    "in_reply_to_user_id": "1915081922423730176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932212071225237750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WendolynZo75783 我特别喜欢这种可爱的小牲畜，所以我特别愧疚自责内疚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "1932137478460412234",
+        "created_at": "2025-06-10T01:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T02:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932256025601863865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1915081922423730176",
+              "start": 0,
+              "username": "WendolynZo75783"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932256025601863865",
+        "in_reply_to_user_id": "1915081922423730176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932212071225237750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WendolynZo75783 我特别喜欢这种可爱的小牲畜，所以我特别愧疚自责内疚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915081922423730176",
+        "conversation_id": "1932137478460412234",
+        "created_at": "2025-06-09T23:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T00:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932212071225237750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932212071225237750",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932137478460412234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 笑死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "恐怖暗黑血仆少羽奶龙国潮来袭神秘功夫需要加强哈基米哈基米哈基米胖宝宝乖狗狗屠孝子TV之提琴大人我来给您踩踩背啦点击输入文本金翼先知白兑换码我的天哪镜大人屠夫版本人类需要加强全网最尊重美国人英国人加拿大人墨西哥人阿根廷人中国人挪威人瑞典人德国人俄罗斯人日本人波兰人意大利人活死人女巫真神棍假神婆及狼人鳄鱼人吸血鬼的推特账户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "苦痛之屋    he/them",
+        "name": "𝖍𝖊𝖆𝖑 𝖒𝖞 𝖕𝖘𝖞𝖈𝖍𝖔 𝖑𝖔𝖛𝖊☠✯粪海狂蛆✯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931027286532521984/4K0I92IB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 17,
+          "like_count": 796,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 424
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T16:34:54.000Z",
+        "description": "臭傻逼丧门驴操我把你打漏屎喂给你妈吃",
+        "id": "1915081922423730176",
+        "location": "𝕳𝖊𝖆𝖗𝖙-𝕾𝖍𝖆𝖕𝖊𝖉 𝕭𝖔𝖝",
+        "name": "Erosive chyme",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931328015105142784/Wl3OqAUC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 76,
+          "like_count": 2139,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 904
+        },
+        "username": "WendolynZo75783",
+        "verified": false
+      }
+    ]
+  }
+}

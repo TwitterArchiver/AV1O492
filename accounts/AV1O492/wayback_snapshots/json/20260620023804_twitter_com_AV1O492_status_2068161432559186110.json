@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2068161432559186110",
+    "created_at": "2026-06-20T02:38:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T03:38:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068161432559186110"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Letsrock_frida…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/Letsrock_friday/status/2068055873381970304",
+          "start": 20,
+          "url": "https://t.co/8RCyLXh5wq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068161432559186110",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068055873381970304",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果你们好奇我平常一个人在家的时候，： https://t.co/8RCyLXh5wq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 78901,
+        "height": 416,
+        "media_key": "7_2068055831694692352",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2068055831694692352/pu/img/9Td8pNizk5YwVL8J.jpg",
+        "public_metrics": {
+          "view_count": 7091
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068055831694692352/pu/vid/avc1/554x270/AVJF8b0oZfaakGFd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068055831694692352/pu/vid/avc1/856x416/fQ1E2PbuFN2WijF8.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2068055831694692352/pu/pl/HTlET9CVxAd4pjEs.m3u8?tag=12"
+          }
+        ],
+        "width": 856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2068161432559186110",
+        "created_at": "2026-06-20T02:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T03:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068161432559186110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Letsrock_frida…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Letsrock_friday/status/2068055873381970304",
+              "start": 20,
+              "url": "https://t.co/8RCyLXh5wq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068161432559186110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068055873381970304",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你们好奇我平常一个人在家的时候，： https://t.co/8RCyLXh5wq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2068055831694692352"
+          ]
+        },
+        "author_id": "1259687158815866880",
+        "conversation_id": "2068055873381970304",
+        "created_at": "2026-06-19T19:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T20:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068055873381970304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VENgKfYLtJ",
+              "end": 37,
+              "expanded_url": "https://x.com/Letsrock_friday/status/2068055873381970304/video/1",
+              "media_key": "7_2068055831694692352",
+              "start": 14,
+              "url": "https://t.co/VENgKfYLtJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068055873381970304",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 17404,
+          "like_count": 856,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 255
+        },
+        "reply_settings": "everyone",
+        "text": "LET'S ROCK!!! https://t.co/VENgKfYLtJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜皮下真名但丁斯巴达实名冲浪｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068158408487014400/3eqb45Ho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 71,
+          "like_count": 4165,
+          "listed_count": 2,
+          "media_count": 248,
+          "tweet_count": 2112
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-11T03:30:15.000Z",
+        "description": "Let's Rock!",
+        "id": "1259687158815866880",
+        "name": "This friday' s getting crazy!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707806483688153088/Uv0XXKP6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13679,
+          "following_count": 140,
+          "like_count": 2388,
+          "listed_count": 9,
+          "media_count": 426,
+          "tweet_count": 438
+        },
+        "url": "",
+        "username": "Letsrock_friday",
+        "verified": false
+      }
+    ]
+  }
+}

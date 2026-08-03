@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2071274043895087140",
+    "created_at": "2026-06-28T17:44:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T18:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071288709878854085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1429055428374130693",
+          "start": 0,
+          "username": "Gamer94469"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071288709878854085",
+    "in_reply_to_user_id": "1429055428374130693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071274043895087140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gamer94469 这就是做手机口的下场"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2071274016573456384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6kvnZbgAAB8PE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2071274043895087140",
+        "created_at": "2026-06-28T17:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T18:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071288709878854085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1429055428374130693",
+              "start": 0,
+              "username": "Gamer94469"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071288709878854085",
+        "in_reply_to_user_id": "1429055428374130693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071274043895087140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gamer94469 这就是做手机口的下场"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071274016573456384"
+          ]
+        },
+        "author_id": "1429055428374130693",
+        "conversation_id": "2071274043895087140",
+        "created_at": "2026-06-28T16:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071274043895087140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GEwSEb0UHG",
+              "end": 26,
+              "expanded_url": "https://x.com/Gamer94469/status/2071274043895087140/photo/1",
+              "media_key": "3_2071274016573456384",
+              "start": 3,
+              "url": "https://t.co/GEwSEb0UHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071274043895087140",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跑路 https://t.co/GEwSEb0UHG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜皮下真名但丁斯巴达实名冲浪｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071108900422926336/3klYl-Rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 74,
+          "like_count": 4307,
+          "listed_count": 2,
+          "media_count": 262,
+          "tweet_count": 2195
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-21T12:19:04.000Z",
+        "description": "即刻绞杀即刻刎颈",
+        "id": "1429055428374130693",
+        "name": "人民杀手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069608696787927040/yqxcpgyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 318,
+          "like_count": 22166,
+          "listed_count": 2,
+          "media_count": 714,
+          "tweet_count": 5748
+        },
+        "url": "",
+        "username": "Gamer94469",
+        "verified": false
+      }
+    ]
+  }
+}

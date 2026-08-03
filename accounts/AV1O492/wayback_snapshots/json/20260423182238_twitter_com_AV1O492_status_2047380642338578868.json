@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2047377828078026851",
+    "created_at": "2026-04-23T18:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T19:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047380642338578868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2024482757133684737",
+          "start": 0,
+          "username": "GuQing0121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047380642338578868",
+    "in_reply_to_user_id": "2024482757133684737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047379530470531122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuQing0121 弹的挺好的很舒心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2047377828078026851",
+        "created_at": "2026-04-23T18:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T19:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047380642338578868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2024482757133684737",
+              "start": 0,
+              "username": "GuQing0121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047380642338578868",
+        "in_reply_to_user_id": "2024482757133684737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047379530470531122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuQing0121 弹的挺好的很舒心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024482757133684737",
+        "conversation_id": "2047377828078026851",
+        "created_at": "2026-04-23T18:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T19:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047379530470531122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047379530470531122",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047377828078026851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 所以好看不。弄的我也想看了我去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047320949570277376/ns1syjsj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 69,
+          "like_count": 3688,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 1728
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T13:54:55.000Z",
+        "description": "🇨🇳/ENFP/♒️//傻子負能max/歡迎聊天💬//愛發點碎碎念//七海建人全肯定//我會單fo我感興趣的-你態度=我態度//我喜歡溫柔的人我也會溫柔對你//",
+        "id": "2024482757133684737",
+        "location": "🚪20",
+        "name": "*青藤誓^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024560211097505793/sZlFv9BD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 35,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 363
+        },
+        "username": "GuQing0121",
+        "verified": false
+      }
+    ]
+  }
+}

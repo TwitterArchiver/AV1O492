@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2073128099517177887",
+    "created_at": "2026-07-03T19:33:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T20:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073128099517177887"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "天津"
+        },
+        {
+          "end": 134,
+          "start": 129,
+          "tag": "一日女友"
+        },
+        {
+          "end": 139,
+          "start": 135,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2051707585703952384",
+          "start": 3,
+          "username": "K1llTheSOul0827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073128099517177887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060368121006014805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @K1llTheSOul0827: Hii我是小熊猫\nip天津\n188🚪仅好友位\n220🚪开放朋友圈+互动\n500🚪🈷️电子女友可语音闲聊\n500💰解锁线下接爸爸活/妈妈活 过门咨询私信只回复口令 验证20💰 一直陪着🚪哥绝对不会对🚪哥冷冰冰 #天津 #一日女友 #门槛妹…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060368106426654720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfl4GIa4AAQiBd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2073128099517177887",
+        "created_at": "2026-07-03T19:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T20:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073128099517177887"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "天津"
+            },
+            {
+              "end": 134,
+              "start": 129,
+              "tag": "一日女友"
+            },
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "门槛妹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2051707585703952384",
+              "start": 3,
+              "username": "K1llTheSOul0827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073128099517177887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060368121006014805",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @K1llTheSOul0827: Hii我是小熊猫\nip天津\n188🚪仅好友位\n220🚪开放朋友圈+互动\n500🚪🈷️电子女友可语音闲聊\n500💰解锁线下接爸爸活/妈妈活 过门咨询私信只回复口令 验证20💰 一直陪着🚪哥绝对不会对🚪哥冷冰冰 #天津 #一日女友 #门槛妹…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060368106426654720"
+          ]
+        },
+        "author_id": "2051707585703952384",
+        "conversation_id": "2060368121006014805",
+        "created_at": "2026-05-29T14:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060368121006014805"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "天津"
+            },
+            {
+              "end": 113,
+              "start": 108,
+              "tag": "一日女友"
+            },
+            {
+              "end": 118,
+              "start": 114,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 123,
+              "start": 119,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "od"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "自残"
+            },
+            {
+              "end": 136,
+              "start": 132,
+              "tag": "清楚系"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "日系"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "風俗"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "パパ活"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "门槛"
+            },
+            {
+              "end": 157,
+              "start": 154,
+              "tag": "线下"
+            },
+            {
+              "end": 161,
+              "start": 158,
+              "tag": "纯绿"
+            },
+            {
+              "end": 165,
+              "start": 162,
+              "tag": "非绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pSbhO40zw2",
+              "end": 189,
+              "expanded_url": "https://x.com/K1llTheSOul0827/status/2060368121006014805/photo/1",
+              "media_key": "3_2060368106426654720",
+              "start": 166,
+              "url": "https://t.co/pSbhO40zw2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060368121006014805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10148,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Hii我是小熊猫\nip天津\n188🚪仅好友位\n220🚪开放朋友圈+互动\n500🚪🈷️电子女友可语音闲聊\n500💰解锁线下接爸爸活/妈妈活 过门咨询私信只回复口令 验证20💰 一直陪着🚪哥绝对不会对🚪哥冷冰冰 #天津 #一日女友 #门槛妹 #爸爸活 #od #自残 #清楚系 #日系 #風俗 #パパ活 #门槛 #线下 #纯绿 #非绿 https://t.co/pSbhO40zw2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Temen-ni-gru Tower",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1358,
+          "following_count": 83,
+          "like_count": 4918,
+          "listed_count": 2,
+          "media_count": 301,
+          "tweet_count": 2504
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T16:59:13.000Z",
+        "description": "09 \n158/42",
+        "id": "2051707585703952384",
+        "name": "LakeOftears",
+        "pinned_tweet_id": "2060368121006014805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051708701195767808/RiOlZD_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 21,
+          "like_count": 228,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 137
+        },
+        "url": "",
+        "username": "K1llTheSOul0827",
+        "verified": false
+      }
+    ]
+  }
+}

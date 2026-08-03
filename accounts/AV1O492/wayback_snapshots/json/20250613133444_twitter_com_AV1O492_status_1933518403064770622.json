@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933518270260523013",
+        "3_1933518265940389895",
+        "3_1933518268192731139",
+        "7_1933518265881669632"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1933518403064770622",
+    "created_at": "2025-06-13T13:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T14:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933518403064770622"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 34,
+          "tag": "shtwt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nM3588YLrK",
+          "end": 64,
+          "expanded_url": "https://x.com/AV1O492/status/1933518403064770622/video/1",
+          "media_key": "3_1933518270260523013",
+          "start": 41,
+          "url": "https://t.co/nM3588YLrK"
+        },
+        {
+          "display_url": "pic.x.com/nM3588YLrK",
+          "end": 64,
+          "expanded_url": "https://x.com/AV1O492/status/1933518403064770622/video/1",
+          "media_key": "3_1933518265940389895",
+          "start": 41,
+          "url": "https://t.co/nM3588YLrK"
+        },
+        {
+          "display_url": "pic.x.com/nM3588YLrK",
+          "end": 64,
+          "expanded_url": "https://x.com/AV1O492/status/1933518403064770622/video/1",
+          "media_key": "3_1933518268192731139",
+          "start": 41,
+          "url": "https://t.co/nM3588YLrK"
+        },
+        {
+          "display_url": "pic.x.com/nM3588YLrK",
+          "end": 64,
+          "expanded_url": "https://x.com/AV1O492/status/1933518403064770622/video/1",
+          "media_key": "7_1933518265881669632",
+          "start": 41,
+          "url": "https://t.co/nM3588YLrK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933518403064770622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在大腿正面划了一个纳粹万🐹🐹\n我夏天一直穿超短裤 可以露出来\n\n #shtwt https://t.co/nM3588YLrK"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1933518403064770622].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1933518403064770622",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1933518403064770622"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1933518270260523013",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtU8n2GbMAUrevZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1933518265940389895",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtU8nmAbMAcyNf5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1933518268192731139",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtU8nuZbMAMsqo8.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 11026,
+        "height": 1280,
+        "media_key": "7_1933518265881669632",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1933518265881669632/pu/img/E-aWzLrDVMU6k-JX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1933518265881669632/pu/vid/avc1/320x568/cwBHST5Hn-_ZHh_D.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1933518265881669632/pu/vid/avc1/480x852/URVctd0pxUAvOg63.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1933518265881669632/pu/vid/avc1/720x1280/u_f3CgqQSndLdAiS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1933518265881669632/pu/pl/RQDUWgHopYT0LHS-.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "恐怖暗黑血仆少羽奶龙国潮来袭神秘功夫需要加强哈基米哈基米哈基米胖宝宝乖狗狗屠孝子TV之提琴大人我来给您踩踩背啦点击输入文本金翼先知白兑换码我的天哪镜大人屠夫版本人类需要加强全网最尊重美国人英国人加拿大人墨西哥人阿根廷人中国人挪威人瑞典人德国人俄罗斯人日本人波兰人意大利人活死人女巫真神棍假神婆及狼人鳄鱼人吸血鬼的推特账户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "苦痛之屋 he/them\r\ncn狂蛆/旗队长",
+        "name": "𝖍𝖊𝖆𝖑 𝖒𝖞 𝖕𝖘𝖞𝖈𝖍𝖔 𝖑𝖔𝖛𝖊☠✯粪海狂蛆✯",
+        "pinned_tweet_id": "1932310860283674700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932284293818249216/2HC70Y2I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 19,
+          "like_count": 1053,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 601
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

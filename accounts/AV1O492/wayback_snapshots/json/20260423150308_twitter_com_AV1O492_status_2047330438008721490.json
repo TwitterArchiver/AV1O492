@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047330370350460928"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2047330438008721490",
+    "created_at": "2026-04-23T15:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047330438008721490"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gjXL40mj8t",
+          "end": 40,
+          "expanded_url": "https://x.com/AV1O492/status/2047330438008721490/photo/1",
+          "media_key": "3_2047330370350460928",
+          "start": 17,
+          "url": "https://t.co/gjXL40mj8t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047330438008721490",
+    "lang": "sv",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "pick ur rnr star https://t.co/gjXL40mj8t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_2047330370350460928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmUH-absAAsS1t.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047330370350460928"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2047330438008721490",
+        "created_at": "2026-04-23T15:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047330438008721490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gjXL40mj8t",
+              "end": 40,
+              "expanded_url": "https://x.com/AV1O492/status/2047330438008721490/photo/1",
+              "media_key": "3_2047330370350460928",
+              "start": 17,
+              "url": "https://t.co/gjXL40mj8t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047330438008721490",
+        "lang": "sv",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pick ur rnr star https://t.co/gjXL40mj8t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047320949570277376/ns1syjsj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 69,
+          "like_count": 3643,
+          "listed_count": 2,
+          "media_count": 178,
+          "tweet_count": 1695
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

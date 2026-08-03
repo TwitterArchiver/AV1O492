@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2033196712475623800",
+    "created_at": "2026-03-15T15:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T16:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033203856025551103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2032802107745824768",
+          "start": 0,
+          "username": "guangzhouxidu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033203856025551103",
+    "in_reply_to_user_id": "2032802107745824768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033196712475623800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guangzhouxidu 我一个闺蜜就在那种担保群里面做转90回200的一口气被骗了一千八笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2033196648126611456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDddlEIaAAAKp5_.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2033196648030191616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDddlDxawAAkLmn.png",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2033196648067952640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDddlD6a8AArRLh.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2033196712475623800",
+        "created_at": "2026-03-15T15:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033203856025551103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2032802107745824768",
+              "start": 0,
+              "username": "guangzhouxidu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033203856025551103",
+        "in_reply_to_user_id": "2032802107745824768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033196712475623800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guangzhouxidu 我一个闺蜜就在那种担保群里面做转90回200的一口气被骗了一千八笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033196648126611456",
+            "3_2033196648030191616",
+            "3_2033196648067952640"
+          ]
+        },
+        "author_id": "2032802107745824768",
+        "conversation_id": "2033196712475623800",
+        "created_at": "2026-03-15T15:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033196712475623800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GyZShmEV7B",
+              "end": 168,
+              "expanded_url": "https://x.com/guangzhouxidu/status/2033196712475623800/photo/1",
+              "media_key": "3_2033196648126611456",
+              "start": 145,
+              "url": "https://t.co/GyZShmEV7B"
+            },
+            {
+              "display_url": "pic.x.com/GyZShmEV7B",
+              "end": 168,
+              "expanded_url": "https://x.com/guangzhouxidu/status/2033196712475623800/photo/1",
+              "media_key": "3_2033196648030191616",
+              "start": 145,
+              "url": "https://t.co/GyZShmEV7B"
+            },
+            {
+              "display_url": "pic.x.com/GyZShmEV7B",
+              "end": 168,
+              "expanded_url": "https://x.com/guangzhouxidu/status/2033196712475623800/photo/1",
+              "media_key": "3_2033196648067952640",
+              "start": 145,
+              "url": "https://t.co/GyZShmEV7B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033196712475623800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 48,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "局长整理出来的一些tg常见骗局，特别是提醒想从事互联网黑灰产业才学会翻墙的小白，即便是在真公群内所发布的招聘信息，也会有骗子以 \n：你账号添加不了好友，需要你的验证码{盗号}，拉你进假担保群{冒充客服}等，或需要让你自行购买 各种工具{根本搜不到，买不到，最后骗\n子还是要你在他的手上买} https://t.co/GyZShmEV7B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032797382296166400/85J_f9jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 46,
+          "like_count": 2012,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1053
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T12:53:56.000Z",
+        "description": "广州市吸毒局吸毒支队官方推特号，私信常开，接受投稿，不出售任何产品，谨防骗子，反诈安全宣传一刻不容停息，关注局长 防范骗局",
+        "id": "2032802107745824768",
+        "name": "广州吸毒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032802565499637760/AQs27st5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 14,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "username": "guangzhouxidu",
+        "verified": false
+      }
+    ]
+  }
+}

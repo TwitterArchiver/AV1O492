@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2078044515881865216"
+      ],
+      "media_source_tweet_id": [
+        "2078044573712949583"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2078153259861340392",
+    "created_at": "2026-07-17T16:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T17:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078153259861340392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1961723126158397440",
+          "start": 3,
+          "username": "RatInControl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vZBMt4HL8a",
+          "end": 62,
+          "expanded_url": "https://x.com/RatInControl/status/2078044573712949583/video/1",
+          "media_key": "7_2078044515881865216",
+          "start": 39,
+          "url": "https://t.co/vZBMt4HL8a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078153259861340392",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 964
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078044573712949583",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RatInControl: Scrubbing little rat https://t.co/vZBMt4HL8a"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10170,
+        "height": 1280,
+        "media_key": "7_2078044515881865216",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2078044515881865216/pu/img/v2KhSwVdYsQNogru.jpg",
+        "public_metrics": {
+          "view_count": 28405
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078044515881865216/pu/vid/avc1/320x568/77AAirneXtv7bc85.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078044515881865216/pu/vid/avc1/480x852/t1fWuUnKz7E1OjfY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078044515881865216/pu/vid/avc1/720x1280/H9DiH9KFtfXygvgi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2078044515881865216/pu/pl/T44HWyrAhdUgOcHH.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2078044515881865216"
+          ]
+        },
+        "author_id": "1961723126158397440",
+        "conversation_id": "2078044573712949583",
+        "created_at": "2026-07-17T09:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078044573712949583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vZBMt4HL8a",
+              "end": 44,
+              "expanded_url": "https://x.com/RatInControl/status/2078044573712949583/video/1",
+              "media_key": "7_2078044515881865216",
+              "start": 21,
+              "url": "https://t.co/vZBMt4HL8a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078044573712949583",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 338,
+          "impression_count": 112665,
+          "like_count": 3078,
+          "quote_count": 192,
+          "reply_count": 14,
+          "retweet_count": 964
+        },
+        "reply_settings": "everyone",
+        "text": "Scrubbing little rat https://t.co/vZBMt4HL8a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2078044515881865216"
+          ],
+          "media_source_tweet_id": [
+            "2078044573712949583"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2078153259861340392",
+        "created_at": "2026-07-17T16:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078153259861340392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1961723126158397440",
+              "start": 3,
+              "username": "RatInControl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vZBMt4HL8a",
+              "end": 62,
+              "expanded_url": "https://x.com/RatInControl/status/2078044573712949583/video/1",
+              "media_key": "7_2078044515881865216",
+              "start": 39,
+              "url": "https://t.co/vZBMt4HL8a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078153259861340392",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 964
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078044573712949583",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RatInControl: Scrubbing little rat https://t.co/vZBMt4HL8a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 91,
+          "like_count": 5738,
+          "listed_count": 2,
+          "media_count": 348,
+          "tweet_count": 2888
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T09:30:45.000Z",
+        "description": "ratthew the rat | dm for removal, credit or submission.",
+        "id": "1961723126158397440",
+        "location": "look under your bed ",
+        "name": "Rat",
+        "pinned_tweet_id": "2073421580739162174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050329640502173697/LmVm9UQ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7644,
+          "following_count": 91,
+          "like_count": 6794,
+          "listed_count": 47,
+          "media_count": 1102,
+          "tweet_count": 7277
+        },
+        "url": "",
+        "username": "RatInControl",
+        "verified": true
+      }
+    ]
+  }
+}

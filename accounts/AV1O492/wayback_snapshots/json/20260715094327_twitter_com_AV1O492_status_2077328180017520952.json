@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076913281252696064",
+        "13_2076913288672321536"
+      ],
+      "media_source_tweet_id": [
+        "2076988578119238039",
+        "2076988578119238039"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2077328180017520952",
+    "created_at": "2026-07-15T09:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T10:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077328180017520952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "198072199",
+          "start": 3,
+          "username": "halt_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jZ4XuUn41O",
+          "end": 34,
+          "expanded_url": "https://x.com/halt_/status/2076988578119238039/video/1",
+          "media_key": "13_2076913281252696064",
+          "start": 11,
+          "url": "https://t.co/jZ4XuUn41O"
+        },
+        {
+          "display_url": "pic.x.com/jZ4XuUn41O",
+          "end": 34,
+          "expanded_url": "https://x.com/halt_/status/2076988578119238039/video/1",
+          "media_key": "13_2076913288672321536",
+          "start": 11,
+          "url": "https://t.co/jZ4XuUn41O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077328180017520952",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076988578119238039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @halt_: https://t.co/jZ4XuUn41O"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5000,
+        "height": 720,
+        "media_key": "13_2076913281252696064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076913281252696064/img/Tqkq8RilHNgUzEuf.jpg",
+        "public_metrics": {
+          "view_count": 836
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076913281252696064/vid/avc1/320x320/dn8dpmWFYLKuxJMf.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076913281252696064/vid/avc1/540x540/qRa2DGPBVxuYoInv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076913281252696064/vid/avc1/720x720/xpyuoR015jzXyn6Z.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076913281252696064/pl/xjkXlrU_iVuRpJ9R.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 5000,
+        "height": 720,
+        "media_key": "13_2076913288672321536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076913288672321536/img/T1ag4a7T26OBEYGt.jpg",
+        "public_metrics": {
+          "view_count": 208
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076913288672321536/vid/avc1/320x320/zGYqwDX6cq4x53gZ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076913288672321536/vid/avc1/540x540/GM029l0MdQdeNSeN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076913288672321536/vid/avc1/720x720/Px9s5cwraAeeu3za.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076913288672321536/pl/xCin-hIYoZm1wfzG.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076913281252696064",
+            "13_2076913288672321536"
+          ],
+          "media_source_tweet_id": [
+            "2076988578119238039",
+            "2076988578119238039"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2077328180017520952",
+        "created_at": "2026-07-15T09:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077328180017520952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "198072199",
+              "start": 3,
+              "username": "halt_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jZ4XuUn41O",
+              "end": 34,
+              "expanded_url": "https://x.com/halt_/status/2076988578119238039/video/1",
+              "media_key": "13_2076913281252696064",
+              "start": 11,
+              "url": "https://t.co/jZ4XuUn41O"
+            },
+            {
+              "display_url": "pic.x.com/jZ4XuUn41O",
+              "end": 34,
+              "expanded_url": "https://x.com/halt_/status/2076988578119238039/video/1",
+              "media_key": "13_2076913288672321536",
+              "start": 11,
+              "url": "https://t.co/jZ4XuUn41O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077328180017520952",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076988578119238039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @halt_: https://t.co/jZ4XuUn41O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076913281252696064",
+            "13_2076913288672321536"
+          ]
+        },
+        "author_id": "198072199",
+        "conversation_id": "2076988578119238039",
+        "created_at": "2026-07-14T11:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076988578119238039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jZ4XuUn41O",
+              "end": 23,
+              "expanded_url": "https://x.com/halt_/status/2076988578119238039/video/1",
+              "media_key": "13_2076913281252696064",
+              "start": 0,
+              "url": "https://t.co/jZ4XuUn41O"
+            },
+            {
+              "display_url": "pic.x.com/jZ4XuUn41O",
+              "end": 23,
+              "expanded_url": "https://x.com/halt_/status/2076988578119238039/video/1",
+              "media_key": "13_2076913288672321536",
+              "start": 0,
+              "url": "https://t.co/jZ4XuUn41O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076988578119238039",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 1912,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jZ4XuUn41O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 86,
+          "like_count": 5526,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 2790
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-03T08:08:24.000Z",
+        "description": "こんてん￤20+￤日常とファンアート\n❚ skeb https://t.co/rqFgDpxu7I \n❚ pixiv https://t.co/be6LxAStDp\n絵の無断転載,AI学習禁止",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@halt_",
+                "end": 49,
+                "expanded_url": "https://skeb.jp/@halt_",
+                "start": 26,
+                "url": "https://t.co/rqFgDpxu7I"
+              },
+              {
+                "display_url": "pixiv.net/users/756660",
+                "end": 82,
+                "expanded_url": "https://www.pixiv.net/users/756660",
+                "start": 59,
+                "url": "https://t.co/be6LxAStDp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/konten",
+                "end": 23,
+                "expanded_url": "https://lit.link/konten",
+                "start": 0,
+                "url": "https://t.co/1xTQtIp1la"
+              }
+            ]
+          }
+        },
+        "id": "198072199",
+        "name": "konten",
+        "pinned_tweet_id": "1972626019762024548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1447217745418854405/Cui5BnnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 432,
+          "like_count": 103632,
+          "listed_count": 15,
+          "media_count": 1614,
+          "tweet_count": 53715
+        },
+        "url": "https://t.co/1xTQtIp1la",
+        "username": "halt_",
+        "verified": false
+      }
+    ]
+  }
+}

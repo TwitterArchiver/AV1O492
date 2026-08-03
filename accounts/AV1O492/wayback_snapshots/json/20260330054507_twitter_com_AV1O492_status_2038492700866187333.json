@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2038456753508225124",
+    "created_at": "2026-03-30T05:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T06:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038492700866187333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1414269095416012806",
+          "start": 0,
+          "username": "Coconut_QuQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038492700866187333",
+    "in_reply_to_user_id": "1414269095416012806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038456753508225124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Coconut_QuQ 别说话，继续吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2038456753508225124",
+        "created_at": "2026-03-30T05:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T06:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038492700866187333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1414269095416012806",
+              "start": 0,
+              "username": "Coconut_QuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038492700866187333",
+        "in_reply_to_user_id": "1414269095416012806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038456753508225124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coconut_QuQ 别说话，继续吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2038456753508225124",
+        "created_at": "2026-03-30T03:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T04:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038456753508225124"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038456753508225124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 426,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们真的喜欢我吗😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别把我认成女的 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037442931037032448/I19VSiwU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 71,
+          "like_count": 3481,
+          "listed_count": 2,
+          "media_count": 158,
+          "tweet_count": 1594
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5357,
+          "following_count": 23,
+          "like_count": 65,
+          "listed_count": 11,
+          "media_count": 31,
+          "tweet_count": 48
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

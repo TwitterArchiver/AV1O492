@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2030248605366251520"
+      ],
+      "media_source_tweet_id": [
+        "2030248634197897496"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2035200324336791665",
+    "created_at": "2026-03-21T03:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T04:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035200324336791665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "897758729554231296",
+          "start": 3,
+          "username": "_AlbertWesker"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9E6g2XaZGK",
+          "end": 83,
+          "expanded_url": "https://x.com/_AlbertWesker/status/2030248634197897496/video/1",
+          "media_key": "7_2030248605366251520",
+          "start": 60,
+          "url": "https://t.co/9E6g2XaZGK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035200324336791665",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030248634197897496",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_AlbertWesker: My best friend and me on March 7, 2009 🥀 https://t.co/9E6g2XaZGK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29583,
+        "height": 576,
+        "media_key": "7_2030248605366251520",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2030248605366251520/pu/img/U00HlF6IGTMCF0Fr.jpg",
+        "public_metrics": {
+          "view_count": 4915
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030248605366251520/pu/vid/avc1/480x270/RFbVzIOPcLjJ_RmW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030248605366251520/pu/vid/avc1/640x360/sW7FzIPEIXGtPwQr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030248605366251520/pu/vid/avc1/1024x576/6EWZT_7F-3MpkEt7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2030248605366251520/pu/pl/M5MwqC0FJtPi4OHu.m3u8?tag=12"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2030248605366251520"
+          ],
+          "media_source_tweet_id": [
+            "2030248634197897496"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2035200324336791665",
+        "created_at": "2026-03-21T03:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T04:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035200324336791665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "897758729554231296",
+              "start": 3,
+              "username": "_AlbertWesker"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9E6g2XaZGK",
+              "end": 83,
+              "expanded_url": "https://x.com/_AlbertWesker/status/2030248634197897496/video/1",
+              "media_key": "7_2030248605366251520",
+              "start": 60,
+              "url": "https://t.co/9E6g2XaZGK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035200324336791665",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030248634197897496",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_AlbertWesker: My best friend and me on March 7, 2009 🥀 https://t.co/9E6g2XaZGK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2030248605366251520"
+          ]
+        },
+        "author_id": "897758729554231296",
+        "conversation_id": "2030248634197897496",
+        "created_at": "2026-03-07T11:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T12:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030248634197897496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9E6g2XaZGK",
+              "end": 64,
+              "expanded_url": "https://x.com/_AlbertWesker/status/2030248634197897496/video/1",
+              "media_key": "7_2030248605366251520",
+              "start": 41,
+              "url": "https://t.co/9E6g2XaZGK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030248634197897496",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 9844,
+          "like_count": 532,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "My best friend and me on March 7, 2009 🥀 https://t.co/9E6g2XaZGK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035190295521038336/2S4bIKgB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 61,
+          "like_count": 2461,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1194
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-16T09:55:35.000Z",
+        "description": "#ResidentEvil #AlbertWesker Screenshots, Memes, Edits, Gifs, Spoilers. (RP off) \n┊ᴵ ᵃᵐ ᵃ ᵍᵒᵈᵎ」",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 0,
+                "tag": "ResidentEvil"
+              },
+              {
+                "end": 27,
+                "start": 14,
+                "tag": "AlbertWesker"
+              }
+            ]
+          }
+        },
+        "id": "897758729554231296",
+        "location": "╰ᴬᶰᵈ ᵉᵛᵉᶰ ᵏᶤᶰᵍˢ ᵇᵒʷ ᵗᵒ ᵍᵒᵈˢˑ❱",
+        "name": "Albert Wesker⭑ᴰᵃᶤˡʸ⭑",
+        "pinned_tweet_id": "1871289781369684144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031473520211873792/SBlvX_91_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9547,
+          "following_count": 254,
+          "like_count": 47086,
+          "listed_count": 10,
+          "media_count": 2469,
+          "tweet_count": 10337
+        },
+        "username": "_AlbertWesker",
+        "verified": false
+      }
+    ]
+  }
+}

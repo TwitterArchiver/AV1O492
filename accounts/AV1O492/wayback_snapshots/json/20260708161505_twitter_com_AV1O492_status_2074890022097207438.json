@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2074890022097207438",
+    "created_at": "2026-07-08T16:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T17:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074890022097207438"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AV1O492/status…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/AV1O492/status/2074844494793695656",
+          "start": 13,
+          "url": "https://t.co/m9aOGGSuoG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074890022097207438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074844494793695656",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的完蛋了，我又开始吃了 https://t.co/m9aOGGSuoG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10147,
+        "height": 1280,
+        "media_key": "7_2074844466276605952",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074844466276605952/pu/img/Xy0v71s0ArsOfOmO.jpg",
+        "public_metrics": {
+          "view_count": 53
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074844466276605952/pu/vid/avc1/320x568/NOGs9i8iAiETc2da.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074844466276605952/pu/vid/avc1/480x852/nFKnLGG_fhi2onS8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074844466276605952/pu/vid/avc1/720x1280/7vJJzIXICq4WUs8J.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074844466276605952/pu/pl/-AFPOFjvxKO3Sapu.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2074890022097207438",
+        "created_at": "2026-07-08T16:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074890022097207438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AV1O492/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/AV1O492/status/2074844494793695656",
+              "start": 13,
+              "url": "https://t.co/m9aOGGSuoG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074890022097207438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074844494793695656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的完蛋了，我又开始吃了 https://t.co/m9aOGGSuoG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074844466276605952"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2074844494793695656",
+        "created_at": "2026-07-08T13:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074844494793695656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqzoMM1J58",
+              "end": 43,
+              "expanded_url": "https://x.com/AV1O492/status/2074844494793695656/video/1",
+              "media_key": "7_2074844466276605952",
+              "start": 20,
+              "url": "https://t.co/cqzoMM1J58"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074844494793695656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "POV：我下定决心减肥的0.023秒后 https://t.co/cqzoMM1J58"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 85,
+          "like_count": 5363,
+          "listed_count": 2,
+          "media_count": 330,
+          "tweet_count": 2726
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

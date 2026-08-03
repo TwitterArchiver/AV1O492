@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2047333638237528575",
+    "created_at": "2026-04-23T15:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047333638237528575"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/guangzhouxidu/…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/guangzhouxidu/status/2046259818793664553",
+          "start": 45,
+          "url": "https://t.co/ht2YBxlchn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047333638237528575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046259818793664553",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的，现在大禁用时代与其上黑市花大价钱买自己计量的滥用品还不如攒攒钱买大麻😂zg你就作吧 https://t.co/ht2YBxlchn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2047333638237528575",
+        "created_at": "2026-04-23T15:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047333638237528575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/guangzhouxidu/…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/guangzhouxidu/status/2046259818793664553",
+              "start": 45,
+              "url": "https://t.co/ht2YBxlchn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047333638237528575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046259818793664553",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的，现在大禁用时代与其上黑市花大价钱买自己计量的滥用品还不如攒攒钱买大麻😂zg你就作吧 https://t.co/ht2YBxlchn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032802107745824768",
+        "conversation_id": "2046259818793664553",
+        "created_at": "2026-04-20T16:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046259818793664553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/binbin77930833…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/binbin77930833/status/2046188444905595350",
+              "start": 14,
+              "url": "https://t.co/rs9hJ4RW2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046259818793664553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 28703,
+          "like_count": 259,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046188444905595350",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "停止od，即将开启大麻时代 https://t.co/rs9hJ4RW2D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047320949570277376/ns1syjsj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 69,
+          "like_count": 3647,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 1702
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T12:53:56.000Z",
+        "description": "广州市吸毒局吸毒支队官方推特号，药圈民办派出所 私信常开，接受投稿 报案，不出售任何产品，谨防骗子，反诈安全宣传一刻不容停息，关注局长 防范骗局",
+        "id": "2032802107745824768",
+        "name": "广州吸毒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032802565499637760/AQs27st5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 34,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 58
+        },
+        "username": "guangzhouxidu",
+        "verified": false
+      }
+    ]
+  }
+}

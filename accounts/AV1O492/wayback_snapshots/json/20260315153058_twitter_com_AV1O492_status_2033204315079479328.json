@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2033204315079479328",
+    "created_at": "2026-03-15T15:30:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T16:30:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033204315079479328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816489710682030080",
+          "start": 3,
+          "username": "keaiiea"
+        },
+        {
+          "end": 21,
+          "id": "1917890381104271361",
+          "start": 13,
+          "username": "AV1O492"
+        }
+      ],
+      "urls": [
+        {
+          "description": "https://www.tiktok.com/@goblinanimation/video/6943487128902946050?is_copy_url=1&is_from_webapp=v1&q=hamood&t=1639699335592正放版本tiktok @goblinanimation 哈姆哈姆哈比霞, 视频播放量 600728、弹幕量 1052、点赞数 9236、投硬币枚数 500、收藏人数 4799、转发人数 5885, 视频作者 雷菲玲寝夸火莲, 作者简介 ，相关视频：哈姆丁真，哈姆风暴，哈姆触手古神 GB素材，哈姆OTTO爆史，申鹤与哈姆的危险派对【MMD危险派对】，男士秋冬瘦衣推荐♿，哈姆打金服，暗网特供治愈视频，哈姆食道理，百日则肥白，DJGun中之人翻唱哈姆之歌怒跳hamood habibi，哈姆村被毁灭",
+          "display_url": "b23.tv/L6d8Trn",
+          "end": 57,
+          "expanded_url": "https://b23.tv/L6d8Trn",
+          "images": [
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/2033196184601509888/gJoqHvAt?format=png&name=orig",
+              "width": 100
+            },
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/2033196184601509888/gJoqHvAt?format=png&name=150x150",
+              "width": 100
+            }
+          ],
+          "start": 34,
+          "status": 200,
+          "title": "哈姆爆史_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV19i4y1d7z7/?buvid=Y84F1B894EC548F54EB6B17BD9F54EBEF6EC&from_spmid=search.search-result.0.0&is_story_h5=false&mid=HbSPY7IrFHktyJUZi%2BLvQQ%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=15BDCCF4-42E5-4AD1-BED8-FB33BBDA8B0E&share_source=COPY&share_tag=s_i&timestamp=1773586677&unique_k=L6d8Trn&up_id=303256856",
+          "url": "https://t.co/pfu4b83ax8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033204315079479328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033196119870820843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @keaiiea: @AV1O492 【哈姆爆史-哔哩哔哩】 https://t.co/pfu4b83ax8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2033204315079479328",
+        "created_at": "2026-03-15T15:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033204315079479328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816489710682030080",
+              "start": 3,
+              "username": "keaiiea"
+            },
+            {
+              "end": 21,
+              "id": "1917890381104271361",
+              "start": 13,
+              "username": "AV1O492"
+            }
+          ],
+          "urls": [
+            {
+              "description": "https://www.tiktok.com/@goblinanimation/video/6943487128902946050?is_copy_url=1&is_from_webapp=v1&q=hamood&t=1639699335592正放版本tiktok @goblinanimation 哈姆哈姆哈比霞, 视频播放量 600728、弹幕量 1052、点赞数 9236、投硬币枚数 500、收藏人数 4799、转发人数 5885, 视频作者 雷菲玲寝夸火莲, 作者简介 ，相关视频：哈姆丁真，哈姆风暴，哈姆触手古神 GB素材，哈姆OTTO爆史，申鹤与哈姆的危险派对【MMD危险派对】，男士秋冬瘦衣推荐♿，哈姆打金服，暗网特供治愈视频，哈姆食道理，百日则肥白，DJGun中之人翻唱哈姆之歌怒跳hamood habibi，哈姆村被毁灭",
+              "display_url": "b23.tv/L6d8Trn",
+              "end": 57,
+              "expanded_url": "https://b23.tv/L6d8Trn",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2033196184601509888/gJoqHvAt?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2033196184601509888/gJoqHvAt?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 34,
+              "status": 200,
+              "title": "哈姆爆史_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV19i4y1d7z7/?buvid=Y84F1B894EC548F54EB6B17BD9F54EBEF6EC&from_spmid=search.search-result.0.0&is_story_h5=false&mid=HbSPY7IrFHktyJUZi%2BLvQQ%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=15BDCCF4-42E5-4AD1-BED8-FB33BBDA8B0E&share_source=COPY&share_tag=s_i&timestamp=1773586677&unique_k=L6d8Trn&up_id=303256856",
+              "url": "https://t.co/pfu4b83ax8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033204315079479328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033196119870820843",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @keaiiea: @AV1O492 【哈姆爆史-哔哩哔哩】 https://t.co/pfu4b83ax8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816489710682030080",
+        "conversation_id": "2033140037614006753",
+        "created_at": "2026-03-15T14:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T15:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033196119870820843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ],
+          "urls": [
+            {
+              "description": "https://www.tiktok.com/@goblinanimation/video/6943487128902946050?is_copy_url=1&is_from_webapp=v1&q=hamood&t=1639699335592正放版本tiktok @goblinanimation 哈姆哈姆哈比霞, 视频播放量 600728、弹幕量 1052、点赞数 9236、投硬币枚数 500、收藏人数 4799、转发人数 5885, 视频作者 雷菲玲寝夸火莲, 作者简介 ，相关视频：哈姆丁真，哈姆风暴，哈姆触手古神 GB素材，哈姆OTTO爆史，申鹤与哈姆的危险派对【MMD危险派对】，男士秋冬瘦衣推荐♿，哈姆打金服，暗网特供治愈视频，哈姆食道理，百日则肥白，DJGun中之人翻唱哈姆之歌怒跳hamood habibi，哈姆村被毁灭",
+              "display_url": "b23.tv/L6d8Trn",
+              "end": 44,
+              "expanded_url": "https://b23.tv/L6d8Trn",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2033196184601509888/gJoqHvAt?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2033196184601509888/gJoqHvAt?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "哈姆爆史_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV19i4y1d7z7/?buvid=Y84F1B894EC548F54EB6B17BD9F54EBEF6EC&from_spmid=search.search-result.0.0&is_story_h5=false&mid=HbSPY7IrFHktyJUZi%2BLvQQ%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=15BDCCF4-42E5-4AD1-BED8-FB33BBDA8B0E&share_source=COPY&share_tag=s_i&timestamp=1773586677&unique_k=L6d8Trn&up_id=303256856",
+              "url": "https://t.co/pfu4b83ax8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033196119870820843",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033193570237305036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 【哈姆爆史-哔哩哔哩】 https://t.co/pfu4b83ax8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032797382296166400/85J_f9jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 46,
+          "like_count": 2016,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1055
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T15:04:46.000Z",
+        "description": "我是jonas",
+        "id": "1816489710682030080",
+        "name": "人生有梦磕药撸管886",
+        "pinned_tweet_id": "1983196415313752421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983194484243640320/zM9EhOUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 381,
+          "like_count": 22762,
+          "listed_count": 0,
+          "media_count": 264,
+          "tweet_count": 1723
+        },
+        "username": "keaiiea",
+        "verified": false
+      }
+    ]
+  }
+}

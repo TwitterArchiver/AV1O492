@@ -1,0 +1,484 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077462822506971136"
+      ],
+      "media_source_tweet_id": [
+        "2077462830882951339"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2078017346976022696",
+    "created_at": "2026-07-17T07:21:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T08:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078017346976022696"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 13,
+          "tag": "dmc"
+        },
+        {
+          "end": 24,
+          "start": 18,
+          "tag": "dmcdv"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2013258168764112896",
+          "start": 3,
+          "username": "Murt_ko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RN70wBaFPZ",
+          "end": 83,
+          "expanded_url": "https://x.com/Murt_ko/status/2077462830882951339/photo/1",
+          "media_key": "3_2077462822506971136",
+          "start": 60,
+          "url": "https://t.co/RN70wBaFPZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078017346976022696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077462830882951339",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Murt_ko: #dmc #dmcdv \n【罪与爱同歌】\n\n算是跟列表的py，3d5v～\n也祝自己生日快乐🥰 https://t.co/RN70wBaFPZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2893,
+        "media_key": "3_2077462822506971136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNShbiGbwAAp2dQ.jpg",
+        "width": 1929
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077462822506971136"
+          ]
+        },
+        "author_id": "2013258168764112896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2077462830882951339",
+        "created_at": "2026-07-15T18:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T19:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077462830882951339"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "dmc"
+            },
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "dmcdv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RN70wBaFPZ",
+              "end": 70,
+              "expanded_url": "https://x.com/Murt_ko/status/2077462830882951339/photo/1",
+              "media_key": "3_2077462822506971136",
+              "start": 47,
+              "url": "https://t.co/RN70wBaFPZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077462830882951339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 2611,
+          "like_count": 257,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "#dmc #dmcdv \n【罪与爱同歌】\n\n算是跟列表的py，3d5v～\n也祝自己生日快乐🥰 https://t.co/RN70wBaFPZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077462822506971136"
+          ],
+          "media_source_tweet_id": [
+            "2077462830882951339"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2078017346976022696",
+        "created_at": "2026-07-17T07:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078017346976022696"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "dmc"
+            },
+            {
+              "end": 24,
+              "start": 18,
+              "tag": "dmcdv"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2013258168764112896",
+              "start": 3,
+              "username": "Murt_ko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RN70wBaFPZ",
+              "end": 83,
+              "expanded_url": "https://x.com/Murt_ko/status/2077462830882951339/photo/1",
+              "media_key": "3_2077462822506971136",
+              "start": 60,
+              "url": "https://t.co/RN70wBaFPZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078017346976022696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077462830882951339",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Murt_ko: #dmc #dmcdv \n【罪与爱同歌】\n\n算是跟列表的py，3d5v～\n也祝自己生日快乐🥰 https://t.co/RN70wBaFPZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 90,
+          "like_count": 5667,
+          "listed_count": 2,
+          "media_count": 344,
+          "tweet_count": 2860
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T14:32:15.000Z",
+        "description": "19｜ DMCDV❤️💙🔁❌❌❌+ NK｜ 中文/EN👌｜🔕低浮上",
+        "id": "2013258168764112896",
+        "location": "=小顾",
+        "name": "红墓市鳏夫",
+        "pinned_tweet_id": "2038250772253860010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071648889938354176/3a_ZI8qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 52,
+          "like_count": 2171,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1068
+        },
+        "url": "",
+        "username": "Murt_ko",
+        "verified": false
+      }
+    ]
+  }
+}

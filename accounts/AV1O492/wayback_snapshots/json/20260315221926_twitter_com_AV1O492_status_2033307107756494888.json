@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2033307107756494888",
+    "created_at": "2026-03-15T22:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T23:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033307107756494888"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/voidslits/stat…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/voidslits/status/2016943848698892318",
+          "start": 18,
+          "url": "https://t.co/bdAqWiqIGk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033307107756494888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016943848698892318",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在线等一个可以跟我换这对头像的女孩 https://t.co/bdAqWiqIGk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2016943845322477568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_2fvbhbUAAoNPa.jpg",
+        "width": 736
+      },
+      {
+        "height": 736,
+        "media_key": "3_2016943844596862977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_2fvY0bUAEIZJA.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2033307107756494888",
+        "created_at": "2026-03-15T22:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T23:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033307107756494888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/voidslits/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/voidslits/status/2016943848698892318",
+              "start": 18,
+              "url": "https://t.co/bdAqWiqIGk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033307107756494888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016943848698892318",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在线等一个可以跟我换这对头像的女孩 https://t.co/bdAqWiqIGk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016943845322477568",
+            "3_2016943844596862977"
+          ]
+        },
+        "author_id": "1810796843338805248",
+        "conversation_id": "2016943848698892318",
+        "created_at": "2026-01-29T18:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T19:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016943848698892318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KPzkK7ygyk",
+              "end": 71,
+              "expanded_url": "https://x.com/voidslits/status/2016943848698892318/photo/1",
+              "media_key": "3_2016943845322477568",
+              "start": 48,
+              "url": "https://t.co/KPzkK7ygyk"
+            },
+            {
+              "display_url": "pic.x.com/KPzkK7ygyk",
+              "end": 71,
+              "expanded_url": "https://x.com/voidslits/status/2016943848698892318/photo/1",
+              "media_key": "3_2016943844596862977",
+              "start": 48,
+              "url": "https://t.co/KPzkK7ygyk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016943848698892318",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 44564,
+          "like_count": 1886,
+          "quote_count": 11,
+          "reply_count": 5,
+          "retweet_count": 278
+        },
+        "reply_settings": "everyone",
+        "text": "they are the definition of bisexual panic to me https://t.co/KPzkK7ygyk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032834020783042597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032797382296166400/85J_f9jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 53,
+          "like_count": 2069,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1078
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T22:03:19.000Z",
+        "description": "M-R-S dot kennedy 𝜗ৎ ic: aeonlocket",
+        "id": "1810796843338805248",
+        "location": "20 | she/her | sb to unfollow",
+        "name": "tifa",
+        "pinned_tweet_id": "2028079807435821253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033235458273234944/SGHc_TCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5990,
+          "following_count": 3406,
+          "like_count": 12119,
+          "listed_count": 25,
+          "media_count": 5119,
+          "tweet_count": 11774
+        },
+        "username": "voidslits",
+        "verified": false
+      }
+    ]
+  }
+}

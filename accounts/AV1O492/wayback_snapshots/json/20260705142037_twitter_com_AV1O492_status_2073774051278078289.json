@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073774048350527489"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2073774051278078289",
+    "created_at": "2026-07-05T14:20:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073774051278078289"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h52Mra12xg",
+          "end": 52,
+          "expanded_url": "https://x.com/AV1O492/status/2073774051278078289/photo/1",
+          "media_key": "3_2073774048350527489",
+          "start": 29,
+          "url": "https://t.co/h52Mra12xg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073774051278078289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的电子绘板坏了所以我现在只能用铅笔和纸画Dante😭😭 https://t.co/h52Mra12xg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2073774048350527489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeGgnhbYAE4bnD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073774048350527489"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2073774051278078289",
+        "created_at": "2026-07-05T14:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073774051278078289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h52Mra12xg",
+              "end": 52,
+              "expanded_url": "https://x.com/AV1O492/status/2073774051278078289/photo/1",
+              "media_key": "3_2073774048350527489",
+              "start": 29,
+              "url": "https://t.co/h52Mra12xg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073774051278078289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的电子绘板坏了所以我现在只能用铅笔和纸画Dante😭😭 https://t.co/h52Mra12xg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Temen-ni-gru Tower",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 83,
+          "like_count": 5063,
+          "listed_count": 2,
+          "media_count": 315,
+          "tweet_count": 2592
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

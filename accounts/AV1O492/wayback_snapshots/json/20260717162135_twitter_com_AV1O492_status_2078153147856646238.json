@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2078153147856646238",
+    "created_at": "2026-07-17T16:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T17:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078153147856646238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2058029942198374400",
+          "start": 3,
+          "username": "yudia666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078153147856646238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077678238621692333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yudia666: 别人:加巴喷丁类 右美沙芬 苯二氮卓类 读品\n我:感康 胶水 碘伏 淀粉片\n就很😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2078153147856646238",
+        "created_at": "2026-07-17T16:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078153147856646238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2058029942198374400",
+              "start": 3,
+              "username": "yudia666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078153147856646238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077678238621692333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yudia666: 别人:加巴喷丁类 右美沙芬 苯二氮卓类 读品\n我:感康 胶水 碘伏 淀粉片\n就很😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058029942198374400",
+        "conversation_id": "2077678238621692333",
+        "created_at": "2026-07-16T08:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077678238621692333"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077678238621692333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5000,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 52,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "别人:加巴喷丁类 右美沙芬 苯二氮卓类 读品\n我:感康 胶水 碘伏 淀粉片\n就很😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 91,
+          "like_count": 5737,
+          "listed_count": 2,
+          "media_count": 348,
+          "tweet_count": 2887
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T03:39:58.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者 148",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuda21436",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuda21436",
+                "start": 0,
+                "url": "https://t.co/BUKnKIH0FA"
+              }
+            ]
+          }
+        },
+        "id": "2058029942198374400",
+        "location": "القاعدة العامة للدولة الإسلامي",
+        "name": "𝖞𝖚𝖉𝖆",
+        "pinned_tweet_id": "2071924273778921875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068942921869758464/UJ-J2j84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 161,
+          "like_count": 16344,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1557
+        },
+        "url": "https://t.co/BUKnKIH0FA",
+        "username": "yudia666",
+        "verified": false
+      }
+    ]
+  }
+}

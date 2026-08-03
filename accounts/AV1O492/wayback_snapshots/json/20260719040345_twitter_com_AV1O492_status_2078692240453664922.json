@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078608515833208832"
+      ],
+      "media_source_tweet_id": [
+        "2078608541540044800"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2078692240453664922",
+    "created_at": "2026-07-19T04:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T05:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078692240453664922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1890152730015997953",
+          "start": 3,
+          "username": "DMC_ate_SECSO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u3wmMD0UIO",
+          "end": 50,
+          "expanded_url": "https://x.com/DMC_ate_SECSO/status/2078608541540044800/video/1",
+          "media_key": "13_2078608515833208832",
+          "start": 27,
+          "url": "https://t.co/u3wmMD0UIO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078692240453664922",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078608541540044800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DMC_ate_SECSO: Dia 511 https://t.co/u3wmMD0UIO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6600,
+        "height": 720,
+        "media_key": "13_2078608515833208832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078608515833208832/img/64ZkWnMj4Ell-ptv.jpg",
+        "public_metrics": {
+          "view_count": 318
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078608515833208832/vid/avc1/320x320/nWiyuroZCRQQLGUQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078608515833208832/vid/avc1/540x540/zULQQ2w8Ii5EMRh5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078608515833208832/vid/avc1/720x720/xFUe-waigOPExVJj.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078608515833208832/pl/bUmzUSXf7LlaaOjQ.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078608515833208832"
+          ]
+        },
+        "author_id": "1890152730015997953",
+        "conversation_id": "2078608541540044800",
+        "created_at": "2026-07-18T22:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T23:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078608541540044800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u3wmMD0UIO",
+              "end": 31,
+              "expanded_url": "https://x.com/DMC_ate_SECSO/status/2078608541540044800/video/1",
+              "media_key": "13_2078608515833208832",
+              "start": 8,
+              "url": "https://t.co/u3wmMD0UIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078608541540044800",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 632,
+          "like_count": 58,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "Dia 511 https://t.co/u3wmMD0UIO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078608515833208832"
+          ],
+          "media_source_tweet_id": [
+            "2078608541540044800"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2078692240453664922",
+        "created_at": "2026-07-19T04:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078692240453664922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1890152730015997953",
+              "start": 3,
+              "username": "DMC_ate_SECSO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u3wmMD0UIO",
+              "end": 50,
+              "expanded_url": "https://x.com/DMC_ate_SECSO/status/2078608541540044800/video/1",
+              "media_key": "13_2078608515833208832",
+              "start": 27,
+              "url": "https://t.co/u3wmMD0UIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078692240453664922",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078608541540044800",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DMC_ate_SECSO: Dia 511 https://t.co/u3wmMD0UIO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 89,
+          "like_count": 5819,
+          "listed_count": 2,
+          "media_count": 354,
+          "tweet_count": 2918
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T21:35:23.000Z",
+        "description": "eu sei oq secso é\nmas eu não vou contar\n\nadm: @gbrlfdelta_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "gbrlfdelta_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/0SyGABrtiz8?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/0SyGABrtiz8?si=H32Ze68DH_yBKNHK",
+                "start": 0,
+                "url": "https://t.co/bHlIcuhSTq"
+              }
+            ]
+          }
+        },
+        "id": "1890152730015997953",
+        "location": "Redgrave",
+        "name": "DMC até secso (👿😭 até 🍆💦)",
+        "pinned_tweet_id": "2078608541540044800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004449054806208512/TXD-m1bV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 288,
+          "like_count": 52707,
+          "listed_count": 0,
+          "media_count": 6723,
+          "tweet_count": 17032
+        },
+        "url": "https://t.co/bHlIcuhSTq",
+        "username": "DMC_ate_SECSO",
+        "verified": false
+      }
+    ]
+  }
+}

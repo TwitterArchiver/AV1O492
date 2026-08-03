@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2071840982640021656",
+    "created_at": "2026-07-01T11:36:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T12:36:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072283117466059008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2069435494837149696",
+          "start": 0,
+          "username": "0fky1xl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072283117466059008",
+    "in_reply_to_user_id": "2069435494837149696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071840982640021656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0fky1xl 哥特风太好了……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071840970497241088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCoYrWWsAA5q8S.jpg",
+        "width": 1576
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071840970476314624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCoYrRXYAAMLk0.jpg",
+        "width": 1576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2071840982640021656",
+        "created_at": "2026-07-01T11:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T12:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072283117466059008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2069435494837149696",
+              "start": 0,
+              "username": "0fky1xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072283117466059008",
+        "in_reply_to_user_id": "2069435494837149696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071840982640021656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0fky1xl 哥特风太好了……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071840970497241088",
+            "3_2071840970476314624"
+          ]
+        },
+        "author_id": "2069435494837149696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071840982640021656",
+        "created_at": "2026-06-30T06:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T07:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071840982640021656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mYiSJKaDl8",
+              "end": 53,
+              "expanded_url": "https://x.com/0fky1xl/status/2071840982640021656/photo/1",
+              "media_key": "3_2071840970497241088",
+              "start": 30,
+              "url": "https://t.co/mYiSJKaDl8"
+            },
+            {
+              "display_url": "pic.x.com/mYiSJKaDl8",
+              "end": 53,
+              "expanded_url": "https://x.com/0fky1xl/status/2071840982640021656/photo/1",
+              "media_key": "3_2071840970476314624",
+              "start": 30,
+              "url": "https://t.co/mYiSJKaDl8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071840982640021656",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 172,
+          "impression_count": 13694,
+          "like_count": 1448,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 208
+        },
+        "reply_settings": "everyone",
+        "text": "IV II\nI’ll redraw them later… https://t.co/mYiSJKaDl8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll｜别找我要东西和渠道｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1323,
+          "following_count": 77,
+          "like_count": 4585,
+          "listed_count": 1,
+          "media_count": 287,
+          "tweet_count": 2356
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-23T15:02:54.000Z",
+        "description": "",
+        "id": "2069435494837149696",
+        "name": "𝕾𝕻𝕰𝕮𝕿𝕽𝕰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071791436761346049/humCeMRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 16,
+          "like_count": 98,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "0fky1xl",
+        "verified": false
+      }
+    ]
+  }
+}

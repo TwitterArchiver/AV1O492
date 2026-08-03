@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2074781626622767215",
+    "created_at": "2026-07-09T12:45:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:45:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075199564035067914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1983366968985190400",
+          "start": 0,
+          "username": "Freyearn0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075199564035067914",
+    "in_reply_to_user_id": "1983366968985190400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074781626622767215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Freyearn0 这种主页没内容的三无账号，千万不要相信啊，宝宝们"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074781616904540160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsa404bEAATA0I.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074781616854175744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsa40sakAATD5M.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2074781626622767215",
+        "created_at": "2026-07-09T12:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075199564035067914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1983366968985190400",
+              "start": 0,
+              "username": "Freyearn0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075199564035067914",
+        "in_reply_to_user_id": "1983366968985190400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074781626622767215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freyearn0 这种主页没内容的三无账号，千万不要相信啊，宝宝们"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074781616904540160",
+            "3_2074781616854175744"
+          ]
+        },
+        "author_id": "1983366968985190400",
+        "conversation_id": "2074781626622767215",
+        "created_at": "2026-07-08T09:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074781626622767215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ThNTIADW5K",
+              "end": 50,
+              "expanded_url": "https://x.com/Freyearn0/status/2074781626622767215/photo/1",
+              "media_key": "3_2074781616904540160",
+              "start": 27,
+              "url": "https://t.co/ThNTIADW5K"
+            },
+            {
+              "display_url": "pic.x.com/ThNTIADW5K",
+              "end": 50,
+              "expanded_url": "https://x.com/Freyearn0/status/2074781626622767215/photo/1",
+              "media_key": "3_2074781616854175744",
+              "start": 27,
+              "url": "https://t.co/ThNTIADW5K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074781626622767215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7928,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "这个是是买药的骗子，pr ym都不要买，给你养肥了杀 https://t.co/ThNTIADW5K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 86,
+          "like_count": 5396,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 2747
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T02:55:18.000Z",
+        "description": "",
+        "id": "1983366968985190400",
+        "name": "aad",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042699072042315776/gsbT67AL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 4,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "Freyearn0",
+        "verified": false
+      }
+    ]
+  }
+}

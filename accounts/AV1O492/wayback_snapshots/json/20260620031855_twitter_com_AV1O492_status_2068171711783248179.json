@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068038944684494848"
+      ],
+      "media_source_tweet_id": [
+        "2068038948358586618"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2068171711783248179",
+    "created_at": "2026-06-20T03:18:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T04:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068171711783248179"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 18,
+          "tag": "postal1997"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1825074575270350848",
+          "start": 3,
+          "username": "HhTuman90139"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7zdrk10aT8",
+          "end": 53,
+          "expanded_url": "https://x.com/HhTuman90139/status/2068038948358586618/photo/1",
+          "media_key": "3_2068038944684494848",
+          "start": 30,
+          "url": "https://t.co/7zdrk10aT8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068171711783248179",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 210
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068038948358586618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HhTuman90139: #postal1997 https://t.co/7zdrk10aT8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2149,
+        "media_key": "3_2068038944684494848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMmdpeX0AAELHU.jpg",
+        "width": 1804
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068038944684494848"
+          ],
+          "media_source_tweet_id": [
+            "2068038948358586618"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2068171711783248179",
+        "created_at": "2026-06-20T03:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T04:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068171711783248179"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 18,
+              "tag": "postal1997"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1825074575270350848",
+              "start": 3,
+              "username": "HhTuman90139"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7zdrk10aT8",
+              "end": 53,
+              "expanded_url": "https://x.com/HhTuman90139/status/2068038948358586618/photo/1",
+              "media_key": "3_2068038944684494848",
+              "start": 30,
+              "url": "https://t.co/7zdrk10aT8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068171711783248179",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 210
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068038948358586618",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HhTuman90139: #postal1997 https://t.co/7zdrk10aT8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068038944684494848"
+          ]
+        },
+        "author_id": "1825074575270350848",
+        "conversation_id": "2068038948358586618",
+        "created_at": "2026-06-19T18:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068038948358586618"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "postal1997"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7zdrk10aT8",
+              "end": 35,
+              "expanded_url": "https://x.com/HhTuman90139/status/2068038948358586618/photo/1",
+              "media_key": "3_2068038944684494848",
+              "start": 12,
+              "url": "https://t.co/7zdrk10aT8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068038948358586618",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 5487,
+          "like_count": 993,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 210
+        },
+        "reply_settings": "everyone",
+        "text": "#postal1997 https://t.co/7zdrk10aT8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜皮下真名但丁斯巴达实名冲浪｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068158408487014400/3eqb45Ho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 71,
+          "like_count": 4167,
+          "listed_count": 2,
+          "media_count": 248,
+          "tweet_count": 2115
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T07:37:55.000Z",
+        "description": "epic",
+        "id": "1825074575270350848",
+        "name": "kiwiman 🩸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068038846466379776/0WdiWzxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1650,
+          "following_count": 12,
+          "like_count": 1759,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 132
+        },
+        "url": "",
+        "username": "HhTuman90139",
+        "verified": false
+      }
+    ]
+  }
+}

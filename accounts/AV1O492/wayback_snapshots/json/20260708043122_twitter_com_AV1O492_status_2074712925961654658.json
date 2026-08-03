@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074532073403248640"
+      ],
+      "media_source_tweet_id": [
+        "2074532093112254672"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2074712925961654658",
+    "created_at": "2026-07-08T04:31:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T05:31:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074712925961654658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1933200730443415552",
+          "start": 3,
+          "username": "nothingnes74306"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FZgHcCsdfj",
+          "end": 44,
+          "expanded_url": "https://x.com/nothingnes74306/status/2074532093112254672/photo/1",
+          "media_key": "3_2074532073403248640",
+          "start": 21,
+          "url": "https://t.co/FZgHcCsdfj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074712925961654658",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074532093112254672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nothingnes74306: https://t.co/FZgHcCsdfj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2074532073403248640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMo37e5a8AAY3jF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074532073403248640"
+          ],
+          "media_source_tweet_id": [
+            "2074532093112254672"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2074712925961654658",
+        "created_at": "2026-07-08T04:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074712925961654658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1933200730443415552",
+              "start": 3,
+              "username": "nothingnes74306"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FZgHcCsdfj",
+              "end": 44,
+              "expanded_url": "https://x.com/nothingnes74306/status/2074532093112254672/photo/1",
+              "media_key": "3_2074532073403248640",
+              "start": 21,
+              "url": "https://t.co/FZgHcCsdfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074712925961654658",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074532093112254672",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nothingnes74306: https://t.co/FZgHcCsdfj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074532073403248640"
+          ]
+        },
+        "author_id": "1933200730443415552",
+        "conversation_id": "2074532093112254672",
+        "created_at": "2026-07-07T16:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074532093112254672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FZgHcCsdfj",
+              "end": 23,
+              "expanded_url": "https://x.com/nothingnes74306/status/2074532093112254672/photo/1",
+              "media_key": "3_2074532073403248640",
+              "start": 0,
+              "url": "https://t.co/FZgHcCsdfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074532093112254672",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FZgHcCsdfj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1412,
+          "following_count": 85,
+          "like_count": 5255,
+          "listed_count": 2,
+          "media_count": 325,
+          "tweet_count": 2674
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T16:33:06.000Z",
+        "description": "trust no one",
+        "id": "1933200730443415552",
+        "name": "nothingness",
+        "pinned_tweet_id": "2043580945433854076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996409076876476416/kYNAR_lU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 107,
+          "like_count": 7346,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 744
+        },
+        "url": "",
+        "username": "nothingnes74306",
+        "verified": false
+      }
+    ]
+  }
+}

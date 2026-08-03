@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2071133713833070744",
+    "created_at": "2026-06-28T08:16:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T09:16:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071145757730910612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053440124856467456",
+          "start": 0,
+          "username": "ZOMBIEKING1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071145757730910612",
+    "in_reply_to_user_id": "2053440124856467456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071133713833070744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZOMBIEKING1111 太可爱嘞兄弟。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1318,
+        "media_key": "3_2071133706572746752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4lIf6bUAAX0EM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 796,
+        "media_key": "3_2071133706589515777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4lIf-bMAENaPv.jpg",
+        "width": 722
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2071133713833070744",
+        "created_at": "2026-06-28T08:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071145757730910612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053440124856467456",
+              "start": 0,
+              "username": "ZOMBIEKING1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071145757730910612",
+        "in_reply_to_user_id": "2053440124856467456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071133713833070744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZOMBIEKING1111 太可爱嘞兄弟。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071133706572746752",
+            "3_2071133706589515777"
+          ]
+        },
+        "author_id": "2053440124856467456",
+        "conversation_id": "2071133713833070744",
+        "created_at": "2026-06-28T07:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071133713833070744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7QCjZsbZsu",
+              "end": 23,
+              "expanded_url": "https://x.com/ZOMBIEKING1111/status/2071133713833070744/photo/1",
+              "media_key": "3_2071133706572746752",
+              "start": 0,
+              "url": "https://t.co/7QCjZsbZsu"
+            },
+            {
+              "display_url": "pic.x.com/7QCjZsbZsu",
+              "end": 23,
+              "expanded_url": "https://x.com/ZOMBIEKING1111/status/2071133713833070744/photo/1",
+              "media_key": "3_2071133706589515777",
+              "start": 0,
+              "url": "https://t.co/7QCjZsbZsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071133713833070744",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7QCjZsbZsu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜皮下真名但丁斯巴达实名冲浪｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071108900422926336/3klYl-Rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 74,
+          "like_count": 4272,
+          "listed_count": 2,
+          "media_count": 259,
+          "tweet_count": 2180
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T11:41:01.000Z",
+        "description": "od/shtwt king of the earth he/him\n专心过好自己的唐人生活\n我是天选，也是唯一",
+        "id": "2053440124856467456",
+        "name": "自在极意豪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066772444346499072/A-MyxOhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 44,
+          "like_count": 894,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 475
+        },
+        "url": "",
+        "username": "ZOMBIEKING1111",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2063974833545781426",
+    "created_at": "2026-07-03T19:18:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T20:18:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073124276006498467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1894353617945059328",
+          "start": 0,
+          "username": "SDGVA23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073124276006498467",
+    "in_reply_to_user_id": "1894353617945059328",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063974833545781426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SDGVA23 SOOOO CUTEE！！！🥹🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 85774,
+        "height": 1080,
+        "media_key": "7_2063974737911439360",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063974737911439360/pu/img/9GhBloL_idxC52FV.jpg",
+        "public_metrics": {
+          "view_count": 373
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063974737911439360/pu/vid/avc1/320x320/cMQevsYazscaBjd6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063974737911439360/pu/pl/XL25fR-uozkr7Tx4.m3u8"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063974737911439360/pu/vid/avc1/720x720/Req_ZM75N6hyrgLY.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063974737911439360/pu/vid/avc1/540x540/0Ar-KSJ0CfVpyQA7.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063974737911439360/pu/vid/avc1/1080x1080/1Wp_9OrJlL6q-Eoi.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2063974833545781426",
+        "created_at": "2026-07-03T19:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T20:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073124276006498467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894353617945059328",
+              "start": 0,
+              "username": "SDGVA23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073124276006498467",
+        "in_reply_to_user_id": "1894353617945059328",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063974833545781426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SDGVA23 SOOOO CUTEE！！！🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063974737911439360"
+          ]
+        },
+        "author_id": "1894353617945059328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2063974833545781426",
+        "created_at": "2026-06-08T13:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063974833545781426"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 211,
+              "start": 204,
+              "tag": "Vergil"
+            },
+            {
+              "end": 224,
+              "start": 212,
+              "tag": "DevilMayCry"
+            },
+            {
+              "end": 230,
+              "start": 225,
+              "tag": "DMC3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iqn0kC7Sh3",
+              "end": 254,
+              "expanded_url": "https://x.com/SDGVA23/status/2063974833545781426/video/1",
+              "media_key": "7_2063974737911439360",
+              "start": 231,
+              "url": "https://t.co/iqn0kC7Sh3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063974833545781426",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 1376,
+          "like_count": 76,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "🤘🏻A Freedom and a quest for life,\nUntil the end of Judgment Night,\nWatch the footsteps, but never follow,\nIf you want to live tomorrow,\nSteel a soul for a second chance,\nBut you will never become a man.\n\n#Vergil #DevilMayCry #DMC3 https://t.co/iqn0kC7Sh3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Temen-ni-gru Tower",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1358,
+          "following_count": 82,
+          "like_count": 4912,
+          "listed_count": 2,
+          "media_count": 301,
+          "tweet_count": 2499
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T11:48:16.000Z",
+        "description": "🕹️ Advocate of Vergil/Dragunov/M.Bison for 20+ years| I wrote a crossover (DMC x Tekken x SF)|My words cut like Yamato. Vergil x OC since 2005 (not a selfship)",
+        "id": "1894353617945059328",
+        "location": "Siberia, Shadaloo & DMC Agency",
+        "name": "DragunovArt 🫡 S.Dragunov player since 2006",
+        "pinned_tweet_id": "2055968278384619739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070026530260922368/KRBxlXyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 744,
+          "like_count": 80727,
+          "listed_count": 3,
+          "media_count": 3367,
+          "tweet_count": 15793
+        },
+        "url": "",
+        "username": "SDGVA23",
+        "verified": true
+      }
+    ]
+  }
+}

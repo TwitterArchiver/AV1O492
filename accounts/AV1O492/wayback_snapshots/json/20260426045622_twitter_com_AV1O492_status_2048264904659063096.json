@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2048263685484036194",
+    "created_at": "2026-04-26T04:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T05:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048264904659063096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1750040441880498176",
+          "start": 0,
+          "username": "kill_this_hate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048264904659063096",
+    "in_reply_to_user_id": "1750040441880498176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048263685484036194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kill_this_hate 我去你手好巧啊！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048263680882847744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzk9zFbMAAQNsH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2048263685484036194",
+        "created_at": "2026-04-26T04:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048264904659063096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1750040441880498176",
+              "start": 0,
+              "username": "kill_this_hate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048264904659063096",
+        "in_reply_to_user_id": "1750040441880498176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048263685484036194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kill_this_hate 我去你手好巧啊！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048263680882847744"
+          ]
+        },
+        "author_id": "1750040441880498176",
+        "conversation_id": "2048263685484036194",
+        "created_at": "2026-04-26T04:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048263685484036194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wov1M45gAj",
+              "end": 27,
+              "expanded_url": "https://x.com/kill_this_hate/status/2048263685484036194/photo/1",
+              "media_key": "3_2048263680882847744",
+              "start": 4,
+              "url": "https://t.co/wov1M45gAj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048263685484036194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "累晕? https://t.co/wov1M45gAj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/5Lgdtm2",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/5Lgdtm2",
+                "start": 0,
+                "url": "https://t.co/F503DrTT0k"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047592059872387072/fc9q0a9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 73,
+          "like_count": 3900,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 1876
+        },
+        "url": "https://t.co/F503DrTT0k",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T06:19:04.000Z",
+        "description": "请让我的心慢慢死去",
+        "id": "1750040441880498176",
+        "name": "雀 （接占卜命理",
+        "pinned_tweet_id": "2046934304698368335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022546607917666307/T2i9VP-J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 117,
+          "like_count": 22614,
+          "listed_count": 2,
+          "media_count": 943,
+          "tweet_count": 9945
+        },
+        "username": "kill_this_hate",
+        "verified": false
+      }
+    ]
+  }
+}

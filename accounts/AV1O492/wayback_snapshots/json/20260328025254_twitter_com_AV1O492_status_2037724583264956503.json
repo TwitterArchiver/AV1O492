@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2037724583264956503",
+    "created_at": "2026-03-28T02:52:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T03:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037724583264956503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876347716756025344",
+          "start": 3,
+          "username": "meikadeer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037724583264956503",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037722653256220919",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meikadeer: 你们就不想把吉米页的吉他插吉米页屁股里吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2037724583264956503",
+        "created_at": "2026-03-28T02:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T03:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037724583264956503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876347716756025344",
+              "start": 3,
+              "username": "meikadeer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037724583264956503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037722653256220919",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meikadeer: 你们就不想把吉米页的吉他插吉米页屁股里吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876347716756025344",
+        "conversation_id": "2037722653256220919",
+        "created_at": "2026-03-28T02:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T03:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037722653256220919"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037722653256220919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们就不想把吉米页的吉他插吉米页屁股里吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别把我认成女的 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037442931037032448/I19VSiwU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 71,
+          "like_count": 3285,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 1524
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-06T19:19:08.000Z",
+        "description": "这不是艺术，这是表演性昏迷\n🚪82 52",
+        "id": "1876347716756025344",
+        "location": "Los Angeles, CA",
+        "name": "8+2+8 II",
+        "pinned_tweet_id": "2034895256077180945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024804262396719105/sRLW6ldN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 117,
+          "like_count": 627,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 458
+        },
+        "username": "meikadeer",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2076203663232524733",
+    "created_at": "2026-07-15T08:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T09:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077311604384043064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1782439642215694336",
+          "start": 0,
+          "username": "PainKille772"
+        },
+        {
+          "end": 29,
+          "id": "1247457115414945793",
+          "start": 14,
+          "username": "theskyisblue42"
+        },
+        {
+          "end": 38,
+          "id": "1894353617945059328",
+          "start": 30,
+          "username": "SDGVA23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077311604384043064",
+    "in_reply_to_user_id": "1782439642215694336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076317578994049281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PainKille772 @theskyisblue42 @SDGVA23 如果你认为你可以自由地发表任何言论，那么任何人也都有权利自由地艺术创作并发布，so just relax dude🥶她只是在画自己想画的东西，尊重点别人的创作自由吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2076203663232524733",
+        "created_at": "2026-07-15T08:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077311604384043064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782439642215694336",
+              "start": 0,
+              "username": "PainKille772"
+            },
+            {
+              "end": 29,
+              "id": "1247457115414945793",
+              "start": 14,
+              "username": "theskyisblue42"
+            },
+            {
+              "end": 38,
+              "id": "1894353617945059328",
+              "start": 30,
+              "username": "SDGVA23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077311604384043064",
+        "in_reply_to_user_id": "1782439642215694336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076317578994049281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PainKille772 @theskyisblue42 @SDGVA23 如果你认为你可以自由地发表任何言论，那么任何人也都有权利自由地艺术创作并发布，so just relax dude🥶她只是在画自己想画的东西，尊重点别人的创作自由吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782439642215694336",
+        "conversation_id": "2076203663232524733",
+        "created_at": "2026-07-12T14:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076317578994049281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1247457115414945793",
+              "start": 0,
+              "username": "theskyisblue42"
+            },
+            {
+              "end": 24,
+              "id": "1894353617945059328",
+              "start": 16,
+              "username": "SDGVA23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076317578994049281",
+        "in_reply_to_user_id": "1247457115414945793",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076275808000233597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theskyisblue42 @SDGVA23 I'm free to tell my opinion"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 86,
+          "like_count": 5512,
+          "listed_count": 2,
+          "media_count": 337,
+          "tweet_count": 2784
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T16:01:49.000Z",
+        "description": "FG player, enjoying simple things and injustice hater 🇹🇭🇫🇷\nBison/Chun-Li/Kazuya/Armor King/Hayabusa/Wolf/Terry main -\nBisexual",
+        "id": "1782439642215694336",
+        "location": "Thailand",
+        "name": "Pain Killer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782439722897289217/fx-TgHpb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 92,
+          "like_count": 2701,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 743
+        },
+        "url": "",
+        "username": "PainKille772",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-07T09:32:50.000Z",
+        "description": "Random stuff I like | 22 | 🏳️‍⚧️ | he/they",
+        "id": "1247457115414945793",
+        "location": "Ukraine",
+        "name": "Stereosink 🪐",
+        "pinned_tweet_id": "1900702574199595220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1350054518873088003/yiJ1EuF5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 50,
+          "like_count": 15320,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 184
+        },
+        "url": "",
+        "username": "theskyisblue42",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T11:48:16.000Z",
+        "description": "🕹️Advocate of Vergil/Dragunov/M.Bison for 20+ years| I wrote a crossover (DMC x Tekken x SF)|My words cut like Yamato.Vergil x OC since 2005 (not a selfship)🚫AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/dragunova.rt",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/dragunova.rt",
+                "start": 0,
+                "url": "https://t.co/fKBLp8L6HC"
+              }
+            ]
+          }
+        },
+        "id": "1894353617945059328",
+        "location": "Siberia, Shadaloo & DMC Agency",
+        "name": "DragunovArt 🫡 S.Dragunov player since 2006",
+        "pinned_tweet_id": "2055968278384619739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070026530260922368/KRBxlXyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 760,
+          "like_count": 82082,
+          "listed_count": 3,
+          "media_count": 3430,
+          "tweet_count": 16151
+        },
+        "url": "https://t.co/fKBLp8L6HC",
+        "username": "SDGVA23",
+        "verified": true
+      }
+    ]
+  }
+}

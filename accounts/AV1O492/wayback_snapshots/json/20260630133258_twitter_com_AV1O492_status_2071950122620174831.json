@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2071949395097243822",
+    "created_at": "2026-06-30T13:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T14:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071950122620174831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1693576340057047040",
+          "start": 0,
+          "username": "zmzmzmzm1234567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071950122620174831",
+    "in_reply_to_user_id": "1693576340057047040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071949902247247941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zmzmzmzm1234567 坐等一个魔丸降世"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2071949395097243822",
+        "created_at": "2026-06-30T13:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071950122620174831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1693576340057047040",
+              "start": 0,
+              "username": "zmzmzmzm1234567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071950122620174831",
+        "in_reply_to_user_id": "1693576340057047040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071949902247247941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zmzmzmzm1234567 坐等一个魔丸降世"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693576340057047040",
+        "conversation_id": "2071949395097243822",
+        "created_at": "2026-06-30T13:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071949902247247941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071949902247247941",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071949769996750926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 胎死腹中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll｜别找我要东西和渠道",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 76,
+          "like_count": 4518,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 2322
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T10:50:47.000Z",
+        "description": "请节哀。请节哀",
+        "id": "1693576340057047040",
+        "location": "丑人投胎点",
+        "name": "https://",
+        "pinned_tweet_id": "1796176591539630378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855114035282497536/fnP0WL3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479,
+          "following_count": 580,
+          "like_count": 20673,
+          "listed_count": 2,
+          "media_count": 1060,
+          "tweet_count": 13780
+        },
+        "url": "",
+        "username": "zmzmzmzm1234567",
+        "verified": false
+      }
+    ]
+  }
+}

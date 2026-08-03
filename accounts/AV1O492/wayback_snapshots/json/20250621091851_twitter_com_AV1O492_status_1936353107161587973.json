@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "1936353107161587973",
+    "created_at": "2025-06-21T09:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T10:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936353107161587973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1915081922423730176",
+          "start": 3,
+          "username": "WendolynZo75783"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936353107161587973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936353058927325318",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WendolynZo75783: 我真受不了，画画就是找罪受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "1936353107161587973",
+        "created_at": "2025-06-21T09:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T10:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936353107161587973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1915081922423730176",
+              "start": 3,
+              "username": "WendolynZo75783"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936353107161587973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936353058927325318",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WendolynZo75783: 我真受不了，画画就是找罪受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915081922423730176",
+        "conversation_id": "1936353058927325318",
+        "created_at": "2025-06-21T09:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T10:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936353058927325318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936353058927325318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我真受不了，画画就是找罪受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "恐怖暗黑血仆少羽奶龙国潮来袭神秘功夫需要加强哈基米哈基米哈基米胖宝宝乖狗狗屠孝子TV之提琴大人我来给您踩踩背啦点击输入文本金翼先知白兑换码我的天哪镜大人屠夫版本人类需要加强全网最尊重美国人英国人加拿大人墨西哥人阿根廷人中国人挪威人瑞典人德国人俄罗斯人日本人波兰人意大利人活死人女巫真神棍假神婆及狼人鳄鱼人吸血鬼的推特账户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "苦痛之屋 he/them\r\ncn狂蛆/旗队长",
+        "name": "𝖍𝖊𝖆𝖑 𝖒𝖞 𝖕𝖘𝖞𝖈𝖍𝖔 𝖑𝖔𝖛𝖊☠✯粪海狂蛆✯",
+        "pinned_tweet_id": "1932310860283674700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932284293818249216/2HC70Y2I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 34,
+          "like_count": 1755,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 914
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T16:34:54.000Z",
+        "description": "he/them",
+        "id": "1915081922423730176",
+        "location": "𝕳𝖊𝖆𝖗𝖙-𝕾𝖍𝖆𝖕𝖊𝖉 𝕭𝖔𝖝",
+        "name": "Erosive chyme",
+        "pinned_tweet_id": "1933125369756090671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934625472316653568/JTWLc8j9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 91,
+          "like_count": 2905,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 1155
+        },
+        "username": "WendolynZo75783",
+        "verified": false
+      }
+    ]
+  }
+}

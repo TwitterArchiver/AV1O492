@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2077345889212076221",
+    "created_at": "2026-07-16T16:26:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T17:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077792022849867828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1590939682568736769",
+          "start": 0,
+          "username": "ColesPerson"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077792022849867828",
+    "in_reply_to_user_id": "1590939682568736769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077345889212076221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ColesPerson 躺平TV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2077345889212076221",
+        "created_at": "2026-07-16T16:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077792022849867828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1590939682568736769",
+              "start": 0,
+              "username": "ColesPerson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077792022849867828",
+        "in_reply_to_user_id": "1590939682568736769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077345889212076221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ColesPerson 躺平TV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590939682568736769",
+        "conversation_id": "2077345889212076221",
+        "created_at": "2026-07-15T10:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077345889212076221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077345889212076221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1936,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "冷静下来想想看汉命贵会怎么做，于是转身向足浴店走去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 89,
+          "like_count": 5663,
+          "listed_count": 2,
+          "media_count": 342,
+          "tweet_count": 2852
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T05:29:24.000Z",
+        "description": "🚪8964，用来给南方大山里的孩子买姨妈巾/姨父巾用",
+        "id": "1590939682568736769",
+        "location": "Manhattan, NY",
+        "name": "汉命贵0975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983668137922064384/aKdXx6yC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2354,
+          "following_count": 1405,
+          "like_count": 30193,
+          "listed_count": 6,
+          "media_count": 927,
+          "tweet_count": 10703
+        },
+        "url": "",
+        "username": "ColesPerson",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2046913635612790907",
+    "created_at": "2026-04-23T16:21:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T17:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047350264840257974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1429055428374130693",
+          "start": 0,
+          "username": "Gamer94469"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047350264840257974",
+    "in_reply_to_user_id": "1429055428374130693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046913635612790907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gamer94469 视频同款一夜暴富打火机在哪捡？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15136,
+        "height": 1280,
+        "media_key": "13_2046913546467078144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046913546467078144/img/qpA_RQ7anANyQ_9q.jpg",
+        "public_metrics": {
+          "view_count": 683
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046913546467078144/vid/avc1/320x568/8J1xEkk2zNCrdiTe.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046913546467078144/vid/avc1/480x852/78Bgl1hBC2RsZZOe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046913546467078144/vid/avc1/720x1280/Jzz10rj2VD2CfwZ7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046913546467078144/pl/1SNJThiTN6yUhPuA.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2046913635612790907",
+        "created_at": "2026-04-23T16:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047350264840257974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1429055428374130693",
+              "start": 0,
+              "username": "Gamer94469"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047350264840257974",
+        "in_reply_to_user_id": "1429055428374130693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046913635612790907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gamer94469 视频同款一夜暴富打火机在哪捡？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046913546467078144"
+          ]
+        },
+        "author_id": "1429055428374130693",
+        "conversation_id": "2046913635612790907",
+        "created_at": "2026-04-22T11:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046913635612790907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pjW7rbJpvH",
+              "end": 28,
+              "expanded_url": "https://x.com/Gamer94469/status/2046913635612790907/video/1",
+              "media_key": "13_2046913546467078144",
+              "start": 5,
+              "url": "https://t.co/pjW7rbJpvH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046913635612790907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1524,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "来新人了 https://t.co/pjW7rbJpvH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047320949570277376/ns1syjsj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 69,
+          "like_count": 3683,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 1722
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-21T12:19:04.000Z",
+        "description": "即刻绞杀即刻刎颈",
+        "id": "1429055428374130693",
+        "name": "圣洁斯坦剋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047035279278768128/ayPi8XXF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 252,
+          "like_count": 20911,
+          "listed_count": 1,
+          "media_count": 642,
+          "tweet_count": 5418
+        },
+        "username": "Gamer94469",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2078932478199476629",
+    "created_at": "2026-07-20T06:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T07:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079092714889744444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1937326809785466881",
+          "start": 0,
+          "username": "diegoBurgo26975"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079092714889744444",
+    "in_reply_to_user_id": "1937326809785466881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079016724297592866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@diegoBurgo26975 谈过了，没有用，我也试过自救，完全没有用，我从小就习惯了身上的伤疤，我没有把她们抹掉的理由，我记事起，我的整条腿到后腰上都有更明显的烧伤植皮疤痕，所以这些对我来说其实没什么，不管你是在judge我还是在关心我，谢谢你的关心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2078932478199476629",
+        "created_at": "2026-07-20T06:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079092714889744444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1937326809785466881",
+              "start": 0,
+              "username": "diegoBurgo26975"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079092714889744444",
+        "in_reply_to_user_id": "1937326809785466881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079016724297592866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@diegoBurgo26975 谈过了，没有用，我也试过自救，完全没有用，我从小就习惯了身上的伤疤，我没有把她们抹掉的理由，我记事起，我的整条腿到后腰上都有更明显的烧伤植皮疤痕，所以这些对我来说其实没什么，不管你是在judge我还是在关心我，谢谢你的关心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937326809785466881",
+        "conversation_id": "2078932478199476629",
+        "created_at": "2026-07-20T01:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T02:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079016724297592866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079016724297592866",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 542,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078932478199476629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 Que necesidad hay de destrozarte el brazo así? Si tenés problemas es mejor hablar con alguien no lastimarte porque cortandote el brazo no ganas nada, cuando te des cuenta de lo que hiciste ahí te vas a arrepentir de todo y vas a querer borrar las cicatrices"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2078916554520228324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 89,
+          "like_count": 5946,
+          "listed_count": 2,
+          "media_count": 359,
+          "tweet_count": 2986
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T01:48:23.000Z",
+        "description": "",
+        "id": "1937326809785466881",
+        "name": "🤣🤣🤣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077823921273921536/E1gvkjFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 1002,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "diegoBurgo26975",
+        "verified": false
+      }
+    ]
+  }
+}

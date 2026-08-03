@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032376250636156928"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2032376261646172238",
+    "created_at": "2026-03-13T08:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T09:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032376261646172238"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VNlyWmMNlS",
+          "end": 31,
+          "expanded_url": "https://x.com/AV1O492/status/2032376261646172238/photo/1",
+          "media_key": "3_2032376250636156928",
+          "start": 8,
+          "url": "https://t.co/VNlyWmMNlS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032376261646172238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我他妈受不了了 https://t.co/VNlyWmMNlS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032376250636156928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDRzbpUbwAAdDMz.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032376250636156928"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2032376261646172238",
+        "created_at": "2026-03-13T08:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T09:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032376261646172238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VNlyWmMNlS",
+              "end": 31,
+              "expanded_url": "https://x.com/AV1O492/status/2032376261646172238/photo/1",
+              "media_key": "3_2032376250636156928",
+              "start": 8,
+              "url": "https://t.co/VNlyWmMNlS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032376261646172238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈受不了了 https://t.co/VNlyWmMNlS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "恐怖暗黑血仆少羽奶龙国潮来袭神秘功夫需要加强哈基米哈基米哈基米胖宝宝乖狗狗屠孝子TV之提琴大人我来给您踩踩背啦点击输入文本金翼先知白兑换码我的天哪镜大人屠夫版本人类需要加强全网最尊重美国人英国人加拿大人墨西哥人阿根廷人中国人挪威人瑞典人德国人俄罗斯人日本人波兰人意大利人活死人女巫真神棍假神婆及狼人鳄鱼人吸血鬼的推特账户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "苦痛之屋 he/them\r\ncn狂蛆/旗队长",
+        "name": "清朝最后一个嬉皮士☠✯粪海狂蛆✯",
+        "pinned_tweet_id": "1932310860283674700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932284293818249216/2HC70Y2I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 32,
+          "like_count": 1745,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 954
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

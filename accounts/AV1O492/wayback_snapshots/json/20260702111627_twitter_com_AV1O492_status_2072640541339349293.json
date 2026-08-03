@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072627065694625792"
+      ],
+      "media_source_tweet_id": [
+        "2072627068001554726"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Breaking News",
+          "id": "1047084549396549632",
+          "name": "Ongoing news stories"
+        }
+      }
+    ],
+    "conversation_id": "2072640541339349293",
+    "created_at": "2026-07-02T11:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072640541339349293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894353617945059328",
+          "start": 3,
+          "username": "SDGVA23"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kcbRdaKpUD",
+          "end": 67,
+          "expanded_url": "https://x.com/SDGVA23/status/2072627068001554726/photo/1",
+          "media_key": "3_2072627065694625792",
+          "start": 44,
+          "url": "https://t.co/kcbRdaKpUD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072640541339349293",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072627068001554726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SDGVA23: Dante's reaction to this news. https://t.co/kcbRdaKpUD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 429,
+        "media_key": "3_2072627065694625792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNzVcKWoAA5jK3.jpg",
+        "width": 740
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072627065694625792"
+          ],
+          "media_source_tweet_id": [
+            "2072627068001554726"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Breaking News",
+              "id": "1047084549396549632",
+              "name": "Ongoing news stories"
+            }
+          }
+        ],
+        "conversation_id": "2072640541339349293",
+        "created_at": "2026-07-02T11:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072640541339349293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894353617945059328",
+              "start": 3,
+              "username": "SDGVA23"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kcbRdaKpUD",
+              "end": 67,
+              "expanded_url": "https://x.com/SDGVA23/status/2072627068001554726/photo/1",
+              "media_key": "3_2072627065694625792",
+              "start": 44,
+              "url": "https://t.co/kcbRdaKpUD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072640541339349293",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072627068001554726",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SDGVA23: Dante's reaction to this news. https://t.co/kcbRdaKpUD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072627065694625792"
+          ]
+        },
+        "author_id": "1894353617945059328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Breaking News",
+              "id": "1047084549396549632",
+              "name": "Ongoing news stories"
+            }
+          }
+        ],
+        "conversation_id": "2072627068001554726",
+        "created_at": "2026-07-02T10:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072627068001554726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kcbRdaKpUD",
+              "end": 54,
+              "expanded_url": "https://x.com/SDGVA23/status/2072627068001554726/photo/1",
+              "media_key": "3_2072627065694625792",
+              "start": 31,
+              "url": "https://t.co/kcbRdaKpUD"
+            },
+            {
+              "display_url": "x.com/Dominos_UK/sta…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/Dominos_UK/status/2072602429959340517",
+              "start": 55,
+              "url": "https://t.co/0jiEu1dz3R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072627068001554726",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072602429959340517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Dante's reaction to this news. https://t.co/kcbRdaKpUD https://t.co/0jiEu1dz3R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 78,
+          "like_count": 4712,
+          "listed_count": 1,
+          "media_count": 292,
+          "tweet_count": 2415
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T11:48:16.000Z",
+        "description": "🕹️ Advocate of Vergil/Dragunov/M.Bison for 20+ years| I wrote a crossover (DMC x Tekken x SF)|My words cut like Yamato. Vergil x OC since 2005 (not a selfship)",
+        "id": "1894353617945059328",
+        "location": "Siberia, Shadaloo & DMC Agency",
+        "name": "DragunovArt 🫡 S.Dragunov player since 2006",
+        "pinned_tweet_id": "2055968278384619739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070026530260922368/KRBxlXyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 740,
+          "like_count": 80419,
+          "listed_count": 3,
+          "media_count": 3353,
+          "tweet_count": 15721
+        },
+        "url": "",
+        "username": "SDGVA23",
+        "verified": true
+      }
+    ]
+  }
+}

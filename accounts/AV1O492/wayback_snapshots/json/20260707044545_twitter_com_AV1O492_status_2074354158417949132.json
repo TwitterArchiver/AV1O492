@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2074065048633520583",
+    "created_at": "2026-07-07T04:45:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T05:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074354158417949132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1805961850971992064",
+          "start": 0,
+          "username": "_taromeme_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074354158417949132",
+    "in_reply_to_user_id": "1805961850971992064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074150110225969210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_taromeme_ 谢谢❤️（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2074065048633520583",
+        "created_at": "2026-07-07T04:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074354158417949132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1805961850971992064",
+              "start": 0,
+              "username": "_taromeme_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074354158417949132",
+        "in_reply_to_user_id": "1805961850971992064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074150110225969210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_taromeme_ 谢谢❤️（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805961850971992064",
+        "conversation_id": "2074065048633520583",
+        "created_at": "2026-07-06T15:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074150110225969210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074150110225969210",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074065048633520583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 卧槽好畜的叫声太强了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 86,
+          "like_count": 5205,
+          "listed_count": 2,
+          "media_count": 325,
+          "tweet_count": 2660
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-26T13:50:45.000Z",
+        "description": "名字的发音是タロミム，中/日/ EN/한，CHUNITHM，18 ↑ ，時々rkgk，フォローありがとう！！🏳️‍⚧️ 🏳️‍🌈 ☮️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/7imzxdsnl…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/7imzxdsnlrpva16j/",
+                "start": 0,
+                "url": "https://t.co/39ZvkkSpXO"
+              }
+            ]
+          }
+        },
+        "id": "1805961850971992064",
+        "name": "taromeme",
+        "pinned_tweet_id": "2042962763593715837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020574135781625856/MvatFbDu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 889,
+          "like_count": 17227,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 2937
+        },
+        "url": "https://t.co/39ZvkkSpXO",
+        "username": "_taromeme_",
+        "verified": false
+      }
+    ]
+  }
+}

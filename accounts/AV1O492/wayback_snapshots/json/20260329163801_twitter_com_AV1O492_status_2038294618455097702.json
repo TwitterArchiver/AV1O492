@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2038277604608979349",
+    "created_at": "2026-03-29T16:38:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T17:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038294618455097702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1800101206184144896",
+          "start": 0,
+          "username": "XIAOYUAN_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038294618455097702",
+    "in_reply_to_user_id": "1800101206184144896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038281764217790741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XIAOYUAN_qwq 亚米亚米"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2038277604608979349",
+        "created_at": "2026-03-29T16:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T17:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038294618455097702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1800101206184144896",
+              "start": 0,
+              "username": "XIAOYUAN_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038294618455097702",
+        "in_reply_to_user_id": "1800101206184144896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038281764217790741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOYUAN_qwq 亚米亚米"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800101206184144896",
+        "conversation_id": "2038277604608979349",
+        "created_at": "2026-03-29T15:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038281764217790741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038281764217790741",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038277604608979349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 长出来一个大面包"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别把我认成女的 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLltZmR"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037442931037032448/I19VSiwU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 71,
+          "like_count": 3406,
+          "listed_count": 2,
+          "media_count": 154,
+          "tweet_count": 1570
+        },
+        "url": "https://t.co/S24FLltZmR",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T09:42:35.000Z",
+        "description": "🚪52好友位｜08｜磕药壁｜血图｜支持喜欢我就给我钱吧！\n我不得劲 我就发推我就磕药，无理由。想交朋友...",
+        "id": "1800101206184144896",
+        "location": "极乐净土",
+        "name": "小怜",
+        "pinned_tweet_id": "1995395289302389023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026330784731369472/cGHVsnEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 124,
+          "like_count": 692,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 485
+        },
+        "username": "XIAOYUAN_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

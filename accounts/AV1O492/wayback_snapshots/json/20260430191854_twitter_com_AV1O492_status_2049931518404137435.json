@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1917890381104271361",
+    "conversation_id": "2049169618271433138",
+    "created_at": "2026-04-30T19:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T20:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049931518404137435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "958306825237020672",
+          "start": 0,
+          "username": "Aravin29604927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049931518404137435",
+    "in_reply_to_user_id": "958306825237020672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049374041052794998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aravin29604927 这只海臭虫才是我的真身"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2049169618271433138",
+        "created_at": "2026-04-30T19:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T20:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049931518404137435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "958306825237020672",
+              "start": 0,
+              "username": "Aravin29604927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049931518404137435",
+        "in_reply_to_user_id": "958306825237020672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049374041052794998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aravin29604927 这只海臭虫才是我的真身"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "958306825237020672",
+        "conversation_id": "2049169618271433138",
+        "created_at": "2026-04-29T06:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049374041052794998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049374041052794998",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049169618271433138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 好大一只海臭虫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047592059872387072/fc9q0a9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 75,
+          "like_count": 3995,
+          "listed_count": 3,
+          "media_count": 230,
+          "tweet_count": 1959
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-30T11:52:06.000Z",
+        "description": "请慎重fo我，以免造成不良的观感",
+        "id": "958306825237020672",
+        "name": "cx2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048099345715888128/dX-1OPHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 94,
+          "like_count": 3242,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 4078
+        },
+        "username": "Aravin29604927",
+        "verified": false
+      }
+    ]
+  }
+}

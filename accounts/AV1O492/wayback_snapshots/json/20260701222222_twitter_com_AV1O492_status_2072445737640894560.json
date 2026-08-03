@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072225970602536960"
+      ],
+      "media_source_tweet_id": [
+        "2072226077125366074"
+      ]
+    },
+    "author_id": "1917890381104271361",
+    "conversation_id": "2072445737640894560",
+    "created_at": "2026-07-01T22:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T23:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072445737640894560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "991667205321338880",
+          "start": 3,
+          "username": "riio_alter"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sX93eDmX6L",
+          "end": 41,
+          "expanded_url": "https://x.com/riio_alter/status/2072226077125366074/photo/1",
+          "media_key": "3_2072225970602536960",
+          "start": 18,
+          "url": "https://t.co/sX93eDmX6L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072445737640894560",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072226077125366074",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @riio_alter: ！ https://t.co/sX93eDmX6L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072225970602536960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIGiogacAA4Jq3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072225970602536960"
+          ],
+          "media_source_tweet_id": [
+            "2072226077125366074"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2072445737640894560",
+        "created_at": "2026-07-01T22:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T23:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072445737640894560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "991667205321338880",
+              "start": 3,
+              "username": "riio_alter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sX93eDmX6L",
+              "end": 41,
+              "expanded_url": "https://x.com/riio_alter/status/2072226077125366074/photo/1",
+              "media_key": "3_2072225970602536960",
+              "start": 18,
+              "url": "https://t.co/sX93eDmX6L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072445737640894560",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072226077125366074",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @riio_alter: ！ https://t.co/sX93eDmX6L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072225970602536960"
+          ]
+        },
+        "author_id": "991667205321338880",
+        "conversation_id": "2072226077125366074",
+        "created_at": "2026-07-01T07:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072226077125366074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sX93eDmX6L",
+              "end": 25,
+              "expanded_url": "https://x.com/riio_alter/status/2072226077125366074/photo/1",
+              "media_key": "3_2072225970602536960",
+              "start": 2,
+              "url": "https://t.co/sX93eDmX6L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072226077125366074",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 5535,
+          "like_count": 742,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "！ https://t.co/sX93eDmX6L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 78,
+          "like_count": 4679,
+          "listed_count": 1,
+          "media_count": 290,
+          "tweet_count": 2403
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-02T13:14:20.000Z",
+        "description": "ただの緩衝材。\n家に飼い猫のエマ(5/シャム)と叢雲(3/雑)がいる\n20+\n一次創作:@riio19941210\n驚異の過程垢:@nashinohana2\nブルスカは絵の記録用。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "riio19941210"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "nashinohana2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=15188100",
+                "start": 0,
+                "url": "https://t.co/aU8kAOlPJ6"
+              }
+            ]
+          }
+        },
+        "id": "991667205321338880",
+        "location": "道徳の絶対零度",
+        "name": "なしのはな",
+        "pinned_tweet_id": "2029400110816530677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712707796373037056/PduW3kvT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12073,
+          "following_count": 141,
+          "like_count": 7035,
+          "listed_count": 81,
+          "media_count": 3912,
+          "tweet_count": 39292
+        },
+        "url": "https://t.co/aU8kAOlPJ6",
+        "username": "riio_alter",
+        "verified": false
+      }
+    ]
+  }
+}
